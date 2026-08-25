@@ -1,0 +1,26 @@
+name: Atualizar Radar Climático
+
+on:
+  schedule:
+    - cron: '0 9,15,21 * * *'   # 06h, 12h e 18h (horário de Brasília, UTC-3)
+  workflow_dispatch: {}          # permite rodar manualmente pelo GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Buscar notícias e índice de chuva
+        run: python3 scripts/atualizar_radar.py
+
+      - name: Publicar radar.json atualizado
+        run: |
+          git config user.name "radar-climatico-bot"
+          git config user.email "actions@github.com"
+          git add radar.json
+          git diff --staged --quiet || git commit -m "Atualiza radar climático"
+          git push
