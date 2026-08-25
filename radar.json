@@ -1,26 +1,26 @@
 {
-  "atualizado_em": "2026-08-24T18:30:00+00:00",
+  "atualizado_em": "2026-08-25T20:56:25.442235+00:00",
   "noticias": [
     {
-      "titulo": "El Niño em 2026: INMET projeta probabilidade superior a 80% até o fim do ano",
-      "resumo": "Instituto Nacional de Meteorologia acompanha modelos internacionais sobre a confirmação do fenômeno no segundo semestre de 2026.",
-      "fonte": "INMET",
+      "titulo": "RN reforça preparação para impactos do El Niño e risco de seca severa",
+      "resumo": "RN reforça preparação para impactos do El Niño e risco de seca severa&nbsp;&nbsp;BNews RN",
+      "fonte": "BNEWS RN",
       "rotuloData": "HOJE",
-      "link": "https://portal.inmet.gov.br/noticias/el-ni%C3%B1o-em-2026"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcXNDcUZ1SktyemJVU0dXRVljME9HWHNHdTdzOTZOU0FjbmF6MjVVQ0F1MnV3Vlh2TWs1OE5hRW5mc1dHenA1WmZCaFVMMnc1VnMwQ19QcG9jdXByeDVnTjBZeVN2ZFF2bVpHTUQtTWI1SVpIQlhXbm9jTVExaWdJa3dxdlJDWFZQOTVfeWw4X1lTZVNOM2d3cHBJQlJsTmxILVZmdUd0VVo5MjYyZzBHRl9nQmFNYnpfcnfSAb8BQVVfeXFMUEY5QTBzeU5fNjY4aXFYaEFweXBWcDFkd0s0ZnBmd3JZXzNJRXJybjNXT3NYNm1JS3ZiQ3E3WW9FR3RuRV94amVZUmhHTzhoeXJpVlZkSFRXSl8wcmJBVnJuc3BlUHk1NmN6UHAtS3NkbzVjc1pUVEVOMFdKSnRSNXlQLXQwYmRXWkJSQnZnU1hrY1lLUmNQZUFHWHcyQkZRV1R0UXBYZ0lOSkpvQ0Jlc3lzYkE4di1EQW01T2hIRG8?oc=5"
     },
     {
-      "titulo": "Temperatura do mar no litoral peruano chega a 7°C acima do normal em meio ao avanço do El Niño",
-      "resumo": "Monitoramento oceanográfico segue como prioridade para antecipar impactos costeiros conforme o fenômeno evolui.",
-      "fonte": "INFOBAE",
+      "titulo": "Bahia articula plano contra El Niño 2026/2027 com União e municípios e prepara ações para seca e incêndios",
+      "resumo": "Bahia articula plano contra El Niño 2026/2027 com União e municípios e prepara ações para seca e incêndios&nbsp;&nbsp;Jornal Grande Bahia",
+      "fonte": "JORNAL GRANDE BAHIA",
       "rotuloData": "HOJE",
-      "link": "https://www.infobae.com/peru/2026/08/24/fenomeno-el-nino-en-vivo-ultimas-noticias-alertas-climaticas-y-trabajos-de-prevencion-en-peru/"
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNzNQS0J1TUVsXzBJUllqbS1qeFlZQ0hmaDNaUmxCUDZWMmIyWk5ma24ta2hpSElpbTNTMHpuMk9ZeGxGV0RGTjBfUVFNYkhpVzJheXBUVkFSZTRhNmVkcktyOWZzMkQ2eEx1bFppUXIwSEZNaWs5dV9wWDctWDB3YkdadnZla3F1VjNTbHNxUm1KVEliNGEwVHQ0MlgtOHJ1alNqTUlsSlBaM1RUYkNXSlM1dzhNRFA3UklpdlRxTTZ1MHgzbUdUQ3VrNzcweXNDRl9pbk1HYkY0THQxVjhNdDNB?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "SORRISO",
-    "uf": "MT",
-    "valor": 0,
+    "cidade": "CASCAVEL",
+    "uf": "PR",
+    "valor": 92,
     "seta": "↓",
-    "status": "ALERTA SECA"
+    "status": "ALERTA CHUVA"
   }
 }
