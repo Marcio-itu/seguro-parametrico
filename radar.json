@@ -1,0 +1,26 @@
+{
+  "atualizado_em": "2026-08-24T18:30:00+00:00",
+  "noticias": [
+    {
+      "titulo": "El Niño se fortalece: NOAA aponta mais de 90% de chance de evento muito forte no verão do Hemisfério Norte",
+      "resumo": "Boletim do Climate Prediction Center (NOAA/NCEP) confirma anomalia positiva de temperatura no Pacífico equatorial, com El Niño em curso.",
+      "fonte": "NOAA / CPC",
+      "rotuloData": "HOJE",
+      "link": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/lanina/enso_evolution-status-fcsts-web.pdf"
+    },
+    {
+      "titulo": "Temperatura do mar no litoral peruano chega a 7°C acima do normal em meio ao avanço do El Niño",
+      "resumo": "Monitoramento oceanográfico segue como prioridade para antecipar impactos costeiros conforme o fenômeno evolui.",
+      "fonte": "INFOBAE",
+      "rotuloData": "HOJE",
+      "link": "https://www.infobae.com/peru/2026/08/24/fenomeno-el-nino-en-vivo-ultimas-noticias-alertas-climaticas-y-trabajos-de-prevencion-en-peru/"
+    }
+  ],
+  "chuva": {
+    "cidade": "SORRISO",
+    "uf": "MT",
+    "valor": 0,
+    "seta": "↓",
+    "status": "ALERTA SECA"
+  }
+}
