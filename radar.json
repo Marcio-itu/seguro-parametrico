@@ -1,26 +1,26 @@
 {
-  "atualizado_em": "2026-08-26T09:29:25.838686+00:00",
+  "atualizado_em": "2026-08-26T16:08:20.518220+00:00",
   "noticias": [
     {
-      "titulo": "El Niño: Panamá declara emergência para enfrentar seca e tempestades",
-      "resumo": "El Niño: Panamá declara emergência para enfrentar seca e tempestades&nbsp;&nbsp;CartaCapital",
-      "fonte": "CARTACAPITAL",
+      "titulo": "Panamá e El Salvador declaram estado de emergência devido ao intenso fenômeno El Niño",
+      "resumo": "Panamá e El Salvador declaram estado de emergência devido ao intenso fenômeno El Niño&nbsp;&nbsp;Folha PE",
+      "fonte": "FOLHA PE",
       "rotuloData": "HOJE",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQnlmcldaNngxbmJKQ1c2Rk9SdWR1SFd1bGd3YzFzSks5YjhqZGUyZ3hOWnlMQmZOQ3ZuOXA3cTVJcmlDWWN3d01zMnRXMVJYVE1rd2gxWHd6RnFWaUlsdXZaTUJDa21VM0RtRjBkTGh5SHN3dVZ2a0trTXpQSlBtQXZkb2lpQmU3N2xIcnp3SUljcmtOWlgzMHpjRVhaTk0?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOemhJUldPd2xKMTVHTXJGdmVvRjkwQnBWeWFGWGlWNkpxcUVFRDBUZHZ6WjhvamZKREcxUEJXMEcyZEU4OXBEVElXNVhlR2VyU004MVBaT3lBenBXdlZTX1JuQU93SW1zZjhqWF8zQVhucWdOLXQ3MlBKVGh2SEp1MzVhd3JVV2R3aGpId3Axa1h4LWtmLWFGLVZwdzhlZlhPU3RXZmx0S2xSYXBaRUxyV3p30gG2AUFVX3lxTFBkZ25fZjBYX1g0QmtZOHUzbE1qZXNBb0l5MXFXc01pMFJOd3FqeEF2Nk1pWVdkMzBxU2FwWFdJblNDUEtNZmJtVmxYbThOTHBkSmszYnZGQ3hsTmlpS3RCcTh3N0pSdWhJcl9iRWpuQXU3MThidmtzdUdoRENaQm5qQkxMSml2d1lobXc4ZEdwNFQ2SmQ2ektSZ3VOcUhwVHFjOHBtNjFweV93SUd1cHpJdU5hZjJR?oc=5"
     },
     {
-      "titulo": "El Niño é principal risco para a oferta mundial de açúcar",
-      "resumo": "El Niño é principal risco para a oferta mundial de açúcar&nbsp;&nbsp;CNN Brasil",
-      "fonte": "CNN BRASIL",
+      "titulo": "Com reservatórios acima de 50%, Ceará se prepara para El Niño na agropecuária",
+      "resumo": "Com reservatórios acima de 50%, Ceará se prepara para El Niño na agropecuária&nbsp;&nbsp;Movimento Econômico",
+      "fonte": "MOVIMENTO ECONÔMICO",
       "rotuloData": "HOJE",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQelBIWUFnMTd1c1lvS1JKNnB5QmlPQm1zNHdNNW1LTEN0SW5uajJXakxrdHJlUVR1WFp0VE1VUFQ3REI5ZXNBOElSYkxKT3M0R3FlM2ZvS2l5dGhJbTVHT1NQdlVZeXN4Nll0ZGFfNDZOYVRlWkFlMGtMM1VUb0JWOExOZ205UXpqaGo3QXFwTEV2QVphVHdzUWdhZGNILVZvLVV0ZHNlWWprS2d6cFNJME5fRQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcS10U2NWNXVTeVR4Z09VOWhYTEJKSmtnaXN2dlJTdEtjczFSZVdDTHJIRUZmZ2hHeEtkUk9sdGtEVUFZcFdBTzJSa3hSa01UOUdtRWR0M1poeGt6VU9LbWdpb3lmTlA0LWpXa1hWTDY4bFFPZzY4QUZPRTg3dmo4QWR3YVFVYW1Wa01HanBXVWhCSnNHeGRvaWx5b1IxVG1nTzZxYVFsTVpNaEVGNVdoWGtXZ25ldVFJMFF2UThOQ1YwMEFIemhWaVdIR21GQQ?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "UBERLÂNDIA",
-    "uf": "MG",
-    "valor": 57,
+    "cidade": "SAPEZAL",
+    "uf": "MT",
+    "valor": 14,
     "seta": "↑",
-    "status": "SOJA · MILHO · CANA"
+    "status": "ALERTA SECA"
   }
 }
