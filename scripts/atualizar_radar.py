@@ -8,6 +8,7 @@ Atualiza radar.json com:
 Roda dentro do GitHub Actions (tem acesso livre a internet, sem problema de CORS
 porque e servidor, nao navegador). O front-end so le o radar.json (mesmo dominio).
 """
+import html
 import json
 import random
 import re
@@ -44,6 +45,7 @@ def buscar_url(url, timeout=15):
 
 def limpar_texto(txt):
     txt = re.sub(r"<[^>]+>", "", txt or "")
+    txt = html.unescape(txt)
     return re.sub(r"\s+", " ", txt).strip()
 
 
@@ -85,6 +87,9 @@ def buscar_noticias():
             titulo, fonte = titulo.rsplit(" - ", 1)
 
         resumo = limpar_texto(desc_el.text) if desc_el is not None else ""
+        # Descrição do Google News às vezes só repete "Título  Fonte" — descarta nesse caso
+        if resumo and titulo and resumo.startswith(titulo):
+            resumo = ""
         if len(resumo) > 140:
             resumo = resumo[:137] + "..."
 
