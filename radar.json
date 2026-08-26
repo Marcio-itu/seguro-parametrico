@@ -1,26 +1,26 @@
 {
-  "atualizado_em": "2026-08-25T21:16:32.636888+00:00",
+  "atualizado_em": "2026-08-26T09:21:53.166813+00:00",
   "noticias": [
     {
-      "titulo": "Impacto do super El Niño: fenômeno deve pressionar inflação e deixar os alimentos mais caros",
-      "resumo": "Impacto do super El Niño: fenômeno deve pressionar inflação e deixar os alimentos mais caros&nbsp;&nbsp;Terra",
-      "fonte": "TERRA",
-      "rotuloData": "HOJE",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNT0UyelNHV0VUaTF6VUVzcFpGdG9EM1pKZ0tMdVRuY1dkYVRGX2N3VWJsZVh5RTMzY0NGUC1La1hkOU44OFpVM1gxT0xFOHRTUTJzYmo2YmEzUlR6UTJNSkplemZHWkgyRm1sZm16dS1VbE9RRGc0MXJqM1JFMFQwMW5kSnZkRDVVQzZscWJFWjZncm04Wk9BMDVnY3VZX2ZqZE9iaUdlQVNRbjR4OWZZbVJEX29rdTg0ZnVyd3pNZkpRUTZRaVFJejlndGd1VnMxT29rQjhrSUFtbEFiMlpfZXJZbFJqdUZicVNvYlc5clBMbm1aUW5wUGhlRzV3YlB6?oc=5"
+      "titulo": "El Niño: chuva no Sul e seca no Centro-Oeste devem forçar pecuarista a rever manejo",
+      "resumo": "El Niño: chuva no Sul e seca no Centro-Oeste devem forçar pecuarista a rever manejo&nbsp;&nbsp;Giro do Boi - Canal Rural",
+      "fonte": "GIRO DO BOI - CANAL RURAL",
+      "rotuloData": "ONTEM",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUU1oSW53S2R6S0I0MEp5MjlMQWRhWjVCc3VXTnlDM0NmMXg3WkFBcXlOM1FMbmo4LVdkdVJtYmtLSVRzVGktc3E3VkN0dm9QSWZLRFFnaEZKcXF4Uk84U3lBRnBhYVpCWGp1Zk1rYld5dGdSa1ZsU2JRX2JVRnlreURYYUtOZi1Edk0ydmNCT0wtZGVpR1RFRkpsUVg2VFRoZ1hSS2did2h5NlhVQndaQy1NMFVtbE9laTAtVjVUWFhSczdjc3FV?oc=5"
     },
     {
-      "titulo": "El Niño amplia riscos para safras globais em 2026",
-      "resumo": "El Niño amplia riscos para safras globais em 2026&nbsp;&nbsp;Feed&Food",
-      "fonte": "FEED&FOOD",
+      "titulo": "El Niño ameaça safra de soja 2026/27, mas manejo adequado pode reduzir perdas",
+      "resumo": "El Niño ameaça safra de soja 2026/27, mas manejo adequado pode reduzir perdas&nbsp;&nbsp;Portal do Agronegócio",
+      "fonte": "PORTAL DO AGRONEGÓCIO",
       "rotuloData": "ONTEM",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTVhOa3oySXhrWnphbm1udEdVbHloSDBpTVREMC03SG9vWGJsLTVhbGxBZjRRUVRFN1FqQmVGR3VwVl9SYmg4NWFWRHNORXk4aTg2ZUlISUVsVkgxVTZEdzJkdlhNWXQ4ZkZhcE1nTmR3ZVpmamEtQzA1aFcxU05JMXhiV1ZRUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOU1BuM3lkd0UtR0pDdVVLMmNfcWQzMVNxUDRSMTZMMVdOVjZUTV92MkZXRFVxQV9TOVpsNWhrUnd5X1JBY1hoRUhwZmQwZW5EQU9XcDZTS0NKcFZYVFd2UVBsazB0VDZRWDFDWTJpdlV0X0xkSmhUMTRLQ29zNVJJWE05a2pHWG5PZXhRR0t6MGs4V0ROcUVnMUlQdGVoNGxMWHNkQzZQU2dhaDRkZFBYXzhWanQzRTA2QnJLcHBBaDBxWWkwQ29lTnNrdDNzSFREQUs5a3VxYjY?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "CASCAVEL",
-    "uf": "PR",
-    "valor": 92,
+    "cidade": "RIO VERDE",
+    "uf": "GO",
+    "valor": 43,
     "seta": "↓",
-    "status": "ALERTA CHUVA"
+    "status": "SOJA · MILHO"
   }
 }
