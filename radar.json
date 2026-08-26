@@ -1,26 +1,26 @@
 {
-  "atualizado_em": "2026-08-26T09:21:53.166813+00:00",
+  "atualizado_em": "2026-08-26T09:29:25.838686+00:00",
   "noticias": [
     {
-      "titulo": "El Niño: chuva no Sul e seca no Centro-Oeste devem forçar pecuarista a rever manejo",
-      "resumo": "El Niño: chuva no Sul e seca no Centro-Oeste devem forçar pecuarista a rever manejo&nbsp;&nbsp;Giro do Boi - Canal Rural",
-      "fonte": "GIRO DO BOI - CANAL RURAL",
-      "rotuloData": "ONTEM",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUU1oSW53S2R6S0I0MEp5MjlMQWRhWjVCc3VXTnlDM0NmMXg3WkFBcXlOM1FMbmo4LVdkdVJtYmtLSVRzVGktc3E3VkN0dm9QSWZLRFFnaEZKcXF4Uk84U3lBRnBhYVpCWGp1Zk1rYld5dGdSa1ZsU2JRX2JVRnlreURYYUtOZi1Edk0ydmNCT0wtZGVpR1RFRkpsUVg2VFRoZ1hSS2did2h5NlhVQndaQy1NMFVtbE9laTAtVjVUWFhSczdjc3FV?oc=5"
+      "titulo": "El Niño: Panamá declara emergência para enfrentar seca e tempestades",
+      "resumo": "El Niño: Panamá declara emergência para enfrentar seca e tempestades&nbsp;&nbsp;CartaCapital",
+      "fonte": "CARTACAPITAL",
+      "rotuloData": "HOJE",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQnlmcldaNngxbmJKQ1c2Rk9SdWR1SFd1bGd3YzFzSks5YjhqZGUyZ3hOWnlMQmZOQ3ZuOXA3cTVJcmlDWWN3d01zMnRXMVJYVE1rd2gxWHd6RnFWaUlsdXZaTUJDa21VM0RtRjBkTGh5SHN3dVZ2a0trTXpQSlBtQXZkb2lpQmU3N2xIcnp3SUljcmtOWlgzMHpjRVhaTk0?oc=5"
     },
     {
-      "titulo": "El Niño ameaça safra de soja 2026/27, mas manejo adequado pode reduzir perdas",
-      "resumo": "El Niño ameaça safra de soja 2026/27, mas manejo adequado pode reduzir perdas&nbsp;&nbsp;Portal do Agronegócio",
-      "fonte": "PORTAL DO AGRONEGÓCIO",
-      "rotuloData": "ONTEM",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOU1BuM3lkd0UtR0pDdVVLMmNfcWQzMVNxUDRSMTZMMVdOVjZUTV92MkZXRFVxQV9TOVpsNWhrUnd5X1JBY1hoRUhwZmQwZW5EQU9XcDZTS0NKcFZYVFd2UVBsazB0VDZRWDFDWTJpdlV0X0xkSmhUMTRLQ29zNVJJWE05a2pHWG5PZXhRR0t6MGs4V0ROcUVnMUlQdGVoNGxMWHNkQzZQU2dhaDRkZFBYXzhWanQzRTA2QnJLcHBBaDBxWWkwQ29lTnNrdDNzSFREQUs5a3VxYjY?oc=5"
+      "titulo": "El Niño é principal risco para a oferta mundial de açúcar",
+      "resumo": "El Niño é principal risco para a oferta mundial de açúcar&nbsp;&nbsp;CNN Brasil",
+      "fonte": "CNN BRASIL",
+      "rotuloData": "HOJE",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQelBIWUFnMTd1c1lvS1JKNnB5QmlPQm1zNHdNNW1LTEN0SW5uajJXakxrdHJlUVR1WFp0VE1VUFQ3REI5ZXNBOElSYkxKT3M0R3FlM2ZvS2l5dGhJbTVHT1NQdlVZeXN4Nll0ZGFfNDZOYVRlWkFlMGtMM1VUb0JWOExOZ205UXpqaGo3QXFwTEV2QVphVHdzUWdhZGNILVZvLVV0ZHNlWWprS2d6cFNJME5fRQ?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "RIO VERDE",
-    "uf": "GO",
-    "valor": 43,
-    "seta": "↓",
-    "status": "SOJA · MILHO"
+    "cidade": "UBERLÂNDIA",
+    "uf": "MG",
+    "valor": 57,
+    "seta": "↑",
+    "status": "SOJA · MILHO · CANA"
   }
 }
