@@ -85,9 +85,17 @@ function atualizarCard(card, item){
   var h4 = card.querySelector("h4");
   var p = card.querySelector("p");
   var spans = card.querySelectorAll("div:first-child > span");
+  var rotulo = item.rotuloData;
+  if(item.publicadoEm){
+    var pub = new Date(item.publicadoEm);
+    if(!isNaN(pub.getTime())){
+      var diffHoras = (Date.now() - pub.getTime()) / 3600000;
+      rotulo = diffHoras <= 20 ? "HOJE" : (diffHoras <= 44 ? "ONTEM" : rotulo);
+    }
+  }
   if(h4) h4.textContent = item.titulo;
   if(p) p.textContent = item.resumo;
-  if(spans && spans[0]) spans[0].textContent = item.rotuloData;
+  if(spans && spans[0]) spans[0].textContent = rotulo;
   if(spans && spans[1]) spans[1].textContent = item.fonte;
   card.href = item.link;
 }
