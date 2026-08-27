@@ -1,26 +1,26 @@
 {
-  "atualizado_em": "2026-08-27T00:19:25.441777+00:00",
+  "atualizado_em": "2026-08-27T19:18:27.497855+00:00",
   "noticias": [
     {
-      "titulo": "El Niño Reduz Precipitações e Ameaça Safra Agrícola na Índia",
+      "titulo": "Giro Agroclima: El Niño coloca safra 2026/27 em alerta para o plantio",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "FORBES BRASIL",
-      "rotuloData": "ONTEM",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTVlmQ0ktR1JSYTI1Z1d6YWZKbnJUYXhYcWJTZlVjeEN0bldLcXJhbHA4YkZXT2ZqenNRNWY4SmNpbjNkb3c2QVA2OURTVy1iNDNPYnRDUVZzY2ZsUTc5Q0ZXSDhicm1nOEo5Vk9XZkxHZnh3aWpFb2xBbjBfRE1VNHBObTVEMndTc3gxNllrR2h6RnhaX0RqX0NodTNudjNUTDN1a3EyVWhDNnFhak5yWFcwVHlNOTRDSHUzSk5jWkZwOGJLWTdWN1lxazRITUhGZ1o1d1Y3dmpVVTRKNC1xUms1N0wyajZaT2tJ?oc=5"
+      "fonte": "CLIMATEMPO",
+      "rotuloData": "HOJE",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYTY2MUtGTnltMS05YTNDckcwRVBTbkNmV1FSQlZ3TU04eGdEUkVMb0RlWWViUVF1bkMxTUw5VDY2blF3SkVYX25fM3R6LXdrRkhTZWtJWmc1cFdWNXFZS1c4WlQ3TWJGclBiblF6SmRpd3Q2a3FHWkdTMHU1N3Z4V01YYUFWYnhiR2NJbkVaMmd5NVN3Q1AyZlQwTlh0cUpDcU5EcGtZeUhadWNHeWliV3QybHN0Und1dmo4OS05Vlc?oc=5"
     },
     {
-      "titulo": "El Niño atrasa chuvas no AP e acende alerta para seca e risco de queimadas, aponta Censipam",
+      "titulo": "El Niño pode pressionar caixa das agroindústrias na safra 2026/27",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "G1",
-      "rotuloData": "HOJE",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc042bmVQRldKQWowSGU4bHJuSEVzS3pOei11azdYSnU2WVYtcVEwS2VRRU5RSUc4a2VyRzFsaUdZNW9odnlpZFJhVElkUkJhX1YzVUpnaENPU3l5a0laMVpyS0FLdFhDNHV3UlctS1NJdFJMUzRieXZIN3RLUTcydWFaNDhvc2RscHY4b2t6WG5qa0dSSW1PZG5UTDNHTXpjY1dZU2Jvai1UU2dxMFZqQ2F4REJXQW44MHI1TWZPektFVlM0Z2VKOEt6dTFNbVNWSzJGMWd5VUdadllnWnfSAewBQVVfeXFMUDZqM3FjalRWMG9JeTF6UEZGWWRVV21sWFlvZWUza3Rqb0VoQlVwak5aSlBUX012VXA0RUVLRzRyRFdoYU1hc3hXQmQ2c0ZFUUlRcU5iZ2MxVC1SdGV4SEM4b056WE5CNDdfdmlHamJ3LTdnQVE3Q3ZlWmhLWFNNeTh1REZ1ZFJlRldmRFhrN05NNjRqekMtakt6LVFZUDl5Vmh6SzFmWlVVd1M2M1E5eGpfX2Y2NXZ1ZndRS09ZNHg3N1JpS09iZzdNSTFTRUUwX2NiWDZxejhnTlRRaHkxci1VU2hGSi01ekFZSTI?oc=5"
+      "fonte": "FEED&FOOD",
+      "rotuloData": "ONTEM",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQemhFRDlMRFVlYkFOaWxta05aTnlac3c0ZzV0QkRmdDllek1qeDJ1UmNVNUtwbVVXQ0ZKWTNLWEhhZUZYMlhYTG5Ibi1RMWNMTzNRZFZUWW92RlBfN1Iza3VPMmh0Vm1FOTNwREd0TFFmbmFOWWdRZm1vdS1TbUJjOTcxeVN5Z2VLZFB4OHpXRkJrM09J?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "RIBEIRÃO PRETO",
-    "uf": "SP",
-    "valor": 94,
+    "cidade": "PALOTINA",
+    "uf": "PR",
+    "valor": 45,
     "seta": "↓",
-    "status": "ALERTA CHUVA"
+    "status": "MILHO · SOJA"
   }
 }
