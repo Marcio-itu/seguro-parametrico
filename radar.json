@@ -1,26 +1,26 @@
 {
-  "atualizado_em": "2026-08-27T19:18:27.497855+00:00",
+  "atualizado_em": "2026-08-28T05:00:03.071178+00:00",
   "noticias": [
     {
-      "titulo": "Giro Agroclima: El Niño coloca safra 2026/27 em alerta para o plantio",
+      "titulo": "‘Infelizmente, prevenção não dá voto’, lamenta professor ao advertir sobre chegada do Super El Niño",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CLIMATEMPO",
+      "fonte": "BAHIA NOTÍCIAS",
       "rotuloData": "HOJE",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYTY2MUtGTnltMS05YTNDckcwRVBTbkNmV1FSQlZ3TU04eGdEUkVMb0RlWWViUVF1bkMxTUw5VDY2blF3SkVYX25fM3R6LXdrRkhTZWtJWmc1cFdWNXFZS1c4WlQ3TWJGclBiblF6SmRpd3Q2a3FHWkdTMHU1N3Z4V01YYUFWYnhiR2NJbkVaMmd5NVN3Q1AyZlQwTlh0cUpDcU5EcGtZeUhadWNHeWliV3QybHN0Und1dmo4OS05Vlc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVWp2STFoQzdqZ0tKZ0tHa0gzUFkzZzJwZjhWYUVjZDRzeUg3akxhUzU5eTJoa09pMjJpZl8xdGg4akhTTHR2dDRQYlRBbjdmOHlNRWZDQl9yLWxIQnpPbHJiVFVvdW9KREp3amhEQWVvQ2k5QkQ1bzVOd0hWbU5HbDJjRFJxVzhZbktVbUZxcEJnY2lHeDhEZExibnpMOEJ4UzlVaVJsZm5HbjVCTzVqVlJESUg3SW1HdGdIdGQyYWlxLU4xRU54bjd2UlFKMHRrcml0ZDhROTEtUDY1YjhWdWtFTW9UWkx5UlE?oc=5"
     },
     {
-      "titulo": "El Niño pode pressionar caixa das agroindústrias na safra 2026/27",
+      "titulo": "Panamá e El Salvador declaram estado de emergência devido ao El Niño",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "FEED&FOOD",
+      "fonte": "CARTACAPITAL",
       "rotuloData": "ONTEM",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQemhFRDlMRFVlYkFOaWxta05aTnlac3c0ZzV0QkRmdDllek1qeDJ1UmNVNUtwbVVXQ0ZKWTNLWEhhZUZYMlhYTG5Ibi1RMWNMTzNRZFZUWW92RlBfN1Iza3VPMmh0Vm1FOTNwREd0TFFmbmFOWWdRZm1vdS1TbUJjOTcxeVN5Z2VLZFB4OHpXRkJrM09J?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQnlmcldaNngxbmJKQ1c2Rk9SdWR1SFd1bGd3YzFzSks5YjhqZGUyZ3hOWnlMQmZOQ3ZuOXA3cTVJcmlDWWN3d01zMnRXMVJYVE1rd2gxWHd6RnFWaUlsdXZaTUJDa21VM0RtRjBkTGh5SHN3dVZ2a0trTXpQSlBtQXZkb2lpQmU3N2xIcnp3SUljcmtOWlgzMHpjRVhaTk0?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "PALOTINA",
-    "uf": "PR",
-    "valor": 45,
+    "cidade": "L.E. MAGALHÃES",
+    "uf": "BA",
+    "valor": 0,
     "seta": "↓",
-    "status": "MILHO · SOJA"
+    "status": "ALERTA SECA"
   }
 }
