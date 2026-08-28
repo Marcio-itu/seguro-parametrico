@@ -1,26 +1,26 @@
 {
-  "atualizado_em": "2026-08-28T05:00:03.071178+00:00",
+  "atualizado_em": "2026-08-28T20:27:49.059176+00:00",
   "noticias": [
     {
-      "titulo": "‘Infelizmente, prevenção não dá voto’, lamenta professor ao advertir sobre chegada do Super El Niño",
+      "titulo": "Plano de preparação e resposta em saúde pública para o El Niño 2026-2027 é apresentado em Brasília",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "BAHIA NOTÍCIAS",
+      "fonte": "CONEXÃO TOCANTINS",
       "rotuloData": "HOJE",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVWp2STFoQzdqZ0tKZ0tHa0gzUFkzZzJwZjhWYUVjZDRzeUg3akxhUzU5eTJoa09pMjJpZl8xdGg4akhTTHR2dDRQYlRBbjdmOHlNRWZDQl9yLWxIQnpPbHJiVFVvdW9KREp3amhEQWVvQ2k5QkQ1bzVOd0hWbU5HbDJjRFJxVzhZbktVbUZxcEJnY2lHeDhEZExibnpMOEJ4UzlVaVJsZm5HbjVCTzVqVlJESUg3SW1HdGdIdGQyYWlxLU4xRU54bjd2UlFKMHRrcml0ZDhROTEtUDY1YjhWdWtFTW9UWkx5UlE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWFNNRHByRmRIcjVfMk5STmVDdUNiV1hrSWV4bDhPWnI2bUs0c2laQ0ZRclRsOWkzaHJUYkpuWTRwQUdxM2EyNFpuRmtHX254OVV1MEZnT2NKNVhLa2ViMnBDR3dlVWQ4S2xVYjBZQ19OU1J1ODdQTUJEd2Y1eTQ2RjhpNHZ1TGcxTjBLVnN5TTVvRHlSUTlzS3VhNTE2RFJwMWtsbWpKN19HTEF1bjQyUVBkUW5SSDFpcWZLVEJjeWRtUlBFOVRLQm9ndzF0ZU0?oc=5"
     },
     {
-      "titulo": "Panamá e El Salvador declaram estado de emergência devido ao El Niño",
+      "titulo": "El Niño se intensifica e aumenta risco de seca no ES",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CARTACAPITAL",
+      "fonte": "SIM NOTÍCIAS",
       "rotuloData": "ONTEM",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQnlmcldaNngxbmJKQ1c2Rk9SdWR1SFd1bGd3YzFzSks5YjhqZGUyZ3hOWnlMQmZOQ3ZuOXA3cTVJcmlDWWN3d01zMnRXMVJYVE1rd2gxWHd6RnFWaUlsdXZaTUJDa21VM0RtRjBkTGh5SHN3dVZ2a0trTXpQSlBtQXZkb2lpQmU3N2xIcnp3SUljcmtOWlgzMHpjRVhaTk0?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdFpkMHdqVHROYTVJMlBKM0psVlMyWXoxT3Z1LUpGSGdBcHgxanViUHYwMkxXVVRRSmV1TERLNVhJYm42eWpwUXp3VU9pRjFvOHVaM2dQNmNRcmlWZkZYNy14UDJRcnFrOTVrMzF6NlhaS2lRcndkWlhRSXYycGM3cDUxczVZbzZiUXBSVU5tX29vdw?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "L.E. MAGALHÃES",
-    "uf": "BA",
-    "valor": 0,
+    "cidade": "SORRISO",
+    "uf": "MT",
+    "valor": 20,
     "seta": "↓",
-    "status": "ALERTA SECA"
+    "status": "SOJA · MILHO"
   }
 }
