@@ -1,26 +1,26 @@
 {
-  "atualizado_em": "2026-08-28T20:27:49.059176+00:00",
+  "atualizado_em": "2026-08-29T02:55:48.430880+00:00",
   "noticias": [
     {
-      "titulo": "Plano de preparação e resposta em saúde pública para o El Niño 2026-2027 é apresentado em Brasília",
+      "titulo": "El Niño põe semeadura do arroz sob alerta em SC",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CONEXÃO TOCANTINS",
+      "fonte": "AGROREVENDA",
       "rotuloData": "HOJE",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWFNNRHByRmRIcjVfMk5STmVDdUNiV1hrSWV4bDhPWnI2bUs0c2laQ0ZRclRsOWkzaHJUYkpuWTRwQUdxM2EyNFpuRmtHX254OVV1MEZnT2NKNVhLa2ViMnBDR3dlVWQ4S2xVYjBZQ19OU1J1ODdQTUJEd2Y1eTQ2RjhpNHZ1TGcxTjBLVnN5TTVvRHlSUTlzS3VhNTE2RFJwMWtsbWpKN19HTEF1bjQyUVBkUW5SSDFpcWZLVEJjeWRtUlBFOVRLQm9ndzF0ZU0?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSUlEeEo3QzFWaENqT3JDTlBhNmVwTzVOazN1SUs1X1F0VDJUTjIwcEgxb3FZLWNFdXRmS0M5LVQ5RFhRanVpWG5DWWpObnZ5ZnE2emZ5NTNLY0I1a2haSEo5aTNoU0RUT2FUR05hX0M2S2RsREJqNEVPcVdGMHZ4djByQ1RmWm16dTBhbFpn?oc=5"
     },
     {
-      "titulo": "El Niño se intensifica e aumenta risco de seca no ES",
+      "titulo": "Molion alerta para cautela com previsões sobre “Super El Niño” e orienta produtores a monitorarem condições climáticas",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "SIM NOTÍCIAS",
-      "rotuloData": "ONTEM",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdFpkMHdqVHROYTVJMlBKM0psVlMyWXoxT3Z1LUpGSGdBcHgxanViUHYwMkxXVVRRSmV1TERLNVhJYm42eWpwUXp3VU9pRjFvOHVaM2dQNmNRcmlWZkZYNy14UDJRcnFrOTVrMzF6NlhaS2lRcndkWlhRSXYycGM3cDUxczVZbzZiUXBSVU5tX29vdw?oc=5"
+      "fonte": "AGROLINK",
+      "rotuloData": "HOJE",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObzFVQ2h2NHREZms3UXBLTnRyN0tTclFnU0ExTlhmbDF4Z2IyZzFCYmRGdm0yejZwZ0xDZjlmaGE3WmlpWWhKRVNSbGxTRUJyUlA1SXZGZnJPanVyNzBFU3l4ZktxMEtjeGNqTG9BTEVWZV9vQ1FxMmpEU2hsOVhoU18yeWY4TzAtSUVOTVBDTEpGMlh2X0p2WWpHN2tnMk9yTi16bm1tZHpjbnpQUlRrSWdWRDI1UGZoVjZLMjd2SW9NeUN3a2RhZ2Yxb3JFR19kOGp0UUhHY2xPZ0VXQjc2NVZfMUxSNW0zUF9WS3FXZ2p0QWg1Qk1GcEs5Yw?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "SORRISO",
-    "uf": "MT",
-    "valor": 20,
-    "seta": "↓",
-    "status": "SOJA · MILHO"
+    "cidade": "CASCAVEL",
+    "uf": "PR",
+    "valor": 10,
+    "seta": "↑",
+    "status": "ALERTA SECA"
   }
 }
