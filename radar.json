@@ -1,26 +1,26 @@
 {
-  "atualizado_em": "2026-08-29T02:55:48.430880+00:00",
+  "atualizado_em": "2026-08-29T14:03:30.477874+00:00",
   "noticias": [
     {
-      "titulo": "El Niño põe semeadura do arroz sob alerta em SC",
+      "titulo": "El Niño deve alterar chuvas, ventos e temperaturas: entenda os impactos esperados sobre fontes renováveis de energia",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "AGROREVENDA",
-      "rotuloData": "HOJE",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSUlEeEo3QzFWaENqT3JDTlBhNmVwTzVOazN1SUs1X1F0VDJUTjIwcEgxb3FZLWNFdXRmS0M5LVQ5RFhRanVpWG5DWWpObnZ5ZnE2emZ5NTNLY0I1a2haSEo5aTNoU0RUT2FUR05hX0M2S2RsREJqNEVPcVdGMHZ4djByQ1RmWm16dTBhbFpn?oc=5"
+      "fonte": "O GLOBO",
+      "rotuloData": "ONTEM",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNZjVYMVAtMmowNlJ1VEFENmZmODJBeFZXVTRndThNTGJST0RseWgzRkFST09YTHBoSHh0ZWZhWm5CNnBrY2tOZ3QwSXhSYWQtY09acGZ6dWF0RHF5YnA1eUg5WmdSSFB1a2FhREtfMUpxUEVha3FKdTZKQW9rVjJBTjVwcjNMd3dsVU5kanZXZDU2d0FRWlBWSktxbDZFOVVLTGRRdVEwbjF2ZVBwQmxwRF9YR3VIbVRna1pVdDBzaWlab3NmUG4wUmlmQzBNTk9wMzRrUVFWcGEyZ210RmdqMDlscTlsZE9EampZeDJaX0FscVluTDJEMnhETE1QcVQ3WF8xbHgxNVN3aDdyZTVLZ3BUejlzZzZkQjhKMW43SdIBrgJBVV95cUxNa2R3TnJhV1RqVnNUcXJvS2s5TGRkbVVENWNLclo3N2lvTzFYQmhBS29VRWhMc3laZWVoamoxdlF4RzdzRmRjeEhwNk9xMHpPem5VR3BreE5BYjBlbFFTejFSWXpwNC1PSG12WTEtZV9TaGxFcHEyYk9rTlB6Qk9ibWxYS0JhbllqTnV4SHNrNVZtcEhKTFNDQzB0em5pYWlFUXNoU2JwaG1jTU1MOVQ2UV9QM3pMUjlRRTVURW9fRzF1aVBRV290SG5fTVdORVNzNGJOUkFCV0cxUkktYzJ6dUh5ajhWVlNka091WVFybU9pLTBuRWVYRmNPbXd4aHZJcmFfN0t6bENUbmQyVXFjNk9xRl8xdmYtN0pITHlZNjNjV1pyUkg3OTQwQkx1UQ?oc=5"
     },
     {
-      "titulo": "Molion alerta para cautela com previsões sobre “Super El Niño” e orienta produtores a monitorarem condições climáticas",
+      "titulo": "Mudança climática intensifica variabilidade do El Niño, mostra estudo",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "AGROLINK",
-      "rotuloData": "HOJE",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObzFVQ2h2NHREZms3UXBLTnRyN0tTclFnU0ExTlhmbDF4Z2IyZzFCYmRGdm0yejZwZ0xDZjlmaGE3WmlpWWhKRVNSbGxTRUJyUlA1SXZGZnJPanVyNzBFU3l4ZktxMEtjeGNqTG9BTEVWZV9vQ1FxMmpEU2hsOVhoU18yeWY4TzAtSUVOTVBDTEpGMlh2X0p2WWpHN2tnMk9yTi16bm1tZHpjbnpQUlRrSWdWRDI1UGZoVjZLMjd2SW9NeUN3a2RhZ2Yxb3JFR19kOGp0UUhHY2xPZ0VXQjc2NVZfMUxSNW0zUF9WS3FXZ2p0QWg1Qk1GcEs5Yw?oc=5"
+      "fonte": "FOLHA DE S.PAULO",
+      "rotuloData": "ONTEM",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa1M1a01NQ1dTb1EyOEJZMk9ZVkpYaW5iWXg5bjVoeTR4OWZmNGxjYjVic0N3M3ZFMnhLN1MxVHZRNWxMQ1lobGNiUVltdEs5UWJseWZnTUxKRUdpQmdHY2lkVVVrMzk3MkNxWlRrRTN5Zzl0UUJrTWdYSFRqQWR2WnlKTDcteFNpVjFMOHotRXlKNEU0ajlFdkRGS2xGd0s1Q0VvYnhqOVpXRG9QM3JndXJEemFZeVNsbXBQZ1NR?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "CASCAVEL",
-    "uf": "PR",
-    "valor": 10,
-    "seta": "↑",
+    "cidade": "BARRETOS",
+    "uf": "SP",
+    "valor": 14,
+    "seta": "↓",
     "status": "ALERTA SECA"
   }
 }
