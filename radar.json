@@ -1,25 +1,25 @@
 {
-  "atualizado_em": "2026-08-29T17:58:36.607960+00:00",
+  "atualizado_em": "2026-08-29T22:53:21.002161+00:00",
   "noticias": [
     {
-      "titulo": "El Niño deve intensificar chuvas na primavera em Santa Catarina",
+      "titulo": "El Niño acende alerta para produtores de arroz de SC às vésperas da semeadura da safra",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "OESTE MAIS",
-      "rotuloData": "HOJE",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTFZiR2Q4eXFVbFJ4clo2UDBjdy15enhXVU9tbkZRcFpaQjJJenBNQzkwU0FSbFVRNG44OU50b255bFFXTlAtUlhCSlNRanMybXFJZHBqbU90XzlEWllrYlRrNk1uTzlWTWVIa0loUGlFdDljYjg2MExBeE5qMnRIWWp1YWhEM2dyVHRCZGd4VHdDZzdqaE9zaUVxZU9xWVRtZndra3Vzc0xlM2s?oc=5"
+      "fonte": "4OITO",
+      "rotuloData": "ONTEM",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTVRQVzVqZ0RDYWZoMlpJdTh0bTNmbzhOd2hlQ19jMVNFSTNNMTRiaWlKanM2aDRYSmZPT1V1MXpXcnZKLTNUaFJWODhaQzA0M3ZhODBON2tuM3RfZkJBVlRLRklNYnJ0c2w4S0tpRGc5ZVM1MEZIRTEtczRrVWpJc2M5aUZPY1AyelI3WnpqdUk5aXNrTW9MZ2NCU3FQQWVLT0JFUEF3N1d2cGRUS1RMU0xiR1ljNk0yUFZqNGJZdmVYVWs?oc=5"
     },
     {
-      "titulo": "SUS terá plano de resposta ao El Niño com foco em emergências climáticas",
+      "titulo": "Vem aí o “Super El Niño”? Fenômeno promete levar o clima ao extremo",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "A CRÍTICA DE CAMPO GRANDE",
-      "rotuloData": "HOJE",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdTRQYXNfVGhoV3BaQ2hiaXQ1ejZaMHc0NGZ1N0t6YnQwZUJfWEdxZXU0bEdJOTJ3VTBTTWQ3enJZVHV4b2Z0aTVUMWNHeFRYVmlpTjRkRmtJbEZzaFB6dFhPMGlxaFUtVTZYQ2hFQ0VVZzlhWlVrMkV0V1BnanBSN3pqdmJHZ2gwY0hjNjIyVUxXUlVjcXJMam5tZ1pvZEF1ZkE?oc=5"
+      "fonte": "OLHAR DIGITAL",
+      "rotuloData": "ONTEM",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTjhGbmROTGVYRlgtSEhnUDFKX0lwa2x2N25US0ZlMDFBMFZsY3dJOGVtblVRVFJYV3I0NEtvcEIteFh2eHQtTG1BZ0w0akxlRHB0dlhHN3JPSlRsQkJZdHJpS0pXeVE1UW51TGpfdDB0R3BmV2IzZjhsMU5yY3V1bHd6V2tabXIwRHlpSE50cWlTS2FXelg0RG9fRzVvTlByazlEeDlRMU1YWHF3b2lJYU5vZDZFZE5rcnU5WFhn?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "BARRETOS",
-    "uf": "SP",
-    "valor": 14,
+    "cidade": "UBERLÂNDIA",
+    "uf": "MG",
+    "valor": 6,
     "seta": "↓",
     "status": "ALERTA SECA"
   }
