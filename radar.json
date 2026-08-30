@@ -1,25 +1,25 @@
 {
-  "atualizado_em": "2026-08-29T22:53:21.002161+00:00",
+  "atualizado_em": "2026-08-30T14:03:12.752141+00:00",
   "noticias": [
+    {
+      "titulo": "Governo anuncia plano de enfrentamento aos impactos do El Niño no SUS | Brasil",
+      "resumo": "Leia a matéria completa na fonte original.",
+      "fonte": "VALOR ECONÔMICO",
+      "rotuloData": "ONTEM",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNXzFiOHhna0U5WUZ5ay1fM2xrQ2N0bUt0akd2a2RrVlhYNzFQaHVIdlJiaWZhVEpKalV5X19ibDRjWXlDWEw0clExU1d2MGx0Z0FrTllYMDJVa2tBb2JMLUQ5bkZZX0s2QVAwcWxaVElxanZaXzY0N3gzcEZoRFE2QzM3aWVxNHZNOVNGcEVmRjlkRjIyNTktbFBoaXVRTWw2cDVmU294aFlSSmhOV2tsWkZtYkxyT2hEbi1uWG42cGRWWUk?oc=5"
+    },
     {
       "titulo": "El Niño acende alerta para produtores de arroz de SC às vésperas da semeadura da safra",
       "resumo": "Leia a matéria completa na fonte original.",
       "fonte": "4OITO",
       "rotuloData": "ONTEM",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTVRQVzVqZ0RDYWZoMlpJdTh0bTNmbzhOd2hlQ19jMVNFSTNNMTRiaWlKanM2aDRYSmZPT1V1MXpXcnZKLTNUaFJWODhaQzA0M3ZhODBON2tuM3RfZkJBVlRLRklNYnJ0c2w4S0tpRGc5ZVM1MEZIRTEtczRrVWpJc2M5aUZPY1AyelI3WnpqdUk5aXNrTW9MZ2NCU3FQQWVLT0JFUEF3N1d2cGRUS1RMU0xiR1ljNk0yUFZqNGJZdmVYVWs?oc=5"
-    },
-    {
-      "titulo": "Vem aí o “Super El Niño”? Fenômeno promete levar o clima ao extremo",
-      "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "OLHAR DIGITAL",
-      "rotuloData": "ONTEM",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTjhGbmROTGVYRlgtSEhnUDFKX0lwa2x2N25US0ZlMDFBMFZsY3dJOGVtblVRVFJYV3I0NEtvcEIteFh2eHQtTG1BZ0w0akxlRHB0dlhHN3JPSlRsQkJZdHJpS0pXeVE1UW51TGpfdDB0R3BmV2IzZjhsMU5yY3V1bHd6V2tabXIwRHlpSE50cWlTS2FXelg0RG9fRzVvTlByazlEeDlRMU1YWHF3b2lJYU5vZDZFZE5rcnU5WFhn?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "UBERLÂNDIA",
-    "uf": "MG",
-    "valor": 6,
+    "cidade": "BALSAS",
+    "uf": "MA",
+    "valor": 0,
     "seta": "↓",
     "status": "ALERTA SECA"
   }
