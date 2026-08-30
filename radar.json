@@ -1,26 +1,26 @@
 {
-  "atualizado_em": "2026-08-30T14:03:12.752141+00:00",
+  "atualizado_em": "2026-08-30T18:13:44.628914+00:00",
   "noticias": [
     {
-      "titulo": "Governo anuncia plano de enfrentamento aos impactos do El Niño no SUS | Brasil",
+      "titulo": "Paraná prevê produção recorde de soja, mas El Niño preocupa",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "VALOR ECONÔMICO",
+      "fonte": "AGROLINK",
       "rotuloData": "ONTEM",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNXzFiOHhna0U5WUZ5ay1fM2xrQ2N0bUt0akd2a2RrVlhYNzFQaHVIdlJiaWZhVEpKalV5X19ibDRjWXlDWEw0clExU1d2MGx0Z0FrTllYMDJVa2tBb2JMLUQ5bkZZX0s2QVAwcWxaVElxanZaXzY0N3gzcEZoRFE2QzM3aWVxNHZNOVNGcEVmRjlkRjIyNTktbFBoaXVRTWw2cDVmU294aFlSSmhOV2tsWkZtYkxyT2hEbi1uWG42cGRWWUk?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOam44bjJrWEZxS3dnMjUtUFRyd3U3N3ljQjNYWEJHeTFjUE1xQXpZM3Q5aExEc3ZoMVRNNzJVUXJVblp3X3Y5RUpxOS1NNnJWUHR4RnZwQzZaU0VLX2VlMlZFeG9talFKazhKNVVZaHhPcmsyRmQ0TzExS2VIbjNLRXlTdGtzLUVVRGs1OHZHdWYwYkp6WWFRTmNwcTczdmdBNnRxbV9RM1NjUGZh?oc=5"
     },
     {
-      "titulo": "El Niño acende alerta para produtores de arroz de SC às vésperas da semeadura da safra",
+      "titulo": "Sem luz? El Niño vai provocar desligamentos mais longos, afirma diretor da Abradee",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "4OITO",
-      "rotuloData": "ONTEM",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTVRQVzVqZ0RDYWZoMlpJdTh0bTNmbzhOd2hlQ19jMVNFSTNNMTRiaWlKanM2aDRYSmZPT1V1MXpXcnZKLTNUaFJWODhaQzA0M3ZhODBON2tuM3RfZkJBVlRLRklNYnJ0c2w4S0tpRGc5ZVM1MEZIRTEtczRrVWpJc2M5aUZPY1AyelI3WnpqdUk5aXNrTW9MZ2NCU3FQQWVLT0JFUEF3N1d2cGRUS1RMU0xiR1ljNk0yUFZqNGJZdmVYVWs?oc=5"
+      "fonte": "INFOMONEY",
+      "rotuloData": "HOJE",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRldQY3FIcGpLRnU4Yk4zMmdrRjVpdlJ2MEFhbno1bFo2M3pkeW9kV2VzbVpQbUtRYlB5OWd0cEFRSTBuT2ZPdG10NVpHNWhDdDJNTnhZVms1UkxJamNKRDN5ZGV5Y1FRbjhENXhBMGZhWkxmcWJ6ekFrSFpMUE5Eei1RQWtVc0h0STdVMEZtNkJldTg4M0lUOWJDZWxwZG5rVEd5WDh2dXRhVzNya2dvSjA3WWdXaENp0gG-AUFVX3lxTFA5NXB3bkpySGltOEt0US13UW1JRjUtcjdMc3ZCQzRPY25kdlVVRXlJVjQwVTZjTUUzSVRfX011ZWdENEl4X19fTTJtd0lGVzJuMDJFOVBnUWlaVDlMdFo2UjF4WFRHVXFmanNFSDhjWEVNMF9LNnBGOFk1N09ha0ZFdm4zaWpVYzdPMGlmTUs3LUdCODg2bENPTFpXbFJqdUUtYmNTbkV6RDZhbUpKc3dMYTlWZjVGb3ZWOTk5Vnc?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "BALSAS",
-    "uf": "MA",
-    "valor": 0,
+    "cidade": "BARRETOS",
+    "uf": "SP",
+    "valor": 29,
     "seta": "↓",
-    "status": "ALERTA SECA"
+    "status": "CANA"
   }
 }
