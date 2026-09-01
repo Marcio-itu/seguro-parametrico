@@ -1,25 +1,25 @@
 {
-  "atualizado_em": "2026-09-01T18:01:50.379023+00:00",
+  "atualizado_em": "2026-09-01T22:53:09.900031+00:00",
   "noticias": [
     {
-      "titulo": "Com El Niño, PIB do agro deve ficar negativo em 2027, aponta Itaú",
+      "titulo": "Governo reforça prevenção diante do El Niño",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "O GLOBO",
-      "rotuloData": "ONTEM",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWHItcHFRZ29BeXB5aXpTNm5TbjRiYXlXV3hpRWFOYzQzd2ZYRW4zaDlNR2hVSkNtR21UblZPT0ZYZzdjWlJtN0FEaDVUSVUxZk9FNFB2bkdUNUJrVGNxTEN2VGMzLUtmYXcxLVNGdmo3amsyb0hNZmVGUEI1WXpGUG85aGhBbWgyaUJTUTVwazdDYU1MZWM1NzNkaFJLcXNRREVqXzdyNWNIZzJJWXJoYmtTRmRRVjBMQ0pLSE1nc9IBzgFBVV95cUxPWnlLYWhwQW9XVnJaWUxHUmN5SlBtaFcwZTJGZ2RnSTA0bDdZQnF2aUcxdG9SLUVmcHJ6b0dxUTZqRkhWNUNYa2Vfb2dBelhwZmZwWU04SnVWY1NubGE1U1RWVXotUXJ2aV9rSU1GeVl0bzBaRWF5WWFTZnlVQkk4SVFOODQ4ak41RWx1ZUdYMEZlQmlWdUR6UXg4TzlVYnJLdHpDYWFWQVZKLUNvZDA5V3VCb2c0MTc2eFlKT2U4V05LM0x1WEloNTRFMWh1UQ?oc=5"
+      "fonte": "IMAGEM DA ILHA",
+      "rotuloData": "HOJE",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObzlKM2hSVDFiVUpJMkhuVGMxNk1yOHVGd0M1b21jSlVvZTZzRE9hX1Z1UVBUY2pjd2FSV0hrUll5UzQxVDBueEJSSlNQU2hSS05aOXpyZTZwUzRfb2tYOUJtY01FT0NTZmhrbV96cXdQMndWODd2bHYyUUk4TkxveTR1OUxualdnVDg4R1p3?oc=5"
     },
     {
-      "titulo": "Mudanças climáticas estão intensificando o El Niño",
+      "titulo": "El Niño deve durar mais e pode contribuir para seca mais intensa no Amazonas em 2027, diz SGB",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CLIMAINFO.ORG.BR",
-      "rotuloData": "ONTEM",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSEI4a0pKLWllQUt3QkJOd2pxVUJXUUowUlFpYnZoM3dlVXh4bFhueVZaSm1LdGZwYzZUbm41Ny1JaG5GSU4xcHo3TmZQWUdnenN3TXRxbXlqYmdBeERlYmxYSVFsTHVRcno5dXpORC1EeWFnc1hNWDlFdmFRYWpobXVXTnp6LTk0Und0aTlLQWk?oc=5"
+      "fonte": "G1",
+      "rotuloData": "HOJE",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMGtYdmRDU2t2VmVfczR0aEgzZG9PLXhTb3ZzbHZNWEdMR0w3Ym1yNTNMVTlhNFN3Uno1NmhoVl9wdlRMc0hIMzllSm1LV3FDYmhxUFdlS29IZXNIeW5DSG5COVAtQW5ONDhXQmJ5V2d2WDJOQ3k4bVEwNnRGR1JhWXY1bGxZc2pweEVHdksydlN6d0xkNGVoMU12NUpTcU5ZRUM4c2pEVlRZdXRuQXo3M0hIYkhSZWo3VnNBaVlMNE0tcEM4aWRTUFFkcEZZMjV6OVFjakQwb0ItbFU0UWUxYW9LTTdiUXV0cGJPM1N2NUdRTzDSAfMBQVVfeXFMTjBrWHZkQ1NrdlZlX3M0dGhIM2RvTy14U292c2x2TVhHTEdMN2JtcjUzTFU5YTRTd1J6NTZoaFZfcHZUTHNISDM5ZUptS1dxQ2JocVBXZUtvSGVzSHluQ0huQjlQLUFuTjQ4V0JieVdndlgyTkN5OG1RMDZ0RkdSYVl2NWxsWXNqcHhFR3ZLMnZTendMZDRlaDFNdjVKU3FOWUVDOHNqRFZUWXV0bkF6NzNISGJIUmVqN1ZzQWlZTDRNLXBDOGlkU1BRZHBGWTI1ejlRY2pEMG9CLWxVNFFlMWFvS003YlF1dHBiTzNTdjVHUU8w?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "UBERLÂNDIA",
-    "uf": "MG",
-    "valor": 90,
+    "cidade": "PALOTINA",
+    "uf": "PR",
+    "valor": 75,
     "seta": "↓",
     "status": "ALERTA CHUVA"
   }
