@@ -1,26 +1,26 @@
 {
-  "atualizado_em": "2026-09-01T00:10:12.388423+00:00",
+  "atualizado_em": "2026-09-01T13:45:41.560376+00:00",
   "noticias": [
     {
-      "titulo": "Brasileiros devem enfrentar seis ondas de calor até o fim do ano por causa do El Niño",
+      "titulo": "Governo anuncia plano de enfrentamento aos impactos do El Niño no SUS",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "PRIMEIRA PÁGINA",
-      "rotuloData": "ONTEM",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVXlsRHVNMHZuOXRKYUtjREVjT01rRXE4VHZiSWhrYmtPN1p6azZrUE9qTHg2TWNxc0U3YU04VFc4allQM1lZNkVCckVRMkpTQzJKQXYxNGV3bU5rWGhOdHlzMUtwMjBRQl9PejFCWmtkbU5keUl2V3pvLUtLX1loQ3Q4dnJaSFlfR1k2R2tJTzZUUTFDS3gzbEJPYWJGSFptSUNBdVpUc1NydTJBNXVoS2Q0VzFlZENiVGFvOTctQQ?oc=5"
+      "fonte": "INSTITUTO HUMANITAS UNISINOS - IHU",
+      "rotuloData": "HOJE",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNkpPT3ExSmlfOENZVHA5eFFFYkI2UWZBOHJoYUxoTU5TSm4tSDVjT1ROMVJxUmRrU2QwU2FEdmxUdUk5dWxCQ3VlQzZ6eVpfbTNnRHhmYnZSOXd2SXRvdWlBX25xWlFfWng5V3BOSFo4b212aEw5VmVXcFNieGZRZzFweWNZS2RkUmFhMTFlRnpwRS1leHptcExQcmh4YnNzckUtWHFFcw?oc=5"
     },
     {
-      "titulo": "Eventos de El Niño dos últimos 40 anos foram os mais intensos em um milênio",
+      "titulo": "El Niño ganha força e pode atingir nível crítico nos próximos meses",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CONEXÃO SAFRA",
+      "fonte": "BAND FM ITAJAÍ",
       "rotuloData": "HOJE",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSWpyUC1vWFlRQVlVTUw0NTV6Mjc3YnpQclFXZnNrVzNTdVBQU1lROUI3RkthcE40LVQxeWxPdXQxU1BJenVSS2hpRFFiWXNNVFJsWThzZnFzQ1FMSW1PVUVJRmJOcUtfeDFmWHY4dGhEdG1PTGhBSGQ4Q0d2N0lyaTZWbmNPN0FiSU1wMTVBSmpRdXh6YXV2M192NHBzODJkUFhhWU1ualhzUnhoZkVpWklEcWtHcXc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc0lrU19aU0VXbTMyMXhsZEI2YlVPakZzeG5rdmNOYlExVVF1c1U5bEQ1MFhGWmJJLUw0Zm1ndVZzRmptenRvQ1ZFU0YzUDFtNGctUUM0TlRvQWxvN1BlQkxWOXdZM3pvN1EtTDczYnFfZDJvcHd5R0F5YW85UlMwZk9EaW5XeG9odDZuT0RqZzJ4YXFiaHdzZGNZQWp4YXhkOWRMZExPWXYyMk4yYjRHZ1FVNXVOWi02?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "BARRETOS",
-    "uf": "SP",
-    "valor": 23,
+    "cidade": "CRISTALINA",
+    "uf": "GO",
+    "valor": 2,
     "seta": "↑",
-    "status": "CANA"
+    "status": "ALERTA SECA"
   }
 }
