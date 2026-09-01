@@ -1,26 +1,26 @@
 {
-  "atualizado_em": "2026-09-01T13:45:41.560376+00:00",
+  "atualizado_em": "2026-09-01T18:01:50.379023+00:00",
   "noticias": [
     {
-      "titulo": "Governo anuncia plano de enfrentamento aos impactos do El Niño no SUS",
+      "titulo": "Com El Niño, PIB do agro deve ficar negativo em 2027, aponta Itaú",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "INSTITUTO HUMANITAS UNISINOS - IHU",
-      "rotuloData": "HOJE",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNkpPT3ExSmlfOENZVHA5eFFFYkI2UWZBOHJoYUxoTU5TSm4tSDVjT1ROMVJxUmRrU2QwU2FEdmxUdUk5dWxCQ3VlQzZ6eVpfbTNnRHhmYnZSOXd2SXRvdWlBX25xWlFfWng5V3BOSFo4b212aEw5VmVXcFNieGZRZzFweWNZS2RkUmFhMTFlRnpwRS1leHptcExQcmh4YnNzckUtWHFFcw?oc=5"
+      "fonte": "O GLOBO",
+      "rotuloData": "ONTEM",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWHItcHFRZ29BeXB5aXpTNm5TbjRiYXlXV3hpRWFOYzQzd2ZYRW4zaDlNR2hVSkNtR21UblZPT0ZYZzdjWlJtN0FEaDVUSVUxZk9FNFB2bkdUNUJrVGNxTEN2VGMzLUtmYXcxLVNGdmo3amsyb0hNZmVGUEI1WXpGUG85aGhBbWgyaUJTUTVwazdDYU1MZWM1NzNkaFJLcXNRREVqXzdyNWNIZzJJWXJoYmtTRmRRVjBMQ0pLSE1nc9IBzgFBVV95cUxPWnlLYWhwQW9XVnJaWUxHUmN5SlBtaFcwZTJGZ2RnSTA0bDdZQnF2aUcxdG9SLUVmcHJ6b0dxUTZqRkhWNUNYa2Vfb2dBelhwZmZwWU04SnVWY1NubGE1U1RWVXotUXJ2aV9rSU1GeVl0bzBaRWF5WWFTZnlVQkk4SVFOODQ4ak41RWx1ZUdYMEZlQmlWdUR6UXg4TzlVYnJLdHpDYWFWQVZKLUNvZDA5V3VCb2c0MTc2eFlKT2U4V05LM0x1WEloNTRFMWh1UQ?oc=5"
     },
     {
-      "titulo": "El Niño ganha força e pode atingir nível crítico nos próximos meses",
+      "titulo": "Mudanças climáticas estão intensificando o El Niño",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "BAND FM ITAJAÍ",
-      "rotuloData": "HOJE",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc0lrU19aU0VXbTMyMXhsZEI2YlVPakZzeG5rdmNOYlExVVF1c1U5bEQ1MFhGWmJJLUw0Zm1ndVZzRmptenRvQ1ZFU0YzUDFtNGctUUM0TlRvQWxvN1BlQkxWOXdZM3pvN1EtTDczYnFfZDJvcHd5R0F5YW85UlMwZk9EaW5XeG9odDZuT0RqZzJ4YXFiaHdzZGNZQWp4YXhkOWRMZExPWXYyMk4yYjRHZ1FVNXVOWi02?oc=5"
+      "fonte": "CLIMAINFO.ORG.BR",
+      "rotuloData": "ONTEM",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSEI4a0pKLWllQUt3QkJOd2pxVUJXUUowUlFpYnZoM3dlVXh4bFhueVZaSm1LdGZwYzZUbm41Ny1JaG5GSU4xcHo3TmZQWUdnenN3TXRxbXlqYmdBeERlYmxYSVFsTHVRcno5dXpORC1EeWFnc1hNWDlFdmFRYWpobXVXTnp6LTk0Und0aTlLQWk?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "CRISTALINA",
-    "uf": "GO",
-    "valor": 2,
-    "seta": "↑",
-    "status": "ALERTA SECA"
+    "cidade": "UBERLÂNDIA",
+    "uf": "MG",
+    "valor": 90,
+    "seta": "↓",
+    "status": "ALERTA CHUVA"
   }
 }
