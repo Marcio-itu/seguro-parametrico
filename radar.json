@@ -1,25 +1,25 @@
 {
-  "atualizado_em": "2026-09-02T13:02:34.530202+00:00",
+  "atualizado_em": "2026-09-02T18:12:31.658810+00:00",
   "noticias": [
     {
-      "titulo": "Super El Niño pressiona safra de soja em MT e aumenta importância da escolha das sementes",
+      "titulo": "163 medidas para reduzir efeitos do el niño na safra 2026/27",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "O BOM DA NOTÍCIA",
+      "fonte": "O EMPALLADOR",
       "rotuloData": "ONTEM",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV2VDVXBISGFtR2dSWHRjTnRsU2VHSGZhRDUzV1pjRlVzVllrNDEyampHdUx5N0N6Q0ttWjgwVndTbHBwUGpTVlY4OUFmR0hYWmNKeHZLa0Riei1rU1JoNzhYOE1QSU5PQ1dvaGJmUHJaM01XNHBNSEhUcWU0MFliVmI2Q3ZZQVZHd0RISDZBRDUwVUtDYUlxNjVTWmdCUkQzOEVDZmhBXzNsS2dIb1o2Y0tpNWZ2RFpjM3dlN0pJVDhPVjNfaGNZN1dFakZ0YlFSZkh3Nmo5c1J0eVU?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRFlFLTd3M25WVnJpOGRaQUVEdkFkV2lwVTlRM2Z0RDJYVE1Ua2QtMmt5R1p3dENESnJjZzRRUUs1ODlaZ1ZjSUhGSXoxS09Wbm1zcFEzdVAtOVN2Rzc4dXZjb1MxWjlWbkRKNDJxSjFQT24yY3RlYXVJSm9VeFhuU0h2bVExMXNWVjl3MnFJWHVfUQ?oc=5"
     },
     {
-      "titulo": "Embrapa reúne 163 medidas para reduzir perdas agrícolas causadas pelo El Niño em 2026/2027",
+      "titulo": "Calor e seca elevam risco de praga na soja",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "FOLHA MS",
-      "rotuloData": "ONTEM",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTU9CY09lT1VWUTBfa05QbExINUtXb2hNZmFncjRpekZlXzhiaFplSXk2OUdDVUpncHJnbzR6LXJLdkVpaUotR0w0bVJuOElsY1JCVDdlbGFxaVFlZldFV2Y2WDlYNFpJWnpOXzZzYmo3bGlvcmxXOGZzNWFUNW1xVENRYXAxcUtOamZDNzRydVNXZl9NMlBNMUNFV0FPbWpK?oc=5"
+      "fonte": "AGROLINK",
+      "rotuloData": "HOJE",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTXQ3SlVZTTJ2V3VUVE5TQzAzNDBEQTZ0eEZpaUtybEx5NXk2bUVoNU53bHlKdkc4TlItclA2WjFqQ01fWFFOcWRvZ0pON0hEQ2U2TXY5QWxwQ3ZfcW9zbEd4dVRmc3dIVnBXYVFnU1hPa0RtQ1pxMmRXeXM2cXpFOXZLWG9rRzQ4U2Z2RFU4THd5MzB2OXc?oc=5"
     }
   ],
   "chuva": {
     "cidade": "UBERLÂNDIA",
     "uf": "MG",
-    "valor": 71,
+    "valor": 72,
     "seta": "↓",
     "status": "ALERTA CHUVA"
   }
