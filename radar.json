@@ -1,26 +1,26 @@
 {
-  "atualizado_em": "2026-09-02T18:12:31.658810+00:00",
+  "atualizado_em": "2026-09-02T22:53:25.006144+00:00",
   "noticias": [
     {
-      "titulo": "163 medidas para reduzir efeitos do el niño na safra 2026/27",
+      "titulo": "PIB da agropecuária cresce 2,8% no segundo trimestre, mas El Niño preocupa para a próxima safra",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "O EMPALLADOR",
+      "fonte": "O GLOBO",
       "rotuloData": "ONTEM",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRFlFLTd3M25WVnJpOGRaQUVEdkFkV2lwVTlRM2Z0RDJYVE1Ua2QtMmt5R1p3dENESnJjZzRRUUs1ODlaZ1ZjSUhGSXoxS09Wbm1zcFEzdVAtOVN2Rzc4dXZjb1MxWjlWbkRKNDJxSjFQT24yY3RlYXVJSm9VeFhuU0h2bVExMXNWVjl3MnFJWHVfUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObDh3Ny1oYlNxb2g2Q2VtY1JMc2tWdXctWnoydWtGTWc2dUJuVjlIVnlRemIyVzJyNzRFQmFsQUtOOG5WelBwMVQzWVJkOWN6MDNqR3V5UE9ENUtkb091WG1nT2U0UjBPcU1TNEVBcC1wU0Vmb2tZaDllaF83enh2bG9yVnZ1eEJscklydHJZTnlCZFFtMUFxZWdPcmVnWFEzeFdfMThEWUlPeDBUaWpxT253cTNVamRPYzA0b3ZtM2FUMmNmX0FLcHpnUFRyZkhvTmtQeEMyZTVtcnFaWlZLUlB1YmE1ZXRVTTdYTWMwMFNuNUFlY1AtUU5lVEZHZ9IB_gFBVV95cUxObDh3Ny1oYlNxb2g2Q2VtY1JMc2tWdXctWnoydWtGTWc2dUJuVjlIVnlRemIyVzJyNzRFQmFsQUtOOG5WelBwMVQzWVJkOWN6MDNqR3V5UE9ENUtkb091WG1nT2U0UjBPcU1TNEVBcC1wU0Vmb2tZaDllaF83enh2bG9yVnZ1eEJscklydHJZTnlCZFFtMUFxZWdPcmVnWFEzeFdfMThEWUlPeDBUaWpxT253cTNVamRPYzA0b3ZtM2FUMmNmX0FLcHpnUFRyZkhvTmtQeEMyZTVtcnFaWlZLUlB1YmE1ZXRVTTdYTWMwMFNuNUFlY1AtUU5lVEZHZw?oc=5"
     },
     {
-      "titulo": "Calor e seca elevam risco de praga na soja",
+      "titulo": "Especialistas pedem que população se prepare para o fenômeno mais poderoso dos últimos 150 anos que pode \"mudar\" o Brasil",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "AGROLINK",
-      "rotuloData": "HOJE",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTXQ3SlVZTTJ2V3VUVE5TQzAzNDBEQTZ0eEZpaUtybEx5NXk2bUVoNU53bHlKdkc4TlItclA2WjFqQ01fWFFOcWRvZ0pON0hEQ2U2TXY5QWxwQ3ZfcW9zbEd4dVRmc3dIVnBXYVFnU1hPa0RtQ1pxMmRXeXM2cXpFOXZLWG9rRzQ4U2Z2RFU4THd5MzB2OXc?oc=5"
+      "fonte": "DIÁRIO DO COMÉRCIO",
+      "rotuloData": "ONTEM",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOeGZmUk5OeTFzenVoWlFjdThNcWlqWWt2WTNjUTlBTktOSEwxanJ0cE9LWE1uRmZRWEc3TXpTZk5nV0NRX05IYnAzdUZBN0xnZ1BkLWFkRUIteEliak50U3BqaEM1c0plSEdMNmRRMHh3Rmhya05MTUdqOHFzNWVrbVVlVF8wWTluVDFldzNCTzFoUmJtanpKbnNvRmhndmp6TTUySzg0a2gtaHlqNGpaVmV0ZHdBX25WWmhjdnRSY0VOaUl2R3pvckVxdVFXWEtYSVFhcHNvdV9pUlhXSnpXZC1YMWxXZEpSSHNBaTVrdGpkZ21nNG1WV1pfN1g3ejVMUjM0YW9IbG9BbFE?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "UBERLÂNDIA",
-    "uf": "MG",
-    "valor": 72,
+    "cidade": "RIO VERDE",
+    "uf": "GO",
+    "valor": 41,
     "seta": "↓",
-    "status": "ALERTA CHUVA"
+    "status": "SOJA · MILHO"
   }
 }
