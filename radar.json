@@ -1,24 +1,24 @@
 {
-  "atualizado_em": "2026-09-03T18:11:08.222315+00:00",
+  "atualizado_em": "2026-09-03T22:52:42.007140+00:00",
   "noticias": [
     {
-      "titulo": "El Niño: entenda como sua influência intensifica a chuva no Sul do Brasil",
+      "titulo": "Quando o clima muda, a restauração também precisa mudar",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "O MUNICÍPIO",
-      "rotuloData": "ONTEM",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbTl6SXMxeHpBazZhRnQtRm1EM2RHVEJmSzZPMF9DWFVNNExoTkc2UlRLYUc2NzZtcDZJTmlVbFJJNzRLRTJYd0Nwa3dlNFlrUk1vQ21oc19vaTk1MzlPN0ZXRmZMYVlWZ3VJVXAtWG1hYXBVZ1BueHFSV2ZYb0lReU5Rb21lOXNaZl84cmNwWkFpQ2N2dl9fUHVGcnNPaWI5dHAxLVR5R1E?oc=5"
+      "fonte": "((O))ECO | JORNALISMO AMBIENTAL",
+      "rotuloData": "HOJE",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdE9Kd2h4cjUwMktaQkE1UFZxYmU3ck9NaTNnZUxlUlFuRnczSUFwZ0twOWo1ejRGb3ZqY09yM1U5NzRyY1cyazhtenBuRFBxaEpoVEFrN0ZtUFBKc2pxekVJVTBkeFJMVFRjTWh5bGlTdkVXR3ZKNFdjT1BBSnlaTVZVTlBTRmFRZ3Utdg?oc=5"
     },
     {
-      "titulo": "El Niño eleva risco climático para soja e milho na safra 2026/27 e exige manejo preventivo",
+      "titulo": "Super El Niño pode mudar o clima do Brasil nos próximos meses",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "PORTAL DO AGRONEGÓCIO",
-      "rotuloData": "HOJE",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRTdxcmlkYktBVHJkT0FsU2o5YklPdFVFZVBCTHlJUEs5S3dRX0xNdjNrejRuVTZSSXFJbGlYRlEta015bWFZdWhQdUFjWkJaS3ljdEc3T3VHY0dMaVdXUC1fTTFfaDZLemhsYzlJaDJFUzAyT0hzX3pzUHhYUFp0aXZLYS1vNFZqRnZHZDBTUDV1Y25qa2gyOGR2M3pyZTlXWG95Zjk0Y1RZMEtNX21qYkxFb0Nlc2pJb1JyeUpVZkU3bzVhd2FOeURhdHcydFoyRmItdDYxanBxT0VmR3lMM0NXTjZlTkdBX0Eyc1JB?oc=5"
+      "fonte": "IG ÚLTIMO SEGUNDO",
+      "rotuloData": "ONTEM",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSU9tdTFzQUw3RlVXSGdxa2VLWXB2YnRtQUZWM2JPSmhlcnAyMWtLbm5uQS1ybDdxRkNoRmxvQ1FNd3hxc1BRbmlvcVJ0V3dZa2hmOWpvb0ZycjBjVTl1YW5kSXA4a01XczN4a1FqZDZ6ZXFJLVV2aFNSekhLaHZKU0lCLU9YSUhPT3FubklBWnhoa1VqV2FJLVhzU0Z1MEFKWnkwT1JYd9IBrAFBVV95cUxQMEx6cTJBQ1lRNXdhXzRQRFYxTjF0cVFBcGFSeTA1MGMydUFITVdnalh4dldTLXF6TGFvYjVyMkJzVFRDRlF5d2RFTWNZQXJBYnc1ak1mVWJmR01QNHNKRF92eDdvd3NWa29JWU5XZTJIQ3lJNFZrekpSUzhlYndzOXVTZXBsQmtwZzgxcVAzcmZfU296QnZ3QmRzOC1CUmZodU8xQzZGWkVpUGtD?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "RIO VERDE",
-    "uf": "GO",
+    "cidade": "BARRETOS",
+    "uf": "SP",
     "valor": 0,
     "seta": "↑",
     "status": "ALERTA SECA"
