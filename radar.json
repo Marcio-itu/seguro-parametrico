@@ -1,23 +1,23 @@
 {
-  "atualizado_em": "2026-09-03T22:52:42.007140+00:00",
+  "atualizado_em": "2026-09-04T12:59:17.149215+00:00",
   "noticias": [
     {
-      "titulo": "Quando o clima muda, a restauração também precisa mudar",
+      "titulo": "El Niño ganha força e acende alerta para chuvas intensas e temporais no PR",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "((O))ECO | JORNALISMO AMBIENTAL",
+      "fonte": "RÁDIO UNIÃO DE TOLEDO",
       "rotuloData": "HOJE",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdE9Kd2h4cjUwMktaQkE1UFZxYmU3ck9NaTNnZUxlUlFuRnczSUFwZ0twOWo1ejRGb3ZqY09yM1U5NzRyY1cyazhtenBuRFBxaEpoVEFrN0ZtUFBKc2pxekVJVTBkeFJMVFRjTWh5bGlTdkVXR3ZKNFdjT1BBSnlaTVZVTlBTRmFRZ3Utdg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRXVtdmFsaEtWVks2UEJwQUU2bHJ0Rk9Bc2JtMElzeDFfcFR3SEV3WlE3OGFDd1BNVERtVEl5NHFfWnRGVzJLTlVJUE1Zanh2dkVnMkdQY1pORmI0MFRVYnhaRS1IT2pLNXZpR3JxNXhJRk9uVzlndmVWNWU4aHYwSVFXSGZEVF85Mk16V2RSOHNZYVR6eWpKZmxBa0FDaDRnZE1IajdHVWFGaW9NWHktMFdtN1pGSXltbWswZVZtQmo0OUlGbi12VWp5QQ?oc=5"
     },
     {
-      "titulo": "Super El Niño pode mudar o clima do Brasil nos próximos meses",
+      "titulo": "El Niño continua a ganhar intensidade e pode durar até fevereiro de 2027, alerta ONU",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "IG ÚLTIMO SEGUNDO",
-      "rotuloData": "ONTEM",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSU9tdTFzQUw3RlVXSGdxa2VLWXB2YnRtQUZWM2JPSmhlcnAyMWtLbm5uQS1ybDdxRkNoRmxvQ1FNd3hxc1BRbmlvcVJ0V3dZa2hmOWpvb0ZycjBjVTl1YW5kSXA4a01XczN4a1FqZDZ6ZXFJLVV2aFNSekhLaHZKU0lCLU9YSUhPT3FubklBWnhoa1VqV2FJLVhzU0Z1MEFKWnkwT1JYd9IBrAFBVV95cUxQMEx6cTJBQ1lRNXdhXzRQRFYxTjF0cVFBcGFSeTA1MGMydUFITVdnalh4dldTLXF6TGFvYjVyMkJzVFRDRlF5d2RFTWNZQXJBYnc1ak1mVWJmR01QNHNKRF92eDdvd3NWa29JWU5XZTJIQ3lJNFZrekpSUzhlYndzOXVTZXBsQmtwZzgxcVAzcmZfU296QnZ3QmRzOC1CUmZodU8xQzZGWkVpUGtD?oc=5"
+      "fonte": "G1",
+      "rotuloData": "HOJE",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNemFNdDJoQUJvM2RwNlc0d0ItNFBsLUhDY01xelp4NHZyaUhIXy1naU9ILUhpa19QeFM0UmJQOVMxUkFNV0x0YXpmbDdHWHdzMHVqNkJQU1ZhR2tlX0ZpU0FfcnVYb3FoX3ZiQjRjcGZxTVJUZ3o3aUd1M1VEZEhpWFJLX2RJRHcyLTNId0tlSk56MVlDZnowSndrNHZOWkVubGVvdEhFQVRFakI3dlJmd3RBblNoT0Z5YlBxSDNMck5QNnNTaV9uRWh4NklwZkJ5NGc4d2pDLTY3Y2o2NHfSAewBQVVfeXFMUFpqb0Nwa0pXVGRoczYwNkJVTWRMajZ6Sm5US3VFWEJPQjdYRmNfa1JiWVA5Rl9tQlpya3RWLTIzbVdnUENaU0VJUHlRMnlhNGdNWjNlRUxRYm9yeTJKZnVQenNxVGdOVWJJdHVwN2t3SlU1eHhfSC02QklISnMxYk5tLUJSbE9xXzBXZk9WMGtNWTFGVll0NGtXLW9tcXNtYXNYTkRLTkc0bVE0TF93RXcwNUFRbUNwcUwySjl0bjYzbkg4emtRMDMxTmtWbjlURTlFRTBGRm5qazBKZGlXWXZyMFhXWjFKZ3JPb0Y?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "BARRETOS",
+    "cidade": "RIBEIRÃO PRETO",
     "uf": "SP",
     "valor": 0,
     "seta": "↑",
