@@ -1,26 +1,26 @@
 {
-  "atualizado_em": "2026-09-04T12:59:17.149215+00:00",
+  "atualizado_em": "2026-09-04T17:52:44.247419+00:00",
   "noticias": [
     {
-      "titulo": "El Niño ganha força e acende alerta para chuvas intensas e temporais no PR",
+      "titulo": "OMM confirma Super El Niño e eleva alerta para a agricultura",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "RÁDIO UNIÃO DE TOLEDO",
+      "fonte": "CANAL RURAL",
       "rotuloData": "HOJE",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRXVtdmFsaEtWVks2UEJwQUU2bHJ0Rk9Bc2JtMElzeDFfcFR3SEV3WlE3OGFDd1BNVERtVEl5NHFfWnRGVzJLTlVJUE1Zanh2dkVnMkdQY1pORmI0MFRVYnhaRS1IT2pLNXZpR3JxNXhJRk9uVzlndmVWNWU4aHYwSVFXSGZEVF85Mk16V2RSOHNZYVR6eWpKZmxBa0FDaDRnZE1IajdHVWFGaW9NWHktMFdtN1pGSXltbWswZVZtQmo0OUlGbi12VWp5QQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc1kyWVh4YmRVdTRaM0NHX2xHOUN0SkN6M1cwb3VPZ3kwUjB6My1vc2RKMzlCY0tlSml2T0hqaHZoWjR3UXc2bTdFTjc4QXNwVUk5UnZBbXdmNUdEVW9fZDdtZERkbE9lRjJFNktaVUM5YnRvUUJybHloTFVINkd1NFF4WWRRTGRneTRzQ2x3YlozZkdEbklLYlJFMkd5QVZaSGNSb0F3?oc=5"
     },
     {
-      "titulo": "El Niño continua a ganhar intensidade e pode durar até fevereiro de 2027, alerta ONU",
+      "titulo": "El Niño pode ficar mais intenso e durar até 2027, alerta ONU",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "G1",
+      "fonte": "SCC10",
       "rotuloData": "HOJE",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNemFNdDJoQUJvM2RwNlc0d0ItNFBsLUhDY01xelp4NHZyaUhIXy1naU9ILUhpa19QeFM0UmJQOVMxUkFNV0x0YXpmbDdHWHdzMHVqNkJQU1ZhR2tlX0ZpU0FfcnVYb3FoX3ZiQjRjcGZxTVJUZ3o3aUd1M1VEZEhpWFJLX2RJRHcyLTNId0tlSk56MVlDZnowSndrNHZOWkVubGVvdEhFQVRFakI3dlJmd3RBblNoT0Z5YlBxSDNMck5QNnNTaV9uRWh4NklwZkJ5NGc4d2pDLTY3Y2o2NHfSAewBQVVfeXFMUFpqb0Nwa0pXVGRoczYwNkJVTWRMajZ6Sm5US3VFWEJPQjdYRmNfa1JiWVA5Rl9tQlpya3RWLTIzbVdnUENaU0VJUHlRMnlhNGdNWjNlRUxRYm9yeTJKZnVQenNxVGdOVWJJdHVwN2t3SlU1eHhfSC02QklISnMxYk5tLUJSbE9xXzBXZk9WMGtNWTFGVll0NGtXLW9tcXNtYXNYTkRLTkc0bVE0TF93RXcwNUFRbUNwcUwySjl0bjYzbkg4emtRMDMxTmtWbjlURTlFRTBGRm5qazBKZGlXWXZyMFhXWjFKZ3JPb0Y?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVDh3YzBISHIyUk1IRjdtSVUxWVNQMk9OZk1fekF2SkwxUkRBVk54aEFlTTlXdjRBTVBLcE1RRVhDTHljRFZEcEVnV2NjeVlKcU1nS0VGSDhrUkdsTkVCSjRBMWdBc2dhc0hIa1BxUUo4QWY4OWRkWXpIMVBPUVVTaHNhakNIU1ZfRndSRE0xaU1wUjQ4UmdybDVLbl9zZw?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "RIBEIRÃO PRETO",
-    "uf": "SP",
-    "valor": 0,
-    "seta": "↑",
-    "status": "ALERTA SECA"
+    "cidade": "BALSAS",
+    "uf": "MA",
+    "valor": 95,
+    "seta": "↓",
+    "status": "ALERTA CHUVA"
   }
 }
