@@ -1,26 +1,26 @@
 {
-  "atualizado_em": "2026-09-04T17:52:44.247419+00:00",
+  "atualizado_em": "2026-09-04T22:36:42.640368+00:00",
   "noticias": [
     {
-      "titulo": "OMM confirma Super El Niño e eleva alerta para a agricultura",
+      "titulo": "Probabilidade de o El Niño ser muito forte neste trimestre é de 90%",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CANAL RURAL",
-      "rotuloData": "HOJE",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc1kyWVh4YmRVdTRaM0NHX2xHOUN0SkN6M1cwb3VPZ3kwUjB6My1vc2RKMzlCY0tlSml2T0hqaHZoWjR3UXc2bTdFTjc4QXNwVUk5UnZBbXdmNUdEVW9fZDdtZERkbE9lRjJFNktaVUM5YnRvUUJybHloTFVINkd1NFF4WWRRTGRneTRzQ2x3YlozZkdEbklLYlJFMkd5QVZaSGNSb0F3?oc=5"
+      "fonte": "AGÊNCIA BRASIL",
+      "rotuloData": "ONTEM",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaUs4QlJZdU5ld3RhVzFQNTREWFdiUVNoZEZWY2JwX1YxSkprbkl0M04xUzJadU9mc2ZLM0pEMXZFWlh5UjJpbzVnN09kVlRrVGE5UGQxeVZVaDQxRDA1eGJmU042bFJUUFBCY0FfWC1xZ0ZpNkNwRFN4MnU4NHNVWU9vUTBvMDdRT1FlQVFyVko3bm1qTmtONmNWei0xTERpNWZaSFdpd2oyclVXblo0SW1JNWk0M01ueW10enhXZ2VYdkNaTmN4Vm5Ma0FLQzRfaFQtMW5tUVl2Wi11R09HcTBoVQ?oc=5"
     },
     {
-      "titulo": "El Niño pode ficar mais intenso e durar até 2027, alerta ONU",
+      "titulo": "ONU prevê El Niño muito forte, alerta para extremos e projeta pico em 2026",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "SCC10",
-      "rotuloData": "HOJE",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVDh3YzBISHIyUk1IRjdtSVUxWVNQMk9OZk1fekF2SkwxUkRBVk54aEFlTTlXdjRBTVBLcE1RRVhDTHljRFZEcEVnV2NjeVlKcU1nS0VGSDhrUkdsTkVCSjRBMWdBc2dhc0hIa1BxUUo4QWY4OWRkWXpIMVBPUVVTaHNhakNIU1ZfRndSRE0xaU1wUjQ4UmdybDVLbl9zZw?oc=5"
+      "fonte": "CNN BRASIL",
+      "rotuloData": "ONTEM",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaGxBZ0F0TUZjYjR1dkhOT2tpVUFfMnQyQWhfaEZvZTVNMVRBcUlOckdzdWN4c2RJdFMzSHJ3cXZMeENyYXJDLTQ5aVNPQ3RZQ1huQllCLVl3bkxwcWJpNlE3ZTRoRlFhQlpxSzVlelBkTkhDZXNmcXp6eUREZC1VS3FhRWpIRmpROGFzMFdCUTdJT2l4azNFZGQxcHRMYjdybDAzWGsxczhxSHNMZk1BSA?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "BALSAS",
-    "uf": "MA",
-    "valor": 95,
+    "cidade": "L.E. MAGALHÃES",
+    "uf": "BA",
+    "valor": 34,
     "seta": "↓",
-    "status": "ALERTA CHUVA"
+    "status": "SOJA"
   }
 }
