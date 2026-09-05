@@ -1,26 +1,26 @@
 {
-  "atualizado_em": "2026-09-05T12:11:38.727643+00:00",
+  "atualizado_em": "2026-09-05T16:59:12.794900+00:00",
   "noticias": [
     {
-      "titulo": "Probabilidade de o El Niño ser muito forte neste trimestre é de 90%",
+      "titulo": "El Niño pode favorecer chuva extrema no RS até novembro",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "AGÊNCIA BRASIL",
+      "fonte": "AGORA RS",
       "rotuloData": "ONTEM",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaUs4QlJZdU5ld3RhVzFQNTREWFdiUVNoZEZWY2JwX1YxSkprbkl0M04xUzJadU9mc2ZLM0pEMXZFWlh5UjJpbzVnN09kVlRrVGE5UGQxeVZVaDQxRDA1eGJmU042bFJUUFBCY0FfWC1xZ0ZpNkNwRFN4MnU4NHNVWU9vUTBvMDdRT1FlQVFyVko3bm1qTmtONmNWei0xTERpNWZaSFdpd2oyclVXblo0SW1JNWk0M01ueW10enhXZ2VYdkNaTmN4Vm5Ma0FLQzRfaFQtMW5tUVl2Wi11R09HcTBoVQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWExuRVJ2WjNMWTktX3FkSGZlY1R3UGZ3QkJWeUhOb291ZWt6Q0ZKM1NmU2o2ckpKLTZOYmNPQjM2dXRZUWE2SWRjcEQ3Q2NtVGpNOVp3NV9RZEZiSGg3eExGSEFuZXU4YlIxakVpcTFURXo3TUJsaU9ROXdlbHJ3Wm9tZHRVd2o0X1dr?oc=5"
     },
     {
-      "titulo": "OMM alerta para fortalecimento do El Niño e prevê impactos no clima do Brasil",
+      "titulo": "El Niño: levantamento aponta quais estados têm plano de manejo do fogo",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "REALNEWS.COM.BR",
-      "rotuloData": "HOJE",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZzJaWXl5X0RUdnB2TFpLNy1aUTBkUkdRbkNjQVhVTEVteTJlR19yT1B5QjlkanVzcmhvNXpIa0VtOEtlQ04zeHN5Y1dVWXZZdFZKSVBvZDBQRjVrOW5zdnYtSklZWV9YUjEzOHVKcTRwWTNJVURSN2tGcmx1ek1UR0R4VzVnMUk?oc=5"
+      "fonte": "CNN BRASIL",
+      "rotuloData": "ONTEM",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS3hocVNRVmJjWjN5bWhUOEd1S0VoZ2VEejJ4YUhWY2xkY3dWc3ZiRlQ5RlhzMTRGa0F5bVNrSUVqNHVSRWNJWGtWVFk5VHdQRFkwXzNoUkJIdC1xSF9YUG1KaTdnc2hvMUVWX0R0R3o1a1NfbVB6cXlyVEF0ZEVTS3BNbVlwVHZKcHhfcmlSOUFmWnRBaVJIcWk1Zlhxb0h4ZkFqU1FaNkIxM3BQWWM1VXFhYklidw?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "PALOTINA",
-    "uf": "PR",
-    "valor": 88,
-    "seta": "↓",
+    "cidade": "RIO VERDE",
+    "uf": "GO",
+    "valor": 75,
+    "seta": "↑",
     "status": "ALERTA CHUVA"
   }
 }
