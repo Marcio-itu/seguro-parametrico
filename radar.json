@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-04T22:36:42.640368+00:00",
+  "atualizado_em": "2026-09-05T12:11:38.727643+00:00",
   "noticias": [
     {
       "titulo": "Probabilidade de o El Niño ser muito forte neste trimestre é de 90%",
@@ -9,18 +9,18 @@
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaUs4QlJZdU5ld3RhVzFQNTREWFdiUVNoZEZWY2JwX1YxSkprbkl0M04xUzJadU9mc2ZLM0pEMXZFWlh5UjJpbzVnN09kVlRrVGE5UGQxeVZVaDQxRDA1eGJmU042bFJUUFBCY0FfWC1xZ0ZpNkNwRFN4MnU4NHNVWU9vUTBvMDdRT1FlQVFyVko3bm1qTmtONmNWei0xTERpNWZaSFdpd2oyclVXblo0SW1JNWk0M01ueW10enhXZ2VYdkNaTmN4Vm5Ma0FLQzRfaFQtMW5tUVl2Wi11R09HcTBoVQ?oc=5"
     },
     {
-      "titulo": "ONU prevê El Niño muito forte, alerta para extremos e projeta pico em 2026",
+      "titulo": "OMM alerta para fortalecimento do El Niño e prevê impactos no clima do Brasil",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CNN BRASIL",
-      "rotuloData": "ONTEM",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaGxBZ0F0TUZjYjR1dkhOT2tpVUFfMnQyQWhfaEZvZTVNMVRBcUlOckdzdWN4c2RJdFMzSHJ3cXZMeENyYXJDLTQ5aVNPQ3RZQ1huQllCLVl3bkxwcWJpNlE3ZTRoRlFhQlpxSzVlelBkTkhDZXNmcXp6eUREZC1VS3FhRWpIRmpROGFzMFdCUTdJT2l4azNFZGQxcHRMYjdybDAzWGsxczhxSHNMZk1BSA?oc=5"
+      "fonte": "REALNEWS.COM.BR",
+      "rotuloData": "HOJE",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZzJaWXl5X0RUdnB2TFpLNy1aUTBkUkdRbkNjQVhVTEVteTJlR19yT1B5QjlkanVzcmhvNXpIa0VtOEtlQ04zeHN5Y1dVWXZZdFZKSVBvZDBQRjVrOW5zdnYtSklZWV9YUjEzOHVKcTRwWTNJVURSN2tGcmx1ek1UR0R4VzVnMUk?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "L.E. MAGALHÃES",
-    "uf": "BA",
-    "valor": 34,
+    "cidade": "PALOTINA",
+    "uf": "PR",
+    "valor": 88,
     "seta": "↓",
-    "status": "SOJA"
+    "status": "ALERTA CHUVA"
   }
 }
