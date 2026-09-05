@@ -1,26 +1,26 @@
 {
-  "atualizado_em": "2026-09-05T16:59:12.794900+00:00",
+  "atualizado_em": "2026-09-05T22:26:28.417602+00:00",
   "noticias": [
     {
-      "titulo": "El Niño pode favorecer chuva extrema no RS até novembro",
+      "titulo": "El Niño continua a ganhar intensidade e pode durar até fevereiro de 2027, alerta ONU",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "AGORA RS",
+      "fonte": "G1",
       "rotuloData": "ONTEM",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWExuRVJ2WjNMWTktX3FkSGZlY1R3UGZ3QkJWeUhOb291ZWt6Q0ZKM1NmU2o2ckpKLTZOYmNPQjM2dXRZUWE2SWRjcEQ3Q2NtVGpNOVp3NV9RZEZiSGg3eExGSEFuZXU4YlIxakVpcTFURXo3TUJsaU9ROXdlbHJ3Wm9tZHRVd2o0X1dr?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNemFNdDJoQUJvM2RwNlc0d0ItNFBsLUhDY01xelp4NHZyaUhIXy1naU9ILUhpa19QeFM0UmJQOVMxUkFNV0x0YXpmbDdHWHdzMHVqNkJQU1ZhR2tlX0ZpU0FfcnVYb3FoX3ZiQjRjcGZxTVJUZ3o3aUd1M1VEZEhpWFJLX2RJRHcyLTNId0tlSk56MVlDZnowSndrNHZOWkVubGVvdEhFQVRFakI3dlJmd3RBblNoT0Z5YlBxSDNMck5QNnNTaV9uRWh4NklwZkJ5NGc4d2pDLTY3Y2o2NHfSAewBQVVfeXFMUFpqb0Nwa0pXVGRoczYwNkJVTWRMajZ6Sm5US3VFWEJPQjdYRmNfa1JiWVA5Rl9tQlpya3RWLTIzbVdnUENaU0VJUHlRMnlhNGdNWjNlRUxRYm9yeTJKZnVQenNxVGdOVWJJdHVwN2t3SlU1eHhfSC02QklISnMxYk5tLUJSbE9xXzBXZk9WMGtNWTFGVll0NGtXLW9tcXNtYXNYTkRLTkc0bVE0TF93RXcwNUFRbUNwcUwySjl0bjYzbkg4emtRMDMxTmtWbjlURTlFRTBGRm5qazBKZGlXWXZyMFhXWjFKZ3JPb0Y?oc=5"
     },
     {
-      "titulo": "El Niño: levantamento aponta quais estados têm plano de manejo do fogo",
+      "titulo": "El Niño aumenta risco de seca no Espírito Santo",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CNN BRASIL",
+      "fonte": "ESBRASIL.COM.BR",
       "rotuloData": "ONTEM",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS3hocVNRVmJjWjN5bWhUOEd1S0VoZ2VEejJ4YUhWY2xkY3dWc3ZiRlQ5RlhzMTRGa0F5bVNrSUVqNHVSRWNJWGtWVFk5VHdQRFkwXzNoUkJIdC1xSF9YUG1KaTdnc2hvMUVWX0R0R3o1a1NfbVB6cXlyVEF0ZEVTS3BNbVlwVHZKcHhfcmlSOUFmWnRBaVJIcWk1Zlhxb0h4ZkFqU1FaNkIxM3BQWWM1VXFhYklidw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XbVlHVHRLSTVuRlJzaTF5RUJhNU11Y2xIekhTSVFDbTh5ME9CeG5VVHJlaTF2dk93dGlURXFfVjZRUDRyLXZLdW5HZXN3d0xQeEwxWE5wSDczRXc?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "RIO VERDE",
-    "uf": "GO",
-    "valor": 75,
-    "seta": "↑",
+    "cidade": "RIBEIRÃO PRETO",
+    "uf": "SP",
+    "valor": 90,
+    "seta": "↓",
     "status": "ALERTA CHUVA"
   }
 }
