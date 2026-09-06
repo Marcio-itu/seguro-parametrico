@@ -1,26 +1,26 @@
 {
-  "atualizado_em": "2026-09-05T22:26:28.417602+00:00",
+  "atualizado_em": "2026-09-06T12:26:14.380130+00:00",
   "noticias": [
     {
-      "titulo": "El Niño continua a ganhar intensidade e pode durar até fevereiro de 2027, alerta ONU",
+      "titulo": "Brasil terá chuva, calor e seca nos próximos meses por causa do El Niño: veja onde",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "G1",
+      "fonte": "COMPRERURAL",
       "rotuloData": "ONTEM",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNemFNdDJoQUJvM2RwNlc0d0ItNFBsLUhDY01xelp4NHZyaUhIXy1naU9ILUhpa19QeFM0UmJQOVMxUkFNV0x0YXpmbDdHWHdzMHVqNkJQU1ZhR2tlX0ZpU0FfcnVYb3FoX3ZiQjRjcGZxTVJUZ3o3aUd1M1VEZEhpWFJLX2RJRHcyLTNId0tlSk56MVlDZnowSndrNHZOWkVubGVvdEhFQVRFakI3dlJmd3RBblNoT0Z5YlBxSDNMck5QNnNTaV9uRWh4NklwZkJ5NGc4d2pDLTY3Y2o2NHfSAewBQVVfeXFMUFpqb0Nwa0pXVGRoczYwNkJVTWRMajZ6Sm5US3VFWEJPQjdYRmNfa1JiWVA5Rl9tQlpya3RWLTIzbVdnUENaU0VJUHlRMnlhNGdNWjNlRUxRYm9yeTJKZnVQenNxVGdOVWJJdHVwN2t3SlU1eHhfSC02QklISnMxYk5tLUJSbE9xXzBXZk9WMGtNWTFGVll0NGtXLW9tcXNtYXNYTkRLTkc0bVE0TF93RXcwNUFRbUNwcUwySjl0bjYzbkg4emtRMDMxTmtWbjlURTlFRTBGRm5qazBKZGlXWXZyMFhXWjFKZ3JPb0Y?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcUNVWWQwQk03ZUxycWhTbHE4d3FaWHZsRDB5ZjQ0RWx5V2xOWEFseGRLT0tzOWpkdmlsYjRfUEd5UWlPMVR5Q3dZakVRekE0STJQYjduMHRSeU0xY3RiQi1tZWlDZEFsbmVnR2IzSXNxVkFXOWtCUjgwM1N2MlpoQ21KN3dYRkNhRldTc3VmN1BpSlU5QWhrUXlMTzB0Y0hSY1ctTks2RmVoZHNnZElWSU82am1nQ00?oc=5"
     },
     {
-      "titulo": "El Niño aumenta risco de seca no Espírito Santo",
+      "titulo": "Embrapa Apresenta 163 Medidas para Mitigar Riscos do El Niño na Safra 2026/27. Veja os Destaques do AgroRound",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "ESBRASIL.COM.BR",
+      "fonte": "FORBES BRASIL",
       "rotuloData": "ONTEM",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XbVlHVHRLSTVuRlJzaTF5RUJhNU11Y2xIekhTSVFDbTh5ME9CeG5VVHJlaTF2dk93dGlURXFfVjZRUDRyLXZLdW5HZXN3d0xQeEwxWE5wSDczRXc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUHlPVWdUX0JKTmFtalFSYXNZcTY1SlhZZ25sd0VDSkliMFAwZzNWZk9jUkdiQzRDNG9vbElVVzJadlotTGtSYV9lZ3NlX0FmWGYtWFV6SGlxWmtCR0RoVndDN01Yem55aWpzUzl6YV9zVy1GTkkzeU40bXhTcWc1YmhpQXBJUmxHX0QxZzRxamJTRlVwNlRKWjFjei02RHhCaUNKV3F4M2dyaGx1RWRwQTZZNmk2SXBqQThqMnRrM2Z0d1p0V291RmlHekFpcmFKeXBKVmFNUkgtdVBmWUZzYnpPQ0gzQQ?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "RIBEIRÃO PRETO",
-    "uf": "SP",
-    "valor": 90,
-    "seta": "↓",
+    "cidade": "CRISTALINA",
+    "uf": "GO",
+    "valor": 93,
+    "seta": "↑",
     "status": "ALERTA CHUVA"
   }
 }
