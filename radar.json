@@ -1,11 +1,26 @@
 {
-  "atualizado_em": "2026-09-06T17:23:41.962614+00:00",
-  "noticias": [],
+  "atualizado_em": "2026-09-06T22:31:08.864345+00:00",
+  "noticias": [
+    {
+      "titulo": "El Niño explica tornado e chuva persistente no sul do Estado, diz meteorologista",
+      "resumo": "Leia a matéria completa na fonte original.",
+      "fonte": "GZH",
+      "rotuloData": "ONTEM",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRXR5eWV5aFkzeHp3NDhJVFJDT3VNdWN0UUVuaDB5cmd1R2JjMy1GYXVOa08ySlZkamZRazdGVVhmaF9YRy1pSVRvd0I4V29CZEI5QVh1LUZHcVR4MEw1Ni14WktUbDEyZ2ZiWVpENUU3aEcxVWhpR3dudF90R1lKOWJSVUxvdVRZTEt4ZkU1eDgySGtGdGNKanNQTHJDZ2tNMFBUWTNxZlV3b1hVWWVHajlqSTBVMmpRckY0R2lkcGNtUDBfeHdhQV9seWRCWXNIVE92RmVMcXVrdEtCa1Z3Y2NFaUxQMXNLZHZvM1pkeGhxSmtGMG9EYnlkcDYzMkdJSXpv?oc=5"
+    },
+    {
+      "titulo": "El Niño deve ficar muito forte e levar eventos extremos até 2027",
+      "resumo": "Leia a matéria completa na fonte original.",
+      "fonte": "COSTA NORTE",
+      "rotuloData": "ONTEM",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZUF6OE5ESlVWV1VvSU5BR3NVN29ubDBxb0Z6RldCT3p2dDc3SkhFZEM2VHE5YWZrTV9DUENzd3dYNVNpc29OeXlWQ3lUVlRJWVpVNjZfbHpka3lwRWRDQTdIeUFtcnN4czZhZVpUZk1GZFlaVTEtNklJV3VKdHZTRmJ5N0pEaXMzaENXWHUwVXQ4d3pNbDF4UzRXYjE0Rm41ZHdZ0gGoAUFVX3lxTE5HRTJJdzVQSEkyRjc5TFE3Q0tBSTdGMGx4QVk4TjFjVkFMZkVpZnhFb2M2MHJpWFdrVmI1Rlpud3Q0Tko3S2JOWUpidmtqSFZWaFBGMXB0cnVvbUhsSmNWZVAwWXFGVmVQY1pjTDh6dGk1ZjhFUGVYbHZoZzhVRnJIVWlzRkZGVVlyMUVuelc1Z0lQYWVJWS1wYkpfOFpLUHR1TnFZUGNrVA?oc=5"
+    }
+  ],
   "chuva": {
-    "cidade": "RIO VERDE",
-    "uf": "GO",
-    "valor": 90,
+    "cidade": "BALSAS",
+    "uf": "MA",
+    "valor": 65,
     "seta": "↓",
-    "status": "ALERTA CHUVA"
+    "status": "SOJA"
   }
 }
