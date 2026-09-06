@@ -1,26 +1,11 @@
 {
-  "atualizado_em": "2026-09-06T12:26:14.380130+00:00",
-  "noticias": [
-    {
-      "titulo": "Brasil terá chuva, calor e seca nos próximos meses por causa do El Niño: veja onde",
-      "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "COMPRERURAL",
-      "rotuloData": "ONTEM",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcUNVWWQwQk03ZUxycWhTbHE4d3FaWHZsRDB5ZjQ0RWx5V2xOWEFseGRLT0tzOWpkdmlsYjRfUEd5UWlPMVR5Q3dZakVRekE0STJQYjduMHRSeU0xY3RiQi1tZWlDZEFsbmVnR2IzSXNxVkFXOWtCUjgwM1N2MlpoQ21KN3dYRkNhRldTc3VmN1BpSlU5QWhrUXlMTzB0Y0hSY1ctTks2RmVoZHNnZElWSU82am1nQ00?oc=5"
-    },
-    {
-      "titulo": "Embrapa Apresenta 163 Medidas para Mitigar Riscos do El Niño na Safra 2026/27. Veja os Destaques do AgroRound",
-      "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "FORBES BRASIL",
-      "rotuloData": "ONTEM",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUHlPVWdUX0JKTmFtalFSYXNZcTY1SlhZZ25sd0VDSkliMFAwZzNWZk9jUkdiQzRDNG9vbElVVzJadlotTGtSYV9lZ3NlX0FmWGYtWFV6SGlxWmtCR0RoVndDN01Yem55aWpzUzl6YV9zVy1GTkkzeU40bXhTcWc1YmhpQXBJUmxHX0QxZzRxamJTRlVwNlRKWjFjei02RHhCaUNKV3F4M2dyaGx1RWRwQTZZNmk2SXBqQThqMnRrM2Z0d1p0V291RmlHekFpcmFKeXBKVmFNUkgtdVBmWUZzYnpPQ0gzQQ?oc=5"
-    }
-  ],
+  "atualizado_em": "2026-09-06T17:23:41.962614+00:00",
+  "noticias": [],
   "chuva": {
-    "cidade": "CRISTALINA",
+    "cidade": "RIO VERDE",
     "uf": "GO",
-    "valor": 93,
-    "seta": "↑",
+    "valor": 90,
+    "seta": "↓",
     "status": "ALERTA CHUVA"
   }
 }
