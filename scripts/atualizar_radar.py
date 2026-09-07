@@ -99,6 +99,7 @@ def buscar_noticias():
                 "resumo": resumo or "Leia a matéria completa na fonte original.",
                 "fonte": (fonte or "Google News").upper(),
                 "rotuloData": rotulo,
+                "publicadoEm": data_pub.isoformat(),
                 "link": link_el.text.strip(),
             }
         )
