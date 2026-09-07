@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-07T18:54:40.904715+00:00",
+  "atualizado_em": "2026-09-07T23:07:37.471494+00:00",
   "noticias": [
     {
       "titulo": "OMM prevê El Niño excepcional com duração até fevereiro de 2027",
@@ -10,19 +10,19 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdlYxeWtLT3p4dElrSmY3MUdtUWVFQ0haTUxSS0laejRaSnRhX2x0bXVZWG01Yjd3aVNoVExtcG1sR3hTQ0pwQ2JVMi12YVVIUHVJZXVnT3NyWFRveXdheHMzZTBVdTFXRmJFNG1ZN1hoclN4NVpJVzByOUM2TDdWX0pwazcxRGRGSDJxU0JNTW11Vk43TUxadUJ1ZUhFRmpkSTBn?oc=5"
     },
     {
-      "titulo": "Série do EPTV 1 explica como o Super El Niño mexe com o clima da região",
+      "titulo": "El Niño: levantamento aponta quais estados têm plano de manejo do fogo",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "G1",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-09-07T17:34:11+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNkNJd1hLSWppcWZJdjdWc2xqS3lRV0JYbm1HMnVIT0hiT0dENG1TRW91LWVaQmhWcFIwb1BlblR2NGZnVEhhZFVDSzVaRFZSVEhwWDF5V0VLV1p0Mnl0UWgwY1pjd2hEbDJ0Y09tLWk3QWt1cm1yNHBKU2FYUE1wcVRjTFljRlhrZzM4clVFb2lHVVE4UzVHUTFiTWtZYWN0bHBrZks3WHY5LXdWRWtwUHhWdTNmLWwxVERfclRzTnhvZl9YVEtFRDRFQXFxTlZQbU9YTlExbVRmbjRwQTZCRHpiY3hfeXgtWUQxRDFzWDBFQdIBgAJBVV95cUxNYWJxQUxlTE9qd0ZLdVlEV2ZfcnFHdWFWLWZ4SE9tSWdqcDlYTmE5OFhWdEpLNDJIRHFienJSaXpLYWtkTWNpY2ZSSElFeEVaWkQtZ0RJS0VkbFMzOWJ0R1hOY1dra3phcW5SWHRCV1FkVVN0TGVuZzlvVWhiRmxqSi1SSEh6WUwzemZRV3l6MldXelpBYlJPMXRwWDNIeFVyUi1uaWFySnFoT1NlTW9CREVqME9oR0pEVTdJc3RGaWRvRTd1cmo2X1JGRUZNbkVCcmk5N2F4WXdpNXRiQnBjOGVCdzBWbE1GdXZGZ3F4Q29Mb29ad0lWNzNoS214X2I3?oc=5"
+      "fonte": "CNN BRASIL",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-09-06T20:33:52+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS3hocVNRVmJjWjN5bWhUOEd1S0VoZ2VEejJ4YUhWY2xkY3dWc3ZiRlQ5RlhzMTRGa0F5bVNrSUVqNHVSRWNJWGtWVFk5VHdQRFkwXzNoUkJIdC1xSF9YUG1KaTdnc2hvMUVWX0R0R3o1a1NfbVB6cXlyVEF0ZEVTS3BNbVlwVHZKcHhfcmlSOUFmWnRBaVJIcWk1Zlhxb0h4ZkFqU1FaNkIxM3BQWWM1VXFhYklidw?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "UBERLÂNDIA",
-    "uf": "MG",
-    "valor": 100,
-    "seta": "↓",
-    "status": "ALERTA CHUVA"
+    "cidade": "CASCAVEL",
+    "uf": "PR",
+    "valor": 0,
+    "seta": "↑",
+    "status": "ALERTA SECA"
   }
 }
