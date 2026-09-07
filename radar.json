@@ -1,26 +1,26 @@
 {
-  "atualizado_em": "2026-09-06T22:31:08.864345+00:00",
+  "atualizado_em": "2026-08-24T18:30:00+00:00",
   "noticias": [
     {
-      "titulo": "El Niño explica tornado e chuva persistente no sul do Estado, diz meteorologista",
-      "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "GZH",
-      "rotuloData": "ONTEM",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRXR5eWV5aFkzeHp3NDhJVFJDT3VNdWN0UUVuaDB5cmd1R2JjMy1GYXVOa08ySlZkamZRazdGVVhmaF9YRy1pSVRvd0I4V29CZEI5QVh1LUZHcVR4MEw1Ni14WktUbDEyZ2ZiWVpENUU3aEcxVWhpR3dudF90R1lKOWJSVUxvdVRZTEt4ZkU1eDgySGtGdGNKanNQTHJDZ2tNMFBUWTNxZlV3b1hVWWVHajlqSTBVMmpRckY0R2lkcGNtUDBfeHdhQV9seWRCWXNIVE92RmVMcXVrdEtCa1Z3Y2NFaUxQMXNLZHZvM1pkeGhxSmtGMG9EYnlkcDYzMkdJSXpv?oc=5"
+      "titulo": "El Niño em 2026: INMET projeta probabilidade superior a 80% até o fim do ano",
+      "resumo": "Instituto Nacional de Meteorologia acompanha modelos internacionais sobre a confirmação do fenômeno no segundo semestre de 2026.",
+      "fonte": "INMET",
+      "rotuloData": "HOJE",
+      "link": "https://portal.inmet.gov.br/noticias/el-ni%C3%B1o-em-2026"
     },
     {
-      "titulo": "El Niño deve ficar muito forte e levar eventos extremos até 2027",
-      "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "COSTA NORTE",
-      "rotuloData": "ONTEM",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZUF6OE5ESlVWV1VvSU5BR3NVN29ubDBxb0Z6RldCT3p2dDc3SkhFZEM2VHE5YWZrTV9DUENzd3dYNVNpc29OeXlWQ3lUVlRJWVpVNjZfbHpka3lwRWRDQTdIeUFtcnN4czZhZVpUZk1GZFlaVTEtNklJV3VKdHZTRmJ5N0pEaXMzaENXWHUwVXQ4d3pNbDF4UzRXYjE0Rm41ZHdZ0gGoAUFVX3lxTE5HRTJJdzVQSEkyRjc5TFE3Q0tBSTdGMGx4QVk4TjFjVkFMZkVpZnhFb2M2MHJpWFdrVmI1Rlpud3Q0Tko3S2JOWUpidmtqSFZWaFBGMXB0cnVvbUhsSmNWZVAwWXFGVmVQY1pjTDh6dGk1ZjhFUGVYbHZoZzhVRnJIVWlzRkZGVVlyMUVuelc1Z0lQYWVJWS1wYkpfOFpLUHR1TnFZUGNrVA?oc=5"
+      "titulo": "Temperatura do mar no litoral peruano chega a 7°C acima do normal em meio ao avanço do El Niño",
+      "resumo": "Monitoramento oceanográfico segue como prioridade para antecipar impactos costeiros conforme o fenômeno evolui.",
+      "fonte": "INFOBAE",
+      "rotuloData": "HOJE",
+      "link": "https://www.infobae.com/peru/2026/08/24/fenomeno-el-nino-en-vivo-ultimas-noticias-alertas-climaticas-y-trabajos-de-prevencion-en-peru/"
     }
   ],
   "chuva": {
-    "cidade": "BALSAS",
-    "uf": "MA",
-    "valor": 65,
+    "cidade": "SORRISO",
+    "uf": "MT",
+    "valor": 0,
     "seta": "↓",
-    "status": "SOJA"
+    "status": "ALERTA SECA"
   }
 }
