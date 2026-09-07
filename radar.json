@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-09-07T14:32:50.519456+00:00",
+  "atualizado_em": "2026-09-07T18:54:40.904715+00:00",
   "noticias": [
     {
-      "titulo": "Amazônia teve 27% menos chuva e 2,6°C de alta na temperatura durante El Niño",
+      "titulo": "OMM prevê El Niño excepcional com duração até fevereiro de 2027",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "A NOTÍCIA DO CEARÁ",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-06T17:00:53+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZXVZTm5mZXhLLUN4VHd3RDZTQnlITTVBQ1RiV25Yb3hvOVFsOFZ6d0ZMWlh5ODFPN2g3c1hiNUJBbnhya2lDYkR4dzdVRVVWbncwbEVaNXpfTnI2ZXJpTTlBZlZmYng4YjE2MGNna0JNLWlSUUtWQ3VXVzFfT29PZnZWdHZBRXZnMXkyeVo1UG9xcDNwU1ljWTRRZ0syUkt2WVJrUksyS1I?oc=5"
+      "fonte": "CANAL RURAL",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-09-07T16:15:43+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdlYxeWtLT3p4dElrSmY3MUdtUWVFQ0haTUxSS0laejRaSnRhX2x0bXVZWG01Yjd3aVNoVExtcG1sR3hTQ0pwQ2JVMi12YVVIUHVJZXVnT3NyWFRveXdheHMzZTBVdTFXRmJFNG1ZN1hoclN4NVpJVzByOUM2TDdWX0pwazcxRGRGSDJxU0JNTW11Vk43TUxadUJ1ZUhFRmpkSTBn?oc=5"
     },
     {
-      "titulo": "El Niño explica tornado e chuva persistente no sul do Estado, diz meteorologista",
+      "titulo": "Série do EPTV 1 explica como o Super El Niño mexe com o clima da região",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "GZH",
+      "fonte": "G1",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-09-07T04:51:56+00:00",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRXR5eWV5aFkzeHp3NDhJVFJDT3VNdWN0UUVuaDB5cmd1R2JjMy1GYXVOa08ySlZkamZRazdGVVhmaF9YRy1pSVRvd0I4V29CZEI5QVh1LUZHcVR4MEw1Ni14WktUbDEyZ2ZiWVpENUU3aEcxVWhpR3dudF90R1lKOWJSVUxvdVRZTEt4ZkU1eDgySGtGdGNKanNQTHJDZ2tNMFBUWTNxZlV3b1hVWWVHajlqSTBVMmpRckY0R2lkcGNtUDBfeHdhQV9seWRCWXNIVE92RmVMcXVrdEtCa1Z3Y2NFaUxQMXNLZHZvM1pkeGhxSmtGMG9EYnlkcDYzMkdJSXpv?oc=5"
+      "publicadoEm": "2026-09-07T17:34:11+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNkNJd1hLSWppcWZJdjdWc2xqS3lRV0JYbm1HMnVIT0hiT0dENG1TRW91LWVaQmhWcFIwb1BlblR2NGZnVEhhZFVDSzVaRFZSVEhwWDF5V0VLV1p0Mnl0UWgwY1pjd2hEbDJ0Y09tLWk3QWt1cm1yNHBKU2FYUE1wcVRjTFljRlhrZzM4clVFb2lHVVE4UzVHUTFiTWtZYWN0bHBrZks3WHY5LXdWRWtwUHhWdTNmLWwxVERfclRzTnhvZl9YVEtFRDRFQXFxTlZQbU9YTlExbVRmbjRwQTZCRHpiY3hfeXgtWUQxRDFzWDBFQdIBgAJBVV95cUxNYWJxQUxlTE9qd0ZLdVlEV2ZfcnFHdWFWLWZ4SE9tSWdqcDlYTmE5OFhWdEpLNDJIRHFienJSaXpLYWtkTWNpY2ZSSElFeEVaWkQtZ0RJS0VkbFMzOWJ0R1hOY1dra3phcW5SWHRCV1FkVVN0TGVuZzlvVWhiRmxqSi1SSEh6WUwzemZRV3l6MldXelpBYlJPMXRwWDNIeFVyUi1uaWFySnFoT1NlTW9CREVqME9oR0pEVTdJc3RGaWRvRTd1cmo2X1JGRUZNbkVCcmk5N2F4WXdpNXRiQnBjOGVCdzBWbE1GdXZGZ3F4Q29Mb29ad0lWNzNoS214X2I3?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "SORRISO",
-    "uf": "MT",
-    "valor": 20,
-    "seta": "↑",
-    "status": "SOJA · MILHO"
+    "cidade": "UBERLÂNDIA",
+    "uf": "MG",
+    "valor": 100,
+    "seta": "↓",
+    "status": "ALERTA CHUVA"
   }
 }
