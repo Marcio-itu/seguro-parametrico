@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-09-08T18:10:06.728850+00:00",
+  "atualizado_em": "2026-09-08T23:02:20.324540+00:00",
   "noticias": [
     {
-      "titulo": "Alta da soja ganha tração impulsionada por El Niño, geopolíticas e valorização nos portos",
+      "titulo": "El Niño pode aumentar as chuvas e o risco de enxurradas em Santa Catarina",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "AGRIMIDIA",
+      "fonte": "LIGADO NO SUL",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-09-08T11:36:28+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOVN2eGg3NUlMejU5Q0duVHY1aHdicmRHSUtfb2s2Y2dTYzdNVnhpTHIyWFppOVRRaHhoY1RnOGxmRW9NQTBGVU5UaDlwX2ZQUHZic0R2TTNINzVQWG9oVVNSWGVMU1R0UnJwbm9nY3dxSnY0dVJscl9aVWU1aVFGc21qTVVyVDJtMGN3d2RvUTJKaDQtYl85RHoxWW0yVnhqRlZCRzJEbWp3aWw4ZFVqSDBlZHhlZDAwcUZ2ODN5QkRIdkZyU2IweGoyWFJBbmhTWjc1RTZkcElMbGJhLTc3aHExRQ?oc=5"
+      "publicadoEm": "2026-09-08T12:30:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVExzVTd0NjQ5VG85dW92MW5tdlRBNGVRNGVnTlY2d3pjLV80SjZhejFXb3ZpM3hveGlGRUNsczltZ0N2VUtuNGxyaDItYUFEMmUxSWlkdm5IRGxETjZCZnZ6Ml9ZMDUzRHIzMWI4YUFTNlpteGhaMUJrWXFwTFJXSVk5akdkM1lIWXFJUHp1czdUVzBWWFRrb1RUakRjRlBQMDlKdHktQzJKWThha3J0Xw?oc=5"
     },
     {
-      "titulo": "Super El Niño vai intensificar seca na Paraíba e agravar falta de água em 2027",
+      "titulo": "Aon vê risco climático desigual no Agro com super El Niño e alerta para safras",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "PORTAL CORREIO",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-07T11:58:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdFZ0eXhHZUtYUzlJcEI2M1luVFJ1TmloaGx1WWlSLTlKZWM2ZUtrYjZ5ZVZxcGhJa3hLZDRPQlhiSmw1V2d4NHl5VXVYRjl0ZnhIQmN4VERUX0M2eUZ6dzZiYmVVVHo0MlFLcUk1d1ZTSHB5a1ZmRWlqczBvSFY1SURyTEdERm05aExQWENFLUZ3emRTTmxvLXRzWnFxYUVyWWtKUV9RVmdEbmIz?oc=5"
+      "fonte": "UOL NOTÍCIAS",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-09-08T14:35:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZmlpN3Y0Mjl5LVlfb0tkLW5rSzVWa2JFZUZFS0s2d2ZFUmE1ZTNUMV9COGp4TF9NMHc5Ty1zRkVlRFlOYWpJNGpEelp0RlZWZjlaN1YtLTdERmQ4U0pHeG9nYS1ISXJQeDlMNVl4T1NfOEs3UjBLNzFLN0gxMUo3NGlDd0lCQVk1Zmh2aXlnTjZuYkxGdkk5MnpDRXZILUhVaGdoRVdiTFVGTk5sWHlyMWdXLWFzeDFOQnJmUGhxdzdMZXIyeG9SX2w3blhvOXRwV0I5czZrMGljV2ZKVnVoeUFEbExkVjJW?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "CRISTALINA",
-    "uf": "GO",
-    "valor": 45,
+    "cidade": "BARRETOS",
+    "uf": "SP",
+    "valor": 100,
     "seta": "↓",
-    "status": "SOJA · MILHO"
+    "status": "ALERTA CHUVA"
   }
 }
