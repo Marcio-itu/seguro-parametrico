@@ -1,28 +1,11 @@
 {
-  "atualizado_em": "2026-09-07T23:07:37.471494+00:00",
-  "noticias": [
-    {
-      "titulo": "OMM prevê El Niño excepcional com duração até fevereiro de 2027",
-      "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CANAL RURAL",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-09-07T16:15:43+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdlYxeWtLT3p4dElrSmY3MUdtUWVFQ0haTUxSS0laejRaSnRhX2x0bXVZWG01Yjd3aVNoVExtcG1sR3hTQ0pwQ2JVMi12YVVIUHVJZXVnT3NyWFRveXdheHMzZTBVdTFXRmJFNG1ZN1hoclN4NVpJVzByOUM2TDdWX0pwazcxRGRGSDJxU0JNTW11Vk43TUxadUJ1ZUhFRmpkSTBn?oc=5"
-    },
-    {
-      "titulo": "El Niño: levantamento aponta quais estados têm plano de manejo do fogo",
-      "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CNN BRASIL",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-06T20:33:52+00:00",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS3hocVNRVmJjWjN5bWhUOEd1S0VoZ2VEejJ4YUhWY2xkY3dWc3ZiRlQ5RlhzMTRGa0F5bVNrSUVqNHVSRWNJWGtWVFk5VHdQRFkwXzNoUkJIdC1xSF9YUG1KaTdnc2hvMUVWX0R0R3o1a1NfbVB6cXlyVEF0ZEVTS3BNbVlwVHZKcHhfcmlSOUFmWnRBaVJIcWk1Zlhxb0h4ZkFqU1FaNkIxM3BQWWM1VXFhYklidw?oc=5"
-    }
-  ],
+  "atualizado_em": "2026-09-08T13:08:34.933919+00:00",
+  "noticias": [],
   "chuva": {
-    "cidade": "CASCAVEL",
+    "cidade": "PALOTINA",
     "uf": "PR",
-    "valor": 0,
+    "valor": 64,
     "seta": "↑",
-    "status": "ALERTA SECA"
+    "status": "MILHO · SOJA"
   }
 }
