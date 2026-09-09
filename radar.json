@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-09-09T13:13:33.864273+00:00",
+  "atualizado_em": "2026-09-09T18:06:33.289294+00:00",
   "noticias": [
     {
-      "titulo": "El Niño extremo desencadeia seca histórica, inflação de alimentos e migrações na América Central",
+      "titulo": "El Niño pode aumentar as chuvas e o risco de enxurradas em Santa Catarina",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "TERRA",
+      "fonte": "LIGADO NO SUL",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-08T17:04:26+00:00",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNYjM0WnR5VEtLZTMyMFpDTGR3S3l4MDFMUndfMmZmSWN5Vjgyb1BQRWhCX25wclpwWTVZRzE3TERmc2NoZWs3REx6SWRFeUxDaGE1Vms1elV0bDhvMVFUb1AyM3gwNVVWcTA1d09XNnU0ZnJUUzJDZGRsVUhVNUdhbUFJNndWOHN2eGp3QzRjS1N2bDRqbjR1TkFCMTRmVlJ5TVlvc2pJQUh3WUJmc0lxT1NBOEp5VHR3dmpzWG1rb1lsYzllSU5BdmNOMW9xdEtacTRQdFlUYW1wODVoaUtFckN3YUo3T3prQmhINURUc1dRZWwxTnVndndjVENPWFpNN3VoSEtmZHFMRWZ1SlE?oc=5"
+      "publicadoEm": "2026-09-08T12:35:18+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVExzVTd0NjQ5VG85dW92MW5tdlRBNGVRNGVnTlY2d3pjLV80SjZhejFXb3ZpM3hveGlGRUNsczltZ0N2VUtuNGxyaDItYUFEMmUxSWlkdm5IRGxETjZCZnZ6Ml9ZMDUzRHIzMWI4YUFTNlpteGhaMUJrWXFwTFJXSVk5akdkM1lIWXFJUHp1czdUVzBWWFRrb1RUakRjRlBQMDlKdHktQzJKWThha3J0Xw?oc=5"
     },
     {
-      "titulo": "OMM prevê El Niño excepcional com duração até fevereiro de 2027",
+      "titulo": "Por que está frio em setembro mesmo com o El Niño chegando? Entenda",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CANAL RURAL",
+      "fonte": "CNN BRASIL",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-07T16:15:43+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdlYxeWtLT3p4dElrSmY3MUdtUWVFQ0haTUxSS0laejRaSnRhX2x0bXVZWG01Yjd3aVNoVExtcG1sR3hTQ0pwQ2JVMi12YVVIUHVJZXVnT3NyWFRveXdheHMzZTBVdTFXRmJFNG1ZN1hoclN4NVpJVzByOUM2TDdWX0pwazcxRGRGSDJxU0JNTW11Vk43TUxadUJ1ZUhFRmpkSTBn?oc=5"
+      "publicadoEm": "2026-09-07T11:02:58+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZFJzaWY1QVg3RVl3cjhiemZMWUo0Q0cydnlneXltZVRvLXptSWoxb3dEUld5clJJMDJnYVp1a3BjTHZKVkhkYzJmVkYwaDRoZkpfVWlpeHJrcGlpbWxJUUQ3Q3ZBQ3gxSHRZRjJka3Rtd2VKb051eXRrUFMyY0FNeFJ3NGV1LXc4TEtTdXJyLW5oMDl6TkZmTVpiRy1UNkZ5S1lkUnBvaENNNFdKTF9aVWhB?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "SAPEZAL",
-    "uf": "MT",
-    "valor": 45,
+    "cidade": "UBERLÂNDIA",
+    "uf": "MG",
+    "valor": 71,
     "seta": "↑",
-    "status": "SOJA · MILHO"
+    "status": "ALERTA CHUVA"
   }
 }
