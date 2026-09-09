@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-09-09T18:06:33.289294+00:00",
+  "atualizado_em": "2026-09-09T22:49:24.003332+00:00",
   "noticias": [
     {
-      "titulo": "El Niño pode aumentar as chuvas e o risco de enxurradas em Santa Catarina",
+      "titulo": "Estados Unidos tiveram verão mais quente em 132 anos - 09/09/2026 - Ambiente",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "LIGADO NO SUL",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-08T12:35:18+00:00",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVExzVTd0NjQ5VG85dW92MW5tdlRBNGVRNGVnTlY2d3pjLV80SjZhejFXb3ZpM3hveGlGRUNsczltZ0N2VUtuNGxyaDItYUFEMmUxSWlkdm5IRGxETjZCZnZ6Ml9ZMDUzRHIzMWI4YUFTNlpteGhaMUJrWXFwTFJXSVk5akdkM1lIWXFJUHp1czdUVzBWWFRrb1RUakRjRlBQMDlKdHktQzJKWThha3J0Xw?oc=5"
+      "fonte": "FOLHA DE S.PAULO",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-09-09T19:54:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa3NxZFpSdFIwN0lqajJKQmZtTjNrU1B2aUpId2p1QnAwMThNQjV3dFJpMTViYXh3TEZxbjVxLXhJT0NSWGdCSFliRDZLOTljWDhTRjg0a0R3MWh3bTg5N0pPNFU4ZDhZcWFCT1Q0dnZDb1h1TFJkYUxja0h0WTQ1bGZlcDhWSFN6b1BoamFJamxsRXlSbTF0QnA5X1plNndhc2RwbFRwS1U?oc=5"
     },
     {
-      "titulo": "Por que está frio em setembro mesmo com o El Niño chegando? Entenda",
+      "titulo": "Agro da América Latina não está preparado para El Niño",
       "resumo": "Leia a matéria completa na fonte original.",
       "fonte": "CNN BRASIL",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-07T11:02:58+00:00",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZFJzaWY1QVg3RVl3cjhiemZMWUo0Q0cydnlneXltZVRvLXptSWoxb3dEUld5clJJMDJnYVp1a3BjTHZKVkhkYzJmVkYwaDRoZkpfVWlpeHJrcGlpbWxJUUQ3Q3ZBQ3gxSHRZRjJka3Rtd2VKb051eXRrUFMyY0FNeFJ3NGV1LXc4TEtTdXJyLW5oMDl6TkZmTVpiRy1UNkZ5S1lkUnBvaENNNFdKTF9aVWhB?oc=5"
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-09-09T09:00:35+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTUxPZDdSX3VCd1EzSzZIblZNN3ktLTZ0SkpLQmsydk10dnVzVzc2RS16OHlyNEVuQXNOWC1ka21XaTlXTHQzcUVEcnNnQk9YX28teXpub1RXc1F5REV0OWpPcWpCdzV0N2g1bXQ0WVAtb1I3V3ZkRFNRQWt6dTJ5aTZsNlFTSUotSFJ1SDEtNEh1aGx0WVlDcy02NGNCRmdyWWUtaWlRbTBZV3FsOE42bA?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "UBERLÂNDIA",
-    "uf": "MG",
-    "valor": 71,
-    "seta": "↑",
+    "cidade": "CASCAVEL",
+    "uf": "PR",
+    "valor": 100,
+    "seta": "↓",
     "status": "ALERTA CHUVA"
   }
 }
