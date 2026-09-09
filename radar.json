@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-09-08T23:02:20.324540+00:00",
+  "atualizado_em": "2026-09-09T13:13:33.864273+00:00",
   "noticias": [
     {
-      "titulo": "El Niño pode aumentar as chuvas e o risco de enxurradas em Santa Catarina",
+      "titulo": "El Niño extremo desencadeia seca histórica, inflação de alimentos e migrações na América Central",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "LIGADO NO SUL",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-09-08T12:30:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVExzVTd0NjQ5VG85dW92MW5tdlRBNGVRNGVnTlY2d3pjLV80SjZhejFXb3ZpM3hveGlGRUNsczltZ0N2VUtuNGxyaDItYUFEMmUxSWlkdm5IRGxETjZCZnZ6Ml9ZMDUzRHIzMWI4YUFTNlpteGhaMUJrWXFwTFJXSVk5akdkM1lIWXFJUHp1czdUVzBWWFRrb1RUakRjRlBQMDlKdHktQzJKWThha3J0Xw?oc=5"
+      "fonte": "TERRA",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-09-08T17:04:26+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNYjM0WnR5VEtLZTMyMFpDTGR3S3l4MDFMUndfMmZmSWN5Vjgyb1BQRWhCX25wclpwWTVZRzE3TERmc2NoZWs3REx6SWRFeUxDaGE1Vms1elV0bDhvMVFUb1AyM3gwNVVWcTA1d09XNnU0ZnJUUzJDZGRsVUhVNUdhbUFJNndWOHN2eGp3QzRjS1N2bDRqbjR1TkFCMTRmVlJ5TVlvc2pJQUh3WUJmc0lxT1NBOEp5VHR3dmpzWG1rb1lsYzllSU5BdmNOMW9xdEtacTRQdFlUYW1wODVoaUtFckN3YUo3T3prQmhINURUc1dRZWwxTnVndndjVENPWFpNN3VoSEtmZHFMRWZ1SlE?oc=5"
     },
     {
-      "titulo": "Aon vê risco climático desigual no Agro com super El Niño e alerta para safras",
+      "titulo": "OMM prevê El Niño excepcional com duração até fevereiro de 2027",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "UOL NOTÍCIAS",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-09-08T14:35:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZmlpN3Y0Mjl5LVlfb0tkLW5rSzVWa2JFZUZFS0s2d2ZFUmE1ZTNUMV9COGp4TF9NMHc5Ty1zRkVlRFlOYWpJNGpEelp0RlZWZjlaN1YtLTdERmQ4U0pHeG9nYS1ISXJQeDlMNVl4T1NfOEs3UjBLNzFLN0gxMUo3NGlDd0lCQVk1Zmh2aXlnTjZuYkxGdkk5MnpDRXZILUhVaGdoRVdiTFVGTk5sWHlyMWdXLWFzeDFOQnJmUGhxdzdMZXIyeG9SX2w3blhvOXRwV0I5czZrMGljV2ZKVnVoeUFEbExkVjJW?oc=5"
+      "fonte": "CANAL RURAL",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-09-07T16:15:43+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdlYxeWtLT3p4dElrSmY3MUdtUWVFQ0haTUxSS0laejRaSnRhX2x0bXVZWG01Yjd3aVNoVExtcG1sR3hTQ0pwQ2JVMi12YVVIUHVJZXVnT3NyWFRveXdheHMzZTBVdTFXRmJFNG1ZN1hoclN4NVpJVzByOUM2TDdWX0pwazcxRGRGSDJxU0JNTW11Vk43TUxadUJ1ZUhFRmpkSTBn?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "BARRETOS",
-    "uf": "SP",
-    "valor": 100,
-    "seta": "↓",
-    "status": "ALERTA CHUVA"
+    "cidade": "SAPEZAL",
+    "uf": "MT",
+    "valor": 45,
+    "seta": "↑",
+    "status": "SOJA · MILHO"
   }
 }
