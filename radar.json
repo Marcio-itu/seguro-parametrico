@@ -1,11 +1,28 @@
 {
-  "atualizado_em": "2026-09-10T22:50:14.675557+00:00",
-  "noticias": [],
+  "atualizado_em": "2026-09-11T13:04:51.461950+00:00",
+  "noticias": [
+    {
+      "titulo": "El Niño tem 75% de chance de atingir intensidade histórica, ameaçando safras e pressionando preços das commodities",
+      "resumo": "Leia a matéria completa na fonte original.",
+      "fonte": "TIMES BRASIL | CNBC",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-09-11T02:45:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWWRmeWNZRHdDc3BWYW83LXdkbzdBQ2ZyNTYtc0lHV2tGWGluQjBWcTdOcW9RVjd1R3lMMWEySEF0dGJoTmo1NUVUUFZvNHRnRVMycmIxUnlINTA0Unl3bDE3UWlMamlScE1XVDQ4LUY1ZE15RThMNHBJUmVjSEdfazBCTTVZLWlaUUdxd3B2X3Bxd3NoQjI5Z0Q5WDBfUjFPOTBlQ0ZVRG1FZDlnb2R0ZlNJYVdkV0NkdmphV1Y2Zjd6WE44cXplRW1DT29mbF9UQXI1M1BxU2U1NUhlMmpGbg?oc=5"
+    },
+    {
+      "titulo": "Vaivém: El Niño faz açúcar ter forte alta no mercado interno e externo",
+      "resumo": "Leia a matéria completa na fonte original.",
+      "fonte": "FOLHA DE S.PAULO",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-09-10T22:15:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTnNxYUdKZEIzVlV5UzNOckxxODhTejhwUjd5OU1QbzVjZzBwN0VMZHp5VmxONnNaOTRmQlNhanluaXpkTS1ETGtqQXBES2tIenRyNlZwbW5EQzFoWXUtNmVscks1M1dhc2ZDT2dHN2RiMG9Cd2JPME9ORzJHX2lDT2pyZTZaREc4VUdRTjdob09vN3gwWmRsWmh1Sk81dHZla0VRQ2F1emtDYldRa3RiOTBNQU5NSmJPOV8wYnNR?oc=5"
+    }
+  ],
   "chuva": {
-    "cidade": "SAPEZAL",
-    "uf": "MT",
-    "valor": 94,
+    "cidade": "BALSAS",
+    "uf": "MA",
+    "valor": 0,
     "seta": "↓",
-    "status": "ALERTA CHUVA"
+    "status": "ALERTA SECA"
   }
 }
