@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-09-11T22:51:22.651748+00:00",
+  "atualizado_em": "2026-09-12T12:28:33.502059+00:00",
   "noticias": [
     {
-      "titulo": "Super El Niño muda risco conforme região e cultura na safra brasileira 2026/27",
+      "titulo": "Super El Niño em 2026 coloca à prova a preparação do Brasil para eventos extremos",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "O PRESENTE RURAL",
+      "fonte": "EXAME",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-10T19:27:13+00:00",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTVNfRkdUd04zbUFqOVJldlRjdk1fdGMwX2ttQldiV01WOHJRV3hzUW82OFVrLUFNZUNlaVBBdXVfVEg4aEV3VEtIc3dHWkFtLXNWMW9UdHc1a3JSb1BXXzh1N2Q1TUNsajIzUDNVYUVvQ1hUNE8zU0NGcTRzMHBYelMxc3NOUnJYSmRMYkRBYURNZmJTVDUzeDVqblhkQlg3RWxjT0Q1ZlowWjg4blE?oc=5"
+      "publicadoEm": "2026-09-10T18:00:37+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZnQ4TnFKWEUyN0w5bmFjak1NdUF5bURQRm1nSTgxV0ZTelpnYkwycGJOUkpPTEd6TXdodXlVcVpldm1UeEpzNHFyOGtfRW4wRm1yNHI0dzZWbGlHWThvTVdUc0x3TTJjMFJMeFdnV3BEMVlUZE5KZkxqQjFrMFFUVUtua0tzbnprUUFhd1VaQTcwZmJpdkJsMVY5ZzVFNTlwV3RhLTQ3bw?oc=5"
     },
     {
-      "titulo": "El Niño pode reduzir safra brasileira de soja em até 12 milhões de toneladas, diz consultoria",
+      "titulo": "El Niño muito forte: NOAA projeta 90% de chance de evento recorde",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CANAL RURAL",
+      "fonte": "ISTOÉ",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-09-11T12:41:55+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQVRNUGNaUGtzSUtRNTUta0VzQ2doT01HaW1MWUkxZVMyeDFfejdGV1VEZzI4eXhDMUItVnJmSGlDTi12bFNwdC1qZUhmUDI4enlKMDdiUF95X1ZXWmw3bVIyd1JfY1JnaldNc3B2OXA4RDVnaXJ1c0Z3bDBmaEx4MTFJLThxdnJnTmREMnJtd1hnNFdyelJzcTE3cktER3dJQkxUcVYyOWJjVUpTUjgwdmlZdGx2ZjhGSndjVDlrRW94LWpFRW1lYnBCWTlYQTZ2eGMxS0MtV0lYN1JVdWZnSmxrVThjbzNxa1pJ?oc=5"
+      "publicadoEm": "2026-09-11T18:38:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xMVphYUdjYWo4VW80VE9XekdCVFdWSEFyc2daN0g1cGRwUjkwTzFrZEVYQTVoWVIzX3JvaUNCdnhiMFhSVlppRHdLdmxWd0VNU2FPaG1OM0kxVFR1dUNCU0FZT0hEdjh2ZGFOX2JTTQ?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "SERTÃOZINHO",
-    "uf": "SP",
-    "valor": 63,
-    "seta": "↓",
-    "status": "CANA"
+    "cidade": "CASCAVEL",
+    "uf": "PR",
+    "valor": 49,
+    "seta": "↑",
+    "status": "SOJA · MILHO"
   }
 }
