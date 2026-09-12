@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-09-12T12:28:33.502059+00:00",
+  "atualizado_em": "2026-09-12T17:30:27.463253+00:00",
   "noticias": [
     {
-      "titulo": "Super El Niño em 2026 coloca à prova a preparação do Brasil para eventos extremos",
+      "titulo": "El Niño muito forte passa de 90% de probabilidade e pode elevar risco de chuvas intensas no Sul",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "EXAME",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-10T18:00:37+00:00",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZnQ4TnFKWEUyN0w5bmFjak1NdUF5bURQRm1nSTgxV0ZTelpnYkwycGJOUkpPTEd6TXdodXlVcVpldm1UeEpzNHFyOGtfRW4wRm1yNHI0dzZWbGlHWThvTVdUc0x3TTJjMFJMeFdnV3BEMVlUZE5KZkxqQjFrMFFUVUtua0tzbnprUUFhd1VaQTcwZmJpdkJsMVY5ZzVFNTlwV3RhLTQ3bw?oc=5"
+      "fonte": "ÂNCORA 1",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-09-12T14:23:47+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUjNPaVJ1WlZCa2Roc19pQjdCZnFZbkdzOEdGZTZIUC1ocG1nVEFLa0k3b21yY1NfalpLU3JSdjltZXdUMWxZZXVCaGhYcXNsMTdMNm1wRG5WcThjd25pcHNZdFlubnppS3l6cnI5QjAySFBpVGNZRnJQOF84dEw3VDR3eEQ5c0VZNzJLNjctOGlBYXJVdFZxUktpb1BMaERVcDM5VEVTUkp4cDhiYVpIMjFCZm1PclF3azJyWWNNdw?oc=5"
     },
     {
-      "titulo": "El Niño muito forte: NOAA projeta 90% de chance de evento recorde",
+      "titulo": "Seca no Cantareira, Sabesp e El Niño colocam clima em destaque nas campanhas para governador de SP",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "ISTOÉ",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-09-11T18:38:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xMVphYUdjYWo4VW80VE9XekdCVFdWSEFyc2daN0g1cGRwUjkwTzFrZEVYQTVoWVIzX3JvaUNCdnhiMFhSVlppRHdLdmxWd0VNU2FPaG1OM0kxVFR1dUNCU0FZT0hEdjh2ZGFOX2JTTQ?oc=5"
+      "fonte": "O GLOBO",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-09-10T17:40:59+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONlpQcTlLVXhMTDVLZEZCbXYzVE8yWS1QUGVwQlZkcXkzWldPclFtMGFjYm5pLTU4TlliamVOMVg2LV9DVzhGQjQtWVdxaUxjZXM4U1UwNEUxeG4tSmt6RDhxZlRWTE8zV0UtbDZ0TTZudmw1b3NvbEJ4MTRNeWVRYkx6cXdXeFBjeXc1a0I1aVFuMUpMSmg1SFNxRWZEaUFGazNBbUotYVRyOWxKeXV3VGJId0pWZFgzdFY1VnhaMkVPZnRHeEJ2TDN2RDlGVXFnYU5JWG5fSW5SV1pkUkQ0X1M4YjFGOWkyRmZ3dtIB-wFBVV95cUxONlhBVXFxSWVKdTB0NDlFUDF3SFNTZ24teFd6ZXlIakVyMXhiUWtaYnh2dUc2VzgxTTZfbjJma2d4U0N6MnhuRnRpQTFOU242WFd4dkRzNE1oT3FobzVzRS1ZdnRsYWFiUC1fYkdzVmJ5UjA3cUthTTZrWllrMHlZZ0QtWEhkcllCZTRsYVFNT1N5TERyeE9pOHg5Yk5DUXhYR1o0RVZJaDhQYkhkRFdJeDEydjF5WXVzeTdBV3AtYk0zZVk3SXhFN0ZmZTBtdF9mdzcwSlJhZ05DZE1nT1czQ1g5WGtQbXcybDc5Mk43cGFmcU9EV2JDX240Zw?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "CASCAVEL",
-    "uf": "PR",
-    "valor": 49,
-    "seta": "↑",
-    "status": "SOJA · MILHO"
+    "cidade": "SAPEZAL",
+    "uf": "MT",
+    "valor": 93,
+    "seta": "↓",
+    "status": "ALERTA CHUVA"
   }
 }
