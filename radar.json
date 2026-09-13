@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-09-13T13:30:57.464237+00:00",
+  "atualizado_em": "2026-09-13T17:46:10.993731+00:00",
   "noticias": [
     {
-      "titulo": "SOB A SOMBRA DO SUPER EL NIÑO | O medo que retorna com a chuva em Canoas",
+      "titulo": "El Niño coloca produtividade da nova safra de tabaco no radar dos produtores",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "NOTÍCIAS DA ALDEIA",
+      "fonte": "OLÁ JORNAL",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-11T09:50:21+00:00",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVEF4bGdCU3k3cGR5ZjBsMW42OGlHYlRaMFNMU2tqZGJvZGwzZ1hhRWoxVDdCV3pSd2RXVGZ1S0U5X2doOFgzWVFCMnZvdUhzVTlNaUFiU3B4QkRiSkRtLXNLa2ZhSUVtZHVidFlMaExCMjFveEluY2E3MzdPU0d4MzFxbWpMQWE3V195VDFPZjVDdnk5NVdoLW5rNnRaVnltOHZGcXFn?oc=5"
+      "publicadoEm": "2026-09-11T13:11:18+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWWwzYkJHYnY4Z2lKVU16RlZLUExvVWlmQV9IZFFyT0pPb09DdERNbmh0aXlIWVh1NlZ4Z2U3QkRqQUs2azZVRTBjMXozMzk5R21iSDNVNS1wSXBfS3FxZ0VldGV1Y3A0QnIzWHlTbHJ5bDVMRUNWQUxRLXdneHB0YjU3Sm5NRC12ck4wQTNVc0NoNXdIYkhSZ0JPazRjcFZvdVZCUw?oc=5"
     },
     {
-      "titulo": "Fenômeno El Niño está atuando, terá forte intensidade e deve durar até o inverno de 2027 - Rural Clima",
+      "titulo": "O Super El Niño deve chegar ainda em setembro — o plantio da soja entra no radar",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "SAFRAS.COM.BR",
+      "fonte": "EXAME",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-11T13:07:21+00:00",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaXBGWnFFeGtjZ18wNVoxc2IwbnI2Z1VQWjA5SkpFWlFxclcybkdET0tkYUhISnFuUWw2ckxFLVBhSnkwT0xRQnZoRFJHVU1GSkY5Qlo0SmZxWUFCRlUtNU1mSnJ6UjVBT1pfdm1fRzVYcjVfZ29wbUJScDI1WUhJc3hlZTZseGN3YnUzTnUzOTJ3cEo5amZtejVjZEdub3JKejB3Y0pISFdKdXR6WUFPeGl3eEl5TzRRVUtjNVlVSQ?oc=5"
+      "publicadoEm": "2026-09-11T09:06:09+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNXzhrRnNRTnR5WGtzQ1R1XzBRVEhnX2NvSHRBUEdEc3VBMk1wdGYtR0ZCV1NXbXFEUzdXcDZwOERkbVdwYU9heXBfUUp1dkVja0sxV3V2cWhFNlY3aFBrT2lITTQ2dmVSY2FvSE9MN1pfMndOamlkUkNZVTBWS2V4cERqZDRpOXRBNzdPdmF4RFRmT2FZSkpqeUN0dVU3M0JDYzhXVw?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "RIO VERDE",
-    "uf": "GO",
-    "valor": 24,
-    "seta": "↑",
-    "status": "SOJA · MILHO"
+    "cidade": "BALSAS",
+    "uf": "MA",
+    "valor": 16,
+    "seta": "↓",
+    "status": "SOJA"
   }
 }
