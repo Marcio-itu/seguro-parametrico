@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-09-13T17:46:10.993731+00:00",
+  "atualizado_em": "2026-09-13T22:42:07.283892+00:00",
   "noticias": [
     {
-      "titulo": "El Niño coloca produtividade da nova safra de tabaco no radar dos produtores",
+      "titulo": "AS CHANCES DE OCORRER UM “SUPER EL NIÑO” JÁ SUPERAM 90% E DEVE ATINGIR A BAHIA EM CHEIO",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "OLÁ JORNAL",
+      "fonte": "- BAHIA ECONOMICA",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-11T13:11:18+00:00",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWWwzYkJHYnY4Z2lKVU16RlZLUExvVWlmQV9IZFFyT0pPb09DdERNbmh0aXlIWVh1NlZ4Z2U3QkRqQUs2azZVRTBjMXozMzk5R21iSDNVNS1wSXBfS3FxZ0VldGV1Y3A0QnIzWHlTbHJ5bDVMRUNWQUxRLXdneHB0YjU3Sm5NRC12ck4wQTNVc0NoNXdIYkhSZ0JPazRjcFZvdVZCUw?oc=5"
+      "publicadoEm": "2026-09-12T22:14:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVlVCcmkxaUVwdnJxcFhxR3VpMHRGeG9Da0RFOG9RN1F5dlBRMVFHMmJJZ0tFa1MyMnd3RFcwUFFveFUyd0xMdDRxTmdrVW5CX2NHU2ltWjR0Mnl6aktRd0Zqbkh3U29ObFl1dGR2b0pSZWZGYmUzcVBoclNIZFpGSW5ubGNxcmtRWWlsNUdBNzFKNTRiVzdqWHhsaTdVMWtaenZjUm9xaElOYmVrY1Q5UlhFWnUtTl9lWFY5Ul9zU0RRekI1?oc=5"
     },
     {
-      "titulo": "O Super El Niño deve chegar ainda em setembro — o plantio da soja entra no radar",
+      "titulo": "El Niño ganha força e pode atingir intensidade histórica em 2026",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "EXAME",
+      "fonte": "PORTAL AGRO2",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-11T09:06:09+00:00",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNXzhrRnNRTnR5WGtzQ1R1XzBRVEhnX2NvSHRBUEdEc3VBMk1wdGYtR0ZCV1NXbXFEUzdXcDZwOERkbVdwYU9heXBfUUp1dkVja0sxV3V2cWhFNlY3aFBrT2lITTQ2dmVSY2FvSE9MN1pfMndOamlkUkNZVTBWS2V4cERqZDRpOXRBNzdPdmF4RFRmT2FZSkpqeUN0dVU3M0JDYzhXVw?oc=5"
+      "publicadoEm": "2026-09-11T12:09:44+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRVpUeVV0YktCa202ZjNIb2RXNVljNTBuaGJEcXh1YW5nQzZ3TkJzYWlKTlU3aWstUXZGY1VUUVZ6QVhGWFFRRWNPLTZST09UOGRSMVhmSmVTcWFKUHRqZnJ5dUdzTG93WFRjZDNTeS05X0hvVzgwTjBoSFE2dDd3eTUxekRCTGtjSl81WXZibHNIcmUzVFdPd2JCY3NKX0xBMXc?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "BALSAS",
-    "uf": "MA",
-    "valor": 16,
+    "cidade": "L.E. MAGALHÃES",
+    "uf": "BA",
+    "valor": 0,
     "seta": "↓",
-    "status": "SOJA"
+    "status": "ALERTA SECA"
   }
 }
