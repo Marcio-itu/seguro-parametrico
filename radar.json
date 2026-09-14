@@ -1,26 +1,26 @@
 {
-  "atualizado_em": "2026-09-14T15:21:22.344831+00:00",
+  "atualizado_em": "2026-09-14T23:33:18.184368+00:00",
   "noticias": [
     {
-      "titulo": "El Niño, dólar e geopolítica: os desafios da safra 26/27 de soja",
+      "titulo": "Super El Niño: Pacífico atinge patamar intenso em todos os critérios da NOAA",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CANAL RURAL",
+      "fonte": "ABCMAIS.COM",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-09-14T13:33:44+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUTVYblRtclZUS3drMkxGTEFjWWxabFVyMHNXM041X3RtOUJiNzlobXdfRmVnOTdzc0NwbzlpWGYwMi00QkdSZVlnRFdsanRMS1NGNkUyNEdacUktVkMtNkM0ZkZkdTRxdmJHRnh6YU1SNFVKYjNGVFNHcHZvUEF2NmJ6d2VwaUhOVUNEa2tzQU4yMDA4NzJEU2dSVE8tQTRIWlJQVXd2NFhzU0tlXzU4SERYMFJ2VS1n?oc=5"
+      "publicadoEm": "2026-09-14T18:40:54+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdkRXd213UUdDVUZoZjliOU9oVWl2c1pOOXM4QVVNZTVkQUNpaHd3VU1kam9FLVlCdTdLb0ZZSDRCN2lKRFJUb2ZvQkppalRKTDB3MXNTNElJT0NoRE5oRkJ5VjNJRHU4dkp1TnYxQThuY0NaeWtxb1BWdzBDZnp5aFR3SGhvS3g3X2FRdWVUcnJIcXBFcFc2U05xSjhQejgwc1hNU2lsT0FIZw?oc=5"
     },
     {
-      "titulo": "Sobe para 95% a chance de El Niño muito forte entre a primavera e o verão",
+      "titulo": "VÍDEO: Chuva em SP chega mais cedo sob influência do El Niño. Veja impactos em várias cidades",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "RÁDIO ARARANGUÁ FM 95.5",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-13T16:02:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNnMwVnB5SExiZ2NKU0FJQzZGRnZRSGkwaWVBaVFEU1d5cGRyNVhBU04zSzd3UjltblpzcUlGZHJsbkI4cld1LUxQbHFqcUJ4cklWRnMyQXN4dXV1OWdleTJmVXRsOUt6dUdTeWcxcWdfa09nUWpIUklfMW1ZdThiYnRWb3c2V0R3UFIxLUh2aWFGZzRURXBRRmVUdWN0MktUcEtjWmZ3?oc=5"
+      "fonte": "ESTADÃO",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-09-14T17:43:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbnQtUXpDbHAxQXNsdmFmWmZ2TUYzNjZYdE1KWldfbWNmTmxOdFRzYTExSDZPcGxpZUt5M1lvUF9nYjI5eC13MXJ5dWtQazZRTE5PZWotLWh3MVdrYnV4TmV4eHF3LWk4TnhTRVhxUHNGY2d2NWtYaTNrVXRsMHBRakN2SWlLMFJxR284bVB4RTZRaGoxdjlCQXpwNHExcTJXNFdYYTB2VFlvQm9wT0t0Z2d3UGpxak5NR05ZdXNwaUF4OUhTbndHMlQ4YlNEQdIBzgFBVV95cUxPbnQtUXpDbHAxQXNsdmFmWmZ2TUYzNjZYdE1KWldfbWNmTmxOdFRzYTExSDZPcGxpZUt5M1lvUF9nYjI5eC13MXJ5dWtQazZRTE5PZWotLWh3MVdrYnV4TmV4eHF3LWk4TnhTRVhxUHNGY2d2NWtYaTNrVXRsMHBRakN2SWlLMFJxR284bVB4RTZRaGoxdjlCQXpwNHExcTJXNFdYYTB2VFlvQm9wT0t0Z2d3UGpxak5NR05ZdXNwaUF4OUhTbndHMlQ4YlNEQQ?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "PALOTINA",
-    "uf": "PR",
+    "cidade": "SERTÃOZINHO",
+    "uf": "SP",
     "valor": 92,
     "seta": "↓",
     "status": "ALERTA CHUVA"
