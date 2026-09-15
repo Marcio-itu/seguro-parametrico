@@ -1,28 +1,11 @@
 {
-  "atualizado_em": "2026-09-15T13:56:04.979218+00:00",
-  "noticias": [
-    {
-      "titulo": "Super El Niño acende alerta para calor e chuva irregular em Bauru",
-      "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "96FM BAURU",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-14T14:00:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOemYxbUJDeFBMek9pbWVOSFJidUtiM25lRWNvR3JmNWFNejlRaF94aWlRMUNWdTVBMTdYQ0l5bDFfRHk4ckdTaTRLWE9faTlHQzhvVDFWRl85WnhfNzdTSWlGTUl2Zi1LeUhMRXVudDFINGl1N1Y1Rk53Q0F6bGstaGRDSWI5dnFMMnN1MGQ2TktmOGpY?oc=5"
-    },
-    {
-      "titulo": "Canal do Panamá planeja reduzir ainda mais trânsito de navios devido ao El Niño",
-      "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "O GLOBO",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-09-15T06:11:13+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNXzBUZ1VkVlZFMWVvWV9jbUtQeUhZSzdpU2hGcU0yOENFUFF1VDhUQU9HdWZJTkFpTWVmdHd2RUxpellSV05ZNTdSTF9yTHZINlYyNkw1RWZQcmtsX09CdDZBVUh3dnZFUHZzSWk3NFY3ZVQxNTNSbXhDb2c4RlFPT1Y2VlgwTVBtblR1QkY3Y0ZwdnVybEFZeElYcjBaeFBpQS14REVPYzhCR1pwR25FQ0paQzdfQUIyN1M0T1ZENnBwZVRPbmhkNlhkWVBhQXlkZ3NmOFV2d1M5QVnSAeoBQVVfeXFMTWd1UlFEWmxXN2pOX05vcTg5MExib3RTQlRjeldra1pSYW1rSktBNWJQalNhajZQTmlWRWFaMmdrWk1EUFNySHlBZXJsblNNdmtPb1drZzdzOHd4Ukk2MGdvYmZRWThOcjFiS2hkUEVLZWlseW1ySl9FbjJVaFhLdlRtWnByclp5Z0E3OGh2Q0NBVkwxVXNWOG53Q1Q3cGpBcVg2TzFkSGloTGF4aTNLU2pGOUdsbE9wUkt3U3IwRzZmcUp0d2E2UVp0b3oxQy1JS0pOZ0Zjald2UHVRREdHRVd3UXFRajNzb29R?oc=5"
-    }
-  ],
+  "atualizado_em": "2026-09-15T18:33:45.430563+00:00",
+  "noticias": [],
   "chuva": {
-    "cidade": "SERTÃOZINHO",
-    "uf": "SP",
-    "valor": 78,
+    "cidade": "SAPEZAL",
+    "uf": "MT",
+    "valor": 25,
     "seta": "↓",
-    "status": "ALERTA CHUVA"
+    "status": "SOJA · MILHO"
   }
 }
