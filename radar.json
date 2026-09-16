@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-09-16T18:31:42.861491+00:00",
+  "atualizado_em": "2026-09-16T23:20:55.947116+00:00",
   "noticias": [
     {
-      "titulo": "Super El Niño deve trazer chuvas fortes na primavera",
+      "titulo": "El Niño deve manter chuva acima da média na Primavera",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "BANDNEWSFMCURITIBA.COM",
+      "fonte": "DIÁRIO DO SUDOESTE",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-09-16T15:06:59+00:00",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYk9LSEN1OHg2TUJ6NGt4cWQyRS1iaWZwQ3d3TC03YXFTVkhGMm5Fd0JWZTFSSEVqLUF6MWdVSmF1c2Y4UnFOTk1vajMzZmY0WW42d1pySkx5b2ZxcFk4Y0piRGtxVm5VNms2OG5vSFdoWHpfUkkyUTM3Z3BXNlFSYXB0dTV3enI4ZjVZdQ?oc=5"
+      "publicadoEm": "2026-09-16T19:44:01+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbVdVMjR2REVqVWJTRTRZdk04OTNYd2pYOXJwb1hkRmZJdHNickdoSFlJRjhmWGhRM3pGUlV2RmlNS1g0azdLYmZ0UEZObVBKcHBDc29Cam40RVpKVDR4dVFxVGRFTzFiSWZYdTFNbGVVVVdzd1pWclhVR1JydEtqWkJZRUxUUU5DSWxoajhhVQ?oc=5"
     },
     {
-      "titulo": "Super El Niño preocupa produtores e pode afetar a produção de maçã e mel na Serra de SC",
+      "titulo": "Canal do Panamá planeja reduzir ainda mais trânsito de navios devido ao El Niño",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "NSC TOTAL",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-09-16T17:58:28+00:00",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdk1XdThiY25TZHNqVE1oLTRUck5ZdUZIOExLd21zSkNicXFmMUJOYnVwRXNNVldReEJ1VFRZa1JZRW1iczJYVktOTnRRZktQLW5IWXFJbm52bloxTDN5MnprbzF0cS0yNGIzVGw4Q2k5TkhGN0hGd3RUQnJVYXA5YVpMaF9oTTJZVFhTN0xjV3FMVzRaTjZMbWhZX1Npb2htMGF3Nzk2YU1YaWNHdklxMXhWMnNseVl3dVM1R3hR?oc=5"
+      "fonte": "O GLOBO",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-09-15T06:11:13+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNXzBUZ1VkVlZFMWVvWV9jbUtQeUhZSzdpU2hGcU0yOENFUFF1VDhUQU9HdWZJTkFpTWVmdHd2RUxpellSV05ZNTdSTF9yTHZINlYyNkw1RWZQcmtsX09CdDZBVUh3dnZFUHZzSWk3NFY3ZVQxNTNSbXhDb2c4RlFPT1Y2VlgwTVBtblR1QkY3Y0ZwdnVybEFZeElYcjBaeFBpQS14REVPYzhCR1pwR25FQ0paQzdfQUIyN1M0T1ZENnBwZVRPbmhkNlhkWVBhQXlkZ3NmOFV2d1M5QVnSAeoBQVVfeXFMTWd1UlFEWmxXN2pOX05vcTg5MExib3RTQlRjeldra1pSYW1rSktBNWJQalNhajZQTmlWRWFaMmdrWk1EUFNySHlBZXJsblNNdmtPb1drZzdzOHd4Ukk2MGdvYmZRWThOcjFiS2hkUEVLZWlseW1ySl9FbjJVaFhLdlRtWnByclp5Z0E3OGh2Q0NBVkwxVXNWOG53Q1Q3cGpBcVg2TzFkSGloTGF4aTNLU2pGOUdsbE9wUkt3U3IwRzZmcUp0d2E2UVp0b3oxQy1JS0pOZ0Zjald2UHVRREdHRVd3UXFRajNzb29R?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "BALSAS",
-    "uf": "MA",
-    "valor": 0,
+    "cidade": "CRISTALINA",
+    "uf": "GO",
+    "valor": 53,
     "seta": "↓",
-    "status": "ALERTA SECA"
+    "status": "SOJA · MILHO"
   }
 }
