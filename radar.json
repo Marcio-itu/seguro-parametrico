@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-09-17T23:12:59.985746+00:00",
+  "atualizado_em": "2026-09-18T13:13:46.048253+00:00",
   "noticias": [
     {
-      "titulo": "Até quando vai o El Niño? Veja a previsão para 2027",
+      "titulo": "Calor Extremo do El Niño Muda a Amazônia",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "PARANASHOP",
+      "fonte": "D24AM",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-09-17T15:21:38+00:00",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3UFFxLU1XMXBoZUhJRUpCb3lidGJHUW4xS3dsTVJxYVBFRmo2RDZGVnZlcnk5a2QxZzZqS1ZGMmdMUmExQ3lJZnJteTFrQzE2T3RWRmpTTFE3U3h2dXc0RVE4Vl9ZVEdyOUl4cHZ5STBudGJEWEE?oc=5"
+      "publicadoEm": "2026-09-17T23:32:24+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWkh4RnpvWjRkTnRGdEFSMlpLaTY2LVF4dHB4alEwMmhtZFhhY3BPS2ZGZDVFbFlYZnJJSTVhUjBWNUplS2VTRWM4LU5JUTRBQWFTS01nUTFLUEZvem1MQ2JWYS00Tkg3Y1JWaWtSVEhZanZxTENmSVlXR2o2b1BWWHNneWhXcjBsbnc?oc=5"
     },
     {
-      "titulo": "El Niño deve elevar risco de dengue no final de 2026, avalia Ministério da Saúde",
+      "titulo": "Super El Niño: como o SUS está se preparando para pior seca no Nordeste",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "FOLHA PE",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-09-17T08:03:18+00:00",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNE9VVEFOYWNLdWM3M3AtaTE1QU4xcHVwOThTeEFEcXc0aVA0ZmVpeFBYRGN5SzE2c2pWUzIzU3EzbjZzZWFUV3U3c2dVQ3dSYVdURGE0ZUhlWGFQVFdDREJRUGJ2eGUzcUtQc29qMk5Rdk5scTlKc2RjN2tycUlLd0pmRDhETlFWTjJyc1AwbWs1Z1BCUUlPdy0zQVBOUW1vanNqQXRlZHJteVVOMUJBblpn0gG2AUFVX3lxTE5LMU5RUnN5VW1NVk1yLXJVbGlsNzlCWUJ0Y0F4RUJvWEF2NUt5aHBGTkNhdlpELVlCNHA3cWNrVF95U3J6dW9RRi1KZkgtakdlb3BrTUF5T2loVV9yVm9OclBvTklPdFNGTThVdGowYldkNklERzNmR1lCcU13M3g1YVhZR3ZubEItZHNpX09Wb19mZWJaMlUxWk5ELWpVQlZkWEZSdkpveTdRYlVBSjFBZXF3NzhB?oc=5"
+      "fonte": "A TARDE",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-09-17T13:23:34+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTUFzeTI3ZU1hUjY3MFZZeXlNVkkyYWx1Sm1rZXo0VjRGai1vODZyLUNKZm1CaXdLTHE0YUFySFFxQjhmSFpialNKM2wweVktWGItZWpOM205VUNwWWdCVDRrX09jRGZHNTR2S0Z0dzV1OURxcU9fYTJsNnp1eWlrYjFJbzlyZEdYVEdiZWQzTUhuYUVNOFl2eDhuMU02QmpqWW9IVndTU1hiUdIBsgFBVV95cUxQU1k5SjNJRnczNzExeG9uMmE4cjVKZ25VWHFtWUxRUG1HMktZZnlPbE12VHBlblllaDJXY1pUam96ZUhwMGhCZHJUdm1rdE5ab2lydG1rUVFtclk2S0FLM2JfMUN5WVpBVm5WdUJoOGZKcllLMnRoSHpNdHBJenpwVXVvdmhqNDFEeV9HRjZ0OFg2RENGV0pYaUtpNXRra3djRzZoMzNRU01rRW5RWlhZdnN3?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "BARRETOS",
-    "uf": "SP",
-    "valor": 24,
-    "seta": "↓",
-    "status": "CANA"
+    "cidade": "RIO VERDE",
+    "uf": "GO",
+    "valor": 6,
+    "seta": "↑",
+    "status": "ALERTA SECA"
   }
 }
