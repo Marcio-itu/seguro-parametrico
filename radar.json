@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-09-18T17:56:33.168101+00:00",
+  "atualizado_em": "2026-09-18T22:53:53.729126+00:00",
   "noticias": [
     {
-      "titulo": "El Niño exige atenção ao planejamento financeiro para a safra 2026/27",
+      "titulo": "El Niño 2026 pode entrar para a lista dos eventos mais intensos da história",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "VISAOAGRO.COM.BR",
+      "fonte": "NOTÍCIAS AGRÍCOLAS",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-17T11:58:08+00:00",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcnNNUXRJRlFrMkRtU1hxTlVCWWgteEpOTWJjaVlGWFdVbm90ZFhjNFVic1VTRFgtNFNINmRfU2xkdVFjS1JNTXdNNHdnQzNPVGpHUFFUR3ZzZmtHWE9PaHdKejVHdDF4UmNMQWZ1Tk9hdHVmTnI3LXlWQ3NfZ2laZ3NZc0xhVmw2Zl84TXIxb3EyMUhaSklzWHI0RQ?oc=5"
+      "publicadoEm": "2026-09-16T17:17:10+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNlhSUUMzVFd5Q21yRmNBS1c1d0RSMmFNWXJONjE5Wkx5S19RT3FTMGFOYnZ3MUVYd2lwLUFRYWNGYkNuVDRUTGl4THRfMkZlZHJvb1poRTFoWVhOMlZrNURRY05BNTB2ejJJRXVKZDRIRnpwekhieGdUUl82TmYxcGY4MWhQRjhiT2FRYkFtY29kZWllVm5GVjR2SGVsbldENXBFUnVUNnYwSklMQ0ZKV0p3N0lVY0JJSEtCU0p4YnoxR1NZYmpFWjUyOERfNnJiaGhZbkFLaXRnZm9peko4WdIB5gFBVV95cUxNMDc2Q3p2YVRJU3lJU1dGM0ZvUXZ0M195aG5qY3hRcmRfOGpjUksxUUFZaEo5OVFlaldDV3RwRGMtMVZTWFhKUXh5M0tXWWRldHU2dmNESDFWdVkzS3JTZ3hwSDRGTFBzQXRadjNDTjdsM3RzMElrZ2hkaHR5UWgwWkVuRWhIUTF6cmM3VEstcHZEUnQwNS0tcDB2VkdiVjc1clI5eEZpSDRoQ1FIWHRQenpZbndaNHVOMndpSHN6YW03TGFCdmgxQ05tMDVxdDlLdzJHZE9pUzdWVmllTTFBVTNVb2xLdw?oc=5"
     },
     {
-      "titulo": "SUS se prepara para El Niño com base regional em Campo Grande",
+      "titulo": "El Niño E Aquecimento Global Reduzem Volume De Rios, Diz OMM",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CAMPO GRANDE NEWS",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-16T20:26:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWjdhdkQyZFVFTmFEdkRwT0NhM2JrYzhJSG9fbFd2UHlZWEgxS25vLUdQRVBESXhGbV9faWwxU2wzcE8wdWd2WmZhekdRZ0ticGF2eWMwbUhHYUI5RjI3N0daRjFDT2hMYjFiRmVxZTFySEE2eUFUV2YzQzhBT3F1QVVpSVR2NV9NeU1IWWRKUExEVjBxS3dscmItMEpMdVNYVkZqTzk1bkhmd21fOUhkTkd1bTB6Zjc0MTRnT1MtT0VMdGNtZ2fSAcYBQVVfeXFMT0thT1ItbW9kdFkwTkItd1JrTENyVkhPekZPY2pETTZhaTZPRGJmb2xOMElGbVl6Q2pqLUpIZUl5dEgzenF1RGRhbWp3THhMNWhsRndzVWMzWmFSbEN1UDd3elpPblg2Q25wdXNnQ0RQMmxEZ0FPX0RMeUF1WXJXUHg1NHhlLS02UzBLa2hlUXRLMHRfS214WDRtcTR1VFlMZi1FQjhuUjVOSnQ2dUJfNnhmOWJyUkM1Q2ZVQ21zLTJrX3pYeWpB?oc=5"
+      "fonte": "INMAGAZINE",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-09-18T15:10:03+00:00",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNb0t6WW5DMDc3TjZxMlcxNHR3M0o4NmxYZDZNekhLbWJLUlhBbzBTYnZJMnpfY2IxNHJuSVVpeDVhanhka0JLRkRDYzFDZFhqZm9wY3FDcW9zRzJJZmtKLXNCTFRrRmlMeEpF?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "BARRETOS",
-    "uf": "SP",
-    "valor": 18,
+    "cidade": "BALSAS",
+    "uf": "MA",
+    "valor": 10,
     "seta": "↓",
-    "status": "CANA"
+    "status": "ALERTA SECA"
   }
 }
