@@ -1,27 +1,27 @@
 {
-  "atualizado_em": "2026-09-19T17:33:41.593161+00:00",
+  "atualizado_em": "2026-09-19T22:33:09.616917+00:00",
   "noticias": [
     {
-      "titulo": "El Niño pode ampliar pressão da mosca-branca",
+      "titulo": "El Niño não age sozinho sobre o clima, diz Gilberto Cunha",
       "resumo": "Leia a matéria completa na fonte original.",
       "fonte": "AGROLINK",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-17T19:01:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSzFEVENPTXNQZFF0bjlEbWt1bG5fZ2Q2TWtEcWNzUmhBc196ZXZHTG9tTUpzTXRybnBxNzMwSE40a2E1djJPOVpHTHRfcHNUMWdJamFhNGVBb0tBQnN3eGtmWFZCX19lZVRmOVM1X2JaaUdUUWhqOUtWSUtSSEFqRE9oVTB0b0dLTUw0SXl6TjdOMTY5aTVKQg?oc=5"
+      "publicadoEm": "2026-09-18T16:44:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd3lIUlJ0Q1NnRjE0ZThfczRibUZxMHc5RkF5QUdrLVM5ZlYwVmpDRjB3MkEtSjZoZ2Q1WnhXMDJKcHlYWnpBdTlTN0hvTGVJX0YzNGJiTm80M3VHaFlGZUMxN01sVlczdFkzTVJuOTdaOTBPYk9tSnRNNXZjbFEtQmZZb1VIZnN3NXdQeUs1OUxWenR5UTJiOXdUMWRiV1pQQ3J2alBBczZDUQ?oc=5"
     },
     {
-      "titulo": "Produtores de Santa Catarina adotam terraceamento contra El Niño",
+      "titulo": "Ministério da Saúde reforça ações no Nordeste para enfrentar seca e calor causados pelo El Niño",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CANAL RURAL",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-09-19T00:05:11+00:00",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYjJQV0NRQjBrclRXcVh0cHNPdEs4clhFb1BwZG5YcTZUNlMzQTBWX3AyZlhNZ1AxQ21jN000OHp1dkFhUEVJcEUxT3BhdElndUJoMzNicXdvYXFsdDlXQjFCZE15aVVZd0dsZ3ZXc0xOcHBvSGlvekpOT0JfbjJmTXNHMkc4Qk5BV1RYeEJKQ1Q4OFN1Tk5WWjJrVFdmOU9jd1Nsaw?oc=5"
+      "fonte": "O IMPARCIAL",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-09-17T18:44:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZFJlRl9ZSUk1LXBfZm9WX0cwMWU3TVFNa3RBQzA3Z3BuWWNTSVZWTURxTE45WG8tZ01kWVdYZXVQbEZjenE3d0V0SXNxX1p2WXZIdDNDMndiYVRIbmZzQTh3bGxmLUNnU3UwbHkyRXZYZDYwcGxkamNCdVdOMWpfM0xYUkw0eW5DT0xmODh5Qy1OcmVUTHp0WFZGalRvZDd1WjdLRU1nOHlTSzhOQVBqS2VyaFFCWllVRlV0QjcwWGoyOHdUYWxfTS1iU2tsWUhkcF9yeWlB?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "BALSAS",
-    "uf": "MA",
-    "valor": 0,
+    "cidade": "BARRETOS",
+    "uf": "SP",
+    "valor": 6,
     "seta": "↑",
     "status": "ALERTA SECA"
   }
