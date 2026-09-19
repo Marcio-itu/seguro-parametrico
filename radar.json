@@ -1,27 +1,27 @@
 {
-  "atualizado_em": "2026-09-18T22:53:53.729126+00:00",
+  "atualizado_em": "2026-09-19T12:44:49.718438+00:00",
   "noticias": [
     {
-      "titulo": "El Niño 2026 pode entrar para a lista dos eventos mais intensos da história",
+      "titulo": "El Niño pode ampliar pressão da mosca-branca",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "NOTÍCIAS AGRÍCOLAS",
+      "fonte": "AGROLINK",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-16T17:17:10+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNlhSUUMzVFd5Q21yRmNBS1c1d0RSMmFNWXJONjE5Wkx5S19RT3FTMGFOYnZ3MUVYd2lwLUFRYWNGYkNuVDRUTGl4THRfMkZlZHJvb1poRTFoWVhOMlZrNURRY05BNTB2ejJJRXVKZDRIRnpwekhieGdUUl82TmYxcGY4MWhQRjhiT2FRYkFtY29kZWllVm5GVjR2SGVsbldENXBFUnVUNnYwSklMQ0ZKV0p3N0lVY0JJSEtCU0p4YnoxR1NZYmpFWjUyOERfNnJiaGhZbkFLaXRnZm9peko4WdIB5gFBVV95cUxNMDc2Q3p2YVRJU3lJU1dGM0ZvUXZ0M195aG5qY3hRcmRfOGpjUksxUUFZaEo5OVFlaldDV3RwRGMtMVZTWFhKUXh5M0tXWWRldHU2dmNESDFWdVkzS3JTZ3hwSDRGTFBzQXRadjNDTjdsM3RzMElrZ2hkaHR5UWgwWkVuRWhIUTF6cmM3VEstcHZEUnQwNS0tcDB2VkdiVjc1clI5eEZpSDRoQ1FIWHRQenpZbndaNHVOMndpSHN6YW03TGFCdmgxQ05tMDVxdDlLdzJHZE9pUzdWVmllTTFBVTNVb2xLdw?oc=5"
+      "publicadoEm": "2026-09-17T19:01:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSzFEVENPTXNQZFF0bjlEbWt1bG5fZ2Q2TWtEcWNzUmhBc196ZXZHTG9tTUpzTXRybnBxNzMwSE40a2E1djJPOVpHTHRfcHNUMWdJamFhNGVBb0tBQnN3eGtmWFZCX19lZVRmOVM1X2JaaUdUUWhqOUtWSUtSSEFqRE9oVTB0b0dLTUw0SXl6TjdOMTY5aTVKQg?oc=5"
     },
     {
-      "titulo": "El Niño E Aquecimento Global Reduzem Volume De Rios, Diz OMM",
+      "titulo": "ALERTA CLIMÁTICO Podcast da TV ALERR debate impactos do fenômeno El Niño em Roraima",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "INMAGAZINE",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-09-18T15:10:03+00:00",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNb0t6WW5DMDc3TjZxMlcxNHR3M0o4NmxYZDZNekhLbWJLUlhBbzBTYnZJMnpfY2IxNHJuSVVpeDVhanhka0JLRkRDYzFDZFhqZm9wY3FDcW9zRzJJZmtKLXNCTFRrRmlMeEpF?oc=5"
+      "fonte": "AL.RR.LEG.BR",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-09-18T15:04:03+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04SjdFTTVUVmVFTmI2eVlndlJ3MV9zMlpVQzBmMTBObTlyeHZ3VnY5eWVydElZQlJtUzYzWVlZZ21NSkFsNmNOVW9QLW1URy1Hekcxbm5PYVJYZnh0Smc?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "BALSAS",
-    "uf": "MA",
-    "valor": 10,
+    "cidade": "RIO VERDE",
+    "uf": "GO",
+    "valor": 0,
     "seta": "↓",
     "status": "ALERTA SECA"
   }
