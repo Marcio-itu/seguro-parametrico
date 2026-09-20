@@ -1,27 +1,27 @@
 {
-  "atualizado_em": "2026-09-19T22:33:09.616917+00:00",
+  "atualizado_em": "2026-09-20T13:16:09.186873+00:00",
   "noticias": [
     {
-      "titulo": "El Niño não age sozinho sobre o clima, diz Gilberto Cunha",
+      "titulo": "El Niño na Paraíba: Estado cria comitê e sala de situação",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "AGROLINK",
+      "fonte": "THMAIS",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-18T16:44:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd3lIUlJ0Q1NnRjE0ZThfczRibUZxMHc5RkF5QUdrLVM5ZlYwVmpDRjB3MkEtSjZoZ2Q1WnhXMDJKcHlYWnpBdTlTN0hvTGVJX0YzNGJiTm80M3VHaFlGZUMxN01sVlczdFkzTVJuOTdaOTBPYk9tSnRNNXZjbFEtQmZZb1VIZnN3NXdQeUs1OUxWenR5UTJiOXdUMWRiV1pQQ3J2alBBczZDUQ?oc=5"
+      "publicadoEm": "2026-09-19T15:30:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWjIwaW1iMGFxdWdSMG4tUW84SlZ4V25WSUo4NWViSnBRS2FYTUVGOERKdjFidnVZOGM1Uk80aW05bkZjWU1hdDFENjlEejV4YS12QmlaNTJJaXJLWG1Oa3FKcm9vajRDY29iYXhwTWhGTE9pZHN4ekFuWmY3cFM2THNzajFubmtnRFgyS2tKcEhBajRwTE4yRGdwSmZjQUFoT1Bv?oc=5"
     },
     {
-      "titulo": "Ministério da Saúde reforça ações no Nordeste para enfrentar seca e calor causados pelo El Niño",
+      "titulo": "Super El Niño 2026 aumenta de intensidade; veja quando começa o auge do fenômeno",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "O IMPARCIAL",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-17T18:44:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZFJlRl9ZSUk1LXBfZm9WX0cwMWU3TVFNa3RBQzA3Z3BuWWNTSVZWTURxTE45WG8tZ01kWVdYZXVQbEZjenE3d0V0SXNxX1p2WXZIdDNDMndiYVRIbmZzQTh3bGxmLUNnU3UwbHkyRXZYZDYwcGxkamNCdVdOMWpfM0xYUkw0eW5DT0xmODh5Qy1OcmVUTHp0WFZGalRvZDd1WjdLRU1nOHlTSzhOQVBqS2VyaFFCWllVRlV0QjcwWGoyOHdUYWxfTS1iU2tsWUhkcF9yeWlB?oc=5"
+      "fonte": "GMCONLINE.COM.BR",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-09-19T18:33:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQnQxQzJjZnV6WnlIOXRDMVNqc2Nid3VTRDJqdWhDODN1NnByWTdldzlOV1dueVAtOUFfRFByQnVINkhRZlFPc09NSEtUWlZNaE5PZ0otV2c5a1NvS2U0anY3VzdmNzl3ODZqZlVqTExnLWhWWVc3RWRrZ1M5R2dhZEhRdDdZRDItNHV5enN1ZW96MzVNd2lmTW5XZmRraUlicFdJWml3MlNZNlVia3c2cVVjbG5uSDBqVEtNV9IBwgFBVV95cUxQdnpaaE9ta1B3ZGJBaEZ2TTJOTlpCRl80VVp5UEZRcVJ2VURNdzFNVGtxQmc0WEpLNWFydi1qejhJaFNUOTRCVjdnbWFUcnA1cWlZTWEzVmlxZGVoLUlWd0tRem1TWGVydnU4X1VPd21ZZ0o0cmlZMjVsbk9EaC0zYkpkYlllTnRYOVhTUmpKNFZucWdGeXlhdUo4b2VScS1jNWF1cm1jYmxvR3dlc0FGd2l3YUZRT1p5THpCZXZMTS1Ydw?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "BARRETOS",
-    "uf": "SP",
-    "valor": 6,
+    "cidade": "SORRISO",
+    "uf": "MT",
+    "valor": 0,
     "seta": "↑",
     "status": "ALERTA SECA"
   }
