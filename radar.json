@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-09-20T22:46:28.730592+00:00",
+  "atualizado_em": "2026-09-21T15:25:58.052670+00:00",
   "noticias": [
     {
-      "titulo": "El Niño acende alerta no mundo e levanta uma pergunta no Espírito Santo: quem protege os mais pobres?",
+      "titulo": "MST debate El Niño e aponta agroecologia como resposta à crise climática",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "GRAFITTI NEWS",
+      "fonte": "MST.ORG.BR",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-19T01:02:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObmNwZzdKTUZTNnAzSUY3NlJfWW9xTkx0X09QQmRjZ2N2bElvdEMtS3RiOVFXZWJvV0N2WDRMczFSTklrcGdPWmxCdjRDTUVVT3VJa3p4dDZXb000VkVPeEZ3TExIMlZwbm9iT3RJN1M1ejhTeTJjcGVhTlVYQjlzeDhrZWpneWFuUnByWjlnSDVXTnpRVlBBRzlyTE0yVDBVV2QtVWxJU3c2TExIODV6S1FHUmN5Z3dQQkdSSjAybVpLMEhQZUdn?oc=5"
+      "publicadoEm": "2026-09-19T17:14:47+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPakhUdE01VkpUQXdJN1I4OTN2M3RxZnRtOFJnbGdxN09GSXV1UFhXTHRaVkdfa3NSd01nYV9rcjZJT2RDQ0lCdTBzZGNLaUJXWVFiUzdHVkM4azRKVDlCcU5lcGtJRTRpSXVvN1ZPVUVnN1lycnE5aUNpYU16T1lsNEFUYkdMS01FbUx0SWFBcGhLM3dGLUN1eGFTMlNxMU13UlNQTWF3?oc=5"
     },
     {
-      "titulo": "Marcha pelo Clima no Rio: El Niño com capitalismo é pior! |",
+      "titulo": "Mais calor e menos chuva: El Niño coloca agropecuária do Pará em alerta",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "BLOG DO PEDLOWSKI",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-19T17:39:30+00:00",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLVF3LWtxaTVtaDljMktZb2F2bFBhd1BYQ3FtRGFpbXdpWjZmQmxGU1JKSS00ZGdfcDVuZ2l1X09CSjZLUERoRTJ5TDJnb1p3ZkZEZi0xQUJYeHVlNlc4OXhmNVNSaW5sMWFBY1ExT21RTWR4S1JHS3NrVFFMTEFQR3NmT1M4eFRJSjYwaUREb3FmVzlCRFZ5UU51TQ?oc=5"
+      "fonte": "NOTÍCIA MARAJÓ",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-09-21T11:48:03+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMEJ0QldGRnlQQkgxQkc0bzVXay05dTFJUTctczlFWk5IYTk5bHJXSXBzbGNwQUNiYnFyY3loVlE4VnBNSk5zV2FLdU1UMndRRUtSR3FWUFFERi10X1JpbF9QTzlBNXJ5a1ZtX3lXc1ZRQkxFZTlGTzZkenRnOXNfZ25BcW5MVzVULW92cmlOU1FPNm9UQ3g3bnJqenVsV0VLMlA3N1JkZ0wxbzl4bHc?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "BARRETOS",
+    "cidade": "RIBEIRÃO PRETO",
     "uf": "SP",
-    "valor": 44,
+    "valor": 76,
     "seta": "↑",
-    "status": "CANA"
+    "status": "ALERTA CHUVA"
   }
 }
