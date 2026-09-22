@@ -1,27 +1,27 @@
 {
-  "atualizado_em": "2026-09-21T23:43:03.304639+00:00",
+  "atualizado_em": "2026-09-22T13:44:35.487200+00:00",
   "noticias": [
     {
-      "titulo": "Primavera começa nesta terça (22) sob influência de El Niño forte, com chuva frequente e temperaturas acima da média no Brasil",
+      "titulo": "El Niño ganha força na primavera e deve intensificar calor, seca e temporais pelo Brasil",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "ALCIR61.NET",
+      "fonte": "AGRIMIDIA",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-09-21T16:56:01+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUUt0OWV1cFJJLXB6UC0xWm03eHNQSWJDRm9oMFlnMFdVY1NpcXpKNWQ4Sld5aFFRTzM3R0lYUmFMZU1pSUtYWWExQmxFcGRSMnRuQ1h2QTh3UXVaU0RFNnJSbzdSbmxFenVxbml4MXNUbFgtcXR3REZ0aXh2aFEyYWZuNGNpUm5PN3FvWWVoc0VRTENLSmV3RmQyeVhPeHdDSEpERGlWU0NKMDRSdmxOV1l4VnhES2kwbzBGQnRrZVJUM0pnbjduN1N4ZzQ4b0p3VUxFZXR3RWhJZ2Jy?oc=5"
+      "publicadoEm": "2026-09-22T11:55:10+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZVQ2RVFDX3IxbHZZaUdXeS16QWVGM2pQeDYwektOMHREc0VTcTNNM0hpZVZIMjR2MGg5SGR1S0tPMkNFbVA2a3FYZnNodDdPU0U1YUFZQTJOZVhvT3B0bmVxSnE1N0VfRDdtTV9SWURxQlZ5MjVxcE9IaHM3YWEzcDlkN2pyQWt5LTZwVmQ0Q1A4blJLU1c1SUJlV0ZRcEVpLURQYjlHeDR6OG82RWVXQlJpNk5zZ2FmeVdnR21xU09BSjhPWkxncE5n?oc=5"
     },
     {
-      "titulo": "El Niño pode alterar prazos, custos e entregas da safra 2026/27",
+      "titulo": "Primavera começa com El Niño muito forte; entenda os impactos para o Brasil",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "O PRESENTE RURAL",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-09-21T19:18:21+00:00",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUmF3WHZvVEIwNjVDZkxhR2o0YUUtWjN5N3FrZDJWcVJ4Q243YUhQU3FSa244ZWVMcmYtUUM5NURDQUJUZXVXUm5COVkzeHpNLWNVM2stY1YzZVAzX1dPcFc0OWJtUjFSN3ZkNEJlN2ZLSUhKSWdONHBpMUxGLUxiN1dNbUxGcXJVRHlGWTIzRnNRUEVNbnRIcg?oc=5"
+      "fonte": "ESTADÃO",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-09-21T14:28:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcnNxcVNfZFlPRzVTNzZxRm1hYURMRE1qanVCVDVNQ0xqZTJ5cTA4cm9oZHdZaUdnREdBZElUYzFlQmlMUTR4LVRkXzZEMmhmRF9mbWRtZXpDQVI1Tm9ZTEZscVFUcG5XalEyU0R3V0V5Ny1qUjJFOExfbTEzMV9KcmtaTV9OcmJLQ3lGdDBSVlNRdjJmc21leGxFUUFTa0hpUXlweHJ2Y1RPc0xKbXRuemlEa9IBuAFBVV95cUxNaXRrb24wNUUzZWRqT0t3aXNVTmtrVkpTYXBkVnpMaHJ6Q29sUWFSeG1wVVN6VVhhejNNdDlLWHVBMXlTeGVBeHgteHo4YjZ1UXpJeVdlOGVubUtfdDY0b2NyYnR0d0hXX1lVQ1M3TEk5QzVqM01zYkVMU0NiUEpWYWN2YzNObEt2dTdwYVZDYnNmMEwxaHhHOFN6eERjaFAzLVRyUW51T2lzNTVBd24tLU5aMUtWd0pp?oc=5"
     }
   ],
   "chuva": {
     "cidade": "CASCAVEL",
     "uf": "PR",
-    "valor": 100,
+    "valor": 96,
     "seta": "↓",
     "status": "ALERTA CHUVA"
   }
