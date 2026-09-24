@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-09-23T23:16:47.494523+00:00",
+  "atualizado_em": "2026-09-24T13:52:28.486717+00:00",
   "noticias": [
     {
-      "titulo": "Ameaça de um ‘super El Niño’ desafia cidades brasileiras a se preparar para eventos extremos",
+      "titulo": "Estudo internacional alerta para impactos do Super El Niño no Nordeste",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "REVISTA PESQUISA FAPESP",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-21T12:32:20+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUlZ3R25qY2xqT3FiWW9IQmtpb2lNdzFFUVl4aC1rQUtYX0NESzJZYlg0Rlc2bDRpZ0RPSDZ6di1pQlF1ZzNJREt4U051NTVZUU9lZVF0YWlDOWJ0bkJYVUJldmUtSngxa2Uxak45a0pIMFNPWVdVZ1l4VEVRQzgyY0lsV0FQWWM1dHRoOHpwV3VxTFlXeU9FcndtTWhfUVczckdwREhNRmZBMzJmaGlsMDdCRnlDS3pDZUxndkgwTDZHZE0?oc=5"
+      "fonte": "PORTAL NE9",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-09-24T11:15:51+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS2pKbE1XRDlHUi1COThrUWFaVzdoSWZ5QlVTRTNmbEpVZTFXbWRDcWN4MHdDS2ZaZC1zVVJydS15cmFaaHlJYjBmRGlzLVJTMmxSM1BoMjNyV2xJNmRmMm9WTEgxOG1ESnNXZjFyVUNhU1lyODR3dzlCQUJGMVl0c2NB?oc=5"
     },
     {
-      "titulo": "El Niño 2026/27: o risco climático chega ao coração das commodities brasileiras",
+      "titulo": "El Niño pode trazer calor, períodos de seca e temporais fortes na primavera",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "EXAME",
+      "fonte": "RÁDIO METRÓPOLE",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-21T18:11:20+00:00",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONWJIR2RrR2UwT25ZNThXUEp1MTRURDBJTHhQTHg4d2haQ3RjY2psZ1prcWViRW10RGJzS0NVMVVTN1h1bk14QUNVZGY2VWFxeTgyLVNLNUxuOUZEVlN1T1g3YlRQY19oWUd0bzNvajhIeU16T3RpYjEybFA3cGhFZkN4bTVCTjJENHp6eThhNXRjTmU1Q2xmR0hxWDFWeThhcDZVRw?oc=5"
+      "publicadoEm": "2026-09-22T12:34:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS2VtVEFHX0xOV0xXNG4tQUstdjRkXzFPUlFqSmpCNHZMc0dQOE9WSUIwODBwY3RPcGI0Qld0NGxlSHVFTWl6clRMS3VxRTRTSFYzZ0l4Q2NOYUljclBXMV9xT0pYbXBFNmwydDlLa0x2UmtEM1M4OV9TT2hOSDg1V2ZKNGF3WTkxQndQQXZmb1AzQ0JOVkF3bFVIR1VNNzUyNTF6cndjUGR6bWlvVE90Ti0xU0FWZzliUmdBWlFVSEc?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "RIBEIRÃO PRETO",
-    "uf": "SP",
-    "valor": 59,
+    "cidade": "CRISTALINA",
+    "uf": "GO",
+    "valor": 51,
     "seta": "↑",
-    "status": "CANA"
+    "status": "SOJA · MILHO"
   }
 }
