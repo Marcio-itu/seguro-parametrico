@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-09-24T18:43:47.354120+00:00",
+  "atualizado_em": "2026-09-24T23:37:29.275249+00:00",
   "noticias": [
     {
-      "titulo": "El Niño eleva desafio para a safra de verão",
+      "titulo": "PRODUÇÃO DE MILHO E ARROZ ESTÃO AMEAÇADAS PELO EL NIÑO EM 2027, DIZ BC",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "TERRA",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-23T17:43:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSlFOZEUyeDgzalZIQ2ZwTXhHeDc1bnNaX3NTcWxMMTN1MmJHd0RlbFI2WHVyVko1NkJhOHlBTm9UQmE1YzZoeXJfV21JcWpmTFBFdXppMm1zNjVSaU56ekZkb3daUlZCZFJDSlYyQkoyaUdWdnQ3Y0Z6RlhYZXlNeFZCOHNSY0x0WWE3ZEJsZk1iRzFDMlJqNDRwN2otZHpTeGozb0NLVXpxckJ0OWpLSWU3bzAwZmV4YmRuOFIwTUg?oc=5"
+      "fonte": "- BAHIA ECONOMICA",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-09-24T22:38:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObmIxX2FUMkh1VHViOUpRZFhDcnJ4MzFpT3h3Y1NVRGdKRjhKdHJsOFU5MWJRWFFQdlA4MTZsQWZ0NkZYckwzalVMY2tUTUtSRmsxaHdPTGhlN25EVE1YSHZQVW1fcHV5ZlV3OGR3cHVxN3M0UzlEVFBsVUs1N1k4Zl9jNjJsVzk2NE1aQTJUZlBHY3pCNG9adUM2Rjhadk01akRrcFZPS3R6RDlRVnVKSTF5SDQ?oc=5"
     },
     {
-      "titulo": "Mais de 13 mil mortes por calor no Brasil são estimadas devido ao El Niño até fevereiro",
+      "titulo": "Brasil será o 5º país mais afetado pelo Super El Niño, aponta estudo",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "FOLHA DE S.PAULO",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-23T14:57:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUnVMcmZOTmlMSWp0b3FDZ0twZWlleTQyZ3ZTSGFDRndabHlWRm13enUwRi13bjdjQTZ4ZjJXbnZOejBEQl9Hd2ZwRjhQZEdfUE9zOHNHcmJ5c0ZCNWozb0tOMGdVXzNqdmQxWWM2TmxfMUdrT0dSTUg5OXNwZDFsdXZyNlBzOWRDUF9jY3Fwamw0bUFDanhpb1ZKYVRtZXpteko5U1hDTTZnUnI1ang2dlJSNWFNbXJXbi1YcVRvYzQ?oc=5"
+      "fonte": "AGRIMIDIA",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-09-24T11:21:38+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeVprS2gySXE2MGptTV9sLWVFZDlfTVJqbmVzWk5nOWVHYUU5ek82WFdwbTR0WmRoUXV1eHlHaEZyMkhHOG1oanZJZlBGOFoyRUJCYmhzd3RLVVl6Z3JQVk5vMHAtRHFVc0t6MFBSSW0tMVJMaWE1ZnRERWRKdU9Hc2dsS2pNYmx1SS1ueHNMa3hkRTdzaXdoY2ZVbE4teHFFV0F1WWt5Z2x5UVZvLXBkdkhJUE9LQV9YZC02NVRBX2NUMXFG?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "CASCAVEL",
-    "uf": "PR",
-    "valor": 35,
+    "cidade": "UBERLÂNDIA",
+    "uf": "MG",
+    "valor": 69,
     "seta": "↓",
-    "status": "SOJA · MILHO"
+    "status": "SOJA · MILHO · CANA"
   }
 }
