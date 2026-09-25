@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-09-25T18:59:38.881020+00:00",
+  "atualizado_em": "2026-09-25T23:40:20.244428+00:00",
   "noticias": [
     {
-      "titulo": "El Niño deve trazer primavera com tempestades acima da média para o Sul do Brasil",
+      "titulo": "Super El Niño pode afetar alimentos, água e energia no Espírito Santo",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "AGORA RS",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-23T13:47:58+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTWFZZ3kyRFpVMDVRVHRRQXJ4emZxaWxTSzVqVndBU2lNN1NwY3FFQ2Z2b18zSjRRUjJzQkJPRVhjakw4RVlteHRyWUIySnE3bFRBOW14NTdsTWwyTlhhUElsOGhsbGI1eVVXbDNsdlNWS3FEWTZfMmU0NDlEUmVaRk92dnRnTzdfLU82S3BaYnIxQTlmT2YzREwxT3ZKaVhnUWtJRDcyQk9oWFNQZlZVdWRfTGpwVmpx?oc=5"
+      "fonte": "CONEXAOES.COM.BR",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-09-25T12:31:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYTBnS3VUWVZDX1JCX1B0VVNYRjFrR3Y1dG5sRTRBU18weGN0cTRFT2ZZczJEMU9OaU9CVUZ4aEc3WTY5VTlZRUlDODdjZWRJUGw2NTU2LVNaVnlOQzFKd1lRa3NiN2tZazhnaGNrQTFUeGVVVjVjbl9hZDRyNk5iRWNwZy16TXpzMjNtWjVJUHZ5em1VODJ6Nkk4U2lBcml5LW14Y0FlV2s?oc=5"
     },
     {
-      "titulo": "Qual o impacto do El Niño na produtividade agrícola? Veja projeções do BC por cultura",
+      "titulo": "Entenda como o El Niño inibe a formação dos furacões no Atlântico Norte",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "INFOMONEY",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-24T15:11:40+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ3diVGk0OHpzUmhpbXZWb2Vjd05Sck9ab2Fpa2F6VXZpSEJRN2ZkUVJ0MG5GODhDbmxWWDN6bGl0c2ZPRm5uWk5XbjN5ZzNsdm9yMVI4S25PSk5qZmNWVElVNjVucmI0N3kyZ3BIWGcyQzhLTGtuR0g5eEp0UFRJLUdwRzRhTmJYSThxazNKQXlmYTBVbHNGR3JCQ1lVMFdhQkJfZm9IRDR4elkydkhtSGtFNVNtdGFnZWN5bVZkMVbSAcYBQVVfeXFMTWp0bmx2T2VCUktmS0NlNWpaNEZWS1RpYXhLd25CVmJTenhFR3RrVjFOSlV5dGVtamlwOWJ4UzZZbk8xNjFDR01RMGNaNUExeVVDT2F2RTdrZ3Q4U3lMUXF1LUZxVGJEdjl6WTJDdzJjMktjRk5CY2dvNUNYVnp0NjJ3UV9UVW9kMktTMktLS1VNRnhRUi00TWlIeVE1eHZ3OFBpMEt3cFBGZ2paMk9leWdmZVZjSzYyS3kxV0hjeFQ1SEZSWUJR?oc=5"
+      "fonte": "CLIMATEMPO",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-09-25T19:39:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMlNWcjZBUzZETEwtcVFFcWxfbHFJSGZ2TEJhM0hIZ1E3b2JnUUQ2ZTNXV09HZTBtNGczQi1LdWV0c0ZrVnpPbHZrZW9VLUhUc1d6S09CMl9VNkZBMExibWc4NWZOVERKa1lacC1NTFpfdHptaEwyanBwSjJRZlFWTXhXWXZrOFE0OFV3X0hnY2lsbmZXaGRhNDNMbmtKWWt6R0RBUHh4RnYwYW1PRDg4TlJCYUZ5MWZa?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "RIBEIRÃO PRETO",
-    "uf": "SP",
-    "valor": 61,
+    "cidade": "CRISTALINA",
+    "uf": "GO",
+    "valor": 27,
     "seta": "↓",
-    "status": "CANA"
+    "status": "SOJA · MILHO"
   }
 }
