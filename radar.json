@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-09-27T18:44:51.616544+00:00",
+  "atualizado_em": "2026-09-27T23:27:48.378403+00:00",
   "noticias": [
     {
-      "titulo": "El Niño: Professor da UFSC alerta na Câmara para seca, enchentes e prejuízos",
+      "titulo": "Seca atinge três quartos do estado mais rico da Índia e ameaça agricultores",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "AGORA FLORIPA",
+      "fonte": "FOLHA DE S.PAULO",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-25T19:01:27+00:00",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWVVLamw5MTBXRHpiOS12T3RnczJQVEdaSmtRZE5QZG4xdjAzcy0xSEh5WkhfQ1V6SUd6VWVPendTRFludTUtelBZQnZUNGh5eUtlMWVqckNoaTRJUUw2enZYUjVqbUhHd2E3MFBKTlFKaGtBcHFncFZPMFplRG85d1YzdTNkZWZ6VUxYdXhwMVJ5SVB5N1hpdUVDeHpGMl9vbVpndDJB?oc=5"
+      "publicadoEm": "2026-09-26T17:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNFBlR3BmRFRwYWlqSmFMZDhCUURZenRpSzFuNWVFZktpYVB2NFFIZjBVWUdCY3FkUHo2OVlaRzYtNFlSU280UFRJWDVNVVg1ZnJCVC1LX1NPc2QzbFh0dDFmNjM1WW5jTi1lWGc4ZzlHblIzLVE4YVVfMHhJVHI5blg5VVNnc3lUV1VxWGpjemNxQjduUnY0QlF2dUVFZmZaMEM1NktiRjRsVUlrdXZMN1FSNG1Vd3hzSmVZUGVaVVdEVGh0MUlF?oc=5"
     },
     {
-      "titulo": "Chuva intensa faz florescer deserto do Atacama após fenômeno El Niño",
+      "titulo": "Seca e calor colocam MT em alerta; projeção prevê mortes",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CANAL RURAL",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-26T00:05:41+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOG8tOWtYcjlQN1VNR2ZrTElqVjVseHlLeUhXUVdaMWRxcUhhcm1OckNqYWxFWS02ZFBzMkNPWjNKVV90VEhWMzByZ2tEWG1BX3dlVGFXWDYtYzF1a1RaWmZHbVJja0NJTEgtNnNOeGVaNXdXYVFSei12TU96SHZOS1poUHVxMUpMbTBOcEtUT29vWHFYa3Q4c3pHQUVaYzFwYzhoS2ZnTkNWdw?oc=5"
+      "fonte": "VGNOTICIAS.COM.BR",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-09-27T15:30:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQUp0MGlMUXpWMG9ZNTJmTE1CUzAteFRmZS1QUjdxZ1doOEpob19tUkhVRnJVMmppYmJ0LVVoaDI4ZnJSWDB2b212Uzd4VDNLenJXOTM5c3lRRWZ1ZWNaUU9MQ2tqY2V4S3NuZXhqbXRiVnRfbkRFWUx1QnJnU2dBU05Sb3c3T05qN3hibXBJd3BPTmxXUmlQZzRqZkFlcEtMbmc?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "SERTÃOZINHO",
-    "uf": "SP",
-    "valor": 12,
-    "seta": "↑",
-    "status": "ALERTA SECA"
+    "cidade": "UBERLÂNDIA",
+    "uf": "MG",
+    "valor": 40,
+    "seta": "↓",
+    "status": "SOJA · MILHO · CANA"
   }
 }
