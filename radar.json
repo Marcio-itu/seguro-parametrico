@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-09-29T15:11:18.075161+00:00",
+  "atualizado_em": "2026-09-29T23:59:11.507776+00:00",
   "noticias": [
     {
-      "titulo": "Super El Niño vai trazer seis ondas de calor ao Brasil e Defesa Civil alerta para temperaturas extremas",
+      "titulo": "El Niño: Por que o Sul está enfrentando uma sequência de temporais severos",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "PORTAL TEMPO NOVO",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-28T18:21:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPenZPVDdLNUhOTkNla0w5YW51TUxwYVNHd2duMXE1NVBRbVlFbUY0aUdRX3RCMlVUZVd4b2sxbktLZHYwNDd5Y29vdWhNTU5tQTJXSVMxT0FMSV9XTHBnbGJZYkdTY0JjUGdjM2lqd3NHaVM1OFg5UVZ2VkQwbEpwY21SQlNOb0FWOWpGc19BR185WmVG?oc=5"
+      "fonte": "JORNAL BOM DIA",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-09-29T12:19:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOGdpVUNIZlU2dWxIZVJlSXc5a3FNWmZRaHFKN25nR3VwRzJmLWdXazlWNS13YVNScnViREIteGJ4SHVabmQxSDFtd3drbFR4blNVUnk2WGphcGJXcm5TZVllM01HbXVzWW5PSjlta1ludk9TZjE1cXlXZ3lPcktQU1NpOXFCRnk2VzI1MnVmUGtvUzJXR0JKOTVXYllhZUFaU1VIWXM2Zy1LaTUxZUg1VG1QdnE5QzFlT2Ew?oc=5"
     },
     {
-      "titulo": "Café pode ficar mais caro com avanço do El Niño; entenda o impacto no preço",
+      "titulo": "Relatório final do GT do El Niño traz diretrizes para proteger a safra 2026/2027",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "LEOUVE",
+      "fonte": "AGRIMIDIA",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-09-28T21:39:21+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb0ZjNGdvQWpFRXNieHhUaVlYTFRBWlhqQVdqTzdEOW9zbEFBVHNlWGptUlFsbEJFTndnYlk5SjNJR0xyelkzYkd5Tk5aRjR5T1hpTndhSjdtNFVfeTVrQVY0OEU1MldjTmRhcnIyaThnMWswMGt6YWxSc0FkRmN0ZTVfX1kyTEpNNW1uR29HZTR0MUtKVHJkTHpVNk5fMVV0Ml9wZExMSXp0UQ?oc=5"
+      "publicadoEm": "2026-09-29T11:02:47+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWFU5SkNXSm01OVpBd3JLMDI2bVFqUlJ4anZhV1NIb25JM3N5aDBKM1czV3YweFVPdE8wYWlwWEhQc0phd01hdEd3cVdjQXhuZjdHZzlBaDBfV19ueVRhS1NQd2cwUkp5YUFWSVY4OGlkTUU0N1p4Q1g1U2EteHZhLVBpQWlwTFpLamRydnJhT3AtVk9qLWh1R3VXTXoyZ3VSdEZCT3E2QTA0cjZuU3FGRmZhYWlTdDN4RVZQVl9PaExtLUJDREtZd1NXNVJRdV9EbDhnUFFwam8?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "RIBEIRÃO PRETO",
-    "uf": "SP",
-    "valor": 69,
-    "seta": "↓",
-    "status": "CANA"
+    "cidade": "CRISTALINA",
+    "uf": "GO",
+    "valor": 0,
+    "seta": "↑",
+    "status": "ALERTA SECA"
   }
 }
