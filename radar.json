@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-09-28T17:07:34.033871+00:00",
+  "atualizado_em": "2026-09-29T00:42:54.703837+00:00",
   "noticias": [
     {
-      "titulo": "El Niño significa seca no Rio Grande do Norte? Pesquisa aponta intensificação",
+      "titulo": "El Niño forte aumenta risco para o agronegócio",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "DEFATO.COM",
+      "fonte": "CANA ONLINE",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-09-28T13:21:06+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa21OQXdnMXFFRnJzcU52RHdkVlo4amVaYTNneDZlQkhrNEk1MU5NOTdIdGpJMnlTTWw2UTM3X2Y2LWM4VEZHNU1fTGpQUWd6STNZMHVQWEdYSzRrdGVfTjlWUjQwTmJVMDlsY0FRSDdoaG16RFZjR0htNVgtWks0eTJXcmVaaWRSYkpCOHF2ZjZMMHo3bDVvczEtZHJUdGdrbTZBXzJRcEdpdw?oc=5"
+      "publicadoEm": "2026-09-28T12:50:11+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOai1Dek1KczFNQmFnM3ZxSWp0bmVvYUw3Y1JMS3hPQUwyOGlBRDFqZi1kMlR3TmVLSzc3SWlnTzZJMEpLTmhobGdhMHVrODg1TmJRUEhyWHBmUTZveGkxTUJFNC1raHQtNFBPbnZMbnAtT0E0VDVkZk10QkFlZi1XM3VBZmtJNm1ERFdZM0dwLTcyaTlR?oc=5"
     },
     {
-      "titulo": "El Niño acende alerta na produção agropecuária",
+      "titulo": "Super El Niño pode intensificar calor, queimadas e desafios para o sistema elétrico em Goiás",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "A TARDE",
+      "fonte": "GO IN FOCO",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-09-28T05:40:19+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbHJPWWJMVXBDM3dhclFkOEY3NVpsUGVsVVRtV09tVU5tMlI5VmstS3gwa3VpclhCNlNCVmJjMVpzaGFfenFOLVFZTzJQWnh1SmZzam9ZaVVNUUpVVU1tc01KT0pFTlUwcVVzemlkU25ZTjFlY1UzdThKZ2tpcE5COUgtRkNDeUtX0gGQAUFVX3lxTE1sUG1YQUlRalpjUDc3dzl4NGUyR2hJaHhvTnVSSWRZNWlldlY5XzBBUElVZXM4RnU2dmx2YVRmbzktdkZ1eTg0bE9DX20zWDM4cWdhQi1pdER3dUl5STdsSW5Yd09Sa1VVTTh0cTRVOWNYZzllUEd5WThqUWcxdzN2RlNsTENaeHd5cXNSX25KVA?oc=5"
+      "publicadoEm": "2026-09-28T10:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYjM4bEllZW9YdG55Wk51cW51VThuVC1YbDlZOU9EckJRY095UjdNcHZJTHNYMWd3emtyRXdpWmllMTYtdFJubTRXN3dRT3N3TVVLa09YTmFpRXRSc0s1bXBCRXJPem8zQW5HTlJHNzVOdlRhQlhON1VBclVGMHVQeE9xY25QLS1pd1ZQaWtiMWNOdmVvaGtJZnlZYS1uNmxhdjk3aFdsOThBcVJCSDFHMm1UV3RzUm8?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "PALOTINA",
-    "uf": "PR",
-    "valor": 24,
+    "cidade": "RIO VERDE",
+    "uf": "GO",
+    "valor": 16,
     "seta": "↑",
-    "status": "MILHO · SOJA"
+    "status": "SOJA · MILHO"
   }
 }
