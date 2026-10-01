@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-01T00:13:45.393683+00:00",
+  "atualizado_em": "2026-10-01T15:47:27.324827+00:00",
   "noticias": [
     {
-      "titulo": "Usinas do centro-sul priorizam clima, não preço, para definir mix de açúcar",
+      "titulo": "El Niño traz extremos de chuva e seca no Brasil",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "PARAÍBA BUSINESS",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-09-30T19:00:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNjNFX0dkQ293UnNlVW5jN2FWTUQ5d3NlYXhTNThBY3VSQmxGcmI5TG9uajRPUXVIVEVEVTNZaGRPeGZPcFdrOVBZZTBBOFZTS0pEX0NMSFVTY1liUVd5M3ktei0tZGdnNjdwVEdRRk9tQjExR3FGblRiM1V1eml4U0x1U3d4X09pYzc2WTVxa0NLeVFjZU9aeG5tS0pTcjJHZWRNcHpBRVU?oc=5"
+      "fonte": "REVISTA CULTIVAR",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-09-30T19:29:10+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObUFvLTFPZ2ZRWWVYOVhPQXZxdHB1MS1IcGprcU1PcjQxbmhIaDJHYjRxRVZyRVpxMkpITE9mRTNsbVBGbTBPT1JoUmpmaDVrdTlCeklZSDM2bjhVemFyU0ZtS244M0duLTZ1X0tpT0FoaGs4UE5CeTlZM0xJR0tORUJoaGlQc2NUcW5PbWFqbGc?oc=5"
     },
     {
-      "titulo": "Super El Niño deve pressionar economia e preços no ES",
+      "titulo": "El Niño muda o clima em outubro no Brasil; veja como será na sua região",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "ES BRASIL",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-29T21:56:50+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CV2pDY05BdlV0MzZWQUhBMnlWQVoxeWpnZzZnQ3R6MXBBSDJVem5NQUI1M3Nva2diOTJQdGtSaUpTcHRiWTRYd1Vtb1FSM2JqdFpoa0hkcFE0anliQVRRVTZkQ2pwbzg?oc=5"
+      "fonte": "GLOBO RURAL",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-10-01T03:00:01+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUWlFaVViV2xGbVE4d3lvdVRzbVBRMlltbXVFeXhSc0RTQklSSjZxdTNwMVkzbVgzZXVQVFVxT3ZVMG9tMzJVUk1GQldWRUMzSDBHaThzdjkxQjVKZnZlOC1xTkV0a2xsZU96T0ZZU3VleEVnSG5QZHlXaU0tYjVSUnBhdDVsNVp3WWpKUThGZ0Q0MFJyMnBCVFNVbHVCWGtLc2lEOG0xRTBBanNQWVZKa0tSRVFYd2ZxWFJGVG9GNW9JdmNNQm5pb0hzbnNTd1VxcXJOS1FR0gHkAUFVX3lxTFBxZlFxeGliYkkybWRsamVmX1lXeXZmOUVHbmtyNlEwZEdhWC16SmhzeXA5eFZFVThXQ0lGV0ppQlZHYk9Kck9BcmR1TURURVgza2VHbzRMaXFBaVQ5OE1WS1liOC05aWF3UjZ5cjE1UzYyVmt1ZDZZdGhHMUpib2pXcjRxaTNXeUFHQi1zZ0ZoU3Q0QnhvTHFVbGd1R25lNmQzcDlGdkNQNlVfUFNueHU0VXBDN2QyS0lUeTBNcVRZWS1KUFJiNmpFTmI4Vm94UkdBX0tvbkxSYVJVeVpJaWljZFY4cA?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "BALSAS",
-    "uf": "MA",
-    "valor": 8,
+    "cidade": "UBERLÂNDIA",
+    "uf": "MG",
+    "valor": 79,
     "seta": "↑",
-    "status": "ALERTA SECA"
+    "status": "ALERTA CHUVA"
   }
 }
