@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-09-30T15:26:36.117510+00:00",
+  "atualizado_em": "2026-10-01T00:13:45.393683+00:00",
   "noticias": [
     {
-      "titulo": "El Niño muito forte coloca Santa Catarina em alerta para uma primavera mais chuvosa",
+      "titulo": "Usinas do centro-sul priorizam clima, não preço, para definir mix de açúcar",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "NOPONTOSC",
+      "fonte": "PARAÍBA BUSINESS",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-09-30T09:31:16+00:00",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYkd0MEJUZDU1TllaTTVQLWtqOGhnOVNKNXY0a2pwVDBick94ajJtS3JVX3JaN2xHcE9tdWMxTGp0V3pLTnE2Y0FfRDl0eVdVb282NDVMS1J2M0xQSmNGUkZ6RUdBMWZCWmdNbzFGSlJ6YzJTc0wyM0dhWkY3NkhCZkhlUi1ZdllnNzJpaVhWZ085WFV2aWRuQXR4a3NsZkhmd0ZfZ24yZk40N0FoUUxWV2dhdFNESm41VWQtOQ?oc=5"
+      "publicadoEm": "2026-09-30T19:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNjNFX0dkQ293UnNlVW5jN2FWTUQ5d3NlYXhTNThBY3VSQmxGcmI5TG9uajRPUXVIVEVEVTNZaGRPeGZPcFdrOVBZZTBBOFZTS0pEX0NMSFVTY1liUVd5M3ktei0tZGdnNjdwVEdRRk9tQjExR3FGblRiM1V1eml4U0x1U3d4X09pYzc2WTVxa0NLeVFjZU9aeG5tS0pTcjJHZWRNcHpBRVU?oc=5"
     },
     {
-      "titulo": "El Niño acende alerta para safra 2026/27 no Espírito Santo",
+      "titulo": "Super El Niño deve pressionar economia e preços no ES",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CONEXÃO SAFRA",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-09-30T07:53:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdkVCMExTU3BMZy1adXhsemhKbzhEVmVMX3hhTkYxNEdvVzVCRWduX2lQTHAzOUl4N2RNWmJuYm5BVXFTOE12YTloT1YzQ1JaRXBJcnM1VTZrdmdZZFZpalQxTGpZTnNYYlN2aVg0RGp0b0dIbHpnTHFaM3gyUW9hWVBNeEJTU1pUeEJpQjJHeFVyNVJ6?oc=5"
+      "fonte": "ES BRASIL",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-09-29T21:56:50+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CV2pDY05BdlV0MzZWQUhBMnlWQVoxeWpnZzZnQ3R6MXBBSDJVem5NQUI1M3Nva2diOTJQdGtSaUpTcHRiWTRYd1Vtb1FSM2JqdFpoa0hkcFE0anliQVRRVTZkQ2pwbzg?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "RIBEIRÃO PRETO",
-    "uf": "SP",
-    "valor": 68,
+    "cidade": "BALSAS",
+    "uf": "MA",
+    "valor": 8,
     "seta": "↑",
-    "status": "CANA"
+    "status": "ALERTA SECA"
   }
 }
