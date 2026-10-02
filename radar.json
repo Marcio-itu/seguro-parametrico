@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-01T15:47:27.324827+00:00",
+  "atualizado_em": "2026-10-02T00:17:09.343266+00:00",
   "noticias": [
     {
-      "titulo": "El Niño traz extremos de chuva e seca no Brasil",
+      "titulo": "É urgente cuidar do clima com seriedade",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "REVISTA CULTIVAR",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-09-30T19:29:10+00:00",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObUFvLTFPZ2ZRWWVYOVhPQXZxdHB1MS1IcGprcU1PcjQxbmhIaDJHYjRxRVZyRVpxMkpITE9mRTNsbVBGbTBPT1JoUmpmaDVrdTlCeklZSDM2bjhVemFyU0ZtS244M0duLTZ1X0tpT0FoaGs4UE5CeTlZM0xJR0tORUJoaGlQc2NUcW5PbWFqbGc?oc=5"
+      "fonte": "O TEMPO",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-10-01T10:03:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQXliNlFPY3pHakFJS1c4WUpRcnJMOERZRFpBRV9Ga3pJQkhQUnk5NG9JRmFBaFMwZUd0eUdUZS1MT3ZYUFJlTkIwcVdRaXV3WTQ0LXIxcUtLQUtXZlVxNTRUa0ZrYU5aSC0xNlRIWGhKT3dwMk5tVVZVVkF1LXdPdlNHMFdadWE1bXNNVUF3eHpaY09waEZmRg?oc=5"
     },
     {
-      "titulo": "El Niño muda o clima em outubro no Brasil; veja como será na sua região",
+      "titulo": "Pico do Super El Niño tem data prevista para 2026 e fenômeno será o mais forte dos últimos 150 anos",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "GLOBO RURAL",
+      "fonte": "PORTAL TEMPO NOVO",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-01T03:00:01+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUWlFaVViV2xGbVE4d3lvdVRzbVBRMlltbXVFeXhSc0RTQklSSjZxdTNwMVkzbVgzZXVQVFVxT3ZVMG9tMzJVUk1GQldWRUMzSDBHaThzdjkxQjVKZnZlOC1xTkV0a2xsZU96T0ZZU3VleEVnSG5QZHlXaU0tYjVSUnBhdDVsNVp3WWpKUThGZ0Q0MFJyMnBCVFNVbHVCWGtLc2lEOG0xRTBBanNQWVZKa0tSRVFYd2ZxWFJGVG9GNW9JdmNNQm5pb0hzbnNTd1VxcXJOS1FR0gHkAUFVX3lxTFBxZlFxeGliYkkybWRsamVmX1lXeXZmOUVHbmtyNlEwZEdhWC16SmhzeXA5eFZFVThXQ0lGV0ppQlZHYk9Kck9BcmR1TURURVgza2VHbzRMaXFBaVQ5OE1WS1liOC05aWF3UjZ5cjE1UzYyVmt1ZDZZdGhHMUpib2pXcjRxaTNXeUFHQi1zZ0ZoU3Q0QnhvTHFVbGd1R25lNmQzcDlGdkNQNlVfUFNueHU0VXBDN2QyS0lUeTBNcVRZWS1KUFJiNmpFTmI4Vm94UkdBX0tvbkxSYVJVeVpJaWljZFY4cA?oc=5"
+      "publicadoEm": "2026-10-01T13:08:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcl9jdHpZUWtfbnRIOTEwNTJKQk1hbXc3dzZCVkRCc0M4VFhNY3hmMU5ya0c3SG9VZjN2X19JT01Pc01qZ0ZDX0VrR1E0dlRya1UxRDhObkU4dXgxSjVaWnBDdWdGY2dxSzN2MlhydENHa3lrWEg2Uzh1QjNYbTJUUTNyT2lwcjM5YWd6RkphWEZxSVNvWnBsWV9CM2VkeTVMZ0NEM3VVNHVtcmh2MWNKWUZmTEw4b00?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "UBERLÂNDIA",
-    "uf": "MG",
-    "valor": 79,
+    "cidade": "BARRETOS",
+    "uf": "SP",
+    "valor": 65,
     "seta": "↑",
-    "status": "ALERTA CHUVA"
+    "status": "CANA"
   }
 }
