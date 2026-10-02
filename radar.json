@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-02T00:17:09.343266+00:00",
+  "atualizado_em": "2026-10-02T15:08:33.490747+00:00",
   "noticias": [
     {
-      "titulo": "É urgente cuidar do clima com seriedade",
+      "titulo": "El Niño deve provocar chuva acima da média em outubro em Criciúma, afirma climatologista",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "O TEMPO",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-01T10:03:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQXliNlFPY3pHakFJS1c4WUpRcnJMOERZRFpBRV9Ga3pJQkhQUnk5NG9JRmFBaFMwZUd0eUdUZS1MT3ZYUFJlTkIwcVdRaXV3WTQ0LXIxcUtLQUtXZlVxNTRUa0ZrYU5aSC0xNlRIWGhKT3dwMk5tVVZVVkF1LXdPdlNHMFdadWE1bXNNVUF3eHpaY09waEZmRg?oc=5"
+      "fonte": "ENGEPLUS.COM.BR",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-10-01T15:07:17+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN1Rnd3E3RVhlUjdLTTl3R2NQY3hDakJJb25MZkNIdHhsS2h3dHhWVXFLMlVYdTdrU1V4empaN3lsNTMwZWJLaHhhZFhfU0k3RG9fbEhtclhnV0pkT05DTUlqRDgtNmo4eUVkdU41TmRNOHFEaU1TUEZmWUhTWWlzOWhlcDBZV1h6d3lwNnRORHltamkzd1QxNjJhOUdUZC11S2NCYklTcFUzZUpuQ2pReFAwVGU5b3VGRWU5bVVJV3M2dG5GYVdBRzNxbXY?oc=5"
     },
     {
-      "titulo": "Pico do Super El Niño tem data prevista para 2026 e fenômeno será o mais forte dos últimos 150 anos",
+      "titulo": "Brasil terá meses de extremos com El Niño mais forte, aponta Inmet",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "PORTAL TEMPO NOVO",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-01T13:08:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcl9jdHpZUWtfbnRIOTEwNTJKQk1hbXc3dzZCVkRCc0M4VFhNY3hmMU5ya0c3SG9VZjN2X19JT01Pc01qZ0ZDX0VrR1E0dlRya1UxRDhObkU4dXgxSjVaWnBDdWdGY2dxSzN2MlhydENHa3lrWEg2Uzh1QjNYbTJUUTNyT2lwcjM5YWd6RkphWEZxSVNvWnBsWV9CM2VkeTVMZ0NEM3VVNHVtcmh2MWNKWUZmTEw4b00?oc=5"
+      "fonte": "OLHAR DIGITAL",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-10-01T10:55:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQS1GbjRXWUhxQXBWZEo1ODB5NjdIMjRCTHBJY1NRTnFVeDFwdm1oQWs5VFo3WWZsZUg2bDFYQkQwdEduVjlWTHdONS1LbnREczRYclhVSzZTQ0o0dk95a2txRGFDdmYycWJyNUo0Nk16VHRHRGxJXy1EX2dtcWowbXBNN0RyeUNKR0VXR3VXbTY3VHd4d2JXRC1iQnM2bFpPaGtrRzNxcXhTVHZ1alk2VUhoeW5ha0NFd1V0ZWExQ0U0UQ?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "BARRETOS",
-    "uf": "SP",
-    "valor": 65,
-    "seta": "↑",
-    "status": "CANA"
+    "cidade": "L.E. MAGALHÃES",
+    "uf": "BA",
+    "valor": 91,
+    "seta": "↓",
+    "status": "ALERTA CHUVA"
   }
 }
