@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-02T15:08:33.490747+00:00",
+  "atualizado_em": "2026-10-03T00:02:54.994789+00:00",
   "noticias": [
     {
-      "titulo": "El Niño deve provocar chuva acima da média em outubro em Criciúma, afirma climatologista",
+      "titulo": "El Niño pode estar entre os mais fortes desde 1950 e Acre entra em outubro com seca agravada e alerta de tempestade",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "ENGEPLUS.COM.BR",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-01T15:07:17+00:00",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN1Rnd3E3RVhlUjdLTTl3R2NQY3hDakJJb25MZkNIdHhsS2h3dHhWVXFLMlVYdTdrU1V4empaN3lsNTMwZWJLaHhhZFhfU0k3RG9fbEhtclhnV0pkT05DTUlqRDgtNmo4eUVkdU41TmRNOHFEaU1TUEZmWUhTWWlzOWhlcDBZV1h6d3lwNnRORHltamkzd1QxNjJhOUdUZC11S2NCYklTcFUzZUpuQ2pReFAwVGU5b3VGRWU5bVVJV3M2dG5GYVdBRzNxbXY?oc=5"
+      "fonte": "ACRENEWS",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-10-02T14:11:45+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeFNyZUxiOWNwOVdLQ3IxWkpqYUY2ZXM5V2V0Z1J5UG8yUmJTbjdjTUpoYlBSWV9IWG51ZjlqS3Y5SC1reVBubEYxc1FSUDBHbV8zU1F2d2JocUVqZlRTVVVGTFIxTi1tS3VNZ2x1Tk1idk5YaDRPeWNwTnNxYldaNTl2TjhndUtmeHluUTdlQ2NSLVREdWFNRzJ3X2JGT0dwdXZmMnduSUI5eGhRb0J0anNueXZ1Yk5jV1ZyZzNuR1hRLVd0RnNkTHpqQlJvNkptYlRTVjMtcw?oc=5"
     },
     {
-      "titulo": "Brasil terá meses de extremos com El Niño mais forte, aponta Inmet",
+      "titulo": "Prefeito de Goiânia apresenta ações para enfrentar efeitos do Super El Niño",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "OLHAR DIGITAL",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-01T10:55:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQS1GbjRXWUhxQXBWZEo1ODB5NjdIMjRCTHBJY1NRTnFVeDFwdm1oQWs5VFo3WWZsZUg2bDFYQkQwdEduVjlWTHdONS1LbnREczRYclhVSzZTQ0o0dk95a2txRGFDdmYycWJyNUo0Nk16VHRHRGxJXy1EX2dtcWowbXBNN0RyeUNKR0VXR3VXbTY3VHd4d2JXRC1iQnM2bFpPaGtrRzNxcXhTVHZ1alk2VUhoeW5ha0NFd1V0ZWExQ0U0UQ?oc=5"
+      "fonte": "ENQUANTOISSOEMGOIAS.COM",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-10-02T16:08:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTDFuYU1IbWwyLUxZRDRBXzFJVDB4RzM3bVpCamlSVFJFRjVJVWNMd0o2emVTa21UaGppSkdUYW82YmpqdmQyMmhnbExNX0Ftb3JSX2J1LTR2M3NKQ1JvMWZxSjNmdTdfU0FQU2dmX2IxcGJGcUtKRGJsSC1sdXZlOXF0UjUwM1hlVXI4TUczVjBUN0pUSHh5SU1ZRWhNbjFSbk91QW1WLVJCWWE4SnpOLW1HeE1ncktISHRpakpVZDZISks2Z0hsQmd3MTllMlZJWVdj?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "L.E. MAGALHÃES",
-    "uf": "BA",
-    "valor": 91,
-    "seta": "↓",
-    "status": "ALERTA CHUVA"
+    "cidade": "BALSAS",
+    "uf": "MA",
+    "valor": 49,
+    "seta": "↑",
+    "status": "SOJA"
   }
 }
