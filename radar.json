@@ -1,27 +1,27 @@
 {
-  "atualizado_em": "2026-10-03T18:24:32.754223+00:00",
+  "atualizado_em": "2026-10-03T23:25:10.703929+00:00",
   "noticias": [
     {
-      "titulo": "Mapa lança página com orientações sobre o El Niño no agro",
+      "titulo": "El Niño: quando a crise climática interrompe futuros",
+      "resumo": "Leia a matéria completa na fonte original.",
+      "fonte": "REVISTA FÓRUM",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-10-01T16:57:54+00:00",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UbjFDT3dpSTBkLTh0TFJkZVAtakNLT0tMcW9PdGpKWng0MDVyVE1jcHZkN0lGVnhheC1TSjBmdzI5MEoyOXl1S0puTDI3WVlwNkhxUG9rWm5iRU0tTHNNWm43NUZnSG0zZDhNWFk4NEVTODMxN2Jn?oc=5"
+    },
+    {
+      "titulo": "El Niño pode atingir intensidade muito forte no fim de 2026, indica painel",
       "resumo": "Leia a matéria completa na fonte original.",
       "fonte": "CANAL RURAL",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-02T14:45:14+00:00",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS2dOU3BIaHh3WXM0VFh4b1hrT21sQzRJUTRmRWVJYzZHRW9zNkx3LXNXdFBCTG5IdGN0Vmk2THo4TVluU3NoRWlDS2xhd2MxNVA3eHdrWkZhOVVFdTJKR1ZtZHBSUkFWaDFKREtsdVByTWt0QkRHZWJrMUNsbm5jRW00dUVaa2FkSTZGc2h0WHAxY1FQNGVob0swTVpqZw?oc=5"
-    },
-    {
-      "titulo": "El Niño \"muito forte\" deve trazer seca e chuva ao Brasil já em outubro",
-      "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CNNBRASIL.COM.BR",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-01T12:57:20+00:00",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWVhlVHZwc0dvSTdTOXVrSFl0UGZjYVU1dlc5dS1OVFpJdWQyZUFCLV9PaG14TUUtcmlRdjVEYlgwelVnX2ctbTdhOXRWYTJTdi13aEEtd3dlTEU1eXJ1V1pOc1RnOE1USG9uOTdTc0FZTWR3ZFY1MUNWbDY4V1ZqcHBsSThFSDlyQV94RTNQdkFIUl82X0JuYkxTUk1uLVVUdHlCNkJDdjVyZEtRblZKeUxTcEs?oc=5"
+      "publicadoEm": "2026-10-02T21:24:07+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ0c1RFQzLUNVMjVVVmRVM0RFR24xODVYWlE3ZzluSzRCZzBQQ0ZocnZjM0dzeHhxREtlSllOSjJpd0dqcDZWN1A2ajIwbnJfZFgtaGpOS0tPVFFXY1U3UzdYTUdfSEZINEV5cFZ4Z1hRWnJrZVAxUnllNEIybV9Wa0hmNkN1YmVNNEM0Y1ZEdkhwSjFhWVlWblNhTXl5Q2VIcUY1djhDSVVlempERk9nUkx3dw?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "BALSAS",
-    "uf": "MA",
-    "valor": 71,
+    "cidade": "RIO VERDE",
+    "uf": "GO",
+    "valor": 72,
     "seta": "↑",
     "status": "ALERTA CHUVA"
   }
