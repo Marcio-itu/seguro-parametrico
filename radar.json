@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-03T14:02:16.395428+00:00",
+  "atualizado_em": "2026-10-03T18:24:32.754223+00:00",
   "noticias": [
     {
-      "titulo": "Painel indica que El Ninõ pode ser um dos mais intensos desde 1950",
+      "titulo": "Mapa lança página com orientações sobre o El Niño no agro",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "AGÊNCIA BRASIL",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-02T21:13:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbXFFeklRVVAtQ3RnYnpLUC02dXNNUmRMblFTNi10ZnZHdG5XZHg2YXlyU19qVlh3OERiTUtMOXN4RXVYOEtPOWRDOV9lM212dC0yckdwSkRNRHh1bU1DdEpfWnlZYkV3NGVwOWk4R2tXSHB0amttZ3VHemNQQVRpWnA0TDRBOGE4MVZXMHQ0TFZDUEJiZUJBQXpSbExRZHBkMjZOQ3c4dlM4b01meDdTeC01WWkxeEFWLTlULVdQMnFpVHVtbWZ4RA?oc=5"
+      "fonte": "CANAL RURAL",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-10-02T14:45:14+00:00",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS2dOU3BIaHh3WXM0VFh4b1hrT21sQzRJUTRmRWVJYzZHRW9zNkx3LXNXdFBCTG5IdGN0Vmk2THo4TVluU3NoRWlDS2xhd2MxNVA3eHdrWkZhOVVFdTJKR1ZtZHBSUkFWaDFKREtsdVByTWt0QkRHZWJrMUNsbm5jRW00dUVaa2FkSTZGc2h0WHAxY1FQNGVob0swTVpqZw?oc=5"
     },
     {
-      "titulo": "El Niño deixa pescadores em crise e expõe impacto das mudanças climáticas no Pacífico",
+      "titulo": "El Niño \"muito forte\" deve trazer seca e chuva ao Brasil já em outubro",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "O GLOBO",
+      "fonte": "CNNBRASIL.COM.BR",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-01T07:00:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSnVxcEdyM0NVZHBUQmctUTlWeXNuZmo1TUFqbDB3enNleUw1WmVhTTgzNGQzbEJDVXU3QS1tOHFLajFKM3I4ekItTXpIRTJvMmVxWlV2Qy1VSC03dGZJR0QyRjcxRXhCd0RTNVFOTktURWVjUXlnNXJsdmxXSjM4RmtkT3cyTUxKaGUzdWxuNVdJRnBWTWpsYVhWX3ppTklyX3NCdjlLUjlRWDc5cUxaVFN4M1M2aG03Tkt3MGs4LWxjYXpZT05WTEh0WFpraDIyMGwtZHpxVktFdlBEUDcwWkMwVdIB8gFBVV95cUxPWmJwMkZQSW1EYVpNSTd6OGRLdnoxaGUwYm5kTmZkOWxsRjgzb0tCUlY0M0pVbXhFanNJZTdxMkZRdjBNeW1KOVRTbVp4WWRMUmdDTVZiZ203R0xqWEtVajlVZU83cVMyQ196eUIxMUZ6OHlCLVVjcTRaWUR3WVUzczQ3WEthelRWeXdpZnR1WjUxU2hTVGMwcXRmcjRjbEV0MnJrUVhqQ3p0c1o4ZXBnOENJdDEzNmJNZS1RQnJrSDFjckdrM3MtZHhNanNEaXlZWEJwR1k4cEhwazhEdnhaOEpHUDQtTWh5SWV6eU1fYVZXZw?oc=5"
+      "publicadoEm": "2026-10-01T12:57:20+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWVhlVHZwc0dvSTdTOXVrSFl0UGZjYVU1dlc5dS1OVFpJdWQyZUFCLV9PaG14TUUtcmlRdjVEYlgwelVnX2ctbTdhOXRWYTJTdi13aEEtd3dlTEU1eXJ1V1pOc1RnOE1USG9uOTdTc0FZTWR3ZFY1MUNWbDY4V1ZqcHBsSThFSDlyQV94RTNQdkFIUl82X0JuYkxTUk1uLVVUdHlCNkJDdjVyZEtRblZKeUxTcEs?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "UBERLÂNDIA",
-    "uf": "MG",
-    "valor": 61,
+    "cidade": "BALSAS",
+    "uf": "MA",
+    "valor": 71,
     "seta": "↑",
-    "status": "SOJA · MILHO · CANA"
+    "status": "ALERTA CHUVA"
   }
 }
