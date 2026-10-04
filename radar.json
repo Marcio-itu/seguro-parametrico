@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-03T23:25:10.703929+00:00",
+  "atualizado_em": "2026-10-04T14:28:48.983539+00:00",
   "noticias": [
     {
-      "titulo": "El Niño: quando a crise climática interrompe futuros",
+      "titulo": "El Niño pode ser um dos mais fortes desde 1950, aponta INPE",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "REVISTA FÓRUM",
+      "fonte": "DIÁRIO DA GUANABARA",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-01T16:57:54+00:00",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UbjFDT3dpSTBkLTh0TFJkZVAtakNLT0tMcW9PdGpKWng0MDVyVE1jcHZkN0lGVnhheC1TSjBmdzI5MEoyOXl1S0puTDI3WVlwNkhxUG9rWm5iRU0tTHNNWm43NUZnSG0zZDhNWFk4NEVTODMxN2Jn?oc=5"
+      "publicadoEm": "2026-10-02T23:44:20+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPay1SSEFQSVFzU21Ialk2ZUlqVjZqaldTZ2dIdGI3cFBkQmZJNVJOSnVkUlllR0RNLVlCSjVNZ0VrQUdFaG1EeFUzbnlzV0ZLYl80VTVXclFQcjdfbm45YW9kc29tdHM2dVB2akRGS0NQT3FEeVBfWG9tRVNBalVidjdoRWJtdUNWejFwWTBn?oc=5"
     },
     {
-      "titulo": "El Niño pode atingir intensidade muito forte no fim de 2026, indica painel",
+      "titulo": "Inpe prevê 95% de chance de El Niño “muito forte” entre outubro e dezembro",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CANAL RURAL",
+      "fonte": "JORNAL PANORAMA MINAS",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-02T21:24:07+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ0c1RFQzLUNVMjVVVmRVM0RFR24xODVYWlE3ZzluSzRCZzBQQ0ZocnZjM0dzeHhxREtlSllOSjJpd0dqcDZWN1A2ajIwbnJfZFgtaGpOS0tPVFFXY1U3UzdYTUdfSEZINEV5cFZ4Z1hRWnJrZVAxUnllNEIybV9Wa0hmNkN1YmVNNEM0Y1ZEdkhwSjFhWVlWblNhTXl5Q2VIcUY1djhDSVVlempERk9nUkx3dw?oc=5"
+      "publicadoEm": "2026-10-03T17:18:13+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVVIyR1pBLXowT1N5bVNaVndNOVllVF8wUDBQaXRtcVVtQmtHQ1NrcjN2TlhkTm9kZFhpWV9kLUxjSEVlZWFkSG41bnY1Nzh2a3cwTlNtQVpDeG5xc3FrTUtzVk94amZReE1JTlB2UEJELThWTmlZUXVkQWZCcDdLblZ3eXU1V2U2a01lOTlMWkdyWndQaklKMXg1N2FLUHNmVXlvUF82WUliaTQ?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "RIO VERDE",
+    "cidade": "CRISTALINA",
     "uf": "GO",
-    "valor": 72,
-    "seta": "↑",
+    "valor": 84,
+    "seta": "↓",
     "status": "ALERTA CHUVA"
   }
 }
