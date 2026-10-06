@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-05T17:32:06.709808+00:00",
+  "atualizado_em": "2026-10-06T01:35:02.049293+00:00",
   "noticias": [
     {
-      "titulo": "El Niño pode intensificar seca e ondas de calor no Acre nos próximos meses, alerta Defesa Civil",
+      "titulo": "El Niño intensifica riscos climáticos no sudoeste do Oceano Índico",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "AGAZETA.NET",
+      "fonte": "UN NEWS",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-05T14:49:06+00:00",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdU1WVmoxMi1RN09lLURHR3VDNV83eUJjZHc2eFJDRWFsejUxaVpFU3VlMmV6TEdHbUttSDZCV2JTNVJKYnRsamljV25za1lPNVVNa2dUY3dTbmJucURQQ21ZekNGYnQ1NmNJb3R4N2ZObnpVSHNYb2tObEdyTGJaZWpnOTdyekttVWNaUDNQa2tLNldqWktFcTBHS2tibGhETmdYRWswQnhvSURlci1vaWFLVlR2QQ?oc=5"
+      "publicadoEm": "2026-10-05T06:01:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE00Q3E3Y0gzQUVwVnIweENvakFZcnFZUVcybkFlTGNEUEE5N3M4MzVEdG0tdWVCYm9mVVZBODBFbzd6bnVxWjVpWDdRbFVKV2RNNE1xN0ZNOA?oc=5"
     },
     {
-      "titulo": "Jornal Midiamax. . Com El Niño intensificando instabilidades, os quatro primeiros dias de outubro de 2026 já ultrapassam o acumulado total de chuva registrado em todo o mês no ano passado em Campo Grande. Choveu 24,4 mm na quinta-feira (1°) e 67,2",
+      "titulo": "Ministério da Agricultura lança página com orientações sobre El Niño para o produtor",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "FACEBOOK.COM",
+      "fonte": "AGRIMIDIA",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-05T16:15:32+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVERCYTNaeWVBQXBocmZsVUVmTUZaOGt0T1BDOFdsd2x6NE16el9vWUV0MS03YmI5UTNpN3JGdW1PN2pSY0k3RDBIT0hQT0ZfamFhamJyTE5iVnpJMzJHQW5TOEFPSHFRdEcyNGIwbWJGcDdnc2NPdEhiR3E1Snp4eU41R2xxek9sM1VnSVViSGFvWEtkM1h4V1NsckdFdU1Fb0FTTG1nLTFHcTUwSlFlR1RBbnhPdFZmZlVuRFN5M3U5NzRUNEJzeGhfTlhWTDZfR1ZJMTQ0RU54OXRHYnc?oc=5"
+      "publicadoEm": "2026-10-05T12:29:12+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaldRUVJvNWFKekc0cVZBM19BR1ExQzNpVEF0MWlHVm9ENzBmWXEzNTI0U2F1Yi1vdU41MGhldFh2Z0UwUXkxcWZraWF2d0V0Q2dQZm5hUHFEc21FNlZxam9YZGNQSmNQYnZla3B4ekhnQUpKWDFCNVhNN1ZLRDFYQUpsdEthTHp6aEh5dzVlRWlQcE1rU1AwLS1aU2tJYzhEaEtSYnJaWGFjTXZicmtpSHRsa3ZlRk8wcGppZmdpMGpXUk1TUVBiM2M1eUFJejdaZmNzY0NsZXY4RkV4MHc?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "CASCAVEL",
-    "uf": "PR",
-    "valor": 100,
-    "seta": "↓",
-    "status": "ALERTA CHUVA"
+    "cidade": "SORRISO",
+    "uf": "MT",
+    "valor": 63,
+    "seta": "↑",
+    "status": "SOJA · MILHO"
   }
 }
