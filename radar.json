@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-06T01:35:02.049293+00:00",
+  "atualizado_em": "2026-10-06T15:31:22.792692+00:00",
   "noticias": [
     {
-      "titulo": "El Niño intensifica riscos climáticos no sudoeste do Oceano Índico",
+      "titulo": "Pesquisadores redesenham o mapa dos efeitos do El Niño na agricultura",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "UN NEWS",
+      "fonte": "FAPESP",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-05T06:01:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE00Q3E3Y0gzQUVwVnIweENvakFZcnFZUVcybkFlTGNEUEE5N3M4MzVEdG0tdWVCYm9mVVZBODBFbzd6bnVxWjVpWDdRbFVKV2RNNE1xN0ZNOA?oc=5"
+      "publicadoEm": "2026-10-06T14:13:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM0hDZU5XbVh3cWFDa2ZMTDQ0UkMzaG1kbldUU2tzU0tUSG9lQmhacll0MDZzUGRKY1lUMTZ6Y1EwUkx6WEF0RXdkZnFwVFhrSVBDY3psZ1VqSnR0VWlCWUZqdjN5YWZ5TzhBWXE3WWNXdjg3RG5FODRkQ00zTElnTF9EUFVwdDBSVnhfZkd3eklKdEJObUtBbVBWclp6OEotUkRlVlRIVQ?oc=5"
     },
     {
-      "titulo": "Ministério da Agricultura lança página com orientações sobre El Niño para o produtor",
+      "titulo": "El Niño 2026/2027: Embrapa orienta produtores sobre riscos em cada região",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "AGRIMIDIA",
+      "fonte": "BRA1.COM.BR",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-05T12:29:12+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaldRUVJvNWFKekc0cVZBM19BR1ExQzNpVEF0MWlHVm9ENzBmWXEzNTI0U2F1Yi1vdU41MGhldFh2Z0UwUXkxcWZraWF2d0V0Q2dQZm5hUHFEc21FNlZxam9YZGNQSmNQYnZla3B4ekhnQUpKWDFCNVhNN1ZLRDFYQUpsdEthTHp6aEh5dzVlRWlQcE1rU1AwLS1aU2tJYzhEaEtSYnJaWGFjTXZicmtpSHRsa3ZlRk8wcGppZmdpMGpXUk1TUVBiM2M1eUFJejdaZmNzY0NsZXY4RkV4MHc?oc=5"
+      "publicadoEm": "2026-10-06T14:18:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVnZUTFduTUktNVZxR09ZWEJoVTNJYjc4R0NMVVhRUTNTNmVzclU5UG1xc1ZvdWx4QlNMbVFDd3YtbDZMZGlKQjlBbXpTV1k4U1JBc2tVMXVubFNMaDVTUl9zZURpRFhjM3IxSWxVaE9ETFZJSzRCMzRuTFdicndzQUM3YlFxNFpERWpQc01tTUlKTUFUZTFHaS1nbU5BN1oxTFdZcVljZ1pUbGpwZmJKdEhiMU5MUE1oV2dn?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "SORRISO",
-    "uf": "MT",
-    "valor": 63,
+    "cidade": "SERTÃOZINHO",
+    "uf": "SP",
+    "valor": 76,
     "seta": "↑",
-    "status": "SOJA · MILHO"
+    "status": "ALERTA CHUVA"
   }
 }
