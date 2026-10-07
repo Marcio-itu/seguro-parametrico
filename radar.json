@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-06T15:31:22.792692+00:00",
+  "atualizado_em": "2026-10-07T00:13:07.220699+00:00",
   "noticias": [
     {
-      "titulo": "Pesquisadores redesenham o mapa dos efeitos do El Niño na agricultura",
+      "titulo": "Super El Niño amplia riscos à oferta de açúcar, aponta Hedgepoint",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "FAPESP",
+      "fonte": "CANA ONLINE",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-06T14:13:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM0hDZU5XbVh3cWFDa2ZMTDQ0UkMzaG1kbldUU2tzU0tUSG9lQmhacll0MDZzUGRKY1lUMTZ6Y1EwUkx6WEF0RXdkZnFwVFhrSVBDY3psZ1VqSnR0VWlCWUZqdjN5YWZ5TzhBWXE3WWNXdjg3RG5FODRkQ00zTElnTF9EUFVwdDBSVnhfZkd3eklKdEJObUtBbVBWclp6OEotUkRlVlRIVQ?oc=5"
+      "publicadoEm": "2026-10-06T11:01:27+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOemdLU3NlOVdzUV9hY2dIX214OUpkRmdaMThOODI1U05LbFEtdk01ckFocmY5bzVyVUdkcG16Y1ZJcEVDSjhxTHdfSkZZQlg5bkZfdWJkbWVfQm9BUmFnbEZzSDZCSDYwa192Z1I1bXBxYndoUGtpV0duZVhnQ1l4VGFfV09VblhrVnBhZWtVNFJEZ1VPRmZRQU5xRDBqV0lORjNiYjM0WF9LQ3VY?oc=5"
     },
     {
-      "titulo": "El Niño 2026/2027: Embrapa orienta produtores sobre riscos em cada região",
+      "titulo": "Mais de 347 milhões de crianças em quase 100 países serão expostas a um dos eventos de El Niño mais fortes já registrados",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "BRA1.COM.BR",
+      "fonte": "UNICEF",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-06T14:18:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVnZUTFduTUktNVZxR09ZWEJoVTNJYjc4R0NMVVhRUTNTNmVzclU5UG1xc1ZvdWx4QlNMbVFDd3YtbDZMZGlKQjlBbXpTV1k4U1JBc2tVMXVubFNMaDVTUl9zZURpRFhjM3IxSWxVaE9ETFZJSzRCMzRuTFdicndzQUM3YlFxNFpERWpQc01tTUlKTUFUZTFHaS1nbU5BN1oxTFdZcVljZ1pUbGpwZmJKdEhiMU5MUE1oV2dn?oc=5"
+      "publicadoEm": "2026-10-06T17:39:03+00:00",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPcnNPeWVIZDd2eDFxbzNkSWRuMlJkcnYteDdnMW9hTXpOSk40MnNvaXowTUdtSzN3ZGFva1lJMHlsTE1qY3VRT0lma1YxVHlPVmR0LXJaMG9PMGZZYnh6WHF6NDNYeW5EQ0MwODBFN1BuLURuSjJLZHItbzNEUHJkcFVVcnVFXzItekhFVDNESDdwVWtlU0NFbHgxUGhDRTZOUkN4SmVNVDA3TVo1eG9KU1J0OU1oMUp0TUcwWmoxR3o1bUtTOTZDQzJfU2hGZV9GWUdieDZFVzRYeVpDYlRQVXkybEs2X1hDc0Y0U19JWTZpRExGa1pTU0VHS3ZfRVYzRFM4?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "SERTÃOZINHO",
-    "uf": "SP",
-    "valor": 76,
-    "seta": "↑",
-    "status": "ALERTA CHUVA"
+    "cidade": "L.E. MAGALHÃES",
+    "uf": "BA",
+    "valor": 0,
+    "seta": "↓",
+    "status": "ALERTA SECA"
   }
 }
