@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-07T15:52:46.530876+00:00",
+  "atualizado_em": "2026-10-08T00:31:22.483942+00:00",
   "noticias": [
     {
-      "titulo": "Pesquisadores redesenham o mapa dos efeitos do El Niño na agricultura",
+      "titulo": "Mapa lança página com orientações sobre impactos do El Niño no agro",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "FAPESP",
+      "fonte": "GIRO DO BOI - CANAL RURAL",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-06T14:13:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM0hDZU5XbVh3cWFDa2ZMTDQ0UkMzaG1kbldUU2tzU0tUSG9lQmhacll0MDZzUGRKY1lUMTZ6Y1EwUkx6WEF0RXdkZnFwVFhrSVBDY3psZ1VqSnR0VWlCWUZqdjN5YWZ5TzhBWXE3WWNXdjg3RG5FODRkQ00zTElnTF9EUFVwdDBSVnhfZkd3eklKdEJObUtBbVBWclp6OEotUkRlVlRIVQ?oc=5"
+      "publicadoEm": "2026-10-06T10:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY0hpTlpSemQ2X2paLWNiaDZ3VWVWam1iRmljVk4waEtZUzRRbDk0MHFnZG8zSzJkSWFYVERaNUs5Y1lPU2p6WUtfaGFEcDVINFlkekNvSWcyVE03b2lsMXduTTNtT0tIQkpTdDNWc3VhdnREOVVINVoxbFJYYXp6MEp6VC1TV1lobHBIQ3lCdUxFay1ZckZnR09aTUN3SFRabWxqUHZkemNWSE5lY1lBYmMwcw?oc=5"
     },
     {
-      "titulo": "Super El Niño pode mudar o mapa da chuva no Brasil e afetar a agricultura em 2026 e 2027; veja regiões que podem ganhar e perder",
+      "titulo": "Mais de 347 milhões de crianças em quase 100 países serão expostas a um dos eventos de El Niño mais fortes já registrados",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "ND MAIS",
+      "fonte": "UNICEF",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-05T22:05:58+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQYWdCRkJKeTJkOXp6c2ZKMWZlalViRF9ydmxydHVwc0NQT3MxYUpveUw3SG1veHk0cmtvMTBFREZ4WmcyMTMzLXdEdWMyeHVNaWFyMDhoQmxjR045NmhTNkQzSTNybm9zMzdRUWwwdEhYMTdXR3NTLThnUUpkbWNkQnByT21pZVZWN0NzNG1vdG91WVZQZDhUb1BDbDdGTU5lMWQwejNESEIxZWRRYjJYV3RYVEFfdk96THM0eENkNnNzTWRVcmtyVVlFOUFmeG5FX0lqTXhTZkVrZTRYanBYY3JtdjRiNnE3aklkMw?oc=5"
+      "publicadoEm": "2026-10-06T17:39:03+00:00",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPcnNPeWVIZDd2eDFxbzNkSWRuMlJkcnYteDdnMW9hTXpOSk40MnNvaXowTUdtSzN3ZGFva1lJMHlsTE1qY3VRT0lma1YxVHlPVmR0LXJaMG9PMGZZYnh6WHF6NDNYeW5EQ0MwODBFN1BuLURuSjJLZHItbzNEUHJkcFVVcnVFXzItekhFVDNESDdwVWtlU0NFbHgxUGhDRTZOUkN4SmVNVDA3TVo1eG9KU1J0OU1oMUp0TUcwWmoxR3o1bUtTOTZDQzJfU2hGZV9GWUdieDZFVzRYeVpDYlRQVXkybEs2X1hDc0Y0U19JWTZpRExGa1pTU0VHS3ZfRVYzRFM4?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "RIBEIRÃO PRETO",
-    "uf": "SP",
-    "valor": 90,
+    "cidade": "CRISTALINA",
+    "uf": "GO",
+    "valor": 0,
     "seta": "↓",
-    "status": "ALERTA CHUVA"
+    "status": "ALERTA SECA"
   }
 }
