@@ -1,27 +1,27 @@
 {
-  "atualizado_em": "2026-10-08T00:31:22.483942+00:00",
+  "atualizado_em": "2026-10-08T15:55:52.630826+00:00",
   "noticias": [
     {
-      "titulo": "Mapa lança página com orientações sobre impactos do El Niño no agro",
+      "titulo": "El Niño se intensifica e Acre tem agravamento da seca; fenômeno pode atingir nível muito forte até dezembro",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "GIRO DO BOI - CANAL RURAL",
+      "fonte": "A GAZETA DO ACRE",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-06T10:00:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY0hpTlpSemQ2X2paLWNiaDZ3VWVWam1iRmljVk4waEtZUzRRbDk0MHFnZG8zSzJkSWFYVERaNUs5Y1lPU2p6WUtfaGFEcDVINFlkekNvSWcyVE03b2lsMXduTTNtT0tIQkpTdDNWc3VhdnREOVVINVoxbFJYYXp6MEp6VC1TV1lobHBIQ3lCdUxFay1ZckZnR09aTUN3SFRabWxqUHZkemNWSE5lY1lBYmMwcw?oc=5"
+      "publicadoEm": "2026-10-06T19:30:16+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOd0ptUVRldkF3Z2dEaDd5VzBzODhvLVBRVjNPV1dIV3ZqLWZ0Zk1kbnBrcVoyQUh6NEZEaHE0aFpQeTdEWnVLMjdxV0VZa2tjc1lJVV8wVkpxQk1Jc2NHalROaWZ4TWRscXF0NnJOR3R6b3pRVmxocEg0LVRqTGFjd0lHcDh5ZDRRc3pzTEtBclFtQkpEd1VTMEtLN1J6cFkxazRZeHM2Z3FjZlpzeDJxclB1cjcyeHZlb1R3WnBHTEZyRGU4YWVLd3RfWGJRanZ3bllTeUtWYmFKMFpLMTY2U21paVVXRVR0UF83SQ?oc=5"
     },
     {
-      "titulo": "Mais de 347 milhões de crianças em quase 100 países serão expostas a um dos eventos de El Niño mais fortes já registrados",
+      "titulo": "Nova projeção prolonga o El Niño com grande intensidade em 2027",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "UNICEF",
+      "fonte": "METSUL METEOROLOGIA",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-06T17:39:03+00:00",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPcnNPeWVIZDd2eDFxbzNkSWRuMlJkcnYteDdnMW9hTXpOSk40MnNvaXowTUdtSzN3ZGFva1lJMHlsTE1qY3VRT0lma1YxVHlPVmR0LXJaMG9PMGZZYnh6WHF6NDNYeW5EQ0MwODBFN1BuLURuSjJLZHItbzNEUHJkcFVVcnVFXzItekhFVDNESDdwVWtlU0NFbHgxUGhDRTZOUkN4SmVNVDA3TVo1eG9KU1J0OU1oMUp0TUcwWmoxR3o1bUtTOTZDQzJfU2hGZV9GWUdieDZFVzRYeVpDYlRQVXkybEs2X1hDc0Y0U19JWTZpRExGa1pTU0VHS3ZfRVYzRFM4?oc=5"
+      "publicadoEm": "2026-10-06T10:01:51+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNckxoX2ZOZHQ4ekxIVFZfNm9rTl9zS3RQVjVLT1FLN2trUkYxaUFXR1RKZERQYlhMY3dIdGlOWGFKOUlqSzhhT05hWDJNZGExYXRkYWsweThrYUcwMXZ4MmROUXozU2F4Skhzcjdvc1ZSd3gtRlhCcWp6RTczcUpCY25wUHZUb2R0TXVv?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "CRISTALINA",
+    "cidade": "RIO VERDE",
     "uf": "GO",
-    "valor": 0,
+    "valor": 8,
     "seta": "↓",
     "status": "ALERTA SECA"
   }
