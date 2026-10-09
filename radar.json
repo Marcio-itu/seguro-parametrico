@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-08T15:55:52.630826+00:00",
+  "atualizado_em": "2026-10-09T00:45:49.924695+00:00",
   "noticias": [
     {
-      "titulo": "El Niño se intensifica e Acre tem agravamento da seca; fenômeno pode atingir nível muito forte até dezembro",
+      "titulo": "El Niño pode ser um dos mais fortes desde 1950 e atingir pico em dezembro, alerta ONU",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "A GAZETA DO ACRE",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-06T19:30:16+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOd0ptUVRldkF3Z2dEaDd5VzBzODhvLVBRVjNPV1dIV3ZqLWZ0Zk1kbnBrcVoyQUh6NEZEaHE0aFpQeTdEWnVLMjdxV0VZa2tjc1lJVV8wVkpxQk1Jc2NHalROaWZ4TWRscXF0NnJOR3R6b3pRVmxocEg0LVRqTGFjd0lHcDh5ZDRRc3pzTEtBclFtQkpEd1VTMEtLN1J6cFkxazRZeHM2Z3FjZlpzeDJxclB1cjcyeHZlb1R3WnBHTEZyRGU4YWVLd3RfWGJRanZ3bllTeUtWYmFKMFpLMTY2U21paVVXRVR0UF83SQ?oc=5"
+      "fonte": "G1",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-10-08T11:31:09+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYV9OdXE5am1MRE05RTh6WUNoQkk4Y29GTzJIU08yeEJNYUxrM0QtOUdnOXNvQXUxNUQyLVFiVHRab2R4MDM5VzNYVVFyaXRIXzktY3NUT0o0UmJaZE1sSFM5OVFZOGVwYkJ1QTQxa2ZkRjlGQXBid2FhcDJEU1RUQVBJc2Y0SHR2NG5GTU1zdWJfd08yeWhxVFNCVlNvVUp0RUFxTG8ySzNGMVltNXp0SlRlbGVPRUJzdXhhcVpEMVpQUkE0SW5mcnNB0gHYAUFVX3lxTE1POXE3RS1GWmFDWHRMWXh0cm1aVGloSWVQcVo0cEVxdGlOUmVFMlV1U1BTYU96RDVpWlctQTVZb0R6eEhRenJsZnFfNzBtTU9wbmZwTFpJQjEyRVl3dGVQZEdoWnRCVWh4OW4tSmc1QzdMMVhsUjBkclhvRkpiSzVYcmZfOF9MM1Q0a2dHYmh6QW9FWDZPTnBXRVRRREJhSXdyQmRndEhNeHl3Vk12SVdMSEl5QVhwQXdDckphQjRTTlo3cFk4TS1iakpDTEd5bnN1TFkyb25jUw?oc=5"
     },
     {
-      "titulo": "Nova projeção prolonga o El Niño com grande intensidade em 2027",
+      "titulo": "El Niño pode aumentar calor e irregularidade das chuvas em Balsas e no sul do Maranhão",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "METSUL METEOROLOGIA",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-06T10:01:51+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNckxoX2ZOZHQ4ekxIVFZfNm9rTl9zS3RQVjVLT1FLN2trUkYxaUFXR1RKZERQYlhMY3dIdGlOWGFKOUlqSzhhT05hWDJNZGExYXRkYWsweThrYUcwMXZ4MmROUXozU2F4Skhzcjdvc1ZSd3gtRlhCcWp6RTczcUpCY25wUHZUb2R0TXVv?oc=5"
+      "fonte": "DIÁRIO SUL MARANHENSE",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-10-08T17:40:57+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPODRaTXE3Y2pFZjBfNEhaaXZlZmZUZUNod212QVFNYXVtQldqTFhsTGlTdTlxcTh3Z0FkeDMxZEd0U2dOTUtDdGRwMmJJMTBaS3ZWM3ExVHI4aHh3cnNjeDh5WGc2QW0zM1NmUjFabE1sS3lRWWtnZU00R0dEMVljVERkOWdPWE5BNndoNlVaZVpMRGxQOUJrSHJlbXhpeXpQMENVZHQwbFVPUHV4MVhDdTdnNzJ2Sk5uTGhCQ2xMUHBpazV2alZrVENDeXRaQQ?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "RIO VERDE",
-    "uf": "GO",
-    "valor": 8,
-    "seta": "↓",
+    "cidade": "UBERLÂNDIA",
+    "uf": "MG",
+    "valor": 0,
+    "seta": "↑",
     "status": "ALERTA SECA"
   }
 }
