@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-09T00:45:49.924695+00:00",
+  "atualizado_em": "2026-10-09T15:38:18.057486+00:00",
   "noticias": [
     {
-      "titulo": "El Niño pode ser um dos mais fortes desde 1950 e atingir pico em dezembro, alerta ONU",
+      "titulo": "El Niño exige estratégias diferentes para a agropecuária nas cinco regiões do País, detalha Embrapa",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "G1",
+      "fonte": "PORTAL DBO",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-08T11:31:09+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYV9OdXE5am1MRE05RTh6WUNoQkk4Y29GTzJIU08yeEJNYUxrM0QtOUdnOXNvQXUxNUQyLVFiVHRab2R4MDM5VzNYVVFyaXRIXzktY3NUT0o0UmJaZE1sSFM5OVFZOGVwYkJ1QTQxa2ZkRjlGQXBid2FhcDJEU1RUQVBJc2Y0SHR2NG5GTU1zdWJfd08yeWhxVFNCVlNvVUp0RUFxTG8ySzNGMVltNXp0SlRlbGVPRUJzdXhhcVpEMVpQUkE0SW5mcnNB0gHYAUFVX3lxTE1POXE3RS1GWmFDWHRMWXh0cm1aVGloSWVQcVo0cEVxdGlOUmVFMlV1U1BTYU96RDVpWlctQTVZb0R6eEhRenJsZnFfNzBtTU9wbmZwTFpJQjEyRVl3dGVQZEdoWnRCVWh4OW4tSmc1QzdMMVhsUjBkclhvRkpiSzVYcmZfOF9MM1Q0a2dHYmh6QW9FWDZPTnBXRVRRREJhSXdyQmRndEhNeHl3Vk12SVdMSEl5QVhwQXdDckphQjRTTlo3cFk4TS1iakpDTEd5bnN1TFkyb25jUw?oc=5"
+      "publicadoEm": "2026-10-08T22:40:38+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPajBndmw3Q3JLSW4ta2UzS2hPNU92NkpYbUFCcW9YVmhRcDZPLTk4ZGltZWVQQXljMUhhY1VqTkhZY2NadnRxbXhoRTYzNW9fS2JDdWNfLWJuSTVfUXJwelNySlpRc3RVX2l0VFFiWkJsYlR0WFRIdVRjUDlORzZudVFSOGNVOVJLSFVTQk5URmJmNmoyekx6UUp6NXVfS3JBYnhrVmVYaDM4NmVPVmM2TTdrZndSWi04SDU3X0taMTB5QQ?oc=5"
     },
     {
-      "titulo": "El Niño pode aumentar calor e irregularidade das chuvas em Balsas e no sul do Maranhão",
+      "titulo": "El Niño muito forte entre outubro e novembro deve trazer chuva acima 300 milímetros/mês para Campos Novos",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "DIÁRIO SUL MARANHENSE",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-08T17:40:57+00:00",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPODRaTXE3Y2pFZjBfNEhaaXZlZmZUZUNod212QVFNYXVtQldqTFhsTGlTdTlxcTh3Z0FkeDMxZEd0U2dOTUtDdGRwMmJJMTBaS3ZWM3ExVHI4aHh3cnNjeDh5WGc2QW0zM1NmUjFabE1sS3lRWWtnZU00R0dEMVljVERkOWdPWE5BNndoNlVaZVpMRGxQOUJrSHJlbXhpeXpQMENVZHQwbFVPUHV4MVhDdTdnNzJ2Sk5uTGhCQ2xMUHBpazV2alZrVENDeXRaQQ?oc=5"
+      "fonte": "RÁDIO CULTURA CAMPOS NOVOS",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-10-08T18:11:23+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTG14RUVfQlR6c1VhSE8xSktBY1FVdVUtb1NCRWlJVGpTUmJ2aHpPaGdYTEpCYjl6NDhKTzFOaERLYWppTjNkdXNRTDRtYlU3VGozXzk1UVJoUmlmd1ZWQjVKWFBtMGNmdUpsRXFEdDV2Q2poUEZMa2hHZGZMVDhpX1k2OFhDNGVmNzRybGV1SFpBTVRjU0VVVUR2dV84MzJWX3psdnduOG1ZdWhkQWxQV041YjNmd1dFaWIwSjRuU24xRVJNZU4zZVdIUW5TQ21IdDRZSUkwSG11U2tTTHdnMjd5d0pnUQ?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "UBERLÂNDIA",
-    "uf": "MG",
+    "cidade": "L.E. MAGALHÃES",
+    "uf": "BA",
     "valor": 0,
-    "seta": "↑",
+    "seta": "↓",
     "status": "ALERTA SECA"
   }
 }
