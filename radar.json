@@ -1,27 +1,27 @@
 {
-  "atualizado_em": "2026-10-10T19:02:08.485831+00:00",
+  "atualizado_em": "2026-10-10T23:56:14.786419+00:00",
   "noticias": [
     {
-      "titulo": "Clima errático, não necessariamente o ‘El Niño’, pode ter elevado preço dos alimentos, diz IBGE",
+      "titulo": "Seca e calor extremos do último El Niño ameaçam virar rotina na Amazônia",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "GLOBO RURAL",
+      "fonte": "PARÁ TERRA BOA",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-09T14:14:50+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOUVrRUpMU2RNeldfbWxsZDFXLTlhaVlEb0tYR09vcHVMNjZDdzFBbGl1eTBiczAyVWhKWUhMcG4yTXFNWnpXemdXYmNCc2IwZWtSbHJxTkNKckJiRGtmdDhlQnE5dl82YWVZdUFmMEZkbXI0eGlreVoxc2RnbDFfdWZEV1RsbG5ua1VzdWtacGVCcWpESDA4bENCUXFIcFBkdlBYVmY0Z2w4aUFnMEJCclA5WnJsZHRCV2dLekpKS2pWN2tyV25ZMF9GWFN0bFBncVlpWTM2NGJ0NUpVckRR0gHuAUFVX3lxTFBPUVRXZEdfVEcwUFRIVU85bjBwWHBpR3dtYllta3o3dnU5NEREUFhSeC15Z3FZYmFPMjFlTm1JUjU1dmVpLXN4YlR2Zk11T1llZkFHWFk0Zm5XNjhDc1B6a0RRdGFnb05xaVVwLVduc0p0dEw1MFFjYzJlTDBobVp5U1JFMFVRLXBfc1c3a3hBaVBZS203NlhqSm9zT2VyQ0xFSkE0NnpKUHdLMXdyX3N5NHRZZUd2UElZa05PYWdScFFtMDFwX000UVUzMkVzU2J4NzBJRnBKdG9HcDlCR19JNHl3UnVtcHNvU0c4UHc?oc=5"
+      "publicadoEm": "2026-10-08T14:31:45+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM1dURHhzSWtGaUw5czJTY05CSkRjcWNhc2o3ODNRcEZiLXRob3Vkbk5SRGFUNUthNkVTcmdxYW91bzdZOVVNSkpzYmdsRFlzSUZMQWV2enQ5a2Utb0VRbWd0bWZlcDRQYjVTV2tOcXV5U3FQVmRrWGdmMlp6MTh4MkRROFcyVmhBUUlpdWF4eXdVV3E2ZjN0bVJaQmVnVm1hU245a19xNDFUNkJLMW5oZnZTbWpZWmc?oc=5"
     },
     {
-      "titulo": "El Niño exige estratégias diferentes para a agropecuária nas cinco regiões do País, detalha Embrapa",
+      "titulo": "Intensidade do El Niño pode se manter entre forte e muito forte até primeiro trimestre de 2027",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "PORTAL DBO",
+      "fonte": "WWW.GOV.BR",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-08T22:40:38+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPajBndmw3Q3JLSW4ta2UzS2hPNU92NkpYbUFCcW9YVmhRcDZPLTk4ZGltZWVQQXljMUhhY1VqTkhZY2NadnRxbXhoRTYzNW9fS2JDdWNfLWJuSTVfUXJwelNySlpRc3RVX2l0VFFiWkJsYlR0WFRIdVRjUDlORzZudVFSOGNVOVJLSFVTQk5URmJmNmoyekx6UUp6NXVfS3JBYnhrVmVYaDM4NmVPVmM2TTdrZndSWi04SDU3X0taMTB5QQ?oc=5"
+      "publicadoEm": "2026-10-09T13:08:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNWlo5ZXN6OGlveEdhd1gtc3B5R1FxMTZOc1I1ZGE2N2cxeGlnVE9hSUxhLUd0Y056QnA1eHY2MExKN1VWdmJjZUc3eExKS0NiVWo0d3FocGlHRHBiaHhZMXdFREE0YWRkc2FaNlo1elNyeW80M0taZjh2RFlXOUhCS1JOczZwYi1uUFp1RF8wYi14ZEIyQUUyaENNcDJRdVdCSkNJTXpNTTFEY0wzUlZSOXVDVWc3cHpoTFhCelVPQVNtQ1Zubm9MbGk3eVVkOElUenlHYU95M1JDZnNkNVpUVTYtRXg1QVRjcnFhRnc1NnJWMkJSSFZDQmJYTVhXMGViUUJJNWNFNlNXZw?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "PALOTINA",
-    "uf": "PR",
-    "valor": 91,
+    "cidade": "SERTÃOZINHO",
+    "uf": "SP",
+    "valor": 86,
     "seta": "↑",
     "status": "ALERTA CHUVA"
   }
