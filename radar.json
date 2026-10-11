@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-10T23:56:14.786419+00:00",
+  "atualizado_em": "2026-10-11T15:10:10.023489+00:00",
   "noticias": [
     {
-      "titulo": "Seca e calor extremos do último El Niño ameaçam virar rotina na Amazônia",
+      "titulo": "Açúcar sobe em Nova York com preocupações sobre efeitos do El Niño",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "PARÁ TERRA BOA",
+      "fonte": "CNN BRASIL",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-08T14:31:45+00:00",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM1dURHhzSWtGaUw5czJTY05CSkRjcWNhc2o3ODNRcEZiLXRob3Vkbk5SRGFUNUthNkVTcmdxYW91bzdZOVVNSkpzYmdsRFlzSUZMQWV2enQ5a2Utb0VRbWd0bWZlcDRQYjVTV2tOcXV5U3FQVmRrWGdmMlp6MTh4MkRROFcyVmhBUUlpdWF4eXdVV3E2ZjN0bVJaQmVnVm1hU245a19xNDFUNkJLMW5oZnZTbWpZWmc?oc=5"
+      "publicadoEm": "2026-10-09T19:43:53+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNazZYeUtUS3FwZXVZX0hFOFdnYUppR1FzRV82LXJEeUtCdXVRcHVDb1luVUNBeEt0UU5mdjBocG5sN2czYjMxa2Nic3VvZTNMTk1xLUIzRy1aZjU1U21nb2VkdllZU1V2Sl8tcGpvZmdtV0k3Qmo0LVpCMnlyWHJPWEtGc2R4ekp5ZkZENE5nQTZvZHJnUnhNdGxUQy1OUldvNzRn?oc=5"
     },
     {
-      "titulo": "Intensidade do El Niño pode se manter entre forte e muito forte até primeiro trimestre de 2027",
+      "titulo": "Nova plataforma reúne informações sobre os impactos do El Niño no agro",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "WWW.GOV.BR",
+      "fonte": "RÁDIO ITATIAIA",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-09T13:08:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNWlo5ZXN6OGlveEdhd1gtc3B5R1FxMTZOc1I1ZGE2N2cxeGlnVE9hSUxhLUd0Y056QnA1eHY2MExKN1VWdmJjZUc3eExKS0NiVWo0d3FocGlHRHBiaHhZMXdFREE0YWRkc2FaNlo1elNyeW80M0taZjh2RFlXOUhCS1JOczZwYi1uUFp1RF8wYi14ZEIyQUUyaENNcDJRdVdCSkNJTXpNTTFEY0wzUlZSOXVDVWc3cHpoTFhCelVPQVNtQ1Zubm9MbGk3eVVkOElUenlHYU95M1JDZnNkNVpUVTYtRXg1QVRjcnFhRnc1NnJWMkJSSFZDQmJYTVhXMGViUUJJNWNFNlNXZw?oc=5"
+      "publicadoEm": "2026-10-10T13:30:58+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbzNoQmhtaGg5Zks1czRXUWJuNVNKTXRTNXNVZ2lfbjhZZkZoM1lrY1E1X2FrN3p2bHh3QWpubTZZOXhwVUc0Ql9MeHlqMzE3Ti1oalBQN2xyNWNET1RaZ3hfNVFlYnhlRk1Gak1Nb1p5elFuczJUR0R6V2xsOWFiZDNQdHVoTmxwSWtsSm9fZGplQlZpLU92VkZGWWlEcnJNUERIQzU5QQ?oc=5"
     }
   ],
   "chuva": {
     "cidade": "SERTÃOZINHO",
     "uf": "SP",
-    "valor": 86,
-    "seta": "↑",
+    "valor": 92,
+    "seta": "↓",
     "status": "ALERTA CHUVA"
   }
 }
