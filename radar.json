@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-12T00:03:33.038542+00:00",
+  "atualizado_em": "2026-10-12T18:18:58.875196+00:00",
   "noticias": [
     {
-      "titulo": "Com previsão de El Niño muito forte, produtores rurais e setor da construção civil se preparam para impactos",
+      "titulo": "Mapa lança página com informações e orientações sobre os impactos do El Niño no agro",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "G1",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-11T00:27:13+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSDAwRjFjMXI0YnRPbFRDb3R2ZEQwM0pnOFBJXzlxVm5MbGxOTXB6TFRDUWQ3YzJVdnlDWUNLcVhPMnBqOTgtZUFLekh2aE9vaGRobmsyY0xTYURWblZWVW40ZWo1eU0tX3YzbElia1lSdXVGMURpTUJ5TFc5bjVGLXltMUpfMUdPWlFKclRoZmJMOXdBVDdKbWllZUxkaDMweWtzcC1iMFZxeV9MbGthWXFTdWV3Q3MtUU5zZVZIaGtDMFM5azJrRXVjVEQzSnBaMGpTN0ZRYkdXSEZYTklQY2l2cDkwNWNaVzktY2JENHFVUUdFa1NyOXV2Q3RXZ9IBjAJBVV95cUxPLThibkJwbTUwanlNSUgyeEtDbUZaYXNQclB1QjFyUVg3MllHZGpuemdPTXh5NjhjamtpOF82WjBzWnhqU2pSb3B0UGw0R2xGZlpuOE1FZ2EtM21WY3F6Q1FXYVA2ckZHaFdMam93Yl9KNE9udUotNF8xWDZkR0dobmdrNnJMVFBIbVBCT19KTWFEUFQ2Yks1NkM1T21DWUxvNElwQnJYakdEckVIRzJCdG5wcWJYTElqQlJ4clBXdjRnbUkzTU1HRkRIZW5STXVlNFRNdlg5RmZsUWx4bDgyQmFVRUpwVVBpaDZXSGdrRno4eFZqd29yV2RheVd3RjFib1Z0cVRjeVhpb25G?oc=5"
+      "fonte": "RÁDIO ARARANGUÁ FM 95.5",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-10-12T15:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU29WbjhDa0t4SHlELXBqZnZ4NnlQNGlRVDU3SDc5VTB3T3VuYzdwbkdxVDAxQWIydkNucmFhaUlPeF9iTHowdWhILVE5MFNqODRGcktTR0Ztd1JKU0pwdVpTQU14VzJUSWNJbGJvOXdyTk1xaEVGWmVSeEpYQjRZU0QxTk9GTW14cThmVjlUYUoySUJFdnJyanhvNGVnLWNpcmxMMTdpVXdPQk50Wkc0aFpid1BuUQ?oc=5"
     },
     {
-      "titulo": "El Niño, excesso de chuva e calor preocupam produtores no início da safra 2026/2027",
+      "titulo": "El Niño na safra 2026/2027: Embrapa alerta produtores do RS para excesso de chuva",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CBN RIBEIRÃO",
+      "fonte": "GZH",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-10T13:40:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWk5QTFZXdGVsOUppeVNYZ2VJNUZfNTlCZk44MXBncGNuUFotLUJZLWRraTlsY2p6NnJBd3V0U0g4N0pzbHFES0JiU3hNUVJ2RU1iSmFPYXNCTVE2SE9WT1BTenFFTWVzeDJWNDZPRy1tZzNralhHYS0tYXJPU0Q4cG1SY1dNU3U5SDZva2Yyc1N0WFlrUmczWUFxbHFaSzlIOF9Dd3IxSnlIN1hfMGVZ?oc=5"
+      "publicadoEm": "2026-10-11T13:53:36+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVjdTSENFY1NCQko0R0xnLWh6al9yTUxwUnYxWDc0RlhLQndQdEtiTWl1SDJuVVFmYldmOGN0aWF0Z3ZQeXdNMGtPdWhBcHN6Ni1uSWpGVEdiRWdDU1RQOVVINENLWG54a3hlYmEyTGI3ZWc1THd1T2xXbmxHM01xZEtzbG42WmtMTjJBU2xJbzFxVHJQOU1oeFVKVDVzNVlFX3ZHNVFoSzVPR0tNWF9SdGxQVkxLckFGblIxaWt1OGVNTW9IRnJqb3pnTWkzdGVWRFVTMjFjQm5nVFdPTjMwT1lGQ3BrMFVCTkJTVzRTNA?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "CRISTALINA",
-    "uf": "GO",
-    "valor": 2,
-    "seta": "↑",
-    "status": "ALERTA SECA"
+    "cidade": "PALOTINA",
+    "uf": "PR",
+    "valor": 100,
+    "seta": "↓",
+    "status": "ALERTA CHUVA"
   }
 }
