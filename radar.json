@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-12T18:18:58.875196+00:00",
+  "atualizado_em": "2026-10-13T02:17:56.488560+00:00",
   "noticias": [
     {
-      "titulo": "Mapa lança página com informações e orientações sobre os impactos do El Niño no agro",
+      "titulo": "Pesquisadores alertam para impactos do El Niño em Goiás até 2027",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "RÁDIO ARARANGUÁ FM 95.5",
+      "fonte": "RÁDIO BANDEIRANTES GOIÂNIA",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-12T15:00:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU29WbjhDa0t4SHlELXBqZnZ4NnlQNGlRVDU3SDc5VTB3T3VuYzdwbkdxVDAxQWIydkNucmFhaUlPeF9iTHowdWhILVE5MFNqODRGcktTR0Ztd1JKU0pwdVpTQU14VzJUSWNJbGJvOXdyTk1xaEVGWmVSeEpYQjRZU0QxTk9GTW14cThmVjlUYUoySUJFdnJyanhvNGVnLWNpcmxMMTdpVXdPQk50Wkc0aFpid1BuUQ?oc=5"
+      "publicadoEm": "2026-10-12T13:37:30+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcGJFb1ZxdG9KX1FYcEUydTEtUXhTTkdKaGRCblN4UE5vMkEzdjRHTm1jUlJtMm5JemlFZ1F5NkdGM2VPekNjcXpqWW1OOURRY3lzMkJ4b29xYmpxdUxpd3dfNXRvUnU5d3pNQTA0bS1RYTJ1a0NuOHJMNEtkOGZYSzNWa0Jncm95SFJ5d2JJUVRxRFJHdXYyWHk3eEJnYWNtYmZIRks1UDc?oc=5"
     },
     {
-      "titulo": "El Niño na safra 2026/2027: Embrapa alerta produtores do RS para excesso de chuva",
+      "titulo": "El Niño pode atingir força histórica até o fim do ano; veja o que esperar no Rio Grande do Sul",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "GZH",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-11T13:53:36+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVjdTSENFY1NCQko0R0xnLWh6al9yTUxwUnYxWDc0RlhLQndQdEtiTWl1SDJuVVFmYldmOGN0aWF0Z3ZQeXdNMGtPdWhBcHN6Ni1uSWpGVEdiRWdDU1RQOVVINENLWG54a3hlYmEyTGI3ZWc1THd1T2xXbmxHM01xZEtzbG42WmtMTjJBU2xJbzFxVHJQOU1oeFVKVDVzNVlFX3ZHNVFoSzVPR0tNWF9SdGxQVkxLckFGblIxaWt1OGVNTW9IRnJqb3pnTWkzdGVWRFVTMjFjQm5nVFdPTjMwT1lGQ3BrMFVCTkJTVzRTNA?oc=5"
+      "fonte": "JORNAL BOA VISTA",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-10-12T23:23:54+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb1RLVHRyTldzOGpRZHF1WFlkYzFIdmc4V2lCYmE0ZURfMXZjYW94cFpQRGxSUUN1b1haRnM5NEVEQUpsUzNaNUFwczRmZlFtWk5FbTc4aVhCa1JPZjFncHF1UEE5V3dFU0RNUjI2ZGduZ0lFS1Q0ZDQwX3VVTVI0QzRFZTBYZHVBcHhPMHpkV3VLUUd6LXMtQi1xcUhwVlBjTGpmbDVtUDhoR2ZqNWFHZmRsMzkzSGFKT2dpV0pTZVdDUQ?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "PALOTINA",
-    "uf": "PR",
-    "valor": 100,
-    "seta": "↓",
-    "status": "ALERTA CHUVA"
+    "cidade": "BARRETOS",
+    "uf": "SP",
+    "valor": 51,
+    "seta": "↑",
+    "status": "CANA"
   }
 }
