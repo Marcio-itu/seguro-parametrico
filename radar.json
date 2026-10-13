@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-13T02:17:56.488560+00:00",
+  "atualizado_em": "2026-10-13T16:33:19.171470+00:00",
   "noticias": [
     {
-      "titulo": "Pesquisadores alertam para impactos do El Niño em Goiás até 2027",
+      "titulo": "Análise: El Niño influencia temporada de furacões nos EUA",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "RÁDIO BANDEIRANTES GOIÂNIA",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-12T13:37:30+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcGJFb1ZxdG9KX1FYcEUydTEtUXhTTkdKaGRCblN4UE5vMkEzdjRHTm1jUlJtMm5JemlFZ1F5NkdGM2VPekNjcXpqWW1OOURRY3lzMkJ4b29xYmpxdUxpd3dfNXRvUnU5d3pNQTA0bS1RYTJ1a0NuOHJMNEtkOGZYSzNWa0Jncm95SFJ5d2JJUVRxRFJHdXYyWHk3eEJnYWNtYmZIRks1UDc?oc=5"
+      "fonte": "CNN BRASIL",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-10-12T13:37:47+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTERZSm5WYlNuTFFqaUsxVUFGMlNyYmlNMU01c01McS1KYUZHb2tPR2I2ZlhvOG53UDdZcTVXd0E2dHF1X0VSbTk3WTJxd1h1aFdZVTh4cjRkN2RYLXM3M2Z0MnowZzdFaUFDTTJCdzUzNUFWWDNoTTBWZmI5aG9hdDJoZFB3Y0wxb0tQUWNKYW5ydnJBdzhN?oc=5"
     },
     {
-      "titulo": "El Niño pode atingir força histórica até o fim do ano; veja o que esperar no Rio Grande do Sul",
+      "titulo": "El Niño registra intensidade jamais observada em outubro",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "JORNAL BOA VISTA",
+      "fonte": "METSUL METEOROLOGIA",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-12T23:23:54+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb1RLVHRyTldzOGpRZHF1WFlkYzFIdmc4V2lCYmE0ZURfMXZjYW94cFpQRGxSUUN1b1haRnM5NEVEQUpsUzNaNUFwczRmZlFtWk5FbTc4aVhCa1JPZjFncHF1UEE5V3dFU0RNUjI2ZGduZ0lFS1Q0ZDQwX3VVTVI0QzRFZTBYZHVBcHhPMHpkV3VLUUd6LXMtQi1xcUhwVlBjTGpmbDVtUDhoR2ZqNWFHZmRsMzkzSGFKT2dpV0pTZVdDUQ?oc=5"
+      "publicadoEm": "2026-10-13T10:26:28+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVU5Oem92Uy1vOExySWdQQnUtSk80S2E3T0Nmd0N6UmtySmlhd2VCc2JsSFk5ZVYwM3lFYy0ySVMtckloWGZabFV2Z3RDdkR1VmxFWEFXZTB2U2ZUZU91MUdlOXIxTTJZa0Z0WGxqcUYxYndSalBJMUZTdVVmMS1HRVZn?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "BARRETOS",
-    "uf": "SP",
-    "valor": 51,
-    "seta": "↑",
-    "status": "CANA"
+    "cidade": "BALSAS",
+    "uf": "MA",
+    "valor": 43,
+    "seta": "↓",
+    "status": "SOJA"
   }
 }
