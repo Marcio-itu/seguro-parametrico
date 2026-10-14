@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-13T16:33:19.171470+00:00",
+  "atualizado_em": "2026-10-14T00:00:24.503134+00:00",
   "noticias": [
     {
-      "titulo": "Análise: El Niño influencia temporada de furacões nos EUA",
+      "titulo": "Preços do cacau atingem máxima de um mês por clima adverso ligado ao El Niño",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CNN BRASIL",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-12T13:37:47+00:00",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTERZSm5WYlNuTFFqaUsxVUFGMlNyYmlNMU01c01McS1KYUZHb2tPR2I2ZlhvOG53UDdZcTVXd0E2dHF1X0VSbTk3WTJxd1h1aFdZVTh4cjRkN2RYLXM3M2Z0MnowZzdFaUFDTTJCdzUzNUFWWDNoTTBWZmI5aG9hdDJoZFB3Y0wxb0tQUWNKYW5ydnJBdzhN?oc=5"
+      "fonte": "TRADINGVIEW",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-10-13T19:40:42+00:00",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95LUN2NXNuMkNEeDNNRlZ0VmxVVkxnaGZPS3dTSGk3b3g3R1Bpcm9IRGlwU2JyQnJBTEVXRTBVTnJtMmpEamdUZ09ZVEZUZTZCdXVLWVlsQzY1ZG1fUUZvQ01tSUJ1VS1KOG1vVC1ONmh0NHpqNkU4?oc=5"
     },
     {
-      "titulo": "El Niño registra intensidade jamais observada em outubro",
+      "titulo": "El Niño deve atingir pico entre novembro e dezembro com força inédita em 150 anos",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "METSUL METEOROLOGIA",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-13T10:26:28+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVU5Oem92Uy1vOExySWdQQnUtSk80S2E3T0Nmd0N6UmtySmlhd2VCc2JsSFk5ZVYwM3lFYy0ySVMtckloWGZabFV2Z3RDdkR1VmxFWEFXZTB2U2ZUZU91MUdlOXIxTTJZa0Z0WGxqcUYxYndSalBJMUZTdVVmMS1HRVZn?oc=5"
+      "fonte": "CORREIO DO POVO",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-10-12T20:37:33+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOFhodGNObldCLURTTnVSWlZ0bDZxZjlTWFpiSHZSR0lpd29FOFRDYWFPRmFwTDAzZkpubTdnd0t3T3psZVB4WHZmcEFETFIwRFRNMUVyXzZNZnFhQ1FBWTh0aUJMbG52ek12MXJ5OWxEMjRWVmk0czNmaWR5cHdENmRicFpDNWNFcXNTVlI5N3F6aGo4ZWtTNkNSdFdabUkxdVN3a1p3S29wRElITFhFQlROQ09JbERhMVRkTXJFNWdPLXZqS3R3c3dKbnVaV2FXSmtiUmI0OW9aRi0xSWIw?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "BALSAS",
-    "uf": "MA",
-    "valor": 43,
+    "cidade": "CASCAVEL",
+    "uf": "PR",
+    "valor": 100,
     "seta": "↓",
-    "status": "SOJA"
+    "status": "ALERTA CHUVA"
   }
 }
