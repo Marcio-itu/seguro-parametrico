@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-14T14:08:07.276110+00:00",
+  "atualizado_em": "2026-10-14T19:00:59.133624+00:00",
   "noticias": [
     {
-      "titulo": "El Niño: pico do fenômeno será entre novembro e dezembro",
+      "titulo": "Seca provocada pelo El Niño reduz safra agrícola de Roraima em até 50%, diz Embrapa",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "IG ÚLTIMO SEGUNDO",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-13T14:43:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ2REcXBnSFJndlNTSEpFdkFKMURxZGhkazk5ZGF3X0ZqRVk3azV2a1dCcjJZZ2lCaHZYSEM5dDJ2RkwwWHROdlVhVVMxQ3luUVJMdGRTcDZtNmp3bU5RYmxxMFQyamJxXzFGUXFoaERyazhtaHpZalpmbmFwWm5wbWsxd1BiU3FZSzF2OVhha3Y0OVpUeVFyT0JTQTl0WmRzU3JNYzVnWUR4MkkzX2Y1TTVR0gG3AUFVX3lxTE1ubkFNWHJNUFo0bm54VzJLTkdKZk5FTXNaeGRxdktOY1pxWENlTkVDTnBFVnN3SXpBRUlDYWN3ZlVJX3JKZmVRNjlVZjVuR1RJdTRkcWl4Z1o0a0JnQ0VaWi1yNzNEVlNncXF4Sk1Ua2owX21ZWWhNUFhoUDAyU1ZiLUVaRklRRmIzd20xUnpHUkJ0U2FYV1M1VUw0czZIWFBWdkR0Y2ZkRWJUdHg1bXl4WTAya1RaTQ?oc=5"
+      "fonte": "PORTAL AMAZÔNIA",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-10-14T12:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xU3ZKaXZNZDZ4d3ZZMUs0SnM1cTNVSTZXcjRtMWJvN3pqS0x1TnJiaTJtT1Z4am1NRjNTOTQwak9tcWg3WWhBWmRGa1o4RENBU0hpZTNqVTRCTnJiaUVGSEFNMzNxbW1uMnZaY2otbnU?oc=5"
     },
     {
-      "titulo": "El Niño deve intensificar calor e seca em MG e ameaçar florada do café e plantio da soja",
+      "titulo": "Quais estados serão mais castigados pelo El Niño nas próximas semanas",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "JM ONLINE",
+      "fonte": "METSUL METEOROLOGIA",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-14T12:07:32+00:00",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU0VQWkU0Y3d6YjRleHY0LWFRRjdyMW8zVXA5aW9pRmo2LW13V1ZmZHdEaVdvN1lLQjBueXplUG1DQm9NR3U1SnVrYkNnM3JERXc5aDNYTEhSUjlqZU9QZmIySVdZdjFvUEZxVnV1WWJVamQ2VnI5NWhTMFY1WDFKb1hCck8xMzkxV09pcUJqM2traXkxcWIyNl9INS1mSUllRlYtb3NNLTRtZDl2WW1lZ2tUWTk4a1FDVXlVSXdsWFFsZ2pha1HSAc4BQVVfeXFMT291WHhWRkdGYUlIdWFNMV9sWXlMS0M3ajBoSVROSjM4c2hRZzEtbDM2RS0yLWVSTEZVR3M3M2ZmWUctcnJhZVVFWWhWLTFKTGVNX2xjczZoZUhYNGo0NTQ3VXcxOXRRbjBzNVZoN2YtamVMb0pkNUZKell2VUJlQTVkR2p2c0lOV0pwRDdBT1ZmNHR3Q3I1RHhWZDdpaFAwM0FVTTAxNXo3ekRCMjNINUpMMFcwWXZLSHhoSlZJd0t3RFE5czUweEw0bTI4enc?oc=5"
+      "publicadoEm": "2026-10-14T10:01:39+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkpwMTV1UTZHX1ZWVFRLSUc3RmVGNzdBRS1COF9abUI5aXhhUnp5b05yTHQ2clltdzU2VVI5dy1GeldOMVNnVzR5NXNHVUozdlo5WjJyT2FzZEhpMFQtU3puTDdWdDZhSjlLSDF2a0drQjNoUHJ1MVFkWXZFeWlneVluV1paQkRXQU5pVmdkLVI1RVk?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "RIBEIRÃO PRETO",
-    "uf": "SP",
-    "valor": 97,
-    "seta": "↓",
-    "status": "ALERTA CHUVA"
+    "cidade": "RIO VERDE",
+    "uf": "GO",
+    "valor": 56,
+    "seta": "↑",
+    "status": "SOJA · MILHO"
   }
 }
