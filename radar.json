@@ -1,27 +1,27 @@
 {
-  "atualizado_em": "2026-10-15T13:45:41.801748+00:00",
+  "atualizado_em": "2026-10-15T18:44:49.060952+00:00",
   "noticias": [
     {
-      "titulo": "El Niño em alta: Pacífico registra 2ª maior temperatura da história",
+      "titulo": "El Niño registra segunda maior anomalia para setembro",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "AGÊNCIA BRASIL",
+      "fonte": "REVISTA CULTIVAR",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-14T15:24:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOG04cnVQUmU1MTBOdWx3TXJJRUZrS0J4d2hlMHN2ak50eXFfUVRNZm9VcG1BWVMtN0tOYmNrbGp4NGJQNzVJbm5xZWJmMXhkOExGT3VCRldTTjZ0M242UHdlUHZyV0NoSEJITFpId0Fxd19OMmNzcjFvY2pMam5TVGVhdG1qZnZ2dzFjRVBFbG5yU0dEcTdnUGVtTzVKWjZrWGowRVlIOXRQcEU2TjlGUS1NM0c1RXFYSlY4TXFhUmU4ZkxrV2tkMkVxYWZmcDMtQ21EdDZJQnVOSmpVWTRfem5rQQ?oc=5"
+      "publicadoEm": "2026-10-14T18:13:53+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT2lTM25MZjlMMUpQTktxNUNLcnRYT1kzWTRIYXUtQlBTUjVCeW1EcXBpdnR1RFZZbmV0SEZxQ0x5WjFiZ1E0YWdfVUJkak0tOXNTZ3MtYUIxbXk3UG1RcWRWX2ltMDZ0b0RHMS04cncwSGx3QTA1TThTSTc4NndpN3RsZlpPQUFQYVZRVnNLUXlsZzlYZWR3eg?oc=5"
     },
     {
-      "titulo": "El Niño alimenta crise de incêndios e ameaça a saúde no Brasil -",
+      "titulo": "Conab prevê safra de grãos acima de 367 milhões de toneladas mesmo com El Niño",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "AMAZÔNIA BRASIL RÁDIO WEB",
+      "fonte": "A CRÍTICA DE CAMPO GRANDE",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-15T00:44:22+00:00",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSVRkbWY3bnhfREM5U0JkMHVBNTBzOHVhMi0tUV9JaUZ6eUp6ejFGTk1nQVNMd0ttTHZoakdibmdqNjlJT2FCNVFCS0gzQ0tmSGJfdkk2Rm1TTWx5bjhGY0FFWkdjbEpQLWVOY2tmLU5YY0pKQWVpU3FpU21kZU1NVmpLV3pmTHI4SFRUTXJmWjZCNEt0NVZOQkNiMjU2QQ?oc=5"
+      "publicadoEm": "2026-10-15T17:50:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeHdCU1BiVWkyVU45ekpTNk9XS09OQm5lc1JIZEpCRXVTLWdaQTZkVy1abVBNUFNHQWNyV1lOX3BGSjJvZEhzMGN4Wlp3dXVpSGt5YnNMWV93MGRsZGdBcEpHN05pVGdBaEUxZWRMeFBBd0VGNFR0RTZQaFJmbEhPUC1ROEkySUl2SlFTekNNYk40MWE5NTlSNnZMVWwtZThrejR6bU5OV3M?oc=5"
     }
   ],
   "chuva": {
     "cidade": "L.E. MAGALHÃES",
     "uf": "BA",
-    "valor": 98,
+    "valor": 100,
     "seta": "↓",
     "status": "ALERTA CHUVA"
   }
