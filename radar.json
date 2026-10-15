@@ -1,27 +1,27 @@
 {
-  "atualizado_em": "2026-10-14T23:31:27.042000+00:00",
+  "atualizado_em": "2026-10-15T13:45:41.801748+00:00",
   "noticias": [
     {
-      "titulo": "El Niño impacta planejamento para safra de feijão 2026/27",
+      "titulo": "El Niño em alta: Pacífico registra 2ª maior temperatura da história",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CANAL RURAL",
+      "fonte": "AGÊNCIA BRASIL",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-13T13:41:19+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNHhXZkhHT2t4UHdyc1pmU2hKMnhNb3RBNDVSTzF5WGUzbDYwVjN4SW81TGhVN0paX0ktQl9JVW9TbHE2Umo3Q1dWOEFVQTJwOVFXTlNLQ3h5UFNibml0QldsWHJhR2d6bGJMTkNFMU9uR3dhcC1hLV9XYWRBajF1QnN6enNPYzRCM3plbzNOWllQMmxvM0hnQlFTTk10YzhVZnZVUjZRMkx0Q0E?oc=5"
+      "publicadoEm": "2026-10-14T15:24:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOG04cnVQUmU1MTBOdWx3TXJJRUZrS0J4d2hlMHN2ak50eXFfUVRNZm9VcG1BWVMtN0tOYmNrbGp4NGJQNzVJbm5xZWJmMXhkOExGT3VCRldTTjZ0M242UHdlUHZyV0NoSEJITFpId0Fxd19OMmNzcjFvY2pMam5TVGVhdG1qZnZ2dzFjRVBFbG5yU0dEcTdnUGVtTzVKWjZrWGowRVlIOXRQcEU2TjlGUS1NM0c1RXFYSlY4TXFhUmU4ZkxrV2tkMkVxYWZmcDMtQ21EdDZJQnVOSmpVWTRfem5rQQ?oc=5"
     },
     {
-      "titulo": "Super El Niño de 2026 se intensifica e chega perto de recorde histórico; na costa da América do Sul, as águas ficaram 4,5 °C acima do normal",
+      "titulo": "El Niño alimenta crise de incêndios e ameaça a saúde no Brasil -",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CNN BRASIL",
+      "fonte": "AMAZÔNIA BRASIL RÁDIO WEB",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-14T06:35:33+00:00",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNWEk3LVMxYWdVN1RDcFNRV2JXUUZIVUs4MG93aVZ5b0dhb0oxcjlVTzhtbklvRDYxNTNPa21HYlZ3TDFrMTYycDRrYXBidlF0d0FMMEhfOTFPLUw5Zkp0eFJncEZueHJReWtSMVFfeS1RMGR1d1pRMzdVLVVQNDg5Y2lpT2R6RVpHTXZvNndoTF84amNNWlJhTnUxNE5rZDREeWpyREc4VmF0VDNzSFB0N3EzRm9iS1JYX1ZYVkZNQW8zU1IyRnZnd21IeDBoTERBdnBTaTVHUjN1ZUVrYUpONkR6SktadWw2MFpKbi16Q19hMVhadU1tbXloTk1FenRKeUNOdg?oc=5"
+      "publicadoEm": "2026-10-15T00:44:22+00:00",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSVRkbWY3bnhfREM5U0JkMHVBNTBzOHVhMi0tUV9JaUZ6eUp6ejFGTk1nQVNMd0ttTHZoakdibmdqNjlJT2FCNVFCS0gzQ0tmSGJfdkk2Rm1TTWx5bjhGY0FFWkdjbEpQLWVOY2tmLU5YY0pKQWVpU3FpU21kZU1NVmpLV3pmTHI4SFRUTXJmWjZCNEt0NVZOQkNiMjU2QQ?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "SERTÃOZINHO",
-    "uf": "SP",
-    "valor": 100,
+    "cidade": "L.E. MAGALHÃES",
+    "uf": "BA",
+    "valor": 98,
     "seta": "↓",
     "status": "ALERTA CHUVA"
   }
