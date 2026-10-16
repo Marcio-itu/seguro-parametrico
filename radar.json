@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-16T13:36:05.747946+00:00",
+  "atualizado_em": "2026-10-16T18:29:31.998031+00:00",
   "noticias": [
     {
-      "titulo": "Metade da chuva do mês em um dia: como um ciclone extratropical e o auge do El Niño vão bagunçar o clima em São Paulo até 2027",
+      "titulo": "\"Super El Niño\" agrava seca na Amazônia e focos de calor sobem 137%",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "SÃO PAULO SECRETO",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-15T19:59:30+00:00",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYXpPc1NVSEpVN0hVblFGVWxsYWVOOV94Tnl4T00yU2doOEtkWF95dDQxWlZfVzFOaE92R2FrbWQxLWNwSjVqNjZlVFdueHQ3blhUU1FGSTNxZzIzMXRVTWx3MDJxTzgyWFI5MUtRMFNKVVpDZlpXTGQtZ1NaOUZ2bUtUNTcxZ0U1MFl2Q3Y0Ukl1Zw?oc=5"
+      "fonte": "COMPRERURAL",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-10-14T20:53:01+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd0xJSWxSSmVXYlRvSkR4VzdtcmJsNE1vWk82ZHdzZTVOa3RXaVhkWWhwWGlfQWtSdW5rdk1hMUpQRFFTWm9hME5QUzcza3BGZ3Q5RU9xb2ZXc01DY1I2UHpjQkRORnh5NXlOZXpkbUYxYU5hT2tMWTBBVFFGU18wRW1oVlB0Nm5GM1BwcjZocXVHSzRoZUVwUA?oc=5"
     },
     {
-      "titulo": "\"Super El Niño\" agrava seca e alimenta incêndios florestais no Norte do Brasil; Amazônia registra 2,4 vezes mais focos de calor",
+      "titulo": "El Niño mais forte eleva riscos e oportunidades no agronegócio",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CNN BRASIL",
+      "fonte": "SAFRA",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-14T19:30:40+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWk9WVUNBQnZYd2pqdmJTLWRXLThtZTMzX0d6YzI5cmp1eW5TY0dmRVVtM3ZmNG9nSWxKU3ZDODJpa3dYRjlsZGdQMktXcnQyMHNNQS14ckEzeFE2bGhibmUxNWIxX1ZaeENnR2hWMURMS0tVeUtiQ0ozUkV6UFlhMVA0N3hFVm1TYkZ6U1lVX0dIVmNJVzRGVm5nSkFPXzgyeF9tb1BaZXdOUlBIUy01UXY1MmszNnFzZXlBdS1YcUQ1THJDN0NNd0N1dVkzZmxSQm42U1ZtenFhb3h4UmVKSWxyRlh1SXBEWTlPa0tnTXQxOG8?oc=5"
+      "publicadoEm": "2026-10-15T17:58:03+00:00",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYajBmSXN1TVNTU1JxNVRuNnlWNTVYcnhXbEI4XzRaRGNNNE5FbVdPQTJreTB6Y1J4S25acUhvQXF1WEVIbl9mZWUwS1BxeTFIbVh3Rmp4bzZWd3p3VFROMzhyU1hVbjI1TVRWb21Wd2NTZFBLQzhFNA?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "SAPEZAL",
-    "uf": "MT",
-    "valor": 94,
-    "seta": "↓",
+    "cidade": "CRISTALINA",
+    "uf": "GO",
+    "valor": 86,
+    "seta": "↑",
     "status": "ALERTA CHUVA"
   }
 }
