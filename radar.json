@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-16T18:29:31.998031+00:00",
+  "atualizado_em": "2026-10-16T23:05:20.935334+00:00",
   "noticias": [
     {
-      "titulo": "\"Super El Niño\" agrava seca na Amazônia e focos de calor sobem 137%",
+      "titulo": "Empresa intensifica monitoramento do esgoto diante dos efeitos do El Niño",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "COMPRERURAL",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-14T20:53:01+00:00",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd0xJSWxSSmVXYlRvSkR4VzdtcmJsNE1vWk82ZHdzZTVOa3RXaVhkWWhwWGlfQWtSdW5rdk1hMUpQRFFTWm9hME5QUzcza3BGZ3Q5RU9xb2ZXc01DY1I2UHpjQkRORnh5NXlOZXpkbUYxYU5hT2tMWTBBVFFGU18wRW1oVlB0Nm5GM1BwcjZocXVHSzRoZUVwUA?oc=5"
+      "fonte": "MIDIAMAX",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-10-16T18:46:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX2lnbEF5UDMwU2swU0ppQUV6bV92RExGVDV6dG01Vkg1ZGJPXzZqaHNKZEs4emd5NmZ0SU55TGpKZkljZ3A5eV80QnB5VGxKUWhHQ2RxSW1PZkJWZXhJVmZ0U2hrVlhpY3RmMDM5cHk0ZTB2Sy04S1I3X1FoVlpRLW9aZTE5aGs3dnlpV2FEM05MSGN5NHJkTGRYZ21GLUZYN1c2cXFR?oc=5"
     },
     {
-      "titulo": "El Niño mais forte eleva riscos e oportunidades no agronegócio",
+      "titulo": "Santos detalha ações contra o El Niño em congresso estadual do clima",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "SAFRA",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-15T17:58:03+00:00",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYajBmSXN1TVNTU1JxNVRuNnlWNTVYcnhXbEI4XzRaRGNNNE5FbVdPQTJreTB6Y1J4S25acUhvQXF1WEVIbl9mZWUwS1BxeTFIbVh3Rmp4bzZWd3p3VFROMzhyU1hVbjI1TVRWb21Wd2NTZFBLQzhFNA?oc=5"
+      "fonte": "COSTA NORTE",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-10-16T18:16:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ1gwSENiWE40WjU4QnNXY2VLMkF1QzBuRFU1MnpCanpPNjBJYUtHSVduYmFTWFVMajBLcGpob2dxamN0OW1aYUZHQXR0LUxPcnJpQ1JsVEh3bE53bFJvVG5DUW52ZTNXMDd0RFZUbm9kUXdweUNJUXJ3NFdfeldScUYzVnRNV1lVci1GenlTSTlPOFJpZDVyUXZRUVpmWFNLRUJHd0M1QThfSkQxSXBINV9lRWzSAboBQVVfeXFMTWVzb2xId1VpcDlFMDRCVm5vRUtVNDFjODZTczVYZEh5NVYwOUxxZlYwaWlvcUxncEdUSG5xd2lLODR1cGJuTm43eHFxVUVxZXNUUnpsU1FPaUhZTk9naElnejFJTkgzbTR1MVhkVlVjLXI0TWNLcFl6SF9rTXNFYU9HN1FFVHg2SGxaRFlWRGlzQ3FpZkZ6YkRoMlhZbThKMkdiM1dDcXUwZkVsTnhkOWM3dEYxSGNkQzln?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "CRISTALINA",
-    "uf": "GO",
-    "valor": 86,
+    "cidade": "SORRISO",
+    "uf": "MT",
+    "valor": 25,
     "seta": "↑",
-    "status": "ALERTA CHUVA"
+    "status": "SOJA · MILHO"
   }
 }
