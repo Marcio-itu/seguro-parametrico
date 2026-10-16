@@ -1,27 +1,27 @@
 {
-  "atualizado_em": "2026-10-15T23:22:51.730736+00:00",
+  "atualizado_em": "2026-10-16T13:36:05.747946+00:00",
   "noticias": [
     {
-      "titulo": "Valdir Barbosa: União Europeia em risco de inflação por causa do El Niño e guerras",
+      "titulo": "Metade da chuva do mês em um dia: como um ciclone extratropical e o auge do El Niño vão bagunçar o clima em São Paulo até 2027",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "RÁDIO ITATIAIA",
+      "fonte": "SÃO PAULO SECRETO",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-15T19:16:56+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc2s0b2k3c1pQVEVETXNIcGJuNndrWFlGX084MHpFWVJKUGg1cnRzYkI3dVNIQy1pcHJna09RRk45bVowMGo4aFFOcXZjUjZNNDR5M0RaX2FIM0xjdkRoamNmT040V05VbDBaRW0zcGstNW8waGlyQ01IeTA5SkZiYmpub00zTTRWc3NtSjk5Xy1OOUNpQkZYVFhBajhyRTFFRjBSMHBNNkoxcXUzN2xyaG5Fc1dOb21rTkVjZ0lGaDdwSXFqS1ZINzB3ZEVtcTNUVGdOcg?oc=5"
+      "publicadoEm": "2026-10-15T19:59:30+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYXpPc1NVSEpVN0hVblFGVWxsYWVOOV94Tnl4T00yU2doOEtkWF95dDQxWlZfVzFOaE92R2FrbWQxLWNwSjVqNjZlVFdueHQ3blhUU1FGSTNxZzIzMXRVTWx3MDJxTzgyWFI5MUtRMFNKVVpDZlpXTGQtZ1NaOUZ2bUtUNTcxZ0U1MFl2Q3Y0Ukl1Zw?oc=5"
     },
     {
-      "titulo": "El Niño pode comprometer produtividade da soja no Centro-Norte do Brasil na safra 2026/27",
+      "titulo": "\"Super El Niño\" agrava seca e alimenta incêndios florestais no Norte do Brasil; Amazônia registra 2,4 vezes mais focos de calor",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "PORTAL LJ",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-15T16:20:26+00:00",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeU9Cc3ktNnpLM1lYUng4dS1lcktWWDd6OUFkb3lTUG5HZGZNc1k2VURZZGNGWVZBUnA2UE1HWWlYNkZsbEJRS3JZaVVyUnI1aEpQUWxfN2tWM2VyWXNzekQ4TVZjS1JOYXhRbk9lajBjT1J4ZkR1V202R1ZfZVdmbVNBQ0w2aWc1c3RQY2VDRWpKTTlfNGt1d25mWlJIUXJ4aHNTVHMwWVlwYlJTb2Y4dlByNW45bWs?oc=5"
+      "fonte": "CNN BRASIL",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-10-14T19:30:40+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWk9WVUNBQnZYd2pqdmJTLWRXLThtZTMzX0d6YzI5cmp1eW5TY0dmRVVtM3ZmNG9nSWxKU3ZDODJpa3dYRjlsZGdQMktXcnQyMHNNQS14ckEzeFE2bGhibmUxNWIxX1ZaeENnR2hWMURMS0tVeUtiQ0ozUkV6UFlhMVA0N3hFVm1TYkZ6U1lVX0dIVmNJVzRGVm5nSkFPXzgyeF9tb1BaZXdOUlBIUy01UXY1MmszNnFzZXlBdS1YcUQ1THJDN0NNd0N1dVkzZmxSQm42U1ZtenFhb3h4UmVKSWxyRlh1SXBEWTlPa0tnTXQxOG8?oc=5"
     }
   ],
   "chuva": {
     "cidade": "SAPEZAL",
     "uf": "MT",
-    "valor": 98,
+    "valor": 94,
     "seta": "↓",
     "status": "ALERTA CHUVA"
   }
