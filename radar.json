@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-17T17:35:15.743719+00:00",
+  "atualizado_em": "2026-10-17T22:45:08.810230+00:00",
   "noticias": [
     {
-      "titulo": "Safra 2026/27 deve bater recorde em área, mas El Niño e custo de fertilizantes colocam produtividade sob pressão",
+      "titulo": "Empresa intensifica monitoramento do esgoto diante dos efeitos do El Niño",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "PORTOGENTE",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-17T12:38:28+00:00",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPVUp6UEVsclpVaThCYlBmMXVmUE5ENjEzbE1NbDBETmU2eEc1WXJPeDdNS0d2UzhRaVloVk1Ea3pGOXVZRV9Hc0VUek01RXRWWjE0VDZNc3pTNnFqNzRLMTA3eS1FNHBKTGpEckdxSElxdFBGeDBIYW80SlJHeUVmTjNDSkZYbF9wWGhmTmxwcTVmZy1yMzJ0VV95TkpjekhHZUhqSlRRZlA1RHhMN3ZEUmFKcFQ4X28za0dSdG43N1N2YzI1MlRtQWZYWWlNdE5PNzJfMlU4bGQzR2d5WXJkVmZjdGh6VFlVWElpTzR5UEVUTnZaQ0ZueGRJUnhBZG5WZVQteg?oc=5"
+      "fonte": "MIDIAMAX",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-10-16T18:46:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX2lnbEF5UDMwU2swU0ppQUV6bV92RExGVDV6dG01Vkg1ZGJPXzZqaHNKZEs4emd5NmZ0SU55TGpKZkljZ3A5eV80QnB5VGxKUWhHQ2RxSW1PZkJWZXhJVmZ0U2hrVlhpY3RmMDM5cHk0ZTB2Sy04S1I3X1FoVlpRLW9aZTE5aGs3dnlpV2FEM05MSGN5NHJkTGRYZ21GLUZYN1c2cXFR?oc=5"
     },
     {
-      "titulo": "El Niño exige estratégias diferentes para a agropecuária nas cinco regiões",
+      "titulo": "El Niño exige um novo olhar sobre os riscos do negócio",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "GAZETA DE ALAGOAS",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-16T23:38:25+00:00",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS2hqOWlPaUZBcmZiZ040eVpuRENITngzT2Y3NnQtM3FEOW9QWWZ5MkxMemQtQlBSX2NxWnBjMnpNQjB4bG9DSTRzV0hNdEZhclpqUEJ5d2J0aEFvTHFnMDRpUDQ5V2hFaGRDNUZVWHI3ZnVDY1pSdDYtbHZCQmJYUHhSeEQ4c2dwbXVWVUpEYURMTzdSdUFBVXZhbVBGaHNWbVl2WGRJWTYwY1VTVmxCZFQtZWhrNDJTZVJERDVfMNIBxwFBVV95cUxPMWJFVWEtZlBpMHFRRXFCUzlwcDJ2eHh1S2U4WURIOFJBSU9oVnA0ZW8wNHVKcGQtVFVaN0hnLThSZFd6b1lEWWlKZzdBYmxvQUk5R05JRnd2OS1rME1feENmYnFDR2pmTkpTaXhyOVNiMEI3ZzlPOHpEaDBscW9WbnlXVHhqTmNaano4YUpqU0Z4T2JYQnc0dGNVT29mSXZkZFF5aTZ6c1dUUFpaTFlZcjNaV1FWWUFDU2NpYVBGbkprSzRqd1VV?oc=5"
+      "fonte": "FECOMERCIOSP",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-10-16T17:27:33+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLTV0TmxSWVZ4Snhpd1B3UEtvMXB0aklTaUpHdm5MZm56dUlYMFdCRlhJLUpyWEZob3kxQjEwWEdEV0o4cTgtTEJZUWJNX2JySndFdDB2U2lNeHR3UFZBRmo0aVZ1eHQ0MDhmVG5CQ085cGVnWWJUWDhGNktLVi1zdUZkT2pkcVlzaTJqUDI5d3RWeXpfaVJwYU52aw?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "SORRISO",
-    "uf": "MT",
-    "valor": 69,
+    "cidade": "CASCAVEL",
+    "uf": "PR",
+    "valor": 8,
     "seta": "↓",
-    "status": "SOJA · MILHO"
+    "status": "ALERTA SECA"
   }
 }
