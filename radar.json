@@ -1,26 +1,26 @@
 {
-  "atualizado_em": "2026-10-17T22:45:08.810230+00:00",
+  "atualizado_em": "2026-10-18T12:50:54.749798+00:00",
   "noticias": [
     {
-      "titulo": "Empresa intensifica monitoramento do esgoto diante dos efeitos do El Niño",
+      "titulo": "Santos detalha ações contra o El Niño em congresso estadual do clima",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "MIDIAMAX",
+      "fonte": "COSTA NORTE",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-16T18:46:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX2lnbEF5UDMwU2swU0ppQUV6bV92RExGVDV6dG01Vkg1ZGJPXzZqaHNKZEs4emd5NmZ0SU55TGpKZkljZ3A5eV80QnB5VGxKUWhHQ2RxSW1PZkJWZXhJVmZ0U2hrVlhpY3RmMDM5cHk0ZTB2Sy04S1I3X1FoVlpRLW9aZTE5aGs3dnlpV2FEM05MSGN5NHJkTGRYZ21GLUZYN1c2cXFR?oc=5"
+      "publicadoEm": "2026-10-16T18:16:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ1gwSENiWE40WjU4QnNXY2VLMkF1QzBuRFU1MnpCanpPNjBJYUtHSVduYmFTWFVMajBLcGpob2dxamN0OW1aYUZHQXR0LUxPcnJpQ1JsVEh3bE53bFJvVG5DUW52ZTNXMDd0RFZUbm9kUXdweUNJUXJ3NFdfeldScUYzVnRNV1lVci1GenlTSTlPOFJpZDVyUXZRUVpmWFNLRUJHd0M1QThfSkQxSXBINV9lRWzSAboBQVVfeXFMTWVzb2xId1VpcDlFMDRCVm5vRUtVNDFjODZTczVYZEh5NVYwOUxxZlYwaWlvcUxncEdUSG5xd2lLODR1cGJuTm43eHFxVUVxZXNUUnpsU1FPaUhZTk9naElnejFJTkgzbTR1MVhkVlVjLXI0TWNLcFl6SF9rTXNFYU9HN1FFVHg2SGxaRFlWRGlzQ3FpZkZ6YkRoMlhZbThKMkdiM1dDcXUwZkVsTnhkOWM3dEYxSGNkQzln?oc=5"
     },
     {
-      "titulo": "El Niño exige um novo olhar sobre os riscos do negócio",
+      "titulo": "El Niño ameaça safra de 2027 e exige preparação do agro no Nordeste",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "FECOMERCIOSP",
+      "fonte": "VITÓRIA NEWS",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-16T17:27:33+00:00",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLTV0TmxSWVZ4Snhpd1B3UEtvMXB0aklTaUpHdm5MZm56dUlYMFdCRlhJLUpyWEZob3kxQjEwWEdEV0o4cTgtTEJZUWJNX2JySndFdDB2U2lNeHR3UFZBRmo0aVZ1eHQ0MDhmVG5CQ085cGVnWWJUWDhGNktLVi1zdUZkT2pkcVlzaTJqUDI5d3RWeXpfaVJwYU52aw?oc=5"
+      "publicadoEm": "2026-10-16T09:25:29+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWUstZGthNXVoTTVWclZTeFh2WmxaOUZVNy04MS1LbzdvTTRNbkRKTW5uRHdoNXVabDVpNXBNQlFhRVhkS2c2bU9kTm1zNlRpOHFTWHR5Y1UzUkQ5Wng2M2tDaVpCcUoyZFFBOFMyMVhKQnFLYmFqZG1KUHRCaE8wZGljaGRoZ2hsalNnbjdCb21fMk02dUhYdGtB?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "CASCAVEL",
-    "uf": "PR",
+    "cidade": "SERTÃOZINHO",
+    "uf": "SP",
     "valor": 8,
     "seta": "↓",
     "status": "ALERTA SECA"
