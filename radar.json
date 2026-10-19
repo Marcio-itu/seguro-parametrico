@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-18T22:39:22.656711+00:00",
+  "atualizado_em": "2026-10-19T15:58:09.260734+00:00",
   "noticias": [
     {
-      "titulo": "El Niño atinge intensidade excepcional e aumenta atenção sobre chuvas em MS",
+      "titulo": "Produção brasileira de grãos deve aumentar apesar do El Niño",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CAPITAL DO PANTANAL",
+      "fonte": "RÁDIO ARARANGUÁ FM 95.5",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-16T18:56:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMlpfMVJBenVRNGdmMkw3TVZqY2ZTZHVJX2E2NWZmVklYMkUtNkVocWJUSmtDeU5SdUNYSTVOaEgxZlJ3R1dxWlZKUWFOQXI0MHJRa244bWFnT0RXRUVPUm1PRFBpcGxYeEZIZTNWNUJ6aTJsWG15SmtpRmlYV2w1Y21CZ3FDOVZld25QcU1OV1RhMXZoeWdOYzJpcjAzNEM2ZlBOWk9nWlA5RDZxbkJXUnBTTFFRMnJBSG96NGxkUm9XSE9yTG9PbUxPeXYxUGxMTU9rRGJJSWJ0UQ?oc=5"
+      "publicadoEm": "2026-10-17T16:10:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTG1xQTJJRVRLdkUxTW1JbkRic3hvZHBoSXFibW1raURpakhSWDZPLXc0ZW1FSjJUX19ac1hhd3VUUVBPWm05SnBzbjVLck4waDJGTVgwNldGYzRPa1JhNVQ0MXFRT0lDVGVETndlV3dXVExvblRCenh4UXNoYjFJS2taTU5nOTV1Mk02TGJBcDRKcW9tNWc?oc=5"
     },
     {
-      "titulo": "El Niño exige estratégias diferentes para a agropecuária nas cinco regiões",
+      "titulo": "El Niño pode atingir intensidade muito elevada e aumentar risco de chuvas no Sul do Brasil",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "GAZETA DE ALAGOAS",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-16T23:38:25+00:00",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS2hqOWlPaUZBcmZiZ040eVpuRENITngzT2Y3NnQtM3FEOW9QWWZ5MkxMemQtQlBSX2NxWnBjMnpNQjB4bG9DSTRzV0hNdEZhclpqUEJ5d2J0aEFvTHFnMDRpUDQ5V2hFaGRDNUZVWHI3ZnVDY1pSdDYtbHZCQmJYUHhSeEQ4c2dwbXVWVUpEYURMTzdSdUFBVXZhbVBGaHNWbVl2WGRJWTYwY1VTVmxCZFQtZWhrNDJTZVJERDVfMNIBxwFBVV95cUxPMWJFVWEtZlBpMHFRRXFCUzlwcDJ2eHh1S2U4WURIOFJBSU9oVnA0ZW8wNHVKcGQtVFVaN0hnLThSZFd6b1lEWWlKZzdBYmxvQUk5R05JRnd2OS1rME1feENmYnFDR2pmTkpTaXhyOVNiMEI3ZzlPOHpEaDBscW9WbnlXVHhqTmNaano4YUpqU0Z4T2JYQnc0dGNVT29mSXZkZFF5aTZ6c1dUUFpaTFlZcjNaV1FWWUFDU2NpYVBGbkprSzRqd1VV?oc=5"
+      "fonte": "PORTAL SÃO MIGUEL NOTÍCIAS",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-10-19T11:49:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcjhBVm1TREdVVXJvWjRLWm1vdUxmSTk5TmkyRUFGZVZNTGp1TlhfNWEwQ241VDZFbkRYMi1VWFRlT2pzTjNYQ2Z2NGJMenNIUnZWZXJIWWppVEZLSjVmWXVIMC03dGxCRDlyWmNCYUpjNi0yWEcxMVZaVVNieXJTYzlwc3pvT2dIOE5MeGM1dmR2aGVhRmhFWC14MUxlclFrTzN1YlQ1cEZBVGxvbkFDZHQ5ZGxiMGlEVk5BZi1HM0VRLVFKLUhNaTYyaV9zZkE?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "UBERLÂNDIA",
-    "uf": "MG",
-    "valor": 6,
-    "seta": "↓",
+    "cidade": "RIO VERDE",
+    "uf": "GO",
+    "valor": 2,
+    "seta": "↑",
     "status": "ALERTA SECA"
   }
 }
