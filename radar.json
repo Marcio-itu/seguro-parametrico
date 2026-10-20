@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-20T18:48:25.885116+00:00",
+  "atualizado_em": "2026-10-20T23:30:58.770070+00:00",
   "noticias": [
     {
-      "titulo": "Chuva forte do El Niño pode piorar a qualidade do ar em São Paulo",
+      "titulo": "El Niño na piscicultura: um mercado de R$ 10 bilhões em águas turbulentas",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "BRA1.COM.BR",
+      "fonte": "ND MAIS",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-20T12:12:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZWJLLXQ4SjFtSDk5Y1RtQkFVUTF1OHhzQ2M2VUVqaWM2N0E5MlY4NW9Id2dRalQteGlIM3VFbXNwY2stck5OSmVObkYtaEd5V05sTXFCd29NRUVGRzlqVXNZRHcxakRHY1lBaHo3elFtSUJ5SS1JUU1RRklFczdzWFd2Y2xQSE9HRGFDbllIUFlSZUtWeUpCZmE4eVVfa3NjQXVtQjRDa2U?oc=5"
+      "publicadoEm": "2026-10-20T09:12:34+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWk1HWGJaTzh5TmMxdUE5U1dDeVNtSDdTZTg2RHRBeTBSV1hVbnpFcHhTdU9VZVJpUlpRdGszYVFDSThaQk5BQ2ZrS3FFUjhFeVY0OVlUd1VvNi1UZWN0amd1NGg2aXJlVzF2U2U0QXA2V3dpdDhYWThON2NVSk9wb240aDE4TVBoT1pINjFXejVFTWlMZ1ZZMkI2MENMRE11dzJMYlhCUQ?oc=5"
     },
     {
-      "titulo": "Amazônia e Pantanal: seca deixa hidrovias em alerta",
+      "titulo": "El Niño altera clima e impõe desafio aos produtores rurais",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CNN BRASIL",
+      "fonte": "BEM PARANÁ",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-19T12:43:50+00:00",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeU93cWF3YU5KcFRsbDg3WDEyUEJWNnBSTjBmRDh1WkF5WVhNU1I5THIyWjhVcUNXNFh3ejEtTDlvU25WWm1oNng2YzZMNVdoaExVcnRBN3VCUlc2WGtNbEs3M05ZLUdubVVXRUxyTF9mQURLTm5LSGpfM1lmOU41emJQcTdkN2lTSkVsV1ZFcW42ZWM?oc=5"
+      "publicadoEm": "2026-10-19T10:52:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPRnNSdE1KR05XclA4cUpHZ3d0UTZjMnNPdGdWOWhqblNuMWhlSTBtUGNjc1pWY1ZSZmo5TFpGOGZyWVlNdGY5UmxHNHBlUmstMmtLd1J2RTE4NzNVWktsUGhIeTd5Zmo2V1hnUjV2RWtIZlJSUDl6MdIBfkFVX3lxTFA5aFZXTmFlVzdVR2Q1ZzFMZXRIOFdPanpJcGxnSWNySFdkenctaVZSQnVyUG5zakZ5QVZ2WGxMbUJDQ3dDLWR4S3BfNHYxa1VoaFpub3JFV1JqVkVUdEVtVWtNdzFMUEhhTGwtdUVlUG1pMFJ3SlRmeEJsLXp6UQ?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "SAPEZAL",
-    "uf": "MT",
-    "valor": 51,
+    "cidade": "PALOTINA",
+    "uf": "PR",
+    "valor": 0,
     "seta": "↑",
-    "status": "SOJA · MILHO"
+    "status": "ALERTA SECA"
   }
 }
