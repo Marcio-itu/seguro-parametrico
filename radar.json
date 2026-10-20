@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-19T15:58:09.260734+00:00",
+  "atualizado_em": "2026-10-20T00:01:12.272452+00:00",
   "noticias": [
     {
-      "titulo": "Produção brasileira de grãos deve aumentar apesar do El Niño",
+      "titulo": "Baleias são encontradas mortas na Patagônia Argentina. Para cientistas, El Niño pode ter contribuído, mas há outras duas hipóteses",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "RÁDIO ARARANGUÁ FM 95.5",
+      "fonte": "O GLOBO",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-17T16:10:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTG1xQTJJRVRLdkUxTW1JbkRic3hvZHBoSXFibW1raURpakhSWDZPLXc0ZW1FSjJUX19ac1hhd3VUUVBPWm05SnBzbjVLck4waDJGTVgwNldGYzRPa1JhNVQ0MXFRT0lDVGVETndlV3dXVExvblRCenh4UXNoYjFJS2taTU5nOTV1Mk02TGJBcDRKcW9tNWc?oc=5"
+      "publicadoEm": "2026-10-17T15:04:54+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPWS1tOE5DRktoNWttZkpNUV9HZDNwOF9ud18tYWJ3S1dNbko2Rmg2Y1VHLTZibWJRUGRadi1pV253Q29neGN3ZnhMTEw0NzZRUVJqcWRHODlsWGdoQUFlYjlWd01kWXJpdEN1QlBsVk5QSG9xOExzNUFmaGlscGV2eWVMZVFsblNXTjF6YV83MGV1N2dMT0s0blQzdHVCaWM5aWw2WnVZdFBlajVKS3l6Qmp6SkxaYy14UkNvcGZhcnlKUDc3YnpoQ0FuZzJBQ0xDQmdLeTRsUWhqakVIRWVVbDRQc1J2azlSYlFtdmphNm05NU4ySkFlUzlCRHhmczc0d3pZUjE1c3lsVjlVRXI5dnRHVFpzaWJUZHU2dS11VXZZSkhRQnfSAbQCQVVfeXFMTUJQM0xlN2YzZWdXbmgwaW5zNW5mcl9UdVhpZkUxRUtRVmFYNUtrNnM2dldleGdfTFpTaF9JWTE5QkxkVURlZVlkWmNKYUxvZmU1WFlqZzJqcnFrNWRfOVg0YmpKV001V3gxWFRZN2ltdFl0dlZZUENOYTRTZUhXVExaNjk5Q1FOVnNsUzNEY1Frd0R6a3Y0bldlSHV4ZmRsbGV4YlpJaEFtVi1sdUlqbU5sZEV1VVpIRkd2X0Jud1JTVE40S3pRb1Bhb1BGY1lnYzRRcmZTWUZXNDV4ZnQzVzc0MzVFVGNfMVdTOHFEdmhCNU9uSE5uQ2VaT0RTbU9jSUtCRERydWhWeklwdXdZZHlOV2habnB3YWtxd1Q0UkJESzJyZi1yUjJwYm1qeWpyWFRfSmE?oc=5"
     },
     {
-      "titulo": "El Niño pode atingir intensidade muito elevada e aumentar risco de chuvas no Sul do Brasil",
+      "titulo": "O que Jesus Cristo tem a ver com o El Niño? A origem do nome do fenômeno que está previsto para avançar até 2027",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "PORTAL SÃO MIGUEL NOTÍCIAS",
+      "fonte": "ND MAIS",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-19T11:49:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcjhBVm1TREdVVXJvWjRLWm1vdUxmSTk5TmkyRUFGZVZNTGp1TlhfNWEwQ241VDZFbkRYMi1VWFRlT2pzTjNYQ2Z2NGJMenNIUnZWZXJIWWppVEZLSjVmWXVIMC03dGxCRDlyWmNCYUpjNi0yWEcxMVZaVVNieXJTYzlwc3pvT2dIOE5MeGM1dmR2aGVhRmhFWC14MUxlclFrTzN1YlQ1cEZBVGxvbkFDZHQ5ZGxiMGlEVk5BZi1HM0VRLVFKLUhNaTYyaV9zZkE?oc=5"
+      "publicadoEm": "2026-10-19T14:13:34+00:00",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVWIxVC1HYU9xRHNoZkRMbU1NWFdldi00RXFDRHpnZmxlS29GT1BQa2NpVEdqOUpKalIwZEo0aUlqb0JrZnVEa3Qyd2dXWUI0eXJVbkFNYTQwamhhM3R5b3c3WHBnVFdPalM4NW9IbGllUDVBR2xOOU55cHpvNzhDeQ?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "RIO VERDE",
-    "uf": "GO",
-    "valor": 2,
+    "cidade": "BALSAS",
+    "uf": "MA",
+    "valor": 70,
     "seta": "↑",
-    "status": "ALERTA SECA"
+    "status": "ALERTA CHUVA"
   }
 }
