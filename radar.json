@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-20T13:56:01.702387+00:00",
+  "atualizado_em": "2026-10-20T18:48:25.885116+00:00",
   "noticias": [
     {
-      "titulo": "EL NIÑO ATÉ 2027: O MANEJO DECIDE SE A LAVOURA AGUENTA O QUE VEM",
+      "titulo": "Chuva forte do El Niño pode piorar a qualidade do ar em São Paulo",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "DIÁRIO DA MANHÃ",
+      "fonte": "BRA1.COM.BR",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-19T19:36:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTHFBSXdDWGp0MEJwVFN5MzRGT1hoQkpQUldpSlJYRzJHMG8wd1RIUEIxSUdnb2xxMzJKcU5rZzNZSnZLMHRXM1lXTHBoMTB5UDcyNW1lUHRzd0sxeGtKVUJQOXMtSE9CMGNocHY5ZllCRS1ZNkVCMEVuV2JvajJtdkJnQ0MyeVVUNmp0OVAzbkZHU1MyY2ZR?oc=5"
+      "publicadoEm": "2026-10-20T12:12:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZWJLLXQ4SjFtSDk5Y1RtQkFVUTF1OHhzQ2M2VUVqaWM2N0E5MlY4NW9Id2dRalQteGlIM3VFbXNwY2stck5OSmVObkYtaEd5V05sTXFCd29NRUVGRzlqVXNZRHcxakRHY1lBaHo3elFtSUJ5SS1JUU1RRklFczdzWFd2Y2xQSE9HRGFDbllIUFlSZUtWeUpCZmE4eVVfa3NjQXVtQjRDa2U?oc=5"
     },
     {
-      "titulo": "O que Jesus Cristo tem a ver com o El Niño? A origem do nome do fenômeno que está previsto para avançar até 2027",
+      "titulo": "Amazônia e Pantanal: seca deixa hidrovias em alerta",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "ND MAIS",
+      "fonte": "CNN BRASIL",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-19T14:13:34+00:00",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVWIxVC1HYU9xRHNoZkRMbU1NWFdldi00RXFDRHpnZmxlS29GT1BQa2NpVEdqOUpKalIwZEo0aUlqb0JrZnVEa3Qyd2dXWUI0eXJVbkFNYTQwamhhM3R5b3c3WHBnVFdPalM4NW9IbGllUDVBR2xOOU55cHpvNzhDeQ?oc=5"
+      "publicadoEm": "2026-10-19T12:43:50+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeU93cWF3YU5KcFRsbDg3WDEyUEJWNnBSTjBmRDh1WkF5WVhNU1I5THIyWjhVcUNXNFh3ejEtTDlvU25WWm1oNng2YzZMNVdoaExVcnRBN3VCUlc2WGtNbEs3M05ZLUdubVVXRUxyTF9mQURLTm5LSGpfM1lmOU41emJQcTdkN2lTSkVsV1ZFcW42ZWM?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "PALOTINA",
-    "uf": "PR",
-    "valor": 0,
+    "cidade": "SAPEZAL",
+    "uf": "MT",
+    "valor": 51,
     "seta": "↑",
-    "status": "ALERTA SECA"
+    "status": "SOJA · MILHO"
   }
 }
