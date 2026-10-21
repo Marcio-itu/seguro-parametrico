@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-21T14:12:21.253497+00:00",
+  "atualizado_em": "2026-10-21T19:01:01.501132+00:00",
   "noticias": [
+    {
+      "titulo": "El Niño pode ser o mais forte em 40 anos, alerta OMM; ONU projeta 2,8 °C até 2100",
+      "resumo": "Leia a matéria completa na fonte original.",
+      "fonte": "SOUBRASILIA.COM",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-10-21T15:06:26+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUnUxaXRCakdHT1d1RWo0N1RNV095RGlVSjZEclZlbkxxekhiRVJKcXlWbTlsTFN6c1FvWWgtZ0lIYUs0VDBZT0pzY1dtSDI3X045MGFybTQ0OGF1QW91RnpxMFd3S055aDIxcnd6cmdvUENjOHg2bWFXUmJGTFM3M0QzM0lHNVNyVmNDMnNlYld6SmhKQUlwWk9xR0hRcXBlXzQycXR1dw?oc=5"
+    },
     {
       "titulo": "El Niño: Governo de Minas apresenta medidas para proteger população diante da previsão de impactos intensos no estado",
       "resumo": "Leia a matéria completa na fonte original.",
       "fonte": "MUZAMBINHO.COM",
-      "rotuloData": "HOJE",
+      "rotuloData": "ONTEM",
       "publicadoEm": "2026-10-20T21:07:38+00:00",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdVVVZUxsNkZURzk4ajdUczdraEI0Mi1kWVpzSUFxeFJEWEkzQ01uU3Y5SEdUTjVVUTl3QnRpdy1BemdVYVhQMXl1TldNRjRMNkc1Z0hiTEdfQ3FzRFFmQVllbURuNkNvMmZxZXNlYUJQd0JSMUNmQndfXzk5dmdKa0p5UnpTaHhESUM2MV9wUWR2T3YzTXg5Ti1XTFozemtpVm11ZEtqS2o5Z2F5WWliTkR2dFkxeHV2LVhXMzdlZG1kel9tTnplRWt4TllXQ3E0NXJFazZ1N0gtcmhqeC11RGJXc29WdVlobVE?oc=5"
-    },
-    {
-      "titulo": "Santiago, no Chile, registra outubro mais chuvoso da história por influência do El Niño",
-      "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "O GLOBO",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-20T17:10:33+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX1M4MnlVaG0xZ2VtRGNQQm5mZXRVSXlxdzgzeFZwdExFTWswelJGNzhrbU1NVUotMzJMWTVjSFNBQU5Uc09JZ0xvbUdXRDlxZ3o5WWRXbklaV3dheVhZcmIwN3h2Um9rNG1XazVBOGZsbl9QZUNsME5wNE1jV3UxMzBNY3RhSkg5dXFiRV82dlExRFR2dGVKZzAyN0E2TlpxZ1pTT0d2VEs2S2tLWmItaUVBckx1Ml93UExrS0hoTFRzQlU0VDU1RGRZc096OERhSDZzZjZUUdIB5gFBVV95cUxNWm9hQUs3Q1VwbWFmQk1IV0N5SS12RFgyRjdVcmpJUWRTNkpVOW4xanFyODZzWTFkTll5dld1THBYSk1lMWNqVDhyX0lIcS1zWmZUMEI5dko5MC1lOHM0VVVTbm5NYjdUWHZ2d1FWVExIdUxXNzlpZERSU0tiaWhEdjR1T3paTmlwdFNNSVpiUlRNWmxHZWtLaTYwQlFnNXkzMlRtTnR4TmlYRHhERkJ4cy0xM1NYdzhDOU5oMGszd0xLbFZ4cVJNdXZEMl9zalNZMlpsVUVNdVQ5OThYWTNYS05rdWE0Zw?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "SORRISO",
-    "uf": "MT",
-    "valor": 76,
-    "seta": "↓",
-    "status": "ALERTA CHUVA"
+    "cidade": "CRISTALINA",
+    "uf": "GO",
+    "valor": 24,
+    "seta": "↑",
+    "status": "SOJA · MILHO"
   }
 }
