@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-21T19:01:01.501132+00:00",
+  "atualizado_em": "2026-10-21T23:46:33.575619+00:00",
   "noticias": [
     {
-      "titulo": "El Niño pode ser o mais forte em 40 anos, alerta OMM; ONU projeta 2,8 °C até 2100",
+      "titulo": "El Niño pode atingir uma intensidade 'sem precedentes', alerta ONU",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "SOUBRASILIA.COM",
+      "fonte": "O GLOBO",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-21T15:06:26+00:00",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUnUxaXRCakdHT1d1RWo0N1RNV095RGlVSjZEclZlbkxxekhiRVJKcXlWbTlsTFN6c1FvWWgtZ0lIYUs0VDBZT0pzY1dtSDI3X045MGFybTQ0OGF1QW91RnpxMFd3S055aDIxcnd6cmdvUENjOHg2bWFXUmJGTFM3M0QzM0lHNVNyVmNDMnNlYld6SmhKQUlwWk9xR0hRcXBlXzQycXR1dw?oc=5"
+      "publicadoEm": "2026-10-21T16:01:36+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMnZuVDBYMHVtN2xjNXNxOXJpX2hNajQ5UTdZQmJ1NDNESVVCNnJmR2U1eFZ3NkVvWWFlSVZodWU0ZWhTcThNOUR0T1FYRFpqWFBTTXljTXN6RW8tcEtfaXJnWGJPNGpyTVhPYTBDdXBIcnZjdDd5a3dfQmQ0N2VqRHZvcklUZjdSaWNsdkZSMW1vRzk4LVpwQ0FZWTJBMUxxelZacXVEbzJjdGZBNjc0U2tTMlhlamZtYkE3YUNrQi1FdXpjOXfSAdQBQVVfeXFMTWFqRGp0d1hlWk9NXy1mOG9IMGJ5NTJOUy00aldzbTVhU2FZMVJQNFZWbnlXbFR0MzBDcWdZLWtPVDNkWVFHZ2d1aFFKblZjMExFbzluVWR3LUJhR2JvRGRDdTBnWWJ3RWswVlBqWm9NN1ZRZ0R5c0UxS1ctWVJOXzBUU1ZramtuZ1ZpTGo5d19ZaUo1Y2ZNT1dIbG5vc0hmSGFJNmI3Q2VpNERtNzZENjZVSzRYWVpqbVh3ZzZCeUxxRXJ1TmFEOENpWXlnNUp2ejBZMkw?oc=5"
     },
     {
-      "titulo": "El Niño: Governo de Minas apresenta medidas para proteger população diante da previsão de impactos intensos no estado",
+      "titulo": "El Niño ameaça lavouras de café conilon no Espírito Santo com seca e calor intenso",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "MUZAMBINHO.COM",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-20T21:07:38+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdVVVZUxsNkZURzk4ajdUczdraEI0Mi1kWVpzSUFxeFJEWEkzQ01uU3Y5SEdUTjVVUTl3QnRpdy1BemdVYVhQMXl1TldNRjRMNkc1Z0hiTEdfQ3FzRFFmQVllbURuNkNvMmZxZXNlYUJQd0JSMUNmQndfXzk5dmdKa0p5UnpTaHhESUM2MV9wUWR2T3YzTXg5Ti1XTFozemtpVm11ZEtqS2o5Z2F5WWliTkR2dFkxeHV2LVhXMzdlZG1kel9tTnplRWt4TllXQ3E0NXJFazZ1N0gtcmhqeC11RGJXc29WdVlobVE?oc=5"
+      "fonte": "VITÓRIA NEWS",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-10-21T10:47:47+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOE1sbkpnbUotTlpNa0NGRUJJSVd5eG9BcjRPT0lSeGlSSDFOWFNuZXJqc2w2U3ZmWVppY0JuWFVQREZxekt5TmZhSzgzck9MTGJpa19jMS0zSTlnU2w0TDRQeEVVcWJER2FyZVdQZjk5YTBZek4wWk1yWkh3dUVIaXNtWGxJRUJlQi1TNEtlOVA5QTFac1gwRVBEdXhCMkttcUZ3VkZuX2hhU1A5b1E?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "CRISTALINA",
-    "uf": "GO",
-    "valor": 24,
+    "cidade": "SERTÃOZINHO",
+    "uf": "SP",
+    "valor": 18,
     "seta": "↑",
-    "status": "SOJA · MILHO"
+    "status": "CANA"
   }
 }
