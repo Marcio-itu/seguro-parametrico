@@ -1,27 +1,27 @@
 {
-  "atualizado_em": "2026-10-21T23:46:33.575619+00:00",
+  "atualizado_em": "2026-10-22T14:10:36.564599+00:00",
   "noticias": [
     {
-      "titulo": "El Niño pode atingir uma intensidade 'sem precedentes', alerta ONU",
+      "titulo": "El Niño mais forte eleva riscos e oportunidades no agronegócio",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "O GLOBO",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-21T16:01:36+00:00",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMnZuVDBYMHVtN2xjNXNxOXJpX2hNajQ5UTdZQmJ1NDNESVVCNnJmR2U1eFZ3NkVvWWFlSVZodWU0ZWhTcThNOUR0T1FYRFpqWFBTTXljTXN6RW8tcEtfaXJnWGJPNGpyTVhPYTBDdXBIcnZjdDd5a3dfQmQ0N2VqRHZvcklUZjdSaWNsdkZSMW1vRzk4LVpwQ0FZWTJBMUxxelZacXVEbzJjdGZBNjc0U2tTMlhlamZtYkE3YUNrQi1FdXpjOXfSAdQBQVVfeXFMTWFqRGp0d1hlWk9NXy1mOG9IMGJ5NTJOUy00aldzbTVhU2FZMVJQNFZWbnlXbFR0MzBDcWdZLWtPVDNkWVFHZ2d1aFFKblZjMExFbzluVWR3LUJhR2JvRGRDdTBnWWJ3RWswVlBqWm9NN1ZRZ0R5c0UxS1ctWVJOXzBUU1ZramtuZ1ZpTGo5d19ZaUo1Y2ZNT1dIbG5vc0hmSGFJNmI3Q2VpNERtNzZENjZVSzRYWVpqbVh3ZzZCeUxxRXJ1TmFEOENpWXlnNUp2ejBZMkw?oc=5"
+      "fonte": "BRA1.COM.BR",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-10-21T18:06:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX19rb2RzajVLbjBNb1pXc3dMR0lmZlB0X2pGbk04bzhFZmpuYWZobGdLOV9SUkt5RTZSN0Jub3ViaDFZNzU3WU1hTmJNcWtwdkt2NHY4TEZOS0xMZXVtLWJuT0NPUXl6dFJYMTFiM19ob09yQW1JLWhkT001a2Z2Y2hqNjAtR3JFcndvTi1CcHBCN3pKYk5qN2JlQXhuU2M2X1EtUlM2WDUtdmhv?oc=5"
     },
     {
-      "titulo": "El Niño ameaça lavouras de café conilon no Espírito Santo com seca e calor intenso",
+      "titulo": "ONU faz alerta sobre El Niño sem precedentes: pico máximo já tem data prevista",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "VITÓRIA NEWS",
+      "fonte": "GMC ONLINE",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-21T10:47:47+00:00",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOE1sbkpnbUotTlpNa0NGRUJJSVd5eG9BcjRPT0lSeGlSSDFOWFNuZXJqc2w2U3ZmWVppY0JuWFVQREZxekt5TmZhSzgzck9MTGJpa19jMS0zSTlnU2w0TDRQeEVVcWJER2FyZVdQZjk5YTBZek4wWk1yWkh3dUVIaXNtWGxJRUJlQi1TNEtlOVA5QTFac1gwRVBEdXhCMkttcUZ3VkZuX2hhU1A5b1E?oc=5"
+      "publicadoEm": "2026-10-21T18:47:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbEU0SHk0VnY5Rl95ZldzdXd3SWxacU9MUXJsQlpOaGpNU1czSFJCcklCZE94QjV5bmNOaS1WNGtPYWFORG9MUVBzdjU3NG1BbEFHeDU5akF2TXV2azdlQ1IxbGNFU3R5QW1hZmxBeHhGN2dUQ1FJX3ZDN3NDWTczQVl2TGxIQ2pucEdXdlFwdmwyMmNtOGFyaDF1OVhOT0QxMWZuYUdfclRubEpqTGM5RWRLV0VvSEpuaVHSAb8BQVVfeXFMT01zaHRndzNiWEVXT04yX1Y0U1ByVkZtNVE2Qk05VHBiTktrSkdBZ1IzVDBjUDV4V0NHMnlMMEZURDRVZmFsZk5RMTBtbE9ONm9SaUVObFF5bFFTMFpjWUhhbEhqQlFoeFFveFZ1VnlkRFRCc1ZkekVRN2RtRm1QRWdfdW96cmljN1BwYlg3R0l4cnJHdVlmRFVwU3U1UDN6WDE0RlBzNmQ3SXVkejBHSUphVlVVcHAxaW01N1FUWEk?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "SERTÃOZINHO",
+    "cidade": "BARRETOS",
     "uf": "SP",
-    "valor": 18,
+    "valor": 50,
     "seta": "↑",
     "status": "CANA"
   }
