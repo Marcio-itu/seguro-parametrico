@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-22T18:55:28.966301+00:00",
+  "atualizado_em": "2026-10-22T23:44:35.854528+00:00",
   "noticias": [
     {
-      "titulo": "El Niño põe em alerta produção de milho no Centro-Oeste brasileiro",
+      "titulo": "El Niño e chuvas intensas: como proteger sua casa, seu carro e quem você ama sem surpresas no bolso",
       "resumo": "Leia a matéria completa na fonte original.",
       "fonte": "CQCS",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-20T18:53:59+00:00",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdlhqZ1d5RnR3eUNESXp1SzVxVDFVd1VlUTFOYzc4UHJmXzFCUjZMX3hMdUloY1hLZC1uaGt1UXdYeGhlcGNjdVpUSTE4NVZCMmdvTThzR0lCUFdxNmYyTjJPMXpRVjlXQkFfXy1VQkZOT0hnY2tLQldlc1dtbHVIbmVYNC02NGw4ZmxmcHc5THR6RU5rYjNmbG5vQQ?oc=5"
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-10-22T14:37:40+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQXpHMTN1ZXJiQ3ZudFV1NmNkZTZ6X2k0enpzRU1JRE04NE9xTXQtejFwa0kwb19BaWQtYW9TMFdGeUxKaDhvVEVEdHpxY3BuN3Ytb1E4dmpqY0drNEhCbTJ4U2NmN1NHTk9zbFdwNHpGSWRXQkxKaVVLZmtzSlNwMGp2ZlNTcV95ZC1wQk5RMTIyZFhfQ2QwdXo2VnlNNjJhcG5HcHYxZ3lQeXdNOU5pRzNqUGpBY2JTMUZlNkg4WkRDWC1XMHcwQnJCQlgyR2N5ejVKWmFxdnFWeURQMkcwV1hYcjM?oc=5"
     },
     {
-      "titulo": "El Niño: fenômeno acende alerta para aumento de temperatura na Paraíba; saiba mais",
+      "titulo": "Folhadamanha",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "PORTAL CORREIO",
+      "fonte": "CLIC FOLHA",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-22T10:55:04+00:00",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMHNrZENRalJuTV90Y1Z3cnpOUVhDQnJGVlljR3A3bmFjUG1iUXdHV3lEOE1WWmI0UTB6Ukl5Rl9LY09ua1pfb3BzUF9nS1dZb1hQQ1VPYU52d1hic0QtZU1wOTRjR1Y4dXp3VmM3Y1lnUkZSc3NQUG5QWHVpbW1yWFFtZXNPTHRESVBwV3pVNF9KcHE3V1hWSEJUNzV6TWlrNzdEN0k1WHVMQ2p2dmJR?oc=5"
+      "publicadoEm": "2026-10-22T17:01:50+00:00",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UdjI5WGt2eGdUaklUclVDd01kQkE2QTZkWEFyRDJfaWk5TjdoV0dIMUwzTmRJYWp1akREcFFJaW1kZHYwZ0Rqd09FUDQ0Unc1YmM3Mjc3VVItS3ZCY2lxQTNUTzY4Q2pGV1VNQ0pQcmJTMUYwZjIxMg?oc=5"
     }
   ],
   "chuva": {
     "cidade": "UBERLÂNDIA",
     "uf": "MG",
-    "valor": 69,
+    "valor": 100,
     "seta": "↓",
-    "status": "SOJA · MILHO · CANA"
+    "status": "ALERTA CHUVA"
   }
 }
