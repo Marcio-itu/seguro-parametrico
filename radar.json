@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-23T18:46:47.830447+00:00",
+  "atualizado_em": "2026-10-23T23:37:39.626452+00:00",
   "noticias": [
     {
-      "titulo": "El Niño: no Sul, planejamento por microbacia hidrográfica ajuda a reduzir impactos do excesso de água",
+      "titulo": "El Niño intensifica risco de incêndios nas florestas tropicais e ameaça safra no Brasil",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "RÁDIO TROPICAL FM 99.1",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-23T10:49:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQVpWTk0zekwzLXp2ZjAtUlY2YlJqbVVLWlFoRWpTV3ZwVmxRTEtfR3Y4UUw4ZFp2N2tGUmZIY3MzVmlkXzAzWUZ5SUR1S3dzd1VPNjNSOWxQYlI0YjJUNTJfMExxVHZWY3dmM2R2M3htMUFSRHo2YUJON3dJZzAxX1hhd2tnWkJDMXlycXpfR2hEal9ZVzhHNUpNVXBUaVM0aktYeWhrOFdBY1M3cXVJSnVXUk1EQTdCbm5QN3FzbzV6dFJ0b19vNEhjZGYxdGNm?oc=5"
+      "fonte": "PORTAL DO AGRONEGÓCIO",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-10-22T14:25:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTXdWdmwxY25nQWZCMmt5NTVyNDhPTnZoNnRUODR3NnVQeUg1Qm9pYk93ekkwOHdMOFpaZzN3cFAzeXE1dlB5TVBHUlRMN3ZSQUt2aEVnV1BUOEtNTnliS19TM0ZZVnJibFhpTURETWxhZjJ4Z2RjaVVIak0tMkthTGRZVXRlcklzYjZuZDFGS2RncnZCX05uZ1RmS3hPaGdXdDNBZnpQcmxzMzFQb0lObi1ndzB4ZFBMV2NaQS1DVGNjSXhvbV9KNHJkeFFZbHh6U29qZXNxaFMyUFk0ZFpFX1AtZWszeE1YTWc?oc=5"
     },
     {
-      "titulo": "Plantio de soja com excesso de chuva: como operar no Sul em ano de El Niño forte",
+      "titulo": "‘Super El Niño’ deixa Minas em alerta para seca severa, queimadas e tempestades",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CLIMATEMPO",
+      "fonte": "MUZAMBINHO.COM",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-21T17:09:12+00:00",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOVZjaklrUy15UkxBY0ppaXN4d0ZYb1NLd0xKU0tSNG42b185ejlydFBVRzNLel84eWJZZFFYMmR5clZpNUgxa1o2alhob3Q1S2lhLXRFY1d0bGpIVjltQkJFVUEzYVpkNWpVa3BmSkhJTWhKQXlvVDNxZzdwR1RGbUNQR1d3TUF2SUlsS2Fqa25EanNSY2h4YUJSOGhxRjhHSV8tWEJFcDlobWNtNVRBcHRDUll6cDZQZG42TGNURC0tcnN3QVNmLUR0YnZuTlU?oc=5"
+      "publicadoEm": "2026-10-22T14:53:03+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVGVBOFVJYVVPbkp5eWcxLVJRdUpLOXZDTGdzVTV4NVh5MjFCcFE1OHR5akYyX2k2dDdKZ2lHRU5Vb2g4VFNaUFg5UDhEVkUwMnZNQTB3RmZjSklYLVlLOXhCYVh2YjEya3FYUWh1czBXbkhrWW9rbDRKRGV4NUpWTXlvS29Yb1hKZGZsdnJSbnFuME9UeUdFQTZmZUN6WkRTMUxRU0VWdkFvS2VNUFF3STctZzc?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "SERTÃOZINHO",
-    "uf": "SP",
-    "valor": 76,
+    "cidade": "SAPEZAL",
+    "uf": "MT",
+    "valor": 31,
     "seta": "↓",
-    "status": "ALERTA CHUVA"
+    "status": "SOJA · MILHO"
   }
 }
