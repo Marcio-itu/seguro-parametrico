@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-23T13:54:24.461822+00:00",
+  "atualizado_em": "2026-10-23T18:46:47.830447+00:00",
   "noticias": [
     {
-      "titulo": "Com chuva e temperatura acima da média, El Niño pode causar onda de calor em MS",
+      "titulo": "El Niño: no Sul, planejamento por microbacia hidrográfica ajuda a reduzir impactos do excesso de água",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "ARAPUANEWS",
+      "fonte": "RÁDIO TROPICAL FM 99.1",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-23T11:03:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT2RXaGR2VUR3ZmtOSi10YUoxZGdpUlh3VGpROVFNM2hCMzh5WUJXYjZQb3ZYQ09XazBSVnRfQkU2QW5NU3Q0S083YVdBY0NKdXlTbnJJcGNIQkFZc0NKOEN5MnlzeTRoNzdzYmJ1a2dPZHZjQ1FEMWhrTkUzQ2xRSXVXMWdENC1jRzhxdEpIOWl6X0xyOUNVRE1aVC1MZzV3RjdzbWJZYVA?oc=5"
+      "publicadoEm": "2026-10-23T10:49:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQVpWTk0zekwzLXp2ZjAtUlY2YlJqbVVLWlFoRWpTV3ZwVmxRTEtfR3Y4UUw4ZFp2N2tGUmZIY3MzVmlkXzAzWUZ5SUR1S3dzd1VPNjNSOWxQYlI0YjJUNTJfMExxVHZWY3dmM2R2M3htMUFSRHo2YUJON3dJZzAxX1hhd2tnWkJDMXlycXpfR2hEal9ZVzhHNUpNVXBUaVM0aktYeWhrOFdBY1M3cXVJSnVXUk1EQTdCbm5QN3FzbzV6dFJ0b19vNEhjZGYxdGNm?oc=5"
     },
     {
-      "titulo": "El Niño ganha força e muda os cálculos do agro para 2026/27",
+      "titulo": "Plantio de soja com excesso de chuva: como operar no Sul em ano de El Niño forte",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "O PRESENTE RURAL",
+      "fonte": "CLIMATEMPO",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-21T22:46:09+00:00",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSDctYllxSlpnWmZjeFNYODlaeXBPN3d2T2s2bTdlMkFiQjRNR3pKQkl0Z25reTAyYUpNbFlCY0pHcDNub0VOUzh3ZEQ1QmwyNXpYSWFibklQeVZsbzl6cVFMa0RCc2VCalZPUXdSOWRLdThZX3EtVnZwWTdUbkUyLTByY3pYYzkwMFdfNmpUdnF5VFdv?oc=5"
+      "publicadoEm": "2026-10-21T17:09:12+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOVZjaklrUy15UkxBY0ppaXN4d0ZYb1NLd0xKU0tSNG42b185ejlydFBVRzNLel84eWJZZFFYMmR5clZpNUgxa1o2alhob3Q1S2lhLXRFY1d0bGpIVjltQkJFVUEzYVpkNWpVa3BmSkhJTWhKQXlvVDNxZzdwR1RGbUNQR1d3TUF2SUlsS2Fqa25EanNSY2h4YUJSOGhxRjhHSV8tWEJFcDlobWNtNVRBcHRDUll6cDZQZG42TGNURC0tcnN3QVNmLUR0YnZuTlU?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "SORRISO",
-    "uf": "MT",
-    "valor": 29,
+    "cidade": "SERTÃOZINHO",
+    "uf": "SP",
+    "valor": 76,
     "seta": "↓",
-    "status": "SOJA · MILHO"
+    "status": "ALERTA CHUVA"
   }
 }
