@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-22T23:44:35.854528+00:00",
+  "atualizado_em": "2026-10-23T13:54:24.461822+00:00",
   "noticias": [
     {
-      "titulo": "El Niño e chuvas intensas: como proteger sua casa, seu carro e quem você ama sem surpresas no bolso",
+      "titulo": "Com chuva e temperatura acima da média, El Niño pode causar onda de calor em MS",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CQCS",
+      "fonte": "ARAPUANEWS",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-22T14:37:40+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQXpHMTN1ZXJiQ3ZudFV1NmNkZTZ6X2k0enpzRU1JRE04NE9xTXQtejFwa0kwb19BaWQtYW9TMFdGeUxKaDhvVEVEdHpxY3BuN3Ytb1E4dmpqY0drNEhCbTJ4U2NmN1NHTk9zbFdwNHpGSWRXQkxKaVVLZmtzSlNwMGp2ZlNTcV95ZC1wQk5RMTIyZFhfQ2QwdXo2VnlNNjJhcG5HcHYxZ3lQeXdNOU5pRzNqUGpBY2JTMUZlNkg4WkRDWC1XMHcwQnJCQlgyR2N5ejVKWmFxdnFWeURQMkcwV1hYcjM?oc=5"
+      "publicadoEm": "2026-10-23T11:03:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT2RXaGR2VUR3ZmtOSi10YUoxZGdpUlh3VGpROVFNM2hCMzh5WUJXYjZQb3ZYQ09XazBSVnRfQkU2QW5NU3Q0S083YVdBY0NKdXlTbnJJcGNIQkFZc0NKOEN5MnlzeTRoNzdzYmJ1a2dPZHZjQ1FEMWhrTkUzQ2xRSXVXMWdENC1jRzhxdEpIOWl6X0xyOUNVRE1aVC1MZzV3RjdzbWJZYVA?oc=5"
     },
     {
-      "titulo": "Folhadamanha",
+      "titulo": "El Niño ganha força e muda os cálculos do agro para 2026/27",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CLIC FOLHA",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-22T17:01:50+00:00",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UdjI5WGt2eGdUaklUclVDd01kQkE2QTZkWEFyRDJfaWk5TjdoV0dIMUwzTmRJYWp1akREcFFJaW1kZHYwZ0Rqd09FUDQ0Unc1YmM3Mjc3VVItS3ZCY2lxQTNUTzY4Q2pGV1VNQ0pQcmJTMUYwZjIxMg?oc=5"
+      "fonte": "O PRESENTE RURAL",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-10-21T22:46:09+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSDctYllxSlpnWmZjeFNYODlaeXBPN3d2T2s2bTdlMkFiQjRNR3pKQkl0Z25reTAyYUpNbFlCY0pHcDNub0VOUzh3ZEQ1QmwyNXpYSWFibklQeVZsbzl6cVFMa0RCc2VCalZPUXdSOWRLdThZX3EtVnZwWTdUbkUyLTByY3pYYzkwMFdfNmpUdnF5VFdv?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "UBERLÂNDIA",
-    "uf": "MG",
-    "valor": 100,
+    "cidade": "SORRISO",
+    "uf": "MT",
+    "valor": 29,
     "seta": "↓",
-    "status": "ALERTA CHUVA"
+    "status": "SOJA · MILHO"
   }
 }
