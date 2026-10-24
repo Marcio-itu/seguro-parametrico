@@ -1,27 +1,27 @@
 {
-  "atualizado_em": "2026-10-24T12:58:49.299813+00:00",
+  "atualizado_em": "2026-10-24T17:41:39.292556+00:00",
   "noticias": [
     {
-      "titulo": "El Niño pode ser o mais forte dos últimos 40 anos e aumentar risco de seca na Amazônia",
+      "titulo": "Super El Niño pode afetar safra desta temporada",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "PRIMEIRA PÁGINA",
+      "fonte": "REVISTA OESTE",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-22T10:27:17+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVkdJckt4bHdiNzVqeldfWVdkWmJlVjl2bERWUWZDamRoZVF4VDhJSEU4TF80U3FpR04zWnNyLXRCZmZ4VjdhSk5uQnlHSkFyZHQ5TmR4QjdZQTVqOVcxczJZUlBqU2o0Vms3UVRXRkNjWmI1NFpkUHBWWFBIZ1duS045bGs0UjNrUWpvMEhiZmtjdW9WTUlPaXE2MkZ1T2k3UldmcmNqSUtwLU9rWWVPT0JrRmZuLWd3ZE0yMjNRRWs?oc=5"
+      "publicadoEm": "2026-10-23T01:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVWZNRmRzeXk3b2hidVFfWS1QOVdEXzBzQVNfb0NZVHRZakIweGtUYTFyaDBqZWpTMTJnVkZIZXZRVFJzdlVBWXRZZUV3b0ZLc2xUSjJFeW1RaVcyNDd3UnBqSmljR05yb2Q0LWx2TGxLT2FqdU52OVRkRl9GOFRVT2djTjNDdVpiNDZLNkl3?oc=5"
     },
     {
-      "titulo": "El Niño 2026/2027: Santa Catarina prepara medidas para reduzir prejuízos no campo e na pesca",
+      "titulo": "No agro, Super El Niño muda onde plantar e como escoar a safra",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "SANTA CATARINA EM PAUTA",
+      "fonte": "CAPITAL RESET",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-23T11:07:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdVRwLUJqaElRMFRQRllzbkhyN3V5eTBtci02bmhSTzhnMzc3RlFHbjZid3lLNGhLNFU1blFLdHF3cW1FRXFlZ2ozR3loYlhOaDNMdG1qUkVRXzdTRDhIQVF0V3NFSTlKa2UzaFlXTDJOSWJmRGdWazdyd0dnOF9EUDJhMDQzU29sLWVrbGlhX09SaXRFQUYxWDRkN1hkUE96VFRaZ0Z4TWNMRmZHN0ZFZEk5aEhZbzgzY0VSc1Vfc2lkcm1MdnlRazlLZ1Q5YXZMMEhzRFRrekFRM0U?oc=5"
+      "publicadoEm": "2026-10-23T08:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZzZUOUtNcGZFbUdGVXRFWmdLdXBwOV80ZU1Rc2dpSXNfb3ROQy0xVUVwQ21KbG5lVndNSVVuN1U4djZCSzc5bFpYbmxDc09WLXNKYUt5MXU0R0liVUlndTNxeTVBbVdKelNodm96S1loSDMzUjhDU21HejNldTNMRWRqVUJfTzU1TkhpenVoNV9FeTRUeExLZXZQbEhmdmRPRk42dXpsMFgxQQ?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "CASCAVEL",
-    "uf": "PR",
-    "valor": 100,
+    "cidade": "CRISTALINA",
+    "uf": "GO",
+    "valor": 80,
     "seta": "↓",
     "status": "ALERTA CHUVA"
   }
