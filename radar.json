@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-25T13:25:24.716191+00:00",
+  "atualizado_em": "2026-10-25T17:56:29.601744+00:00",
   "noticias": [
     {
-      "titulo": "Produção de leite em Pernambuco sofre impactos do fenômeno El Niño",
+      "titulo": "El Niño pode estar entre os mais fortes desde 1950 e acende alerta para o clima no Paraná",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "JC",
+      "fonte": "O PRESENTE",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-23T19:01:45+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVVhIQ1hVeV9SYkpNYUpVZGVkZmF1cUplRTZCQkxpNWtUQWhINXVlNWNJODJpQlpTUG1rLTFQUWlyYXFJclNFUDA3bWItbnBkbDB4QjdRdDI1UkppaS1tNllIUzBfNVozQ1VmWlBMSjF2Q29zTUJxYVFOUi03Z3ZOUjJ0bDZRVXpFTVlReFo5VGpVYXhPQnJXV01Uam52UkxQd01QMUZDNVhIYUdKMndHX3pMUQ?oc=5"
+      "publicadoEm": "2026-10-24T12:15:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLVVDS3VHblJDa0VESDFWaS1qSTZjVVgzdjNlemowVEZ1aEh1NG5UbWVNQXVna3c2M2xzZ2RUX2NVREVBcTVtRWJRaVhURmRvYUtHbjA2SnZMclNRS3FFY29YaHZlUERJNGt0dFhMTGY0NEhhTXhsQnNUYlZfcUNnbFE5SE90UVphazgxMHJDM3pta3FGNDh4dGJDR09uSnBXTVY1Q011U0Zjb2tGdXpMN2FYV0FXY0c5MXF0LWFXUHQwM28?oc=5"
     },
     {
-      "titulo": "El Niño ameaça safra 2026/27 e exige planejamento do agro",
+      "titulo": "“Super\" El Niño: entenda os efeitos do fenômeno para o RN em 2027",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "REVISTA OESTE",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-23T12:00:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR1VTV0ZhRjdYbGZvcWhlNTFXM2tiMmJydElWYlpfb1dhSmJxMXkycmR1SGxjcDVpaFkzZDVkT2FXXzhlWTBDQ1ZWRndKc0pwTEc1cnpXUzEtTFNTV1FRVFU5bXVieGhyLWltNWotMFhMY0FsSTEtX2lrZU1KMkNncDVTQzBiSlRfTWF3NmttcTE4SUNuWC11a1ZmRQ?oc=5"
+      "fonte": "SAIBA MAIS",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-10-25T12:34:39+00:00",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeDZLSDhwdDBCTTQ4VmRDVkRDc1pub2RNS3ZVUGdxMTJDUVpqYnAxVmVWUVlEVlJkQXZydzNtWEZudHRhVTRTdHdkcm12VGF1ZHJSZ2FtX2RBNXJlQ0ZlSlM1X1N2bm16Sy1vSkk2ZDlkUGF0MmphVEZ2aUpadzdSYjJZc201Mzl4b1ZldnN3YkpIbXdXbFVkWlVfazk?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "CRISTALINA",
-    "uf": "GO",
-    "valor": 76,
-    "seta": "↑",
+    "cidade": "SERTÃOZINHO",
+    "uf": "SP",
+    "valor": 100,
+    "seta": "↓",
     "status": "ALERTA CHUVA"
   }
 }
