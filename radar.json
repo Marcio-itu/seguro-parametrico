@@ -1,27 +1,27 @@
 {
-  "atualizado_em": "2026-10-24T22:46:35.339044+00:00",
+  "atualizado_em": "2026-10-25T13:25:24.716191+00:00",
   "noticias": [
     {
-      "titulo": "MS pode ter ondas de calor e chuva irregular mesmo com volumes acima da média",
+      "titulo": "Produção de leite em Pernambuco sofre impactos do fenômeno El Niño",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "A CRÍTICA DE CAMPO GRANDE",
+      "fonte": "JC",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-23T13:07:57+00:00",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BdlRZRkVIOXd3a2ttZ0E2M0d0eWxWYmtOd2ZWZXFnLTFlN2M0Z2kwUEtMZlRXb2l5TFl1bUp6VGM0THBUUF8xTklTamhNdWY0MGVxdHc5Tjl4cFM4X1BxcHp1dHloeDE1LVhUamdtYmdzSGFEZ19j?oc=5"
+      "publicadoEm": "2026-10-23T19:01:45+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVVhIQ1hVeV9SYkpNYUpVZGVkZmF1cUplRTZCQkxpNWtUQWhINXVlNWNJODJpQlpTUG1rLTFQUWlyYXFJclNFUDA3bWItbnBkbDB4QjdRdDI1UkppaS1tNllIUzBfNVozQ1VmWlBMSjF2Q29zTUJxYVFOUi03Z3ZOUjJ0bDZRVXpFTVlReFo5VGpVYXhPQnJXV01Uam52UkxQd01QMUZDNVhIYUdKMndHX3pMUQ?oc=5"
     },
     {
-      "titulo": "El Niño põe em alerta produção de milho no Centro-Oeste brasileiro",
+      "titulo": "El Niño ameaça safra 2026/27 e exige planejamento do agro",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CQCS",
+      "fonte": "REVISTA OESTE",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-22T18:54:01+00:00",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdlhqZ1d5RnR3eUNESXp1SzVxVDFVd1VlUTFOYzc4UHJmXzFCUjZMX3hMdUloY1hLZC1uaGt1UXdYeGhlcGNjdVpUSTE4NVZCMmdvTThzR0lCUFdxNmYyTjJPMXpRVjlXQkFfXy1VQkZOT0hnY2tLQldlc1dtbHVIbmVYNC02NGw4ZmxmcHc5THR6RU5rYjNmbG5vQQ?oc=5"
+      "publicadoEm": "2026-10-23T12:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR1VTV0ZhRjdYbGZvcWhlNTFXM2tiMmJydElWYlpfb1dhSmJxMXkycmR1SGxjcDVpaFkzZDVkT2FXXzhlWTBDQ1ZWRndKc0pwTEc1cnpXUzEtTFNTV1FRVFU5bXVieGhyLWltNWotMFhMY0FsSTEtX2lrZU1KMkNncDVTQzBiSlRfTWF3NmttcTE4SUNuWC11a1ZmRQ?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "BARRETOS",
-    "uf": "SP",
-    "valor": 71,
+    "cidade": "CRISTALINA",
+    "uf": "GO",
+    "valor": 76,
     "seta": "↑",
     "status": "ALERTA CHUVA"
   }
