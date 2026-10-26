@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-25T22:53:23.528337+00:00",
+  "atualizado_em": "2026-10-26T15:34:55.468408+00:00",
   "noticias": [
     {
-      "titulo": "Com alerta para El Niño, SP amplia ações contra enchentes e secas com R$ 1,19 bilhão",
+      "titulo": "Com chuva e temperatura acima da média, El Niño pode causar onda de calor em MS",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "EXAME",
+      "fonte": "NOVA NEWS",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-24T15:13:09+00:00",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTd3U0FjOW5uWmJfM0MzS1RiOTNMNW1ya2RobUg5VDFGTE9NTk9yUEJud0I1d0M1ZXQ0NDJxd3dxUXBDVXVYUDMzWTdIaW5ETXZFWUlMZTFkRFU5bklLMUVYb0E0a2NDeEo4VEJFdjJiLWtNUGRic05zcEc0eXZNakRkNl9VbHhfNHI4YzNNLVBZanBIYXBhUDBob1Z3NUJvZUFkMElwMA?oc=5"
+      "publicadoEm": "2026-10-24T05:24:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVldXUmZOZlpybXVWTjhScTNoTzNlOXF2b214dG1vX0tGSVpxc3VwREdBbFpnTTlzelh5ZkpVT293cVRMWDJ6ekI5U0tGQVJrNFlIWURoZjIwWDdfd3ppSUxhWjJ3aThrM2pnWUp6N0luWVU5allPN1VKclJ0bHJ2UUlWWXdTY2E3SVdaQmN5MTRfdjBWNkVHUGlZT0dnUUxlbmJRa1A1U3BsaUZhUFN2Ug?oc=5"
     },
     {
-      "titulo": "“Super\" El Niño: entenda os efeitos do fenômeno para o RN em 2027",
+      "titulo": "Pico do Super El Niño já tem data confirmada para 2026 e será o mais forte dos últimos 150 anos",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "SAIBA MAIS",
+      "fonte": "PORTAL TEMPO NOVO",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-25T12:34:39+00:00",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeDZLSDhwdDBCTTQ4VmRDVkRDc1pub2RNS3ZVUGdxMTJDUVpqYnAxVmVWUVlEVlJkQXZydzNtWEZudHRhVTRTdHdkcm12VGF1ZHJSZ2FtX2RBNXJlQ0ZlSlM1X1N2bm16Sy1vSkk2ZDlkUGF0MmphVEZ2aUpadzdSYjJZc201Mzl4b1ZldnN3YkpIbXdXbFVkWlVfazk?oc=5"
+      "publicadoEm": "2026-10-26T10:40:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNVhXRU1FOFpUU0hEQ3VKSmloTDBhSWFWcG1sdHpneHdwMmNuN0xxTTFsYWhFMXFMMnJKU2VwRWNicUpyTVpnd0l1Y1NqSkhlczByemNpZ2hrUWZQVkVWUWdjNnhjd09GNkFfSjFZRGIwSHNjbi1SdWJBaHlUUzd0NWZOcTVub09hWVNLZ2dGSmgxS002R0ViRkpvaVdNZjNOcmQ3aV9Ob3l3bEQyMDdncmdzXzBXSVdtYlpmUXNUS0RVM1ZZ?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "SORRISO",
-    "uf": "MT",
-    "valor": 54,
+    "cidade": "PALOTINA",
+    "uf": "PR",
+    "valor": 0,
     "seta": "↑",
-    "status": "SOJA · MILHO"
+    "status": "ALERTA SECA"
   }
 }
