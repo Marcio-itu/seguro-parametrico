@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-26T15:34:55.468408+00:00",
+  "atualizado_em": "2026-10-27T00:07:33.768919+00:00",
   "noticias": [
     {
-      "titulo": "Com chuva e temperatura acima da média, El Niño pode causar onda de calor em MS",
+      "titulo": "El Niño pode afetar plantio e manejo da soja",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "NOVA NEWS",
+      "fonte": "JORNAL DE BELTRÃO",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-24T05:24:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVldXUmZOZlpybXVWTjhScTNoTzNlOXF2b214dG1vX0tGSVpxc3VwREdBbFpnTTlzelh5ZkpVT293cVRMWDJ6ekI5U0tGQVJrNFlIWURoZjIwWDdfd3ppSUxhWjJ3aThrM2pnWUp6N0luWVU5allPN1VKclJ0bHJ2UUlWWXdTY2E3SVdaQmN5MTRfdjBWNkVHUGlZT0dnUUxlbmJRa1A1U3BsaUZhUFN2Ug?oc=5"
+      "publicadoEm": "2026-10-25T15:09:40+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVlRlbmt0SFN3V2NNNVhKZWJwNVRVNW1DM2liVFd3UG5tSmViSHAtTXNJYnJGeXNrUlNlTmx4MXAzYjVEQ2NSOFZVektvNUpMVTM3a1dEdlBJYjZoMGFuY3NYbDItUTZOWFRPRk5DQWlhTk9XQXFESmRpME9PLXpjZW10MGdIcDNIWFg0d1pab3hiV0ptbFNyZw?oc=5"
     },
     {
-      "titulo": "Pico do Super El Niño já tem data confirmada para 2026 e será o mais forte dos últimos 150 anos",
+      "titulo": "MS se prepara para os impactos do Super El Niño e governo monta força-tarefa",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "PORTAL TEMPO NOVO",
+      "fonte": "PRIMEIRA PÁGINA",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-26T10:40:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNVhXRU1FOFpUU0hEQ3VKSmloTDBhSWFWcG1sdHpneHdwMmNuN0xxTTFsYWhFMXFMMnJKU2VwRWNicUpyTVpnd0l1Y1NqSkhlczByemNpZ2hrUWZQVkVWUWdjNnhjd09GNkFfSjFZRGIwSHNjbi1SdWJBaHlUUzd0NWZOcTVub09hWVNLZ2dGSmgxS002R0ViRkpvaVdNZjNOcmQ3aV9Ob3l3bEQyMDdncmdzXzBXSVdtYlpmUXNUS0RVM1ZZ?oc=5"
+      "publicadoEm": "2026-10-26T18:01:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdTFLdXROMktQTW9LRFlEQ3BBSGVyUk8xYnNZbmladDJkZkZ6M0dhVi1qOHRmaGtYWml0VkZONjM0eEpPR1FfVUxSSkczdF84THM1QjNTY3l4czlyaUE5ajVvdDlmZm5Zc2FsNy1IMS1ZU3VhWGRlWVJvN1lvZ2x0cEhJRGFZbHlwV1RJVHBhWWlmTHR3VTd3MzR6elhpZnRKTjdPUl9yT1MzSmxTaWJESm1TbkRiYjBPalVtNFB3?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "PALOTINA",
-    "uf": "PR",
-    "valor": 0,
-    "seta": "↑",
-    "status": "ALERTA SECA"
+    "cidade": "SERTÃOZINHO",
+    "uf": "SP",
+    "valor": 80,
+    "seta": "↓",
+    "status": "ALERTA CHUVA"
   }
 }
