@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-27T00:07:33.768919+00:00",
+  "atualizado_em": "2026-10-27T14:59:23.459040+00:00",
   "noticias": [
     {
-      "titulo": "El Niño pode afetar plantio e manejo da soja",
+      "titulo": "CENOURA/CEPEA: Com o avanço do El Niño, produtores entram em estado de alerta",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "JORNAL DE BELTRÃO",
+      "fonte": "HF BRASIL",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-25T15:09:40+00:00",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVlRlbmt0SFN3V2NNNVhKZWJwNVRVNW1DM2liVFd3UG5tSmViSHAtTXNJYnJGeXNrUlNlTmx4MXAzYjVEQ2NSOFZVektvNUpMVTM3a1dEdlBJYjZoMGFuY3NYbDItUTZOWFRPRk5DQWlhTk9XQXFESmRpME9PLXpjZW10MGdIcDNIWFg0d1pab3hiV0ptbFNyZw?oc=5"
+      "publicadoEm": "2026-10-26T07:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLXlDeklNT3hwME55NXEzam56ZmJYR0FSeW1zcUNRVDdlZmdBSEtDZXZWMHZ2Q0JPazZTN2t3bDlLMFowSnRXZ3g0YXNyRkgwTi1NX2FHYVBYWS1RNFM5ZXQyUEpwS2EycHRBTzJ3MmM1SzZVOGZYaFhVamFydFY2SDFZb0pKN19hQTZvUThBMi1vWWJveUZlbFV2cHVQMWxaQnhiSW1hOWpfdENYSzlV?oc=5"
     },
     {
-      "titulo": "MS se prepara para os impactos do Super El Niño e governo monta força-tarefa",
+      "titulo": "El Niño na safra 2026/27; o calendário virou o principal insumo do produtor",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "PRIMEIRA PÁGINA",
+      "fonte": "GAZETA DIGITAL",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-26T18:01:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdTFLdXROMktQTW9LRFlEQ3BBSGVyUk8xYnNZbmladDJkZkZ6M0dhVi1qOHRmaGtYWml0VkZONjM0eEpPR1FfVUxSSkczdF84THM1QjNTY3l4czlyaUE5ajVvdDlmZm5Zc2FsNy1IMS1ZU3VhWGRlWVJvN1lvZ2x0cEhJRGFZbHlwV1RJVHBhWWlmTHR3VTd3MzR6elhpZnRKTjdPUl9yT1MzSmxTaWJESm1TbkRiYjBPalVtNFB3?oc=5"
+      "publicadoEm": "2026-10-27T13:35:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTjJfaDAtaGQwSVNLVm9zQkF4ZVNpOUNRaElxLXB6MlREWkZKcG9na3RpVGNUc2NvMTJmLXNjNjc5VUNQYmszYmhnTnp6MXBTc0xpZ09BMGNCOGtONUNmeFhwUHVYT01NUXQtTHFlRGN6WExLdU9uek5YWVlPQ2JrTGNtRU1MU3F3YzVCa2hkdXREMno0bThFUEJ2dGdzTDFyVTMydmhTQmF2WGN1MTYwX0FhTExvUE1JZzlYd0hvaVhwZkNNRHd6N0JyUDRSOHJXdXE1R1Vxa3ltazdPWmRmQlg5RjU?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "SERTÃOZINHO",
-    "uf": "SP",
-    "valor": 80,
+    "cidade": "RIO VERDE",
+    "uf": "GO",
+    "valor": 49,
     "seta": "↓",
-    "status": "ALERTA CHUVA"
+    "status": "SOJA · MILHO"
   }
 }
