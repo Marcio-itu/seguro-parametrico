@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-27T19:50:25.995022+00:00",
+  "atualizado_em": "2026-10-28T00:07:12.687160+00:00",
   "noticias": [
     {
-      "titulo": "Super El Niño: sem seguro rural, produtores ficam no prejuízo",
+      "titulo": "Super El Niño bate recorde e já muda onde plantar e escoar a safra",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "BRA1.COM.BR",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-26T18:06:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNekVJTjlzMndvTW9ibHgyQVJNcHRIQmNSLUx6ekQzUE4wVFk3MFE2cmNlQkR1M2dfdjNybUE4aEc5cWdmU0hLZTFpbHk5TzY5c3E1X215U0d6YzhPd3NiNWZsZEdvVm83dl9wR1p3N0lGeUhQZ3M2R0tPS1RoaU9yX19ZMTUzd2Y3aDFTdGhKVjhuNGxiYks0dUw4cE9pVE5ncXZyNElQUHRYajQ?oc=5"
+      "fonte": "WWW.BRA1.COM.BR",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-10-27T18:05:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMjVxM0dOcUxDcjJVaWtJVElJN0xXZThWQlBNV3BpUEU3eVFjZUp6LWpZV2JqZWRvbXg0Mkd4UVdXaGc2bU5ZNHl6Y2lmZTdpOWJ3cHlOQ3FzcnN0Z2JQNzhJYm5ZMVFnN1djOC1ZcVNjd3VkREhtVzI3UmtkeDhvUVlub2VkSXhoQTlqbFVCbWtnUVV0RXE2VlMyLUs3NHEwbTVLcUhiVEY0N0twanp5eE5n?oc=5"
     },
     {
-      "titulo": "Prevenir a escassez de água causada pelo El Niño.",
+      "titulo": "El Niño forte pode cortar 17,6 milhões de toneladas da soja em 2026/27",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "VIETNAM.VN",
+      "fonte": "CANAL RURAL",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-27T01:49:14+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tcUFXZ3picFUyZXAyZTRjM3RsYjRDZWlrXzVaMmM3c0plbmZnTjJmM0p1N1kwLVpJOW9zUGZCeUpSVnR0RzhQY0ZhOGJoYkFiSGduakxmVTJBRkppVG4tTDhqNXZRQnc?oc=5"
+      "publicadoEm": "2026-10-27T16:43:57+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV1djR0g5N1hUS2M0WFFEdkREeG5fMjJERXVaUWlaWUc3dDl6Z1ptYWp1T20yYnN0N3llS1hkUWgxbDY0czE4RUo4Y2F5QWdiUHF4NlJoLVZWUXF5bUREdnFTMzhaS0M0S1k4VXRtbGVlUEVZeEVBa2R1MndfVGdac2VWdXZTYU40dlh3S0FEY3ZlZ2MtbUNNd2xtX0FyZzVhUEZZdFFLSFBSa1NOZVN4bVZn?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "BALSAS",
-    "uf": "MA",
-    "valor": 54,
+    "cidade": "PALOTINA",
+    "uf": "PR",
+    "valor": 25,
     "seta": "↑",
-    "status": "SOJA"
+    "status": "MILHO · SOJA"
   }
 }
