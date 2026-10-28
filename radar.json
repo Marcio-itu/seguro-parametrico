@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-28T00:07:12.687160+00:00",
+  "atualizado_em": "2026-10-28T15:35:00.196125+00:00",
   "noticias": [
     {
-      "titulo": "Super El Niño bate recorde e já muda onde plantar e escoar a safra",
+      "titulo": "Escolas de SP realizam ação contra o El Niño",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "WWW.BRA1.COM.BR",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-27T18:05:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMjVxM0dOcUxDcjJVaWtJVElJN0xXZThWQlBNV3BpUEU3eVFjZUp6LWpZV2JqZWRvbXg0Mkd4UVdXaGc2bU5ZNHl6Y2lmZTdpOWJ3cHlOQ3FzcnN0Z2JQNzhJYm5ZMVFnN1djOC1ZcVNjd3VkREhtVzI3UmtkeDhvUVlub2VkSXhoQTlqbFVCbWtnUVV0RXE2VlMyLUs3NHEwbTVLcUhiVEY0N0twanp5eE5n?oc=5"
+      "fonte": "PORTAL ABC DO ABC",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-10-27T01:23:26+00:00",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05OG5obVV2TzZpRGNVbVN5ekdpRnY3QUFNYkhFcVpQUmVhZEZyaF9YYTdUTUNNc25pYlFWUU9UTWhvZ2RwVEJlbnB5eWM4Y2k5b0RpN0xqT2tCaDlJVVZ5VGg5b3JaZEd6ZlRRa2VaU2Z5aU5NVmdz?oc=5"
     },
     {
-      "titulo": "El Niño forte pode cortar 17,6 milhões de toneladas da soja em 2026/27",
+      "titulo": "Efeitos do El Niño vão além do clima e podem afetar saúde da pele, revela estudo",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CANAL RURAL",
+      "fonte": "CRESCER",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-27T16:43:57+00:00",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV1djR0g5N1hUS2M0WFFEdkREeG5fMjJERXVaUWlaWUc3dDl6Z1ptYWp1T20yYnN0N3llS1hkUWgxbDY0czE4RUo4Y2F5QWdiUHF4NlJoLVZWUXF5bUREdnFTMzhaS0M0S1k4VXRtbGVlUEVZeEVBa2R1MndfVGdac2VWdXZTYU40dlh3S0FEY3ZlZ2MtbUNNd2xtX0FyZzVhUEZZdFFLSFBSa1NOZVN4bVZn?oc=5"
+      "publicadoEm": "2026-10-28T11:30:04+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX1BMY0VKSlUtWE83d3BXa0xKV0lhd2VLQ1RSQkF5SDVTdlREOTNyZEw1Zmh1dHpBTGNfSktDdEJVX3ZicXJqcEdFR2FrdU1lTmNud0UyeG0ydlVSMVk2bkd1UWVJTnlhTW1ta3lCU3RZX21BNUVPdmYxZHR6SHhWZTl6VnZRMXI0U1M4NmtYUUpnaFFEbFBxOTdIOU9SVm9wVWR1RnM3S2s1ZlFuOEJtdWJ0dEthZEFIdzRFY040ZExZcFNzNEhnUVB6Wk8xejFfYk5qdkJxONIB5gFBVV95cUxOVlY5bHotWU5FcmppaVpwYnZYYUNrU0xMOElJQV9RTEItenBCQ1ZWT09pdi1YOGpYVFg4dlpYWlp4ZG81TDZycnhYVkNuUTNLQ0ZkMW9VVXdtYU1IWllQbHZUMlFmbk5yazNwdUItN0NJMTMza0Y5cFpweURaZE5VU2ZLa085T2tiYkxFQUxOcGdqVno0dHNhWk5yUkJBU181N0tER1ZmeW9YbHVmdWpCUEZyM0E1cTIzTlQ2N1VtNW12YUh2dnZZUU1FaFhGQTFuQ2sxbXdWMnBReWpJM19jalMxMzd5dw?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "PALOTINA",
-    "uf": "PR",
-    "valor": 25,
+    "cidade": "BALSAS",
+    "uf": "MA",
+    "valor": 53,
     "seta": "↑",
-    "status": "MILHO · SOJA"
+    "status": "SOJA"
   }
 }
