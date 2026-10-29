@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-28T15:35:00.196125+00:00",
+  "atualizado_em": "2026-10-29T00:29:58.836574+00:00",
   "noticias": [
     {
-      "titulo": "Escolas de SP realizam ação contra o El Niño",
+      "titulo": "El Niño exige atenção dos produtores mesmo com avanço do plantio de soja",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "PORTAL ABC DO ABC",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-27T01:23:26+00:00",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05OG5obVV2TzZpRGNVbVN5ekdpRnY3QUFNYkhFcVpQUmVhZEZyaF9YYTdUTUNNc25pYlFWUU9UTWhvZ2RwVEJlbnB5eWM4Y2k5b0RpN0xqT2tCaDlJVVZ5VGg5b3JaZEd6ZlRRa2VaU2Z5aU5NVmdz?oc=5"
+      "fonte": "AGROLINK",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-10-28T20:56:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeVFmbXFlY0hQQVFGSnlhbzZWY1hVVVNRd1VIR2Rxd1U4UHZyallBSjA2cDFxUjZPUWtuSjdoZDZDRmZ4NzlHZTM4SzN0bXFrUDZYQ3lGc05HSUhWWEZjZXpkdjFpMFd2Y0FoYzktMG1jNVNTUTF5ZDdYTDNseGstX3VaNDkwRE15a01uQlhfV1pSNFR1Y2stYkNTRVB0eFp4NlRwSDYxMWVvb01FU1VlQjdNdDMxRWZWTHBPVmVB?oc=5"
     },
     {
-      "titulo": "Efeitos do El Niño vão além do clima e podem afetar saúde da pele, revela estudo",
+      "titulo": "Vitória da Conquista participa de webinário sobre preparação para eventos climáticos causados pelo El Niño",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CRESCER",
+      "fonte": "PREFEITURA MUNICIPAL DE VITÓRIA DA CONQUISTA - PMVC",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-28T11:30:04+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX1BMY0VKSlUtWE83d3BXa0xKV0lhd2VLQ1RSQkF5SDVTdlREOTNyZEw1Zmh1dHpBTGNfSktDdEJVX3ZicXJqcEdFR2FrdU1lTmNud0UyeG0ydlVSMVk2bkd1UWVJTnlhTW1ta3lCU3RZX21BNUVPdmYxZHR6SHhWZTl6VnZRMXI0U1M4NmtYUUpnaFFEbFBxOTdIOU9SVm9wVWR1RnM3S2s1ZlFuOEJtdWJ0dEthZEFIdzRFY040ZExZcFNzNEhnUVB6Wk8xejFfYk5qdkJxONIB5gFBVV95cUxOVlY5bHotWU5FcmppaVpwYnZYYUNrU0xMOElJQV9RTEItenBCQ1ZWT09pdi1YOGpYVFg4dlpYWlp4ZG81TDZycnhYVkNuUTNLQ0ZkMW9VVXdtYU1IWllQbHZUMlFmbk5yazNwdUItN0NJMTMza0Y5cFpweURaZE5VU2ZLa085T2tiYkxFQUxOcGdqVno0dHNhWk5yUkJBU181N0tER1ZmeW9YbHVmdWpCUEZyM0E1cTIzTlQ2N1VtNW12YUh2dnZZUU1FaFhGQTFuQ2sxbXdWMnBReWpJM19jalMxMzd5dw?oc=5"
+      "publicadoEm": "2026-10-28T12:41:15+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNejA5STRMT2ZKZG5uYTJwOHk0cmxGSThISEdMci1nRVVPakxETzNEcXpMNnBPd29GRlpGSUFCY0VkbHh4YW8wUjRDX3RUYURWRzVoVkZ6aUhuZTdUUnVObDNUMktuYTd4bTg1V1AxV1lXa3RqaEZNZlJLUV9rRmN2YTdpcUc1QUJNemppcTY5WDdNTC1jYk9wQ0NNaTlfUVB2WXc0NDIweGRRTGtMemFkRXJSbmFDMF9yeXByaEJyWnBGN0ZhUUl3ZGhUOU9Ed1k?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "BALSAS",
-    "uf": "MA",
-    "valor": 53,
+    "cidade": "RIO VERDE",
+    "uf": "GO",
+    "valor": 76,
     "seta": "↑",
-    "status": "SOJA"
+    "status": "ALERTA CHUVA"
   }
 }
