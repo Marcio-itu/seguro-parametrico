@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-29T00:29:58.836574+00:00",
+  "atualizado_em": "2026-10-29T15:42:18.072948+00:00",
   "noticias": [
     {
-      "titulo": "El Niño exige atenção dos produtores mesmo com avanço do plantio de soja",
+      "titulo": "Safra de arroz em SC: chuvas e El Niño elevam risco de perdas e podem ampliar custos da indústria",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "AGROLINK",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-28T20:56:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeVFmbXFlY0hQQVFGSnlhbzZWY1hVVVNRd1VIR2Rxd1U4UHZyallBSjA2cDFxUjZPUWtuSjdoZDZDRmZ4NzlHZTM4SzN0bXFrUDZYQ3lGc05HSUhWWEZjZXpkdjFpMFd2Y0FoYzktMG1jNVNTUTF5ZDdYTDNseGstX3VaNDkwRE15a01uQlhfV1pSNFR1Y2stYkNTRVB0eFp4NlRwSDYxMWVvb01FU1VlQjdNdDMxRWZWTHBPVmVB?oc=5"
+      "fonte": "PORTAL DO AGRONEGÓCIO",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-10-28T14:35:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNWZPWTRZczBYa1hRWVNMeXlBc0x4NFlydFk5TU90R1ZZekVmdUZsTEl5clp0amY5dG56OVVRQ083elFlOXJ4T1JFcG9LRE1UUFhUemJpbUhuWHFyV29mYXZhc0dHZ0Z5RGp3Z003em80dUF5WTFvVGZlaENxMDVmMWV5Nkk3Zy1rVVhFMDZFcTI4R05vNkF6WnZrM0V4cVNOdm1xSzdRU3p1UUVJaUpJWlQ4UnBBX2RTN0J4M1NIQ0xqeXJuZy02M3JOeXRUOTBUMnhCeXBMdmhwcFN6VFBwbGF2NGlGR2ZYSkdLMkRSVHVsOTd5?oc=5"
     },
     {
-      "titulo": "Vitória da Conquista participa de webinário sobre preparação para eventos climáticos causados pelo El Niño",
+      "titulo": "El Niño aumenta atenção ao clima e ao planejamento na cafeicultura",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "PREFEITURA MUNICIPAL DE VITÓRIA DA CONQUISTA - PMVC",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-28T12:41:15+00:00",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNejA5STRMT2ZKZG5uYTJwOHk0cmxGSThISEdMci1nRVVPakxETzNEcXpMNnBPd29GRlpGSUFCY0VkbHh4YW8wUjRDX3RUYURWRzVoVkZ6aUhuZTdUUnVObDNUMktuYTd4bTg1V1AxV1lXa3RqaEZNZlJLUV9rRmN2YTdpcUc1QUJNemppcTY5WDdNTC1jYk9wQ0NNaTlfUVB2WXc0NDIweGRRTGtMemFkRXJSbmFDMF9yeXByaEJyWnBGN0ZhUUl3ZGhUOU9Ed1k?oc=5"
+      "fonte": "CCCMG",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-10-28T13:01:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNck92a0RRQnltZEFiZUJ3U1hrTk45VFlTYjlzVEFOVUFjMnN4X1BQMnllSi1qQmxZUy1YaDZCM0g1UUY5UVh5NkY4QzBSMXNmZmRtaVpVNGZIbFY4aWtfMkhseTNibUNJWkZSb3ZuZTZ1eC1MbHU2LVJsYnpZMC1NYlBXTURJNkVsVTdRTHpjeTBGdnQzUTg4QXU3aEFsQQ?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "RIO VERDE",
-    "uf": "GO",
-    "valor": 76,
-    "seta": "↑",
-    "status": "ALERTA CHUVA"
+    "cidade": "L.E. MAGALHÃES",
+    "uf": "BA",
+    "valor": 41,
+    "seta": "↓",
+    "status": "SOJA"
   }
 }
