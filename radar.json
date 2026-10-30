@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-29T15:42:18.072948+00:00",
+  "atualizado_em": "2026-10-30T00:28:59.493426+00:00",
   "noticias": [
     {
-      "titulo": "Safra de arroz em SC: chuvas e El Niño elevam risco de perdas e podem ampliar custos da indústria",
+      "titulo": "NOTA METEOROLÓGICA SDC/SC E EPAGRI 28/10 – Previsão Climática para os meses de novembro/2026 a janeiro/2027 – EPAGRI/CIRAM",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "PORTAL DO AGRONEGÓCIO",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-28T14:35:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNWZPWTRZczBYa1hRWVNMeXlBc0x4NFlydFk5TU90R1ZZekVmdUZsTEl5clp0amY5dG56OVVRQ083elFlOXJ4T1JFcG9LRE1UUFhUemJpbUhuWHFyV29mYXZhc0dHZ0Z5RGp3Z003em80dUF5WTFvVGZlaENxMDVmMWV5Nkk3Zy1rVVhFMDZFcTI4R05vNkF6WnZrM0V4cVNOdm1xSzdRU3p1UUVJaUpJWlQ4UnBBX2RTN0J4M1NIQ0xqeXJuZy02M3JOeXRUOTBUMnhCeXBMdmhwcFN6VFBwbGF2NGlGR2ZYSkdLMkRSVHVsOTd5?oc=5"
+      "fonte": "EPAGRI/CIRAM",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-10-29T12:23:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNWNQQlZYS0ZPSjN4VGdzaWpNcDhWbkxsSUl1cTRHT2Q1czdDUkdDdHBwLXhORUhteXBGQVdEM3l3NThnMW9DNFMyelRwUlM4UldJVTdZamtTbU91QURpVkc3WUQ3MkFOT0tNX2l3dGJxengxbWJCYXA2aVJBOEd2RUJUWEpCMldIRmtwUzBZc2ZINzM4RGVoT01mV2R4TW1KSWlydkUxeHI0LW0xT0xqb2IzSkYzYXhkV3pGY1A1WktGc3dpNDZNOVFUazh1cGZ5WHZ3ekFDekREWkVjQy1RQ0VwZ28xU2ZvSXVfWjZHaw?oc=5"
     },
     {
-      "titulo": "El Niño aumenta atenção ao clima e ao planejamento na cafeicultura",
+      "titulo": "Verão com El Niño muito forte e chuva acima da média em SC",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CCCMG",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-28T13:01:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNck92a0RRQnltZEFiZUJ3U1hrTk45VFlTYjlzVEFOVUFjMnN4X1BQMnllSi1qQmxZUy1YaDZCM0g1UUY5UVh5NkY4QzBSMXNmZmRtaVpVNGZIbFY4aWtfMkhseTNibUNJWkZSb3ZuZTZ1eC1MbHU2LVJsYnpZMC1NYlBXTURJNkVsVTdRTHpjeTBGdnQzUTg4QXU3aEFsQQ?oc=5"
+      "fonte": "EPAGRI/CIRAM",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-10-29T20:29:18+00:00",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JMjFFcUhoMDhRQUloX1Y1N2RqMG1HTTNqRVA3QVBnWFVYYTg1ZUU4MnQyZTMwbHRpd2s5T3ZKd1IxRGFSQmZSRUlnekR3b2UySHNvaW5sQTFES0hXeGVMdVJoVmJ0Ty1qbHExN05MWQ?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "L.E. MAGALHÃES",
-    "uf": "BA",
-    "valor": 41,
+    "cidade": "SERTÃOZINHO",
+    "uf": "SP",
+    "valor": 100,
     "seta": "↓",
-    "status": "SOJA"
+    "status": "ALERTA CHUVA"
   }
 }
