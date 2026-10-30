@@ -1,14 +1,6 @@
 {
-  "atualizado_em": "2026-10-30T00:28:59.493426+00:00",
+  "atualizado_em": "2026-10-30T15:24:27.806389+00:00",
   "noticias": [
-    {
-      "titulo": "NOTA METEOROLÓGICA SDC/SC E EPAGRI 28/10 – Previsão Climática para os meses de novembro/2026 a janeiro/2027 – EPAGRI/CIRAM",
-      "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "EPAGRI/CIRAM",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-29T12:23:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNWNQQlZYS0ZPSjN4VGdzaWpNcDhWbkxsSUl1cTRHT2Q1czdDUkdDdHBwLXhORUhteXBGQVdEM3l3NThnMW9DNFMyelRwUlM4UldJVTdZamtTbU91QURpVkc3WUQ3MkFOT0tNX2l3dGJxengxbWJCYXA2aVJBOEd2RUJUWEpCMldIRmtwUzBZc2ZINzM4RGVoT01mV2R4TW1KSWlydkUxeHI0LW0xT0xqb2IzSkYzYXhkV3pGY1A1WktGc3dpNDZNOVFUazh1cGZ5WHZ3ekFDekREWkVjQy1RQ0VwZ28xU2ZvSXVfWjZHaw?oc=5"
-    },
     {
       "titulo": "Verão com El Niño muito forte e chuva acima da média em SC",
       "resumo": "Leia a matéria completa na fonte original.",
@@ -16,12 +8,20 @@
       "rotuloData": "HOJE",
       "publicadoEm": "2026-10-29T20:29:18+00:00",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JMjFFcUhoMDhRQUloX1Y1N2RqMG1HTTNqRVA3QVBnWFVYYTg1ZUU4MnQyZTMwbHRpd2s5T3ZKd1IxRGFSQmZSRUlnekR3b2UySHNvaW5sQTFES0hXeGVMdVJoVmJ0Ty1qbHExN05MWQ?oc=5"
+    },
+    {
+      "titulo": "El Niño pode reduzir a safra de soja em 17,6 milhões de toneladas, estima Serasa Experian",
+      "resumo": "Leia a matéria completa na fonte original.",
+      "fonte": "AGRIMIDIA",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-10-29T12:31:14+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMkxKbVgwTW04czJ2QWtINDQxSjhMVnJ3Nl94STA5NzAybGpuTjhBVjZfX2ZLYmQ1eHJrY0g5TUJvUmxsNlNWbkViLVJLeTZIdXJvZjdiSWd1R1doZ1QxZVdTWFIzMF9BWlZOQ3YwTWFsbXM1VUNVZUNOYVMtOHJFODlyejJyaVh1OExudzB2NWQ4dlE4UjN6bnZpUDltaEJXbXFpUWVXTkdLZTBhNlJqeEQ2enUyZ2U3VlZ3YTJxZnhGUFozTzFIQmczNC1ZNmRLOWUxdDZZaXZYbVlJOHVEU3N3?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "SERTÃOZINHO",
-    "uf": "SP",
-    "valor": 100,
+    "cidade": "PALOTINA",
+    "uf": "PR",
+    "valor": 95,
     "seta": "↓",
     "status": "ALERTA CHUVA"
   }
