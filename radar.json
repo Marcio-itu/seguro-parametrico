@@ -1,27 +1,27 @@
 {
-  "atualizado_em": "2026-10-30T15:24:27.806389+00:00",
+  "atualizado_em": "2026-10-31T00:13:07.524221+00:00",
   "noticias": [
     {
-      "titulo": "Verão com El Niño muito forte e chuva acima da média em SC",
+      "titulo": "El Niño, fundos especulativos e perdas de safra elevam incertezas no mercado global de açúcar",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "EPAGRI/CIRAM",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-29T20:29:18+00:00",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JMjFFcUhoMDhRQUloX1Y1N2RqMG1HTTNqRVA3QVBnWFVYYTg1ZUU4MnQyZTMwbHRpd2s5T3ZKd1IxRGFSQmZSRUlnekR3b2UySHNvaW5sQTFES0hXeGVMdVJoVmJ0Ty1qbHExN05MWQ?oc=5"
+      "fonte": "NOTÍCIAS AGRÍCOLAS",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-10-28T19:08:10+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdXh4Nmd3NWJkS2dMd2dGekF0d2I4TnE2ck52b0RZZEhGVzU1Y3FyeldTbzhFZ0ZmRzlMUF9pbzBsczQyal9CQ3ZEcEZzUWxQeWl0NVJYSlVrUE9jT0NKOHZ2SVBUMm1GaW1McnpYZ1JpVWhNendiT3hfcndvOVJTVG12elpHaE1zcWhmcF9wNF91Y0dnY1NfbEItNk1uSFppQWNOVGxOa0JxYjJDUU1DMHNRQUowZmdqY0djWVBqWExKNG85bHJseDA3Y1QzMVlycTJaNkE2cm5JUlJkeWxNY1oyUzhBY3hMbU9IVzhmTTlSbkdtSFpJZ1JB0gH_AUFVX3lxTE42aXAtNUU1RFY0WDM3OEhwcXVXeUswdWgtUVpGc29HalFkT1cwQXFxTkJXc2lNSkg3RHR2NjFTd2R1ZmlabHJpdVN5TDYwS0FNelBEZkpFenliZzlicTM4WHMwZk55dHRnMzlPdE9aM2QxeVZBYnY3dm5hdkphU2xWXzJzOEl6SjQ1ek1TSVJvN29VdmZkRWgwaW1HUFBvTmRBZFhsN3VzYkY3WWZGMGN6eXd0c04wWnFFN2dWb1lFRFpQTVJpTjNwakhqbWpWQXZkZVlsS2J6VDBRWUx3dmpNaTEzdGpDM2J1MGhrOWszeUZFYXFiSVNmd1Fxd0l4MA?oc=5"
     },
     {
-      "titulo": "El Niño pode reduzir a safra de soja em 17,6 milhões de toneladas, estima Serasa Experian",
+      "titulo": "Previsão do tempo para novembro com El Niño no pico",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "AGRIMIDIA",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-29T12:31:14+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMkxKbVgwTW04czJ2QWtINDQxSjhMVnJ3Nl94STA5NzAybGpuTjhBVjZfX2ZLYmQ1eHJrY0g5TUJvUmxsNlNWbkViLVJLeTZIdXJvZjdiSWd1R1doZ1QxZVdTWFIzMF9BWlZOQ3YwTWFsbXM1VUNVZUNOYVMtOHJFODlyejJyaVh1OExudzB2NWQ4dlE4UjN6bnZpUDltaEJXbXFpUWVXTkdLZTBhNlJqeEQ2enUyZ2U3VlZ3YTJxZnhGUFozTzFIQmczNC1ZNmRLOWUxdDZZaXZYbVlJOHVEU3N3?oc=5"
+      "fonte": "AGORA LITORAL",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-10-30T14:21:26+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcWpnYl92VjIzbHdHT0lxUzhGd19rRHJtb3JlTENXemlyTTVyaHhvb0JHVG94am1UOWR3eU1NbjlHYkJOSHBPQ1RtdHJFbGxyaW5CVmNsX2JDMVBvZjMwWFBxMGpVQVRTZTNzRGdJREhSbFJGdnRTZ0Jxdnl3aG03Q2pVel8tSTNFbHgxckNTVDE4WXBRaVE?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "PALOTINA",
-    "uf": "PR",
-    "valor": 95,
+    "cidade": "RIBEIRÃO PRETO",
+    "uf": "SP",
+    "valor": 99,
     "seta": "↓",
     "status": "ALERTA CHUVA"
   }
