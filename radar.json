@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-31T00:13:07.524221+00:00",
+  "atualizado_em": "2026-10-31T14:53:10.355375+00:00",
   "noticias": [
     {
-      "titulo": "El Niño, fundos especulativos e perdas de safra elevam incertezas no mercado global de açúcar",
+      "titulo": "Novo boletim do El Niño no Brasil alerta para fogo, queimadas e inundações",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "NOTÍCIAS AGRÍCOLAS",
+      "fonte": "CNN BRASIL",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-28T19:08:10+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdXh4Nmd3NWJkS2dMd2dGekF0d2I4TnE2ck52b0RZZEhGVzU1Y3FyeldTbzhFZ0ZmRzlMUF9pbzBsczQyal9CQ3ZEcEZzUWxQeWl0NVJYSlVrUE9jT0NKOHZ2SVBUMm1GaW1McnpYZ1JpVWhNendiT3hfcndvOVJTVG12elpHaE1zcWhmcF9wNF91Y0dnY1NfbEItNk1uSFppQWNOVGxOa0JxYjJDUU1DMHNRQUowZmdqY0djWVBqWExKNG85bHJseDA3Y1QzMVlycTJaNkE2cm5JUlJkeWxNY1oyUzhBY3hMbU9IVzhmTTlSbkdtSFpJZ1JB0gH_AUFVX3lxTE42aXAtNUU1RFY0WDM3OEhwcXVXeUswdWgtUVpGc29HalFkT1cwQXFxTkJXc2lNSkg3RHR2NjFTd2R1ZmlabHJpdVN5TDYwS0FNelBEZkpFenliZzlicTM4WHMwZk55dHRnMzlPdE9aM2QxeVZBYnY3dm5hdkphU2xWXzJzOEl6SjQ1ek1TSVJvN29VdmZkRWgwaW1HUFBvTmRBZFhsN3VzYkY3WWZGMGN6eXd0c04wWnFFN2dWb1lFRFpQTVJpTjNwakhqbWpWQXZkZVlsS2J6VDBRWUx3dmpNaTEzdGpDM2J1MGhrOWszeUZFYXFiSVNmd1Fxd0l4MA?oc=5"
+      "publicadoEm": "2026-10-30T12:56:14+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeFRTblNiSjlybGhiSTV4TEpnbUZaODUwR0tKNkNkOU9CYmc0dXloTkdKQzRXUF84SDhpeDVSOC14enRteGdxUU1iMWFEME52NE5NTzJDdDlzZzJEcHQ1bW9UTnVoTXJzZmh1YVh0MXlac0U5Y28xRTBfMVFWaFloQ2xYaGxtXzh3Ykk5VmxfS0cyUEp5bmVLZ1BSUERiVGFPbjhRbU9KWDNSb2x6WmtxVFdfX1FFUno2azZF?oc=5"
     },
     {
-      "titulo": "Previsão do tempo para novembro com El Niño no pico",
+      "titulo": "JP1: El Niño ameaça Sudeste com temporais e mudanças no clima",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "AGORA LITORAL",
+      "fonte": "SAMPI.NET.BR",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-30T14:21:26+00:00",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcWpnYl92VjIzbHdHT0lxUzhGd19rRHJtb3JlTENXemlyTTVyaHhvb0JHVG94am1UOWR3eU1NbjlHYkJOSHBPQ1RtdHJFbGxyaW5CVmNsX2JDMVBvZjMwWFBxMGpVQVRTZTNzRGdJREhSbFJGdnRTZ0Jxdnl3aG03Q2pVel8tSTNFbHgxckNTVDE4WXBRaVE?oc=5"
+      "publicadoEm": "2026-10-31T14:44:43+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTXJYa2tpN1ctSzVpV3RicURYS2lzS09tdU15MmlncFpZUGtUY0dDWkozbFhDdXI1Rks3RGdzZ19Uai15UTkxcHUzcGZFMEZCUmdHX1NobGhYQkJCME5yX195TGxVVGUzOGpZMC1kX2pTdktzak0xQmdjS0o4eFp2WWlhZ2luYjljbHhVMlhWeUlfcFBnTlRiWklBYjdzZjctZWFwR3V3d3diZExMcmEzRk9GdDZQek5XdWZzRg?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "RIBEIRÃO PRETO",
-    "uf": "SP",
-    "valor": 99,
-    "seta": "↓",
+    "cidade": "CASCAVEL",
+    "uf": "PR",
+    "valor": 74,
+    "seta": "↑",
     "status": "ALERTA CHUVA"
   }
 }
