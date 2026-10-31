@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-10-31T14:53:10.355375+00:00",
+  "atualizado_em": "2026-10-31T18:53:44.618679+00:00",
   "noticias": [
     {
-      "titulo": "Novo boletim do El Niño no Brasil alerta para fogo, queimadas e inundações",
+      "titulo": "Super El Niño: a previsão alarmante de mortes relacionadas ao calor até 2027",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CNN BRASIL",
+      "fonte": "VEJA",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-30T12:56:14+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeFRTblNiSjlybGhiSTV4TEpnbUZaODUwR0tKNkNkOU9CYmc0dXloTkdKQzRXUF84SDhpeDVSOC14enRteGdxUU1iMWFEME52NE5NTzJDdDlzZzJEcHQ1bW9UTnVoTXJzZmh1YVh0MXlac0U5Y28xRTBfMVFWaFloQ2xYaGxtXzh3Ykk5VmxfS0cyUEp5bmVLZ1BSUERiVGFPbjhRbU9KWDNSb2x6WmtxVFdfX1FFUno2azZF?oc=5"
+      "publicadoEm": "2026-10-30T14:52:32+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTHBjdnlBZGhpMGFuMk9Kd25mU3pjaXo5aGJGZ2xueDByWHVIbUF3UUFSUUJxbmRVejN4QTdieEZQdU1wWGhlMnl3U2Y1Z1JBLW8zMWxlVnluWjM0R3dneFgwRGVxdXVBNlNwb09TdXhxVkw5Q2d4M2dlbWhhY0ZwRlozbXRKdFQ0UmtMa2I3UlU3YlQ4VldkSjlBcWtFX01pVzdWUzVOa2g4RU1tYnVucjNSLVZOdw?oc=5"
     },
     {
-      "titulo": "JP1: El Niño ameaça Sudeste com temporais e mudanças no clima",
+      "titulo": "Evaristo de Miranda: 'Cadê o El Niño que estava aqui?'",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "SAMPI.NET.BR",
+      "fonte": "REVISTA OESTE",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-31T14:44:43+00:00",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTXJYa2tpN1ctSzVpV3RicURYS2lzS09tdU15MmlncFpZUGtUY0dDWkozbFhDdXI1Rks3RGdzZ19Uai15UTkxcHUzcGZFMEZCUmdHX1NobGhYQkJCME5yX195TGxVVGUzOGpZMC1kX2pTdktzak0xQmdjS0o4eFp2WWlhZ2luYjljbHhVMlhWeUlfcFBnTlRiWklBYjdzZjctZWFwR3V3d3diZExMcmEzRk9GdDZQek5XdWZzRg?oc=5"
+      "publicadoEm": "2026-10-31T15:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OSWJoTGgyUl93ME5UbmNLOHFIdWNIVmdEb25VcHF3V0pBYUdGdUhMdE5NN0JSRXJ6Q3lNQXUxRkh3QlFIVmhIc3RsNzl1S1BmZG9PMUF5MG9SSnYxRjR0VkYwdnF5V3l5MmNWR0I3Zw?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "CASCAVEL",
-    "uf": "PR",
-    "valor": 74,
-    "seta": "↑",
+    "cidade": "BARRETOS",
+    "uf": "SP",
+    "valor": 88,
+    "seta": "↓",
     "status": "ALERTA CHUVA"
   }
 }
