@@ -1,27 +1,27 @@
 {
-  "atualizado_em": "2026-10-31T18:53:44.618679+00:00",
+  "atualizado_em": "2026-10-31T23:49:59.425668+00:00",
   "noticias": [
     {
-      "titulo": "Super El Niño: a previsão alarmante de mortes relacionadas ao calor até 2027",
+      "titulo": "El Niño se aproxima do pico e novembro terá risco de ciclones, enchentes e calor intenso",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "VEJA",
+      "fonte": "CANAL RURAL",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-10-30T14:52:32+00:00",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTHBjdnlBZGhpMGFuMk9Kd25mU3pjaXo5aGJGZ2xueDByWHVIbUF3UUFSUUJxbmRVejN4QTdieEZQdU1wWGhlMnl3U2Y1Z1JBLW8zMWxlVnluWjM0R3dneFgwRGVxdXVBNlNwb09TdXhxVkw5Q2d4M2dlbWhhY0ZwRlozbXRKdFQ0UmtMa2I3UlU3YlQ4VldkSjlBcWtFX01pVzdWUzVOa2g4RU1tYnVucjNSLVZOdw?oc=5"
+      "publicadoEm": "2026-10-30T11:49:50+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTE44NERTalZHemQwMlJpRm9KVWZZU0haWkhWeW9fVTh6QWhQQ0FlLXJ0dTljR09sLWRWMmVNcHE4Y3JScTh0NkdDLW9EX0lieUpMMEJtbFFwcDZXeGxNYzJGVzk3cWFkQ0pTU1EwdmRiV1ZLZEg5ZE1OQXNkNkF4a1V2T3luOE53alY1cE1Oc0p6MFh4czhvQlVMRko5UFZ5TDRodFdSS0trd3NGQm1OWHptT3IyZGJ6VlpvQkdPaVJqMjJ2QmU1elloQngyUE1EdGc?oc=5"
     },
     {
-      "titulo": "Evaristo de Miranda: 'Cadê o El Niño que estava aqui?'",
+      "titulo": "Super El Niño deve provocar chuvas acima da média em SC até janeiro de 2027",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "REVISTA OESTE",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-10-31T15:00:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OSWJoTGgyUl93ME5UbmNLOHFIdWNIVmdEb25VcHF3V0pBYUdGdUhMdE5NN0JSRXJ6Q3lNQXUxRkh3QlFIVmhIc3RsNzl1S1BmZG9PMUF5MG9SSnYxRjR0VkYwdnF5V3l5MmNWR0I3Zw?oc=5"
+      "fonte": "4OITO",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-10-29T20:37:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd1Z1ODVtelA2R090YW9BRWthbGtGQnBra3R4YkQxa2phcjhyR0NiSmRPSnVuRlFDeGtaSS1jdU1sVkpsWDYyVVF1elNfMXY5Y1BpZWxLV2lYaEMwa3J4VFgzRlV6Ml9OdGg0aHl0OEpHdkJ3eW8tQlR5VUJKWlBGbGRfZTd2Z3BnRlJVSDlacjFNdk5WbVVKaGQtZllTWjVpRnhub3R4djltY19DeTlEMUg1NXc?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "BARRETOS",
+    "cidade": "RIBEIRÃO PRETO",
     "uf": "SP",
-    "valor": 88,
+    "valor": 90,
     "seta": "↓",
     "status": "ALERTA CHUVA"
   }
