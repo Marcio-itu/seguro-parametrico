@@ -1,11 +1,28 @@
 {
-  "atualizado_em": "2026-11-02T00:00:06.191007+00:00",
-  "noticias": [],
+  "atualizado_em": "2026-11-02T18:56:30.264225+00:00",
+  "noticias": [
+    {
+      "titulo": "Novembro é o último mês da primavera meteorológica e, de acordo com a MetSul Meteorologia, já apresenta características típicas da estação quente. No Brasil Central, a tendência é de aumento das chuvas, enquanto no Sul as temperaturas sobem à medi",
+      "resumo": "Leia a matéria completa na fonte original.",
+      "fonte": "INSTAGRAM",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-11-01T23:01:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xOHlfZ3V3UVlWcWJLS3JNOWlyb2laYUtETFhfR0ZNeTFpWG03aXFITHhHeFVDRC1nVUZtbmI4aUh3a0lKc0Q1TGEwal9WZnZJV0E?oc=5"
+    },
+    {
+      "titulo": "Super El Niño: como o clima severo impacta a saúde do seu rosto",
+      "resumo": "Leia a matéria completa na fonte original.",
+      "fonte": "CNN BRASIL",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-11-02T15:00:49+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcGtFYU5VNmRYQ1dlVEkxQUFTdEtHR2pRN2FqS3FSY09YVy1ia0hiZnJGZ3dMYk9Ka3NsbGx5dGJ5c3ZrMXV2NWdtMFlXbG9MaU1iYjVfOUUyX051WEtGV191bXpsb3dFdExteFV4SXg3d1dDN2hGdjBIZUU2Q3ZLdWNRUDllcXJzdTJxR19IdkJLQTJBeGxPeW9XYnBzbURFQlA0c1RkQ0w?oc=5"
+    }
+  ],
   "chuva": {
-    "cidade": "UBERLÂNDIA",
-    "uf": "MG",
-    "valor": 14,
-    "seta": "↑",
-    "status": "ALERTA SECA"
+    "cidade": "SORRISO",
+    "uf": "MT",
+    "valor": 65,
+    "seta": "↓",
+    "status": "SOJA · MILHO"
   }
 }
