@@ -1,28 +1,11 @@
 {
-  "atualizado_em": "2026-11-01T15:31:49.532646+00:00",
-  "noticias": [
-    {
-      "titulo": "Como os Produtores Buscam Proteger Seus Mais de US$ 15 Bilhões do Super El Niño na Argentina",
-      "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "FORBES BRASIL",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-01T07:59:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdVNvYU1YRlVwaE92QTlKTXd6RUhYUjlfYmdnTUotMTVFTEhYV2xIc0NpOW1BUnRyYUxqVzZZalRraktXVkROS0lJaXRuMm50eE9jRmYwMklyeXdFWDJzaUJDTjFRaFZkZFo1SVJtQW5mNzJ3UmlQN0xIY25OTjJGdHR0c3R4RE0yazNFb0pSTm4tREhkM3JQNEJET2JWeGdSejZZbTdtUzFHRld1MjFTbU1GNjh6R1BiQURsUnFUamRxQnhOR01HWkFCYjBiQnM?oc=5"
-    },
-    {
-      "titulo": "Novembro deve ter mais chuva no RS, mas sem calor extremo; veja a previsão para o mês sob influência do El Niño",
-      "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "G1",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-01T03:00:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQldjcm5xckMtVW1UbDM3dTNySW9RTVZYRUVfcTZlR0E5ZEpHN3pLdUtoSzZraW54ZU1KVGNkZ2NndExEcGl5WmVxWUJ6d2x1N0R2dy1LZ2dmUWZDZmpEbTVJU3lmckIxUGFtN1o5My16SHVOTEpfOTFGUk5zSW1HR0E2ZHk5LWd1SWxTOWJxcWdFLVlPQWsyX3dDM1VzMUFWbVZtWEFqNWZNaEJUZWdkMDBibkxGaDZJb0VUV3hMT0xCeDBHZUHSAdQBQVVfeXFMTXBzel96SjZNNmVmZmZyb3I5YktxZHZJbkJoZmZwT3RsWkp4Qy0tTDF3b1lVZTFMSElhR1B4SXY1V3c3NElNbzRCSzZkUkd3ekhORTBxbXN4NkpZVTZxZHdnTWcwWlZCeXZ5aTk5RHh3SnQ3OUhnU0w0SlNJN0ZkNU4xZDM4T2dfVXRweEtaZGdBVG9rWDgyazFuaHQxemlmdWMwdEx3djhBeFNZWldLSng1VjVJOFJmWUNFZGlaUWdCcFU2T0c2SWNITVc0TXp2U2VUVmQ?oc=5"
-    }
-  ],
+  "atualizado_em": "2026-11-02T00:00:06.191007+00:00",
+  "noticias": [],
   "chuva": {
-    "cidade": "RIO VERDE",
-    "uf": "GO",
-    "valor": 69,
+    "cidade": "UBERLÂNDIA",
+    "uf": "MG",
+    "valor": 14,
     "seta": "↑",
-    "status": "SOJA · MILHO"
+    "status": "ALERTA SECA"
   }
 }
