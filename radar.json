@@ -1,27 +1,27 @@
 {
-  "atualizado_em": "2026-11-04T00:57:27.250681+00:00",
+  "atualizado_em": "2026-11-04T16:39:44.315577+00:00",
   "noticias": [
     {
-      "titulo": "El Niño de 2026/27 pode faltar frutas e verduras no Brasil; saiba como se preparar",
+      "titulo": "Aquecimento do El Niño ultrapassa marca histórica registrada em 1982",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "BRA1.COM.BR",
+      "fonte": "O HOJE",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-03T15:57:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbndxS1VtWFJlNUEtUWFRdm5ZZjIyR3VVSk84b1JUcHk4Q01QSmdPanFPZ1JsbGwzUnRmeXBaa1J4TWJGWGttdFdjT3ZnZDU5a040QlJ6dmFKN0ZYcnZpMnJGMllienpSaTB2aUFqUk4zcGNmY1JPdDJXTVp6VFdLVlBBWXJIVWNFd3JkTVFoSXV4R2ZXV0xaNmZ3a2l0c2VYVnE2SnFyQmJBRkNiYlgxR0N3cUpxVHJzaHZGLVBBektSRzhnNkhz?oc=5"
+      "publicadoEm": "2026-11-04T16:00:30+00:00",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeWZybEx4a2ZSWkhnOU4zTTByR3BXWFo3Z25LMUZwc09TTFd1RGNpcGl2WmZHdzNRbUFpbjlWN0I4NTN6YndCU1RhNWhyUjB3RnpmSE5UcnFoMHRjS3JCanJTWlhneUNmYmpISGpIdmtrQllWWEQ0WEdESTBPcWVNd1ktb3lQZVBjMDlDOUZFWlMtLTFMS1RZam5kSnFWTzg?oc=5"
     },
     {
-      "titulo": "Super El Niño está cada vez mais intenso e pode transformar o clima no Brasil em 2027",
+      "titulo": "Peru declara emergência em mais de 70% de seus municípios devido às chuvas do El Niño",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "REDE ATLÂNTIDA",
+      "fonte": "CARTACAPITAL",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-03T20:20:05+00:00",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPRllIa3JPV1M3LVp2YlU4dGxMd0JDR2RLalVDelM1a1BzX3F0TU5tLTRRRkJ0YnRlTWtOdGlnY0dNMEZJOFJrVksxcmlZckZ3WENkSlRfRFpWSlhJYWtfeGZyaWhSeHpxUzlwQzJvSXcyaGpnUXpTMFNndS00SmFNSXA4a2tkUlRTSVJjQ0c0ZXZlN0EzSU9vZU9TM3RubmhuVkxVbXpfaUN3cERoQXFFM3cyeGFtejIxN2otUmlDY1FjOWl4WjhvZGhBZTdiekVFeFYwejZOUFpGUUJiRHppZGtNRFVyOVBQV0c5UDhSU1hLVVJUbjR2djhlYmUxOVlKQUxnbE9IemxtcmR6QjVoOF96SVE?oc=5"
+      "publicadoEm": "2026-11-04T00:46:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVzNXaHFEYmJaRThoaUkycktjS19PMlJUc29xUzNUVS14TEczZDByYWRzQnhOY3NBSFlEbnc0cWpzeEpZX3VPVXpXYXVEUzhkemVEYUM4Ukx5c0JtUE1VVnpFMm9YLWhwbmNlVWJLWjNzdTBDWmhHRm9GZFdOczhRR0szZ2kwMXVOMWt6cXc2bmJ3MEhvUF9malROd3ZwdDhCc2FsVmROR25YYXBPd0pLZTZRTS1sM0FxZEpneTVjVTQ?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "SAPEZAL",
-    "uf": "MT",
-    "valor": 70,
+    "cidade": "CRISTALINA",
+    "uf": "GO",
+    "valor": 82,
     "seta": "↓",
     "status": "ALERTA CHUVA"
   }
