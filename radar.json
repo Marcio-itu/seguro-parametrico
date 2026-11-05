@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-11-04T16:39:44.315577+00:00",
+  "atualizado_em": "2026-11-05T01:08:45.160470+00:00",
   "noticias": [
     {
-      "titulo": "Aquecimento do El Niño ultrapassa marca histórica registrada em 1982",
+      "titulo": "El Niño atinge nível muito forte e registra recordes históricos de aquecimento no Pacífico",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "O HOJE",
+      "fonte": "JORNAL DE NOVA ODESSA",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-04T16:00:30+00:00",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeWZybEx4a2ZSWkhnOU4zTTByR3BXWFo3Z25LMUZwc09TTFd1RGNpcGl2WmZHdzNRbUFpbjlWN0I4NTN6YndCU1RhNWhyUjB3RnpmSE5UcnFoMHRjS3JCanJTWlhneUNmYmpISGpIdmtrQllWWEQ0WEdESTBPcWVNd1ktb3lQZVBjMDlDOUZFWlMtLTFMS1RZam5kSnFWTzg?oc=5"
+      "publicadoEm": "2026-11-04T17:17:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNcTJwSEgyVi1hTWhQa0xuWnNxODlTY0xGa3psSHZYaGoxWjNjaVFqMHc0YmpSQlRwdS1ubmNWd213MEw1dTFkbkxQakxpLWVGX1FMcmg1ZXZIdjh0dU9zU3F5N1VTOWxHQlVocng2b0k0aDRfZHZHVU9OckdJVlNkSFhVSi1rMzdQLUVreks2cEUzTU5DMzFORENyOHdrSVBFUjJhZlZsXzNYWTBuZ3U2eml1V1RwWnV3aXJKVWl2RGN4Sms0WWx2N0RQbWlrZ0xuNk9QWm1tTU1ydGV0ME5SdmFUcFpUVVliS2dBTGZDeExhVWFxOFBmQ1pRV1FlZXI1N0ZnZWIxQQ?oc=5"
     },
     {
-      "titulo": "Peru declara emergência em mais de 70% de seus municípios devido às chuvas do El Niño",
+      "titulo": "El Niño atinge anomalia recorde para outubro",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CARTACAPITAL",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-04T00:46:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVzNXaHFEYmJaRThoaUkycktjS19PMlJUc29xUzNUVS14TEczZDByYWRzQnhOY3NBSFlEbnc0cWpzeEpZX3VPVXpXYXVEUzhkemVEYUM4Ukx5c0JtUE1VVnpFMm9YLWhwbmNlVWJLWjNzdTBDWmhHRm9GZFdOczhRR0szZ2kwMXVOMWt6cXc2bmJ3MEhvUF9malROd3ZwdDhCc2FsVmROR25YYXBPd0pLZTZRTS1sM0FxZEpneTVjVTQ?oc=5"
+      "fonte": "INMET",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-11-03T18:57:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSlBIcXpPZXY1UEZyekxyN0JEbkFJaGhaeUFiczJyNzZ2QktrU3dDU090QVJsN1NQWWJ5VzlMY2tFR3doc0xrS0J3bmhELUdkYWNtS0IzRTNab1JYd3h1eTZZQm9rYV84YWt0LWtYM2lsZUloeXlSQk9EdE1PSlIxdUxvMHd4ZFpNRTVuQlVRWQ?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "CRISTALINA",
-    "uf": "GO",
-    "valor": 82,
+    "cidade": "UBERLÂNDIA",
+    "uf": "MG",
+    "valor": 67,
     "seta": "↓",
-    "status": "ALERTA CHUVA"
+    "status": "SOJA · MILHO · CANA"
   }
 }
