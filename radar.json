@@ -1,27 +1,27 @@
 {
-  "atualizado_em": "2026-11-05T16:55:26.491044+00:00",
+  "atualizado_em": "2026-11-06T01:14:01.093801+00:00",
   "noticias": [
     {
-      "titulo": "El Niño muito forte projeta verão de extremos no Brasil",
+      "titulo": "Para prevenir impactos do El Niño, Porto de Itajaí instala aparelhos que monitoram a maré e até o volume da chuva",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CANA ONLINE",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-05T11:40:56+00:00",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcmRScWRHREYyMFh4RU8zd3JfbllLQTlUMC1RLUJPcEQtNDVtc1BDNWFiRnB3anZHRE5hUEs0R0x5ZERlcGEwZDRXTHVialRkaEx1b29TN2ZoZ0JZQkp2QUZsZXJjTHZRZU40VHJjdzg0V0NlYWsybmJoSnZJODRiU2RDT2N4UC1OTHhZQk1VSFlOQ3VHdVlwdlJZNU85ZV8z?oc=5"
+      "fonte": "NSC TOTAL",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-11-04T15:59:15+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZ3F2aHJpU3BzbF9VNHk4QmdJd1dITzQ3VmhEOTdFa1h0U3VDVk9hQXFjRlR1YjNCQktmaHROUlRlM3FJVUhrT3ViMzNya2ZEc0FaTm5va2FBMWpERFhMbl9CQkZoVXR5SXhIbXZuLWpxekQxdjNLeHB1cjB0dkF0dV9lbGJ0VmVaVk0wd0ZvejZWV3JxVTVQcWJFZXBDcnE0NWV5cUVNTXFhU2hWMlNxV1pXODFNT3dOWGVKTlhzZjlldzNVSVRsZUszTXY1M3hRbW84dnE5QlNvYUNNOW1GZUlzME5sSjdpWDQw?oc=5"
     },
     {
-      "titulo": "El Niño traz contrastes climáticos de Norte a Sul do Brasil; excesso de chuva prejudica grãos e cana, enquanto seca ameaça castanha; café e soja têm cenários mistos",
+      "titulo": "Super El Niño está cada vez mais intenso e pode transformar o clima no Brasil em 2027",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "JORNAL GAZETA DE VARGINHA",
+      "fonte": "REDE ATLÂNTIDA",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-11-04T19:14:33+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSXhpOExMRkoxa05zYllOZXc0cGxlQktaUEpTT2kxYkFiZVFvS0lrSl9TSm9pNFhjd1JpR0VqVDYzcWJYZVZVRVQ2Mm90dG9LRS1qdEVwbnR0cEZSS1BYLUNtaThPZzNjTThsYVhOemFOWEpmc2FYN190b0hFcVM4SkRDTFViT19NendjbVZEVzVRVDJ6am4wSmRPTXJCdzlpOG95dUxPYlJQZFNtNldtZWxHS2RxZ1lBVV9rd1YzYWp0NWNpTS1taHNuWlduLWNZdWNWM1hTNDdhY1J5UjJvdElWd2xUN0hiZmdj?oc=5"
+      "publicadoEm": "2026-11-03T20:20:05+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPRllIa3JPV1M3LVp2YlU4dGxMd0JDR2RLalVDelM1a1BzX3F0TU5tLTRRRkJ0YnRlTWtOdGlnY0dNMEZJOFJrVksxcmlZckZ3WENkSlRfRFpWSlhJYWtfeGZyaWhSeHpxUzlwQzJvSXcyaGpnUXpTMFNndS00SmFNSXA4a2tkUlRTSVJjQ0c0ZXZlN0EzSU9vZU9TM3RubmhuVkxVbXpfaUN3cERoQXFFM3cyeGFtejIxN2otUmlDY1FjOWl4WjhvZGhBZTdiekVFeFYwejZOUFpGUUJiRHppZGtNRFVyOVBQV0c5UDhSU1hLVVJUbjR2djhlYmUxOVlKQUxnbE9IemxtcmR6QjVoOF96SVE?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "SERTÃOZINHO",
+    "cidade": "BARRETOS",
     "uf": "SP",
-    "valor": 76,
+    "valor": 100,
     "seta": "↓",
     "status": "ALERTA CHUVA"
   }
