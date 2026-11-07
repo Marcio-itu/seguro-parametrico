@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-11-07T00:28:39.860811+00:00",
+  "atualizado_em": "2026-11-07T15:14:59.625364+00:00",
   "noticias": [
     {
-      "titulo": "El Niño pode agravar impactos do clima sobre os preços dos alimentos",
+      "titulo": "El Niño reduz cargas em rios do Arco Norte e derruba frete rodoviário de grãos",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "PORTAL A12",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-06T16:32:53+00:00",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOem10SkdYYnZFTjBXRzJtbmdKTXNXTEhCT3RINDRCRkxua1NuYkJLellPSTNPZFRWSmdyQUNGaHlsUFNvRll0ZkxOa1pqQ05tbXNyX2FtRndjOG1zdXVWSjBzemR5ckNfNHpSUWE4alFFU0JrTTVHaThNMFdtTVhDSjd2SEJIRS1Ya3dUbWVUcXFyM0s0bDVDbGFqaFdVeHlQaS1jN214M3FoTEVxMk1weDhxRTU?oc=5"
+      "fonte": "PARÁ TERRA BOA",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-11-06T14:08:39+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObEhEVkVMTnMwQmMzVlhqRExXQjNXQjVXR3JXckVCR0F5VEtnRHZUQk5SWWpra29XYTJvUzV5eDgtbzZFcTJ5Q3ZlZ1hGdWdFV1hLb0U2d2N0eVUzMFI4R0RUalk3TmhLOVhyQ0VWeDNUSzJmdGF1OV8xeHBuTzFKZFZnajB2ZEN6U0VKX3BVS0lrTkZmeW95eG9MRWdBRS1qc2NxYUtwR0dZaTljR1g5LTdCMENYX0h5?oc=5"
     },
     {
-      "titulo": "El Niño, já em intensidade excepcional, ainda caminha para pico em dezembro e Paraná já é o estado mais afetado",
+      "titulo": "El Niño: Bahia registra 41°C e enfrenta temporais intensos em outubro",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "BEM PARANÁ",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-06T12:47:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sWlFlWTFNcmNhLXNQWFh0eThLVEdYdWJuVlpUZ2JWcmpFb0FKQXJ5dzhIRG9rWFpjNGgtUlB1b3FvbFk5RkJ0SW5SWW1BNHVtWm1fZFhEOE9vS3VZLUV2MnZnR3JYeDZmUDRHdmVBRGlBcTDSAXhBVV95cUxQakRIVnlrTTlOVmxlN3V0U1B6Rk9rWVRndkZwM2hJa2ZxLTZnZndwUEx4b3R2T1ZKWlFFc05CVVlVbGtxUl9CTVpIRzQ0aENneko2WWZ1Y3cxSTdncmZFR1pSMFFFeTVFTkdyT19nREQxZklhT3NUTTE?oc=5"
+      "fonte": "A TARDE",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-11-05T13:12:44+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWmE2Z2R0V3ZFM0g3Wlh0cWd2MmlqLV9hV1A0S194QVVwcExSb3hIS0JnZF9WNklfZXMtcUhZbU9fRzg2NTNGNktoOVVVOGx4Tkc4X25oWXBQVjVYX0hDY0NuU3BrNDdiQXVEMXhOb2dSUmJLSFJlNzZXOGtRZ1pOcUNBR2hDX29SazNUa1g1cnkzYkhyejhxWm90akdjVzVIRU4xQlFn0gGuAUFVX3lxTFB5bl9LUFBxdnp3bVJRYXRxd0ZicTdrVG8xcWFNaGduby1RNWVlQjlRRVhsd1B0R3BoMm1XVW9DWHo4emwxdkFLVVAzQjYtS2x2NzQwZGZkRkdQZWtFNjdpbzNFdmdfbE11UnFmQkVMNWxRa1R4LU94dTJjc2M5anB5WnhISDl6U1N4ZDZyM3Y3cUFmNHdQTFdDTENyd19Ua3VFYVNGTG10QnJhc3RGQQ?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "CASCAVEL",
-    "uf": "PR",
-    "valor": 100,
-    "seta": "↓",
-    "status": "ALERTA CHUVA"
+    "cidade": "SORRISO",
+    "uf": "MT",
+    "valor": 15,
+    "seta": "↑",
+    "status": "ALERTA SECA"
   }
 }
