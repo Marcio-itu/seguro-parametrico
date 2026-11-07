@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-11-06T16:26:13.468843+00:00",
+  "atualizado_em": "2026-11-07T00:28:39.860811+00:00",
   "noticias": [
     {
-      "titulo": "El Niño e calor acima da média preocupam início da safra de soja no MATOPIBA",
+      "titulo": "El Niño pode agravar impactos do clima sobre os preços dos alimentos",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "PORTAL AGRO2",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-11-04T20:09:47+00:00",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNDF6eHRLdnFYYTY4OU9nNTdrY2hVQ0NFeE0xeExnVEpVUXE2Tnpma2pDbDljMWRTT3pQVDNtVldvSkdMd0JacXVRckxQQU9RZVNGX1pmLXM1a0p5STJ0RWFIM240c0docEZRVHk1ekRvZWpuMzFIVlEzOEdVNldZcTM2QjFQY0xVWlBNcHUxczlpbGhsQko3M2cwZXNXTzlKSEJjRWFvVkU0ZFRTSnU0?oc=5"
+      "fonte": "PORTAL A12",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-11-06T16:32:53+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOem10SkdYYnZFTjBXRzJtbmdKTXNXTEhCT3RINDRCRkxua1NuYkJLellPSTNPZFRWSmdyQUNGaHlsUFNvRll0ZkxOa1pqQ05tbXNyX2FtRndjOG1zdXVWSjBzemR5ckNfNHpSUWE4alFFU0JrTTVHaThNMFdtTVhDSjd2SEJIRS1Ya3dUbWVUcXFyM0s0bDVDbGFqaFdVeHlQaS1jN214M3FoTEVxMk1weDhxRTU?oc=5"
     },
     {
-      "titulo": "El Niño registra recordes históricos de temperatura no Pacífico e pode estar entre os mais intensos já observados",
+      "titulo": "El Niño, já em intensidade excepcional, ainda caminha para pico em dezembro e Paraná já é o estado mais afetado",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "NOTÍCIAS AGRÍCOLAS",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-11-04T11:18:50+00:00",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQbThEV3J1aGlxSUo0NTNQV0twUXhXMWU0SHEybUt4N29iT3pLMHB4NlpsemdfMVhVQVZhMGNvN0N6WkUxSHdmQTdIRnk5NjhONzRRVlFpb1cyczY4VlhzTVhKeTMweXdEU3lUUlRhWXJLU19CS200bldFcmVkSW1VdmdXRkpYdTd3MXpSeHBPYnFTeVZhT2xMU0phLU9tckYwdGJkQzJDRkpiRi01UG5KTXhqZWlkaVk3X1d3em1yTGxRREU1aE1JeGx2MDgyNzVRV0s1M0hVVFhaYTlRTGpGZWdLcFJqV1lDRm05Yk9aZTUzTVoxd0c5V2duLTFwWjRZeWxOOTlrVGtiNnRreDJiV1hkY9IBmAJBVV95cUxNQm5QUTFhbGZKaVg5T2pWWFNKTlN5cmEwYWV2UWtQZFEzR1dyTHlZOVJfckhOZU1hRmJNc0tKc1Z0ODRWY3RWYjlhNjM4eEhteHhlUjRfdFFiUjJjTVlkcWp0NERRTm05NmMwVGlsSUFnZlo2dExPWFE5WjN4Z2hWOHFOVlZ5ajhIaEdfVG1icGNCbkhnQVRndUcxSzdTallxOXdKT1RyUTEtTXQxVmxvS3lOREpIem1KXzB3MVJvbDRnS2xpcmd2Sjh6c09veGlvSkNsc0laNmJUYUlWQnB5WWVkcGdTLWF4R1o1YW5rcmNmeUxHZEd0ZGlCYzVONUtFUmkwRlRXXzZiVXZuYTBFcS1lMUEtWllG?oc=5"
+      "fonte": "BEM PARANÁ",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-11-06T12:47:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sWlFlWTFNcmNhLXNQWFh0eThLVEdYdWJuVlpUZ2JWcmpFb0FKQXJ5dzhIRG9rWFpjNGgtUlB1b3FvbFk5RkJ0SW5SWW1BNHVtWm1fZFhEOE9vS3VZLUV2MnZnR3JYeDZmUDRHdmVBRGlBcTDSAXhBVV95cUxQakRIVnlrTTlOVmxlN3V0U1B6Rk9rWVRndkZwM2hJa2ZxLTZnZndwUEx4b3R2T1ZKWlFFc05CVVlVbGtxUl9CTVpIRzQ0aENneko2WWZ1Y3cxSTdncmZFR1pSMFFFeTVFTkdyT19nREQxZklhT3NUTTE?oc=5"
     }
   ],
   "chuva": {
     "cidade": "CASCAVEL",
     "uf": "PR",
-    "valor": 98,
-    "seta": "↑",
+    "valor": 100,
+    "seta": "↓",
     "status": "ALERTA CHUVA"
   }
 }
