@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-11-07T15:14:59.625364+00:00",
+  "atualizado_em": "2026-11-08T00:03:35.906329+00:00",
   "noticias": [
     {
-      "titulo": "El Niño reduz cargas em rios do Arco Norte e derruba frete rodoviário de grãos",
+      "titulo": "Aplicativo de gestão de risco climático é apresentado a produtores rurais durante ciclo de palestras na Expoferr 2026",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "PARÁ TERRA BOA",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-11-06T14:08:39+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObEhEVkVMTnMwQmMzVlhqRExXQjNXQjVXR3JXckVCR0F5VEtnRHZUQk5SWWpra29XYTJvUzV5eDgtbzZFcTJ5Q3ZlZ1hGdWdFV1hLb0U2d2N0eVUzMFI4R0RUalk3TmhLOVhyQ0VWeDNUSzJmdGF1OV8xeHBuTzFKZFZnajB2ZEN6U0VKX3BVS0lrTkZmeW95eG9MRWdBRS1qc2NxYUtwR0dZaTljR1g5LTdCMENYX0h5?oc=5"
+      "fonte": "FOLHA BV",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-11-07T14:30:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeDkyYWRYVDYzODFUNGZxbHNvUFA2SmRqWVN5TTZuTXNvU3ZibEhTVi1CRVpobmJvbUc3bFFUX3dVWUJtdWkyNUkzeDZSZW1VenNpVUFBMFkzR1BoYzRiLXh3RzJ6SjNOUkJLdmY1bTU4T3E0eVhGQWZud2dMVkZfWVo2S05kN05lQzlqRGQ2SEVSUkNuQkFiUkM0RzJYeldVSUF1MXI0Q3NNNnRlWkJSRnJRZnZQRUdac29OOTFQcXkwaHh5MVptZ0ZIT3l1SU9JSmUyUEs4aVFUN2lhdzdvNWlGTW0?oc=5"
     },
     {
-      "titulo": "El Niño: Bahia registra 41°C e enfrenta temporais intensos em outubro",
+      "titulo": "Fenômeno Super El Niño: mais calor, seca e queimadas no Pará",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "A TARDE",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-11-05T13:12:44+00:00",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWmE2Z2R0V3ZFM0g3Wlh0cWd2MmlqLV9hV1A0S194QVVwcExSb3hIS0JnZF9WNklfZXMtcUhZbU9fRzg2NTNGNktoOVVVOGx4Tkc4X25oWXBQVjVYX0hDY0NuU3BrNDdiQXVEMXhOb2dSUmJLSFJlNzZXOGtRZ1pOcUNBR2hDX29SazNUa1g1cnkzYkhyejhxWm90akdjVzVIRU4xQlFn0gGuAUFVX3lxTFB5bl9LUFBxdnp3bVJRYXRxd0ZicTdrVG8xcWFNaGduby1RNWVlQjlRRVhsd1B0R3BoMm1XVW9DWHo4emwxdkFLVVAzQjYtS2x2NzQwZGZkRkdQZWtFNjdpbzNFdmdfbE11UnFmQkVMNWxRa1R4LU94dTJjc2M5anB5WnhISDl6U1N4ZDZyM3Y3cUFmNHdQTFdDTENyd19Ua3VFYVNGTG10QnJhc3RGQQ?oc=5"
+      "fonte": "A PROVÍNCIA DO PARÁ",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-11-07T14:40:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaEw4d2NKZ0QwOG5wVG5jT2xXeGt1TE81Ry11NVdUQlJ2M0JqSnRTdE1DU3dwcnpxcnVnZXNqdDhHazNCRzVNaV9MSW16QjVfdlZ4alFQc2x2VW14bzRGc1JlR2FoSUJEbkRwdlZGMlExRlVmdFFlN0FOcUtYT2RHTDNQckp3aEJZUFJmczVFejdJWk9tWlE?oc=5"
     }
   ],
   "chuva": {
     "cidade": "SORRISO",
     "uf": "MT",
-    "valor": 15,
+    "valor": 16,
     "seta": "↑",
-    "status": "ALERTA SECA"
+    "status": "SOJA · MILHO"
   }
 }
