@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-11-08T00:03:35.906329+00:00",
+  "atualizado_em": "2026-11-08T15:39:11.622922+00:00",
   "noticias": [
     {
-      "titulo": "Aplicativo de gestão de risco climático é apresentado a produtores rurais durante ciclo de palestras na Expoferr 2026",
+      "titulo": "El Niño intensifica calor e deve provocar chuvas irregulares no Piauí",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "FOLHA BV",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-07T14:30:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeDkyYWRYVDYzODFUNGZxbHNvUFA2SmRqWVN5TTZuTXNvU3ZibEhTVi1CRVpobmJvbUc3bFFUX3dVWUJtdWkyNUkzeDZSZW1VenNpVUFBMFkzR1BoYzRiLXh3RzJ6SjNOUkJLdmY1bTU4T3E0eVhGQWZud2dMVkZfWVo2S05kN05lQzlqRGQ2SEVSUkNuQkFiUkM0RzJYeldVSUF1MXI0Q3NNNnRlWkJSRnJRZnZQRUdac29OOTFQcXkwaHh5MVptZ0ZIT3l1SU9JSmUyUEs4aVFUN2lhdzdvNWlGTW0?oc=5"
+      "fonte": "CIDADEVERDE.COM",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-11-06T22:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmwtWjF3SUt1d1VSWFZyLWFybWRNdTdjNTltcTFQbDRkMHJpQjBETGJ6RkJFLVE1MkRKN21DLVJIRy12c2hiM2s4WnZDRmZfajF6MWpUM2ZtYjN5cE9JTU1sS0E1UF94WkRGYUhJTzBfdUNuWUNGTGlIdjJQYld6N1JUV1pfT21mRkQtdmc1clRsdkdHWnY3enlkeDR6R3FNM0FMYTRzRmJ6Zw?oc=5"
     },
     {
-      "titulo": "Fenômeno Super El Niño: mais calor, seca e queimadas no Pará",
+      "titulo": "Risco de seca e calor nas lavouras com El Niño acende alerta no setor produtivo acreano",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "A PROVÍNCIA DO PARÁ",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-07T14:40:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaEw4d2NKZ0QwOG5wVG5jT2xXeGt1TE81Ry11NVdUQlJ2M0JqSnRTdE1DU3dwcnpxcnVnZXNqdDhHazNCRzVNaV9MSW16QjVfdlZ4alFQc2x2VW14bzRGc1JlR2FoSUJEbkRwdlZGMlExRlVmdFFlN0FOcUtYT2RHTDNQckp3aEJZUFJmczVFejdJWk9tWlE?oc=5"
+      "fonte": "PORTAL ACRE",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-11-07T11:01:03+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOTZORDJtQWNnc1NMYVJnNS16ZEtXMGF5emNsQzhsaXJGSm41aHBJZGoxRXphaHIwUVhhRUZURnlxQkprYnQ2S1JpdmhEV0NqcHc2bW9jWXY5TkNoZ0FCUkRkSVNVTGNCbWI2emNiZVZoTG1NZGNGNWdLNUQ0a0JwYnYwSXJLUFRZbmF6U0IzZzNrVkVCUGZmT2tYU1VydHNmS09icGh6bXRuT2RHOHVXendMRVBudTdRbnNKYUQ0cw?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "SORRISO",
-    "uf": "MT",
-    "valor": 16,
+    "cidade": "CASCAVEL",
+    "uf": "PR",
+    "valor": 2,
     "seta": "↑",
-    "status": "SOJA · MILHO"
+    "status": "ALERTA SECA"
   }
 }
