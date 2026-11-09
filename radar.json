@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-11-09T00:14:24.210665+00:00",
+  "atualizado_em": "2026-11-09T19:16:48.974514+00:00",
   "noticias": [
     {
-      "titulo": "El Niño faz disparar os prejuízos por granizo em lavouras",
+      "titulo": "Super El Niño pode atingir força histórica em dezembro e acende alerta para o clima no Brasil",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "METSUL METEOROLOGIA",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-11-06T14:32:28+00:00",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSzRHbURPcXRySVJPWGpURjY2Q3BwdG9OTzZ4WEl4RWxONWZ3cjR5V0pvbWprTDlZOVh1NWlRa05ycWREWkJpTkV1VHBnRDRYdkppZkROenRQbmd4YUJNWTUwakxEcm1iUjlVV2xSOThZRHhvZ0dtWWExM2tBek91X2Rldw?oc=5"
+      "fonte": "AGÊNCIA GBC",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-11-09T14:27:01+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOTNQY01GUm5HQ1NFWWVOY1Q1Z2gzbXAya3hvV3dlY2ZlWGNmMm9WOUgtS2xmS2t1SDFyTFV1Y3BiR3lFR2o3Uko3Q1FqR3RCOHM0YktWc3dqejUxeG13eHUzNXhLV0dUS003eUJsUlBINS02c1I5LVBCWEJQaERlcVUxZVNYZUFESlpkcDM1b2FualJzUFQ4MjJHc01GZEQwaWxjLUZoWFNEVl9YdkJpT29pTlFLN3dkazNhU2M1WmtrelhPWkZR?oc=5"
     },
     {
-      "titulo": "El Niño pode agravar impactos do clima sobre os preços dos alimentos",
+      "titulo": "O que é o super El Niño? Entenda o fenômeno que pode provocar calor extremo e chuvas intensas",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "PORTAL A12",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-11-06T16:32:53+00:00",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOem10SkdYYnZFTjBXRzJtbmdKTXNXTEhCT3RINDRCRkxua1NuYkJLellPSTNPZFRWSmdyQUNGaHlsUFNvRll0ZkxOa1pqQ05tbXNyX2FtRndjOG1zdXVWSjBzemR5ckNfNHpSUWE4alFFU0JrTTVHaThNMFdtTVhDSjd2SEJIRS1Ya3dUbWVUcXFyM0s0bDVDbGFqaFdVeHlQaS1jN214M3FoTEVxMk1weDhxRTU?oc=5"
+      "fonte": "TERRA",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-11-09T08:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQbUNsSG9vLWUzZHdlWF9PR3YyMHphaUVfM2FIRHNMbnZuWHBITkI2NGdONTBoRjFmSnltTVlyT3BuQ3RiMmhLci1nTXVoN3M5NVBKdUV3aFQ5MEcwSGtFSkQxeWFqTnM0S0xaTzRLNlRRSWJzckZYWDFNTk40M2FDT0pKS3V5Snk2QUVnVjRIYThSdHhVU0lvUU9HZ0dic1BEellUeUU3Tmh3Y05xdDNzbERQWlZiOUFvTDk2eXpiVThnQWNqa0dlYW5IZThQeWpPbEF4YUhnZFNZQzlYWlB3Zzh0ZlBHVGlEblhCRUtoMVpZbDNqaHNyS21sb2ItT3g1ZThsM21ubFQ0a0huVlFN?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "RIO VERDE",
-    "uf": "GO",
-    "valor": 100,
-    "seta": "↓",
-    "status": "ALERTA CHUVA"
+    "cidade": "RIBEIRÃO PRETO",
+    "uf": "SP",
+    "valor": 10,
+    "seta": "↑",
+    "status": "ALERTA SECA"
   }
 }
