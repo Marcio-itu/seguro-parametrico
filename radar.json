@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-11-08T15:39:11.622922+00:00",
+  "atualizado_em": "2026-11-09T00:14:24.210665+00:00",
   "noticias": [
     {
-      "titulo": "El Niño intensifica calor e deve provocar chuvas irregulares no Piauí",
+      "titulo": "El Niño faz disparar os prejuízos por granizo em lavouras",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CIDADEVERDE.COM",
+      "fonte": "METSUL METEOROLOGIA",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-11-06T22:00:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmwtWjF3SUt1d1VSWFZyLWFybWRNdTdjNTltcTFQbDRkMHJpQjBETGJ6RkJFLVE1MkRKN21DLVJIRy12c2hiM2s4WnZDRmZfajF6MWpUM2ZtYjN5cE9JTU1sS0E1UF94WkRGYUhJTzBfdUNuWUNGTGlIdjJQYld6N1JUV1pfT21mRkQtdmc1clRsdkdHWnY3enlkeDR6R3FNM0FMYTRzRmJ6Zw?oc=5"
+      "publicadoEm": "2026-11-06T14:32:28+00:00",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSzRHbURPcXRySVJPWGpURjY2Q3BwdG9OTzZ4WEl4RWxONWZ3cjR5V0pvbWprTDlZOVh1NWlRa05ycWREWkJpTkV1VHBnRDRYdkppZkROenRQbmd4YUJNWTUwakxEcm1iUjlVV2xSOThZRHhvZ0dtWWExM2tBek91X2Rldw?oc=5"
     },
     {
-      "titulo": "Risco de seca e calor nas lavouras com El Niño acende alerta no setor produtivo acreano",
+      "titulo": "El Niño pode agravar impactos do clima sobre os preços dos alimentos",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "PORTAL ACRE",
+      "fonte": "PORTAL A12",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-11-07T11:01:03+00:00",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOTZORDJtQWNnc1NMYVJnNS16ZEtXMGF5emNsQzhsaXJGSm41aHBJZGoxRXphaHIwUVhhRUZURnlxQkprYnQ2S1JpdmhEV0NqcHc2bW9jWXY5TkNoZ0FCUkRkSVNVTGNCbWI2emNiZVZoTG1NZGNGNWdLNUQ0a0JwYnYwSXJLUFRZbmF6U0IzZzNrVkVCUGZmT2tYU1VydHNmS09icGh6bXRuT2RHOHVXendMRVBudTdRbnNKYUQ0cw?oc=5"
+      "publicadoEm": "2026-11-06T16:32:53+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOem10SkdYYnZFTjBXRzJtbmdKTXNXTEhCT3RINDRCRkxua1NuYkJLellPSTNPZFRWSmdyQUNGaHlsUFNvRll0ZkxOa1pqQ05tbXNyX2FtRndjOG1zdXVWSjBzemR5ckNfNHpSUWE4alFFU0JrTTVHaThNMFdtTVhDSjd2SEJIRS1Ya3dUbWVUcXFyM0s0bDVDbGFqaFdVeHlQaS1jN214M3FoTEVxMk1weDhxRTU?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "CASCAVEL",
-    "uf": "PR",
-    "valor": 2,
-    "seta": "↑",
-    "status": "ALERTA SECA"
+    "cidade": "RIO VERDE",
+    "uf": "GO",
+    "valor": 100,
+    "seta": "↓",
+    "status": "ALERTA CHUVA"
   }
 }
