@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-11-09T19:16:48.974514+00:00",
+  "atualizado_em": "2026-11-10T03:01:47.555966+00:00",
   "noticias": [
     {
-      "titulo": "Super El Niño pode atingir força histórica em dezembro e acende alerta para o clima no Brasil",
+      "titulo": "El Niño pode elevar temperaturas em 84% do Brasil e ampliar riscos climáticos na Amazônia",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "AGÊNCIA GBC",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-09T14:27:01+00:00",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOTNQY01GUm5HQ1NFWWVOY1Q1Z2gzbXAya3hvV3dlY2ZlWGNmMm9WOUgtS2xmS2t1SDFyTFV1Y3BiR3lFR2o3Uko3Q1FqR3RCOHM0YktWc3dqejUxeG13eHUzNXhLV0dUS003eUJsUlBINS02c1I5LVBCWEJQaERlcVUxZVNYZUFESlpkcDM1b2FualJzUFQ4MjJHc01GZEQwaWxjLUZoWFNEVl9YdkJpT29pTlFLN3dkazNhU2M1WmtrelhPWkZR?oc=5"
+      "fonte": "OBSERVATÓRIO DO TERCEIRO SETOR",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-11-08T11:33:33+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaE1yUkREczEzRjYxS3hKcUlDSUVHTUlkQ3phMFN2ckFyam1iV1BGRTRfZ2QydmNRZS1zZHpOZnpjMFBHdmVfZXJzeUZPRnFRVmpzaUVpZW5TYjZuaE9MYmo0TGthcVVFS1YyY3JNMk1tTlQzb1pMWXU5VVZlbUJDbkVQZ2toTnhlU3NxbmdrbVZFR2E4V0Ryd3FMbVFNVE1ITTJvanROdlB1VnFiQ2xFR09UcGRjYi11dzcyVjktalE?oc=5"
     },
     {
-      "titulo": "O que é o super El Niño? Entenda o fenômeno que pode provocar calor extremo e chuvas intensas",
+      "titulo": "El Niño intensifica chuvas e exige mais da infraestrutura de Sorocaba",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "TERRA",
+      "fonte": "JORNAL CRUZEIRO DO SUL",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-09T08:00:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQbUNsSG9vLWUzZHdlWF9PR3YyMHphaUVfM2FIRHNMbnZuWHBITkI2NGdONTBoRjFmSnltTVlyT3BuQ3RiMmhLci1nTXVoN3M5NVBKdUV3aFQ5MEcwSGtFSkQxeWFqTnM0S0xaTzRLNlRRSWJzckZYWDFNTk40M2FDT0pKS3V5Snk2QUVnVjRIYThSdHhVU0lvUU9HZ0dic1BEellUeUU3Tmh3Y05xdDNzbERQWlZiOUFvTDk2eXpiVThnQWNqa0dlYW5IZThQeWpPbEF4YUhnZFNZQzlYWlB3Zzh0ZlBHVGlEblhCRUtoMVpZbDNqaHNyS21sb2ItT3g1ZThsM21ubFQ0a0huVlFN?oc=5"
+      "publicadoEm": "2026-11-09T23:53:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWGhjN0dYX3FBc3ZNNHdsU3lRdzI4a1RSNEdjd3RGVzlKVml6c2RDYTZqSXdidHp2LThiaGx6ejlOQkRFZ3JHYXRNSUpxZXNjNHppWnBjNG9wZWlmcFBISkQxNkwzcllmN1RmS2pRbks1S2Z5emlxNEhJb2V3ck1hVkZCdnJvbG9hMkVLZWxxNThqY0taY0V6OGR5a2I0MmV5UEkxZDdoV3JYX01ieHppcjVPYnBkcktWamVCYWVtVThDbUR4Y1ppcjEzQkgzaWZBa2ljVkw5Qk7SAd4BQVVfeXFMUFlITGFmYVk2SWhtaWRqRk9jbWV3UlQya1lBT0liMjRmd0ZtY0Z3UzdYVnFDS2hiZnFHZnU4SzlmXy16QkNKZFZBWmk3UGpvdVF1Q0QtUW5QWFJaa01aN210bUt1eFpKWFJMQnNzWk1RQ0ROaENKOUtCeFgtOF92dDZBMUxaZ3NfS3FuSUswdDRGRnB3MEU3THdvMTlETTR6WG42ODJ2c2otSkl6SGEyWTBpVUw5QVpQZXRSODd3a3Zqd0xqVVdpcG5lRDZHR20yN3VuNm5xdE1FQk9LbklR?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "RIBEIRÃO PRETO",
-    "uf": "SP",
-    "valor": 10,
+    "cidade": "UBERLÂNDIA",
+    "uf": "MG",
+    "valor": 52,
     "seta": "↑",
-    "status": "ALERTA SECA"
+    "status": "SOJA · MILHO · CANA"
   }
 }
