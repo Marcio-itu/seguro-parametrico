@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-11-10T16:39:05.373475+00:00",
+  "atualizado_em": "2026-11-11T00:56:17.187305+00:00",
   "noticias": [
     {
-      "titulo": "Auge do El Niño e a dengue: por que o calor com chuva favorece o mosquito",
+      "titulo": "El Niño ganha força e seca deve se intensificar no Brasil até início de 2027; veja previsão",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "TUA SAÚDE",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-10T11:23:43+00:00",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQkVKUmo4VU1ka2FmaHhRSjNRQ2MzUDV4MHFrUkFKRjhvaGtoWmJIYW5neGN1aUdodzhMVTlFN2xlMDc5am5naHM1MVhVRjloVmpkUTFlNTAwVHNXTU5Nd0VVM2UxZ1dyOGVDbEYzT0E1SmRCcnpGUEE5cllYWFpLa1hWNHR4MFRNdUR3d2k2UzNGU21mSl9DWTNTOXh0cTN0cGVHNVFYVHFkZG9zZVRXWVdNb2Y?oc=5"
+      "fonte": "TERRA",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-11-09T23:59:45+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRFJpZHpaTXVXVXotQXRqZFRwckFGdnA2eDZneG16RmRwX3dLQ0JTMlNySWg1NFVoMEhWLWc3cThfRHQ3N1FPYVpxQjc1YVBQSXUzZGFiTGdKYzE1dTZGM3RfVFV3YnA4MThwUFY1M25NNlFweUxXM0t4UWxmSnFsNXh1WXhaMXVMWlpQOGFQckdCMmpPMWVtbGdLMmNHRHVrNDdldGdyd3JvakFLQ25SeGJBc0NQODZqb2JQRTRVQ3VqbnV3ejN0TEFiaElObGtkQWlUeDc0VVd4MXV6VFFFeHNQQl9UNVF5ZDlDQ2szUU5kRkNGQUdMUVc0Nm1EcmhhbnJZMnRSY1I?oc=5"
     },
     {
-      "titulo": "2026 já é o segundo ano mais quente da história, alerta ONU; Super El Niño pode aumentar temperatura",
+      "titulo": "Moradores registram chuva de granizo no Crato durante temporal",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CNN BRASIL",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-11-09T12:47:12+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOd0NVdVEwOHliWFh6VzVFZWRmbFkxazQ3OHh0WWttU0c1TUlqRXZNQWdtMTNmbms3LWdKcUVubUo1cFl2aW9VbmNkUFhnTU5zNWduUWRHRTJqQTJYOHRvUW0zU243ZkpmS05mXzdGZGJ2MXpXcnR0T2tFMi1GempLNFppeVgzbUVQRk52NnlrVXZjaTdBVG5BU1o2X3k4VGsydTlYbkFOUVhwWGZhQ2xFaFBUYktjSWE0TlI0aHd1NTlOWDFmYld2dFYzSmJsaXFVQkE?oc=5"
+      "fonte": "DIÁRIO DO NORDESTE",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-11-10T14:46:03+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbkd3VkplNmp1TGJObDVpWDdPQnBsaVNrZnVCcGtRUTBxTVBmV2RZT0MwOF95bGFaWDcydzNEbkt1ZHg1cWtYeGtGVGJZRDN3d1p4ekNkZWlodHhsZ2xWb2ZDOG5iRTF0X3JjUU5UT0tsVW1NWE5WRUNFaXZpZm1QYUVUUUpfQ2pVcDF4WVN0MzlOV0VBazNvc2ZKNm5wUWZCQlRXQkdIMno2Z093cnFzRlVLcW9uTEJYc2FzcWhoVQ?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "CRISTALINA",
-    "uf": "GO",
-    "valor": 99,
-    "seta": "↓",
+    "cidade": "BARRETOS",
+    "uf": "SP",
+    "valor": 84,
+    "seta": "↑",
     "status": "ALERTA CHUVA"
   }
 }
