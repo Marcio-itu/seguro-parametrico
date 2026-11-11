@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-11-11T00:56:17.187305+00:00",
+  "atualizado_em": "2026-11-11T16:44:01.855101+00:00",
   "noticias": [
     {
-      "titulo": "El Niño ganha força e seca deve se intensificar no Brasil até início de 2027; veja previsão",
+      "titulo": "El Niño, dívidas e custos pressionam safras de frutas e hortaliças em 2026",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "TERRA",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-11-09T23:59:45+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRFJpZHpaTXVXVXotQXRqZFRwckFGdnA2eDZneG16RmRwX3dLQ0JTMlNySWg1NFVoMEhWLWc3cThfRHQ3N1FPYVpxQjc1YVBQSXUzZGFiTGdKYzE1dTZGM3RfVFV3YnA4MThwUFY1M25NNlFweUxXM0t4UWxmSnFsNXh1WXhaMXVMWlpQOGFQckdCMmpPMWVtbGdLMmNHRHVrNDdldGdyd3JvakFLQ25SeGJBc0NQODZqb2JQRTRVQ3VqbnV3ejN0TEFiaElObGtkQWlUeDc0VVd4MXV6VFFFeHNQQl9UNVF5ZDlDQ2szUU5kRkNGQUdMUVc0Nm1EcmhhbnJZMnRSY1I?oc=5"
+      "fonte": "CNN BRASIL",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-11-11T13:44:01+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOWFnRFJHV1R5YWNROHUzQzYtMGJpS0ZQWmN2U2RWMDQycFlLbkhYQmJ4MEhyc0RmbFpyU3RXN19IYWZnY1d3NG1OMXYtNHlFTW1wLVlySWMxTUxuQXl2RXZQUGM0VXl3dW1TSnozQmtGTjNoaDYwX295NVFwdWtZcmZDUWVSamk4MnV4V05xaExZRzhNUS1Wc1dadm4zbzUzX0xYQTlZVE95YUxD?oc=5"
     },
     {
-      "titulo": "Moradores registram chuva de granizo no Crato durante temporal",
+      "titulo": "El Niño pode mexer com preços da cesta básica no Brasil, mas impacto depende de chuva e safra",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "DIÁRIO DO NORDESTE",
+      "fonte": "TRIBUNA DE MINAS",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-10T14:46:03+00:00",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbkd3VkplNmp1TGJObDVpWDdPQnBsaVNrZnVCcGtRUTBxTVBmV2RZT0MwOF95bGFaWDcydzNEbkt1ZHg1cWtYeGtGVGJZRDN3d1p4ekNkZWlodHhsZ2xWb2ZDOG5iRTF0X3JjUU5UT0tsVW1NWE5WRUNFaXZpZm1QYUVUUUpfQ2pVcDF4WVN0MzlOV0VBazNvc2ZKNm5wUWZCQlRXQkdIMno2Z093cnFzRlVLcW9uTEJYc2FzcWhoVQ?oc=5"
+      "publicadoEm": "2026-11-10T21:07:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMUJzS1pCNzZQbTVWQW1HVHNWbmRETVZDZkQxWUtveEdMZGIxbGdPOFY2REo2Sk0xRlV6dDZGRDFsV3c5OWVCRHpTYWdXLTBJc3pncldTTHBlT2tueXJtblZxU21uVEc4OWdPQ0k2SW1VeFphN2pEWlhxUFBKbE5MekpHTDMyNjlwd21EYnkxN0NmZWRPWldnbjhQV1JhRzJLWElTamNvRUlsR0VIVllqREozUXBLVVVINkNOMWNUZ1hEVGVEcFNQa0NrYmdkUHhXaU9J?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "BARRETOS",
-    "uf": "SP",
-    "valor": 84,
+    "cidade": "SORRISO",
+    "uf": "MT",
+    "valor": 55,
     "seta": "↑",
-    "status": "ALERTA CHUVA"
+    "status": "SOJA · MILHO"
   }
 }
