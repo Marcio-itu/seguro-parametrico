@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-11-13T16:49:33.935763+00:00",
+  "atualizado_em": "2026-11-14T01:06:39.379904+00:00",
   "noticias": [
     {
-      "titulo": "Rio tem recorde de chuva em setembro e outubro, e recebe obras para conter efeitos do El Niño no verão",
+      "titulo": "El Niño no Sul: revisão de crédito e seguro rural pode reduzir impactos de perdas na safra",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "FOLHA DE S.PAULO",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-13T14:08:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVVlXUDY2cXpjLUZaaXpLR1dWZklqNmFfX1Y4YzdreXNSWnJobWZiMl9oZlh2V1lOM0RfdDhmY2kwdm9reWRHTjZLSDBJdnpfaXpiY25uR0tIdTBTdG9fakp4RU5tZjhXUTlxNG1xdlQzemFDbktUSG94RGtzd1hRQWpxNklEdmJqVk1IZWNrYWpRbklpMVpFclI4dV9pZEpSd3pwS09kdEF6ZWtWSnRYQTFwTHNLY2Y4dFBRQVZha2Ftend2VkZ1V2h4cTRPbkJuZm5DM2dIdUpwSUVsMGxYSmU1ZGh6NDVmcjhB?oc=5"
+      "fonte": "PORTAL DO AGRONEGÓCIO",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-11-12T13:35:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNnFPYmNCc0NQZ0NRelE3eGdoTzM2RncyT3dnNmc1OVRYcnEwWW5LbGFCRFNXaFhTdUYzVmJnaVd3U3dleGJ6UjdwWTRlQmhfY0l0cnZiWlpBWmdldXp4UUxsbV9tWk1meW1VWTlnWlR1Y09OcjI1V2hoUHdQRzdaTlFWdFZBN3RlZGlHQnRCMXdUbVpwSzUzWEhpLTI5alNvUmExTkl4cmx1c3NZZVRIRmJOSGQwQS1XcWxhdjI5NVVVMHNsUkdsYUZiQzVNNmNnVXpqZk5BTldKal9HNmpVRWxETFNwWFAwVzkweA?oc=5"
     },
     {
-      "titulo": "El Niño ganha força e pode ter intensidade 'muito forte' até março, diz agência climática dos EUA",
+      "titulo": "El Niño Costeiro monstro bate um recorde atrás do outro",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "G1",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-11-12T14:01:50+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa2Q4MkVhM3gxaV9mMWd6a0wwcFR1MzNxQThXcmh0S2pRTzlFaTBaZ1ptVW95cm5pYmFUdVRqeXdPMWV2aWgwQl9GVnBfc1FIbUdaZjZiZDc4R3RNVnhDUmlfdF84eGpYTUdSLS1GSzNRY0lmemE0QnFPLXpybWs4YU5mWHNOUHFN0gGXAUFVX3lxTE4wSTJKNXRBckF2My1aV202bVJWRkNvUDRFXzNiZE1NUnVpVVZxRk9udVE1WGpfaHRBbko5S3N6OUNNUWlWaGNsXzR3ZHRQQ3ZXQllzRkJTVzJCRm5IRF9mVVVTNlhLSzZKdmk4RTMydTg3ckE2SXV4dnpsbFRuT2pzOC1jUUxFNWNlNEdUbGNMYkJtYUdWMDg?oc=5"
+      "fonte": "METSUL METEOROLOGIA",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-11-13T09:54:36+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrcjUybXlZTS1sNUV0dlVSR01nMWNidGx1OFBLX1p4cndMZDhCc0Z1bW9qLU83RWhPRVZhbFM1U1BLWXVlZWl0UEJTb2lWN0l2NVZWVDlxazFXOTltS0thY0JLMjRLdjlCb2c?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "SAPEZAL",
-    "uf": "MT",
-    "valor": 98,
-    "seta": "↓",
-    "status": "ALERTA CHUVA"
+    "cidade": "CASCAVEL",
+    "uf": "PR",
+    "valor": 69,
+    "seta": "↑",
+    "status": "SOJA · MILHO"
   }
 }
