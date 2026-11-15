@@ -1,22 +1,28 @@
 {
-  "atualizado_em": "2026-11-14T15:23:50.810997+00:00",
+  "atualizado_em": "2026-11-15T00:29:29.690813+00:00",
   "noticias": [
     {
-      "titulo": "Ceará decreta situação de emergência para 65 cidades por efeitos do El Niño",
+      "titulo": "Ceará decreta situação de emergência em 65 cidades por risco de seca com El Niño",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "DIÁRIO DO NORDESTE",
+      "fonte": "VEJA",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-14T00:54:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeTZhaW81U3E5Vmk1dDdJMEcxVXZwZ1hweGlkdjBhdFdBMXloZjBjRGJqdm5QQVNoa1hGR2hGNjhDTjFCVXloOS01Wk9pWUprMlg4eVRZUGhWa2xDTjlPVEFQMzhyaHQ4RnJ0WnZDMWwxc2dmMUZwWk96UFJXa0I1ZkljWEdDdDQ1MmVSRnpXLUZFVFdVQ0oweEY2V2s4VU9XdjZfeVlMZFdTeUstMFJTS0lyWkY2dzk0STl4b25YVk15N2F6ZUVtWnczYnB0T2du?oc=5"
+      "publicadoEm": "2026-11-14T16:33:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbk1pajZvMHRRenQ3YTdHc3hWU3JqWHNUYkJNNEVIWHhJWmJnOW1uZ0ZOZjZGTWI2NGhHazdseHlxNlQtZEh2SVk0SE1nM3hWbE53TE04RkZXODJVWWhDal9oUzRiNjM5V0dvVU1UNERZcUQzM1RFUnhHT1JTOTJ2c1JRZFAyME4tYm84SkpEa05yRnNJOTczRXM2U0toTFJQWVFEbTVIRC1GR0ZITm1vRzNZbFJfMlE0bElqeQ?oc=5"
     },
     {
-      "titulo": "Chuva pode chegar a 66 mm em 24 horas no Rio Grande do Sul",
+      "titulo": "El Niño deve provocar chuvas acima da média até março de 2027 no Paraná; veja previsão por mês e por região",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CANAL RURAL",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-14T01:07:07+00:00",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObktITVVjY0RtRzJDQjdnTVZPbGtraU9vaF9mRWFGOXJYelVXTzhud1dKSExSQmpST2Rhdk9lMTJFdldCR1RPdjIwODN5NlM1cnJ0czV6dnBVald0cFZLSUhtUTFiRURMVVJ2RXpZMkpKQm9rTTRWeHZ4MjBhQ2JoMTYyLS1yVDliUEx3R1p0ZFd0R0Z4WUl0WTNXai14eTk4eEpxcm5oUHFDang2RjhN?oc=5"
+      "fonte": "G1",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-11-13T13:47:47+00:00",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPQzRLWUI1azNDTXk3RVo0bXFVZDhiYlRLaTlKRW9YT1l5UzlFcV93aWVMSUxBMWtXMS0wallQX1g0ZnZ6cVdHRWx3SjRsRldCLXI4WGFjMGN4c0FkY2U1SjFSN2VRamFJcE1EUEVXNXJpcDlVRHpSUkhNYzNPVEV6OXJYN01xMVltYmt5LS1EaGtVRmp0UHQ3V3huV1JNcEMxMmVudG1WT0V3ZVZoT2x6eC1aRHlhdlVZRTQzcWdna2M4STFyLXpJMTJvOFdMVXVlamNqZGFEcFJSZjBDN2pCeE5pOUlEZFpiYU5SVm9vNm1xMlFseTBvcVZiTUpOYUhiSlB3?oc=5"
     }
   ],
-  "chuva": null
+  "chuva": {
+    "cidade": "RIO VERDE",
+    "uf": "GO",
+    "valor": 57,
+    "seta": "↑",
+    "status": "SOJA · MILHO"
+  }
 }
