@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-11-15T15:56:51.467682+00:00",
+  "atualizado_em": "2026-11-16T00:30:29.451400+00:00",
   "noticias": [
     {
-      "titulo": "Duelo de fenômenos: embate entre \"Super El Niño\" e vórtice polar intriga cientistas e promete surpresas durante o inverno no Hemisfério Norte",
+      "titulo": "El Niño pode superar recordes desde 1950 e acende alerta para o agro",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CNN BRASIL",
+      "fonte": "NOTÍCIAS AGRÍCOLAS",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-11-14T19:43:07+00:00",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNZEFxWDFkdFpHZ2ptZjEtRUJlU0JPWFAtaXIwS3dGMlJzWTBtMWdORW9rSVo5SWo5WVlZc20wZkFWeE9QRURJRWZyRmtOMTZ1bVBOOVYxZDVuWURhR09Jb1I1aFhOMzNibmUyUHZHQjI1aTRmOHpld1dvZFpJRjZfRHNsVWFCcDR6MEZSbWkzLUNIaUt5UFE2Y1VqZ1laVTlmMm9TR3oxWWpBSklEYjVDbjVLR3d0aVZ1VU1ocU5kbVBBM0pIejNCM2VxS3hHQk1RUTNyVFpPaVJJOHowaFBfUGhQblgtVkhZd2FMOEpXeU0za1RNWnJ6QUdYd0dyUTVPX041cHJzYw?oc=5"
+      "publicadoEm": "2026-11-13T13:59:38+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQkppZzVHM2RSX2tQNkdCUlVIdzUxOExSSzlZRV91amx6UlE2MjV5X0dlcjBTNk9aamRjbWluclZUdm1EWFpCVUEyYnNKRmk3eXVOSWR6MjdLTXJRREFxNUVuRkFxSTRRcEJhVUE4WkJEYzRjWlJnVi1YUjAwQ3VvaEtSUXRHMF9uZVByVHZ2Z1lNX2tPLVpCOW15ano3MFVaZjJuLUpTZ0Y1aTFaVU9fbXJRZUdqYmllcVVKQWxNdXpKYVZVODBrcHczUWVmbExzU2Y3STlqa9IB3AFBVV95cUxOVDNZT0E3cHhqODJKbHVfSFJXTzJfMmw1SjBsUHVFVXVkckl4bnc2V0hzS0kyV0FOa0o3STlSUlNfeTU2cjFRaFV2UmhTUzJ3MkFnT29DaDhpNENjS0JMUmtDR1pVbjZOYmJRd1ZQTUhoWkhWa3pVMHlPajhsR2Z3STlVUUJJaFBnbVp3NEFjQmhQLTduQnR1ZGFQcTF0N0FJa0hvRldTY3FkaEQ4Wkk4RUxBQUNMb3ViLTJsd2xvT09sczVoYXQ1YS1ySFRlQ1p3MjVIbnhUMFJIZDQ1?oc=5"
     },
     {
-      "titulo": "Ceará decreta emergência em 65 municípios diante do risco de seca provocada pelo El Niño",
+      "titulo": "Defesa Civil: Inmet prevê chuvas com descargas elétricas neste domingo em Aracaju",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "RÁDIO METRÓPOLE",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-14T21:02:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMWdZQTVjNXg1eDllSFVVMGlXcmVOYmNPMHV3SUQxZFFRVmlOdmJHQ3I2WDE0bjFmME52LTBVNG1aWDNGS2htd05JTEU2enlOREVwTWtLYS1jWFdVTVpCSjFYTGhkNmFoVzhGUW93VUo4Uks0MW92b3lmQ194UWZaZk9iM1otRElCSVhFVm94bm43N1ZYdF8zWFN6UkdUTDlua1JKUEVISEdhQlhfcW43LTVVOGpnSEdwRjl6Uk9OS2tGRkU4MG1VMkd3STdtVWVnaXNn?oc=5"
+      "fonte": "PREFEITURA DE ARACAJU",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-11-13T19:22:06+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObEZwSDNhOHhoeU1mUElpRFlBWmVmaVRhbmVhdWs2MXE3SDYtMVVJYm1RV3dJWFdBVjduNmFCZ251blBrLTV4UWVIdjlhZFZoUTRUd28tWjFvejhycGpHSmlfNVF1REpSRUI3d09tcjM5VVdwelRGdW9yMW1zQ2g5RV9fSExQSllwVFEyMjJ4OFE5VTRmOUFUX2V4ZXpnQ3ZidFJ1a2FmYnZLNVNPTHpfZ1BMRzk3WEE5bWhaS0xmUFo5UnVM?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "BARRETOS",
-    "uf": "SP",
-    "valor": 77,
-    "seta": "↑",
+    "cidade": "BALSAS",
+    "uf": "MA",
+    "valor": 98,
+    "seta": "↓",
     "status": "ALERTA CHUVA"
   }
 }
