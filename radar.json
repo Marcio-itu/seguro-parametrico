@@ -1,28 +1,11 @@
 {
-  "atualizado_em": "2026-11-16T19:00:08.732442+00:00",
-  "noticias": [
-    {
-      "titulo": "El Niño: desastres no Sudeste causam R$ 87,5 milhões em danos a moradias e deixam 25,9 mil fora de casa",
-      "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "BRASIL 61",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-11-15T07:05:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMXlheDBkMFl6UTUtMXFGang5SDhQeThhNUpFb2NQbjdGa2dYS3dZcC1EeTJueFlydkFuTzZOa1pKdUdJQXV0RGlfY1RFbktDOTdIekpFYlFwdFhOTGduSmcxb0ZxUUdxQVhaaGdGcWo3eXAwaEtxS3c3UXhRSTZFOEVTUlVpSDJacUw5RjktZV9ZUUI1ZjE4OUxtX21mUUlJZnA5amJvOGQ5RTNwUkNZTEhBY05xRjNzY19saGFzTHEyaDV2RjZmeUZiY2lONVg1NWfSAdcBQVVfeXFMTk84ZVQ5QUFqeUVSMmNCN2ZJaUdoeFA2TXFTWTBxQ3E0OTY5bGh3UFdCMFVwbmxYLTdEbHVlUE5RTDNoUWhwWDRIUzVxWThYanlETWR1czlHbkRfdUtGd0RzemxtLTRzTkZQSUVMVWFiZWw2WU5SU2x5MHZaR1NNT01Fd3lESy1UMXRycWluVVVLQ05WU0M4Z1RPVHlrams1V3hzLUU3U1p3ZndWYUNfM293WmUxZTIxemNFZWNmaWY2a1d5bWh5bE1WelhwcVQ4cEFCREdyUE0?oc=5"
-    },
-    {
-      "titulo": "Maceió terá segunda-feira de calor, céu nublado e possibilidade de chuva isolada",
-      "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "TRIBUNA HOJE",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-16T11:18:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQM0l6OXJQNF85MXZZUzI4Mk9CWk9qQ3BkaHdfOGJvNk51QzZrcEVCeFpKZHc0RmZrY2N3R19mNFA2R2lxODNnaTFlWmo5dkh4RVEzRlFKNmdQQWhpWnFnQWZteXh5a0o2LUxIbmVHTmk0czV5TjJhb3RMcG1iWDJxNGR4d2c0eVZTcDQ0eEx6MGEzVFExM21kQzNOWWZ4enBTRFZQOUNhZVEzZ0NtX3UxXzFWNldFYzZBNW9vWHR5TlFZOG1mNklud0kxdU93eTcwb2FvaA?oc=5"
-    }
-  ],
+  "atualizado_em": "2026-11-17T03:16:37.002955+00:00",
+  "noticias": [],
   "chuva": {
-    "cidade": "RIO VERDE",
-    "uf": "GO",
-    "valor": 75,
+    "cidade": "L.E. MAGALHÃES",
+    "uf": "BA",
+    "valor": 69,
     "seta": "↑",
-    "status": "ALERTA CHUVA"
+    "status": "SOJA"
   }
 }
