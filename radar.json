@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-11-18T02:38:41.113781+00:00",
+  "atualizado_em": "2026-11-18T17:39:28.866588+00:00",
   "noticias": [
     {
-      "titulo": "El Niño deve trazer mais chuva ao sul de MS e calor acima da média em todos os 79 municípios",
+      "titulo": "Peru cobra na COP31 que dinheiro do clima vire investimento real e pede ação conjunta contra garimpo e madeira ilegais",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "A CRÍTICA DE CAMPO GRANDE",
+      "fonte": "REVISTA AMAZÔNIA",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-17T14:30:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbmotUk16WmNKYUhMZUp6RGFYTjBaaWtQSzQzZHFmd1ZKSmZoRkNEbF82Q1VOZkstcHpyam82UVhPWklfWWhTeFdFTWpvZ1BlTnU1LS10aFJKZFc0dG5uS2lsWnVpQU9KYW9jWnIzMTFEZWNnOG9UdE5fQjFKR0xZSUJ3aFhjaUJKQ1FTcjZpaW9hd0hxbjJoczNqVQ?oc=5"
+      "publicadoEm": "2026-11-18T11:50:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcndzS2taYVE4cGVPaW56czdLT3JTVlNyRk9wb0F1bXhMNGN1YkpVQnhIRkJ2UE9vUW1rbDJINlFONXlKeGVoN0xiU2JaRV9XTlkzRWxBOEtCaUU0Vk5leWV6RXNPSDhHeWxkLWNJRkhRVmgtSDZpZjVZUlVKaG13dmE2bC1zeU92aEFKWk9iUVV4NUM1eVhRNGx0TVA?oc=5"
     },
     {
-      "titulo": "El Niño: Câmara aprova crédito extraordinário de R$ 849,7 milhões para MDA",
+      "titulo": "Trigo: El Niño prejudica safra no Sul do Brasil e favorece Argentina",
       "resumo": "Leia a matéria completa na fonte original.",
       "fonte": "CNN BRASIL",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-17T21:50:49+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLWJaZG5GVmlGWmRsOGhKWnVDX25HY1JwTkZ6OUo5NFdtYXhzNENVOU5JTlRtMVF3UGtHaWI5bkw0MXF6RTFsSF85dXFfRURXellzRi1qY3YtbUtEbk1NY3ZxdU5uQnBvclZDQTNHMHg2SlJiN0R3Z3pfN2VMN0JEbjFoSFlFZHNfWW5ZZmFSU1pTelpfSGpXemNCbElST0NIZmtxTG1KQWJ2dw?oc=5"
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-11-17T11:30:31+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM2puR2E5TlpvN3ptV1BRWDRrMGR1dVdxckJsNjlDTHB2ZHJLRUp0Y2VqQ1dWSS1hQzh2YlFHMkd4SFZxNlZoV0ZvazZ2YU40Yy14ZmQ3cGYtZ1lhR2x1VEJJVjR4TGstcDZkMURwd3I5ZUllMUc1ekFZQW5vOFhfRnR5RXJnUk9hZFVsQUppVVkzTHQ4MERMRG42WXdPWGhxTmc?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "BALSAS",
-    "uf": "MA",
-    "valor": 94,
-    "seta": "↓",
-    "status": "ALERTA CHUVA"
+    "cidade": "BARRETOS",
+    "uf": "SP",
+    "valor": 39,
+    "seta": "↑",
+    "status": "CANA"
   }
 }
