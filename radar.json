@@ -1,27 +1,27 @@
 {
-  "atualizado_em": "2026-11-17T17:57:48.309071+00:00",
+  "atualizado_em": "2026-11-18T02:38:41.113781+00:00",
   "noticias": [
     {
-      "titulo": "Emergência no Pará, incêndios na Indonésia e ameaça à segurança alimentar: os impactos do El Niño nesta semana",
+      "titulo": "El Niño deve trazer mais chuva ao sul de MS e calor acima da média em todos os 79 municípios",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "O GLOBO",
+      "fonte": "A CRÍTICA DE CAMPO GRANDE",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-17T03:16:36+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPdlpONW1Ed1RFbko4MWJIWXNYcVJWN3pZMmVCU0hRa1lHYTZlWUFnUzUzeV9ZV1VYLUdEd2lja2hUSVEzc0RXcVAyTVpoWkwxVUoya2c1WlU2Uk8wSGlST2xLSE0yVE9wM3JaQUswQmRpengzUEZuM1p3WXdQQkxfMXBHZlRGLUx0MWJ1U3R6N2gyRWtlc0I5UURVX3JOMWYteE1uQ2VORHplMjZoa1lnNWNQd3RHaHo0ZU44OTUwTXJzLTkteENuLU9rWXp2YUU3eXhqcUpjT0ZNYmY2NVVHUG80ODhkdlFmakpQYXpnYjBBV3c0Ul9WUjFmRDd6MDc1U3fSAZACQVVfeXFMT0xmUjhYNUxyeUVEOEd4V3pOallOMWgyLVB0YWdfNGFUQ191YldwUkN4bGs4LThISW9qNFRPRTd2TFZ6UDVrc1NSUzg4M2RXbkdpX3M1Vk9TLTJYaVo2dFhfSC1PUUxvVXlUTmE5OGNhZFZfVENLYVRKZlpRZWQtWlo5WnVhSTBpV1hDU3NTMnVrNVlobTB5b1I2aFBpM19ieGVodVRQSmtwVHl4aEtqN28xMTV3Zld4X0tOcHgtQjVSaFVhWFVIX3FacGQxclItQmhFZEdqbEs0SFFKRWZyYk5icHlkMHdlSGwzeVNMQnNuRUJNandYTXJMcjVmTl90UWJBMm1oWGNMdGZORGh3UUs?oc=5"
+      "publicadoEm": "2026-11-17T14:30:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbmotUk16WmNKYUhMZUp6RGFYTjBaaWtQSzQzZHFmd1ZKSmZoRkNEbF82Q1VOZkstcHpyam82UVhPWklfWWhTeFdFTWpvZ1BlTnU1LS10aFJKZFc0dG5uS2lsWnVpQU9KYW9jWnIzMTFEZWNnOG9UdE5fQjFKR0xZSUJ3aFhjaUJKQ1FTcjZpaW9hd0hxbjJoczNqVQ?oc=5"
     },
     {
-      "titulo": "Em ano de El Niño, país tem estoques baixos de produtos básicos",
+      "titulo": "El Niño: Câmara aprova crédito extraordinário de R$ 849,7 milhões para MDA",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "BRASILAGRO.COM.BR",
+      "fonte": "CNN BRASIL",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-17T07:36:15+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV0J3RjYyV3R3ZXVKTEtoRnZaSGlXRVN3d2ZSNHlVOVhFejR6Ny0xcmJvUFFDcnp1STVSS1hSY2V5WVRtT3RqNGVQaEU4a1RhOHFYMjNoVWlraEZINDFJdVpYeGc5SXkwOXVEQzJRYlU1T3hhX2JlZmVqb1F2cUdlWFBhYjJjV1RhYWtjVmhrcW5aYUpxaVkyV0pEU2NHSFNTLXZocHpqQUdsdw?oc=5"
+      "publicadoEm": "2026-11-17T21:50:49+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLWJaZG5GVmlGWmRsOGhKWnVDX25HY1JwTkZ6OUo5NFdtYXhzNENVOU5JTlRtMVF3UGtHaWI5bkw0MXF6RTFsSF85dXFfRURXellzRi1qY3YtbUtEbk1NY3ZxdU5uQnBvclZDQTNHMHg2SlJiN0R3Z3pfN2VMN0JEbjFoSFlFZHNfWW5ZZmFSU1pTelpfSGpXemNCbElST0NIZmtxTG1KQWJ2dw?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "CRISTALINA",
-    "uf": "GO",
-    "valor": 96,
+    "cidade": "BALSAS",
+    "uf": "MA",
+    "valor": 94,
     "seta": "↓",
     "status": "ALERTA CHUVA"
   }
