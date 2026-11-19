@@ -1,27 +1,27 @@
 {
-  "atualizado_em": "2026-11-19T02:05:51.742311+00:00",
+  "atualizado_em": "2026-11-19T17:47:58.229224+00:00",
   "noticias": [
     {
-      "titulo": "O fenômeno El Niño representa um risco de escassez generalizada de água durante a estação seca de 2026-2027.",
+      "titulo": "El Niño baixa nível do rio, espalha fumaça e muda até o gosto do açaí no Marajó: ‘Solo está seco’",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "VIETNAM.VN",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-19T01:21:37+00:00",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQUZCaDc3a2VEblVtTW1kby1pV3RocjlLZ2pvQUxYd29mMk53eHpPaW9YRGtGVmVZb21ESlFMQVBGcDRKTzNvOURIMkZOaFdzY0t0T0wtS2J2NFVsakJRWlB6QUpWbGY1MFhWXzBYUENuWjl0NFJtMEFTM2hhMDAxUks4QWpIenNSWjBCR3RLMW9RQXhk?oc=5"
+      "fonte": "ESTADÃO",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-11-18T15:27:26+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeFE2Sk15dUFBNlBFeWhvT2lDUTVLdUpBSHZDZFRfMWo2NVhnRHlGbVEwTXFHMXlPTWR5dHhKbk9XZXpiTnZDNTFHaUJlR0k4WGNnTDlMbzBGUVBvcHU1alo5aTRZQm9qQ1JtcXA0R3FCVGZTbnl5UE1peHJYNmRvOHZmTEI2X2dJbzRyU0lMN19BbkthSGNndWU2UDZOU3lyemVGTWlkWWZLUjFJOUdpLXI2ZHBRZk9MazFoTzNfNURoak9NVWdR0gHMAUFVX3lxTFBYZnd6NGlMYUtBU0lZcGU2M3lfd0RyRXlmd2Q1VElSTkJWTjBCcU5UQXdnWlBnSlhxTHdSNlpka2tfMVgtaHpDcmxFOEVLYmc4cjhEalV0WmZqMzE2QmhoM1NQRUs2NjRackJJLXZBTFZ6a2h2Smg0TGZsV1VfSFIzUHN5clJfbGJ6X0JGaXdiaGRSVFA0VjFQbHJsWmhKd0loQ1JqZ3FxUzduQWM4RXZCVHBGNHlJUXA0V1hSbkZTUmVtdGhpekFSWFNfWQ?oc=5"
     },
     {
-      "titulo": "El Niño e mudanças no clima podem deixar ceia de Natal mais cara? Entenda impactos",
+      "titulo": "Plenário: deputados elogiam instalação da frente que vai buscar soluções para efeitos do El Niño",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "TERRA",
+      "fonte": "ASSEMBLEIA LEGISLATIVA DO ESTADO DE PERNAMBUCO",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-11-17T08:00:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZjA2WFVLaGpHZVJtTXo2V29SYkJ6Uk9YWVNDb2tLTlFYRVI1ZWhoSnlyQVQ1YktaeDBCYloxckxtYjdKNnR1UUJhMWphaC1PQk1qV3FGSVM1ZExRZE0zRlVmdmctRnJtc0cyZDNIbDZPRDNfX2lMWC0wNHZqMDVfaFlOYmVTVDc0YkQwNXJRaHJBVDhsV2FTX1lscVJ6QlJDQ0xSRHRTMFUxa0dvQmc4OThJM3pVYWJMYk1SNFdKTm1CS29ZSmRhNXpiZVVmM2hBemM3cHZZekkzNU5EOEh0VmhTcTBwQnpERzV3RHhuZVhJWEE?oc=5"
+      "publicadoEm": "2026-11-17T21:52:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOUN2U3M3dENYMVlCWUY2WXoxUkZxZUhDQUVSNDhfV1ZYTzRZV2NvTE00VkVKZHltZFo0Z2I5eEpqeVV6TGV3cTR6aFVhQXhHWW01Q0hVTkRobUl0VC0yc2Y3Vks3aWhfbU9GREk3cWJPSFlWXzJxcm5HcWZmNHNPb2g5b0ZSU3N1cmoyZ3l4V3JuVTNDTWxMTVdidnpyWm15eFAwMDNGVG5IRDJxUHVZVkdwX2kzUThEdmxiTWxLSnd4YzVEazYyRzlaU2liUzVq?oc=5"
     }
   ],
   "chuva": {
     "cidade": "UBERLÂNDIA",
     "uf": "MG",
-    "valor": 92,
+    "valor": 80,
     "seta": "↑",
     "status": "ALERTA CHUVA"
   }
