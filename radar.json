@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-11-18T17:39:28.866588+00:00",
+  "atualizado_em": "2026-11-19T02:05:51.742311+00:00",
   "noticias": [
     {
-      "titulo": "Peru cobra na COP31 que dinheiro do clima vire investimento real e pede ação conjunta contra garimpo e madeira ilegais",
+      "titulo": "O fenômeno El Niño representa um risco de escassez generalizada de água durante a estação seca de 2026-2027.",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "REVISTA AMAZÔNIA",
+      "fonte": "VIETNAM.VN",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-18T11:50:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcndzS2taYVE4cGVPaW56czdLT3JTVlNyRk9wb0F1bXhMNGN1YkpVQnhIRkJ2UE9vUW1rbDJINlFONXlKeGVoN0xiU2JaRV9XTlkzRWxBOEtCaUU0Vk5leWV6RXNPSDhHeWxkLWNJRkhRVmgtSDZpZjVZUlVKaG13dmE2bC1zeU92aEFKWk9iUVV4NUM1eVhRNGx0TVA?oc=5"
+      "publicadoEm": "2026-11-19T01:21:37+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQUZCaDc3a2VEblVtTW1kby1pV3RocjlLZ2pvQUxYd29mMk53eHpPaW9YRGtGVmVZb21ESlFMQVBGcDRKTzNvOURIMkZOaFdzY0t0T0wtS2J2NFVsakJRWlB6QUpWbGY1MFhWXzBYUENuWjl0NFJtMEFTM2hhMDAxUks4QWpIenNSWjBCR3RLMW9RQXhk?oc=5"
     },
     {
-      "titulo": "Trigo: El Niño prejudica safra no Sul do Brasil e favorece Argentina",
+      "titulo": "El Niño e mudanças no clima podem deixar ceia de Natal mais cara? Entenda impactos",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CNN BRASIL",
+      "fonte": "TERRA",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-11-17T11:30:31+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM2puR2E5TlpvN3ptV1BRWDRrMGR1dVdxckJsNjlDTHB2ZHJLRUp0Y2VqQ1dWSS1hQzh2YlFHMkd4SFZxNlZoV0ZvazZ2YU40Yy14ZmQ3cGYtZ1lhR2x1VEJJVjR4TGstcDZkMURwd3I5ZUllMUc1ekFZQW5vOFhfRnR5RXJnUk9hZFVsQUppVVkzTHQ4MERMRG42WXdPWGhxTmc?oc=5"
+      "publicadoEm": "2026-11-17T08:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZjA2WFVLaGpHZVJtTXo2V29SYkJ6Uk9YWVNDb2tLTlFYRVI1ZWhoSnlyQVQ1YktaeDBCYloxckxtYjdKNnR1UUJhMWphaC1PQk1qV3FGSVM1ZExRZE0zRlVmdmctRnJtc0cyZDNIbDZPRDNfX2lMWC0wNHZqMDVfaFlOYmVTVDc0YkQwNXJRaHJBVDhsV2FTX1lscVJ6QlJDQ0xSRHRTMFUxa0dvQmc4OThJM3pVYWJMYk1SNFdKTm1CS29ZSmRhNXpiZVVmM2hBemM3cHZZekkzNU5EOEh0VmhTcTBwQnpERzV3RHhuZVhJWEE?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "BARRETOS",
-    "uf": "SP",
-    "valor": 39,
+    "cidade": "UBERLÂNDIA",
+    "uf": "MG",
+    "valor": 92,
     "seta": "↑",
-    "status": "CANA"
+    "status": "ALERTA CHUVA"
   }
 }
