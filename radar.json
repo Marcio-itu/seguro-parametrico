@@ -1,27 +1,27 @@
 {
-  "atualizado_em": "2026-11-20T17:24:05.527548+00:00",
+  "atualizado_em": "2026-11-21T01:51:21.563277+00:00",
   "noticias": [
     {
-      "titulo": "Governo de MS monitora influência do El Niño nas chuvas, temperaturas e produção agrícola",
+      "titulo": "El Niño muito forte acende alerta para seca e falta de água no Nordeste; Bahia está entre os estados afetados",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "IDEST",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-20T06:09:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSlhvQ2VhRHdyWmhKX3hpWXc2SlZXU0JhUjl4eGh1WlZtWHZ0bXF2LVBST3Nxa2phZkx3YjV0c0NKMHdvUFlvc0w4TjJfYXNOdmxLX3dhMWNuc3ZJdXZkYTJqdkpMTEdVRmFrNGZ3MklyMC1DZjhBeTViOFZlWmVSd2w0UkZfSXduRXdXZ0VPYi0wN2ZoQjJtUm9NckRySjQ2MnRIWGNrWUdUMVBmOHlYaGh4Mkp0b00wQ3BZ?oc=5"
+      "fonte": "JORNAL CORREIO",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-11-19T16:02:34+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNkF6T2p2aTZrLXpoRXlEWWhMWU9Ka0RldWRiYTVfdGlHV200WVZ0R0FwdV9SNkpVTDZXYWxENkJsdExmeWFsYndsXzhzQjByTlkwQUVTYkZGS09VR0laemVwX0x3SjkzMnBndExvMkN5TFhVeE1LX0Vrc3o1RUt2NlhqdGUtVU1SQm1JSGEzeUVadDZOSXBtZG5FckM4S2JyREx2ajNPM0UtWW1kVERMYTg0X2hxekkyc0ZZMHY2aTBvYWdzRF8zNHRiNnlCQkREUUZDM0x2MWFpWlJrTjZqYkdMcXRCZkR2?oc=5"
     },
     {
-      "titulo": "El Niño ameaça 17,6 milhões de toneladas de soja na próxima safra",
+      "titulo": "El Niño acende alerta para seca, calor extremo e crise hídrica no região do Cariri cearense",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "O EMPALLADOR",
+      "fonte": "O POVO",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-11-19T14:03:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTklSRWhSRmRfXzVZWTc5LWM1dHotZ2J0WjR5WHh0akFmYXpReTJ6OEZRVmxEQ0lCSHIxVHFjbllRRXB3YkFrak5yT2dlaGloWWw5ZDdQVE10SUYwWDhUZENKYWVjSVN0WG9NSGx6ekFDZndDUzRHVGRMX0t1OXVNNDJfZXRxTy12YTNtQ3YtU0wta3R2Mm5j?oc=5"
+      "publicadoEm": "2026-11-18T15:29:34+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdHNNbXpKQVdOcVBQQnhFX19xY2JFNnNjOVFhbFFab09OLUVMcE54TmpTODloYnNhT0REeElJMEtacmVCZjZmcktLMkUzdThDWFRkNzM5dlZZcVZyUkgyTnhzSGNPTnpWdDJ2M09UM3pORmRTRllzNkpiU2RwLWVxQm1BRFdJWnp4OGxORnR1UDd2QmVXNl9FUUU3ekNlcFBwUmwzVWtZUWxWcTFZR3hCTml0MGkwV0M0ZUZlc3p6a0ctUFhQSGRDcTctb081QmRYZGlRVnlrejNkcThYOHlGWQ?oc=5"
     }
   ],
   "chuva": {
     "cidade": "SAPEZAL",
     "uf": "MT",
-    "valor": 35,
+    "valor": 53,
     "seta": "↑",
     "status": "SOJA · MILHO"
   }
