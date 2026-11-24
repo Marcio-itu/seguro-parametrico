@@ -1,28 +1,22 @@
 {
-  "atualizado_em": "2026-11-23T20:40:28.677546+00:00",
+  "atualizado_em": "2026-11-24T05:02:57.801775+00:00",
   "noticias": [
     {
-      "titulo": "El Niño afeta lavouras e SC prevê queda na produção de arroz e feijão-preto",
+      "titulo": "El Niño ameaça agravar seca no Nordeste e RN tem pedido de mais água do São Francisco negado",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "RÁDIO CLUBE DE CANOINHAS",
+      "fonte": "O POTIGUAR",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-23T20:01:27+00:00",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNzVNVHE4alhwVWh5ODF4QkN1T2tSUDlMMFdmbmdDQU1CRHgwbEUyWXlfV2U4RUx4S3FTQXFEWnQzT1JaSGMwd3o5UXhJQm9PSDBKYXB5U04xRE84TlZ1eWRXV2ZxLUp4REZNT1ZNck5qcUN0cVlPcEZFUFJ4UFVQM2VPUUtSYURQQW1rREVkWl96VU5QYXphdkhLZm0zMjZTYTFXR0lMN3BNNlN2eDl3anE2Nkc2UQ?oc=5"
+      "publicadoEm": "2026-11-23T11:14:07+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLTBldEcyeXZwalBWQlFnNElpVWxySEZfQWZiUmxHejEtbVJmUnNTcUxZQ2Y5M2toYlNma3VhRngtdmNDZjJSRTNEWHV1MXdRZlRVUnRhMWpjTThzdC0tSk9vaEhLcDg1cEx5TnllVklBTURVcGJCbm9KUVNqLWQ4NDlBNjBucUY1NDI5Mm9xa2czbFZlMDVjcFRsaVVaS0tjSWd6eHFZYUlHVHdmcGZlMlgyWS1BX3JFeVBJVXNn?oc=5"
     },
     {
-      "titulo": "El Niño pode atingir o pico durante a virada do ano e superar recorde desde 1950",
+      "titulo": "El Niño vai atingir força máxima na virada do ano e agravar o clima no Nordeste; veja previsão",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "RÁDIO ITATIAIA",
+      "fonte": "JORNAL CORREIO",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-23T14:34:13+00:00",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVHdBQWh4N1BqR1JyZ08wZ0xWUnFTdmxISk51T3o2RC1CUFdySkRzOEh1SkZqSF9TZDhkNEllbDh6YUpJOHFyUm1YeUY5bDRqdUQtUGxKemtUNzlPWjFzdVVIbGtPcWRKSEpHRGozeENyeFVfd1pPTUZ6ZEM3b0NXdUhuRS1LSTBMZkFQYkxyZ0F2RmpZcU5JUEppNmtpTkFSSWJFN0MxQk41bTNEQXZhZHRhUENZbjQ?oc=5"
+      "publicadoEm": "2026-11-23T11:25:44+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYTFyc2tfbHJFTFpLNUVpX0ZNSFNVOFBZRnhVUnE5OVFaWjZIZEhBX1Iya09CM1pmYkJMQnhMdDc3cG9SNjRWcVY3bjIyYnFMeW1jY1pmQTZJcVNYSXJpUlBkOElGQXl2OXV5S05mdlFxV2Q5QmFKcVVlU01BYWRiS1lHX0IxMDZNT0xjb2kyWVJWY0dkMTdJa1pHYlpjbm9jcUc1N0t1LXZlNWF3RDJfa3NiN3VyamhmeDBKZzl6cUY2Yk1xbEI0TGdfcHJNanRyTC1URGhn?oc=5"
     }
   ],
-  "chuva": {
-    "cidade": "RIBEIRÃO PRETO",
-    "uf": "SP",
-    "valor": 84,
-    "seta": "↑",
-    "status": "ALERTA CHUVA"
-  }
+  "chuva": null
 }
