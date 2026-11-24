@@ -1,22 +1,28 @@
 {
-  "atualizado_em": "2026-11-24T05:02:57.801775+00:00",
+  "atualizado_em": "2026-11-24T19:46:22.786790+00:00",
   "noticias": [
     {
-      "titulo": "El Niño ameaça agravar seca no Nordeste e RN tem pedido de mais água do São Francisco negado",
+      "titulo": "VÍDEO: Peixes morrem em meio à seca agravada pelo El Niño no maior rio de Roraima",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "O POTIGUAR",
+      "fonte": "G1",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-23T11:14:07+00:00",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLTBldEcyeXZwalBWQlFnNElpVWxySEZfQWZiUmxHejEtbVJmUnNTcUxZQ2Y5M2toYlNma3VhRngtdmNDZjJSRTNEWHV1MXdRZlRVUnRhMWpjTThzdC0tSk9vaEhLcDg1cEx5TnllVklBTURVcGJCbm9KUVNqLWQ4NDlBNjBucUY1NDI5Mm9xa2czbFZlMDVjcFRsaVVaS0tjSWd6eHFZYUlHVHdmcGZlMlgyWS1BX3JFeVBJVXNn?oc=5"
+      "publicadoEm": "2026-11-24T16:13:44+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZTMxV0xzSzF0NWNaazEyRHFTX3VVOWlnZF9GSXhuYTFER0Q3aUtUVExJQ1g2eW9DMmdVYzVzZnUyN1BPODY2am0wM0FvM2JNN1hxZF9COWNILWhyU3dBakc1bnhLUml5OENESklxSUEzNDJUTmVrTlJvWHVONHFRWUNWbzNUQzhUdFRfS0E5VWkyQUJEZTA1Ml95MmFWeExNSTJqSzJKcXRRMWdLLTNVTmdQWGJ1aVBHbHczUi1BZk42Sy1hZ0ZyN1V6d3JUVzJLUmZ30gHiAUFVX3lxTE0xb0E3dWNTVHAyTUxHQklPY1ZwTEtScG1iY2N0NGtpckN0ejFkY0NZTVJ0X0Izd0ExeWJGZzJhWlVBSVlLZVE5QjNTaDJad2JBb2ZRbWdCQ0hzNGxiWm52ck90T2thdjE2WDVfVHc4MUV1N2ZkWjVKTGFobFZsYkI5V1lxRmZfZjVGdzNZazJyaUlXZE5xUUt1M1JiOGZ6UEpfcFJjRUV0dXhqSHJhcUpwU3pGY2IxTkNLbzNzSFJaVERpTklDRWNTQ0FUQ1pja0luQnN0enB6QmZsREwwNk9wYWc?oc=5"
     },
     {
-      "titulo": "El Niño vai atingir força máxima na virada do ano e agravar o clima no Nordeste; veja previsão",
+      "titulo": "El Niño volta a ganhar força e se aproxima de pico histórico",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "JORNAL CORREIO",
+      "fonte": "METSUL METEOROLOGIA",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-23T11:25:44+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYTFyc2tfbHJFTFpLNUVpX0ZNSFNVOFBZRnhVUnE5OVFaWjZIZEhBX1Iya09CM1pmYkJMQnhMdDc3cG9SNjRWcVY3bjIyYnFMeW1jY1pmQTZJcVNYSXJpUlBkOElGQXl2OXV5S05mdlFxV2Q5QmFKcVVlU01BYWRiS1lHX0IxMDZNT0xjb2kyWVJWY0dkMTdJa1pHYlpjbm9jcUc1N0t1LXZlNWF3RDJfa3NiN3VyamhmeDBKZzl6cUY2Yk1xbEI0TGdfcHJNanRyTC1URGhn?oc=5"
+      "publicadoEm": "2026-11-24T09:13:25+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05eUFWZHl1eTZxa0p6MU8wVXJzR21lR1hZMHNxSW5QNHhDSjExd2doUFVhakYzdU01VkhhUjJVOG1yN1ZJOXhJWnY1dExycEtucm1mb1ZvZldKdTBuNXc?oc=5"
     }
   ],
-  "chuva": null
+  "chuva": {
+    "cidade": "CRISTALINA",
+    "uf": "GO",
+    "valor": 93,
+    "seta": "↓",
+    "status": "ALERTA CHUVA"
+  }
 }
