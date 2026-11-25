@@ -1,27 +1,10 @@
 {
-  "atualizado_em": "2026-11-25T03:51:05.249333+00:00",
-  "noticias": [
-    {
-      "titulo": "El Niño acende alerta na indústria leiteira com excesso de chuva e queda na produtividade",
-      "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "COMPRERURAL",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-24T18:16:45+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLW1ONkhaT3VZVkI5dHVnZWVTdmhTd3o0bTE3WDlwaENyMjZjQm14VWtKV3Nsa0JjVWJ3UUlOTjRXZUlZVjl1OHFkVVFHYjBZLUFYbEcwSmp4akFiUzAxRmJvaTBEbkFhaXlYd1pxSi02WXdxRVNZcXBUMjRJZ05MS2ZtYU04UThXSGtBenh6Z3pJT0pfM2hIcFdtcDNSd1pHLUo0QXdkUzJTZDM3NVpla2dwcDBCcHFNSEE?oc=5"
-    },
-    {
-      "titulo": "Frente do El Niño debate medidas para enfrentar estiagem",
-      "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "ASSEMBLEIA LEGISLATIVA DO ESTADO DE PERNAMBUCO",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-24T21:40:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdXpuTFRIUUFVc0drOThzWkFNU1dVZUZqT1VWaFZNdXRKNk5GNjc5VXBUNFA5aGIwVjJBVnNLVGtUUGFwZkNjYXpyMVJrT1Nnd0pnWFpaNUNXMXR1RXFzOGNNckFhSDVqOHFKcVpPb2NCYTBZcEVLeGJIamdhSHdwTmZrR19DaDZfUmtta3lCaDkzSmVxSTQ2YjBRNGM?oc=5"
-    }
-  ],
+  "atualizado_em": "2026-11-25T18:53:16.208836+00:00",
+  "noticias": [],
   "chuva": {
     "cidade": "PALOTINA",
     "uf": "PR",
-    "valor": 99,
+    "valor": 92,
     "seta": "↑",
     "status": "ALERTA CHUVA"
   }
