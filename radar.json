@@ -1,11 +1,28 @@
 {
-  "atualizado_em": "2026-11-25T18:53:16.208836+00:00",
-  "noticias": [],
+  "atualizado_em": "2026-11-26T03:16:43.384953+00:00",
+  "noticias": [
+    {
+      "titulo": "Meteorologista Estael Sias: enchente no Paraná tem as marcas do El Niño",
+      "resumo": "Leia a matéria completa na fonte original.",
+      "fonte": "METSUL METEOROLOGIA",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-11-25T16:18:22+00:00",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ00tMzB2WFJrWURkdmJCLU53bnZWRGVxSk9GRG56MUhrcDFMVTQyRlQtR2ljTXU3dGJCano3aEdzc2xsVmNGYmVHVUVfUjV4TnVDb1RXRTF5Q1ltS200X0FMSmdURld6a2Z2SGZOR25yNTVCdEU4VGVrMWFtSTBqRUtLWWVGMlMzd3ZRaVQtcVpRQUhQ?oc=5"
+    },
+    {
+      "titulo": "El Niño e excesso de chuva elevam risco de doenças nas lavouras de soja em MS",
+      "resumo": "Leia a matéria completa na fonte original.",
+      "fonte": "IDEST",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-11-24T13:08:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOWc5bWJ0VDF1ZDZTQXRtWV9xb1k2TVJDWmJPNkVJQnpxNUMyN1JaQ3BvYnJtOWpaZDlaZERFUmhnOE44aWEtSzNHaDI1ekhheWNMeXgzMkRlcWdicjlsM1lzUEhCS3Q0cFRGRHpOV25jUlZndnpmcWNzeEhzWTVOcDlNYlh1SmowaEZkdW5wNmFGVWJXOHFoTnp3X1UzUHlvM3FIcW5aVV9hc184ODZB?oc=5"
+    }
+  ],
   "chuva": {
-    "cidade": "PALOTINA",
-    "uf": "PR",
-    "valor": 92,
-    "seta": "↑",
+    "cidade": "RIBEIRÃO PRETO",
+    "uf": "SP",
+    "valor": 90,
+    "seta": "↓",
     "status": "ALERTA CHUVA"
   }
 }
