@@ -1,27 +1,27 @@
 {
-  "atualizado_em": "2026-11-26T03:16:43.384953+00:00",
+  "atualizado_em": "2026-11-26T18:41:50.135562+00:00",
   "noticias": [
     {
-      "titulo": "Meteorologista Estael Sias: enchente no Paraná tem as marcas do El Niño",
+      "titulo": "Chuvas ligadas ao El Niño causam seis mortes em uma semana no Paraná",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "METSUL METEOROLOGIA",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-25T16:18:22+00:00",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ00tMzB2WFJrWURkdmJCLU53bnZWRGVxSk9GRG56MUhrcDFMVTQyRlQtR2ljTXU3dGJCano3aEdzc2xsVmNGYmVHVUVfUjV4TnVDb1RXRTF5Q1ltS200X0FMSmdURld6a2Z2SGZOR25yNTVCdEU4VGVrMWFtSTBqRUtLWWVGMlMzd3ZRaVQtcVpRQUhQ?oc=5"
+      "fonte": "CARTACAPITAL",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-11-25T16:52:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONzU0OWhzZmdOMldyRTh0cWhyUGhxTDNwX3UyT0FDVDVWZjhZcklWZ2lZWWxIeXFlN2x6Qkh5bGllMzZSREZwRWZDM0liZ3hTangtaXB5OF9nQWNoMlU1T2dJeE83SXNvXzRVbUdSQWZVMWxLTWVSMzc1b0pHVTBLOUhScjA3OFlhT1lqS1JlVW5jQzJOVVVjNml6b3NTS2tCWXQ0TmdfZFl5ZUU?oc=5"
     },
     {
-      "titulo": "El Niño e excesso de chuva elevam risco de doenças nas lavouras de soja em MS",
+      "titulo": "Preço do café começa a cair, mas 'Super El Niño' pode afetar safra em 2027",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "IDEST",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-11-24T13:08:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOWc5bWJ0VDF1ZDZTQXRtWV9xb1k2TVJDWmJPNkVJQnpxNUMyN1JaQ3BvYnJtOWpaZDlaZERFUmhnOE44aWEtSzNHaDI1ekhheWNMeXgzMkRlcWdicjlsM1lzUEhCS3Q0cFRGRHpOV25jUlZndnpmcWNzeEhzWTVOcDlNYlh1SmowaEZkdW5wNmFGVWJXOHFoTnp3X1UzUHlvM3FIcW5aVV9hc184ODZB?oc=5"
+      "fonte": "R7",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-11-26T04:24:26+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOakw1X2YzSHNvN1VMQ1Jhb05BVDlydFRuanhDYzhvcVd1WnJqOGM1bnljYkpxc196NkVFYjR5aVU4R3VGWWNFOTFsQmdQeEg1b1hKQ1JtcVZoNlB6RFkxNUFlbjJQT3dJSDU1Z0E0TTczMHNIN2xRa29sTm9rY3E3UU9XTzBTT0NubXFYZzJJN3FWS2I0ZnVwcHY4aWhYQ2ZnZ2FibkR2ZG1FWTYydUlDNHo2NW5EREpvZFE0Tw?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "RIBEIRÃO PRETO",
+    "cidade": "BARRETOS",
     "uf": "SP",
-    "valor": 90,
+    "valor": 86,
     "seta": "↓",
     "status": "ALERTA CHUVA"
   }
