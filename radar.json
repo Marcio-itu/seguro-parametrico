@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-11-26T18:41:50.135562+00:00",
+  "atualizado_em": "2026-11-27T03:20:52.100393+00:00",
   "noticias": [
     {
-      "titulo": "Chuvas ligadas ao El Niño causam seis mortes em uma semana no Paraná",
+      "titulo": "Por que está tão quente no ES? Meteorologista explica calor e sensação de abafamento",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "CARTACAPITAL",
+      "fonte": "A GAZETA",
       "rotuloData": "ONTEM",
-      "publicadoEm": "2026-11-25T16:52:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONzU0OWhzZmdOMldyRTh0cWhyUGhxTDNwX3UyT0FDVDVWZjhZcklWZ2lZWWxIeXFlN2x6Qkh5bGllMzZSREZwRWZDM0liZ3hTangtaXB5OF9nQWNoMlU1T2dJeE83SXNvXzRVbUdSQWZVMWxLTWVSMzc1b0pHVTBLOUhScjA3OFlhT1lqS1JlVW5jQzJOVVVjNml6b3NTS2tCWXQ0TmdfZFl5ZUU?oc=5"
+      "publicadoEm": "2026-11-25T22:47:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT2VaS2RJNmtrSGhhZ3VPYkpUS1dKbUMzV2Z6c3N0QzM0b3Q4QjVLUmlsMDkyNGZiWFBDamRzOHpGSktRX2VtaUg1RmpNVFphZjNrSG1wdVFBU0lPMDNsYng4VGt6N0szYTI3LVUxZkdfcHhTaGtpYTl3dlFjY2Rod09meHR2cm83MTFpTVVUM2pxZGd6ZVpXRE8xLURpckY2cXlCZFdwSnZrQmZrWTRYRFpYeXQyOFpLbzE0dHJR?oc=5"
     },
     {
-      "titulo": "Preço do café começa a cair, mas 'Super El Niño' pode afetar safra em 2027",
+      "titulo": "CENOURA/CEPEA: Efeitos do El Niño pressionam produtividade da campanha de inverno em Caxias do Sul",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "R7",
+      "fonte": "HF BRASIL",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-26T04:24:26+00:00",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOakw1X2YzSHNvN1VMQ1Jhb05BVDlydFRuanhDYzhvcVd1WnJqOGM1bnljYkpxc196NkVFYjR5aVU4R3VGWWNFOTFsQmdQeEg1b1hKQ1JtcVZoNlB6RFkxNUFlbjJQT3dJSDU1Z0E0TTczMHNIN2xRa29sTm9rY3E3UU9XTzBTT0NubXFYZzJJN3FWS2I0ZnVwcHY4aWhYQ2ZnZ2FibkR2ZG1FWTYydUlDNHo2NW5EREpvZFE0Tw?oc=5"
+      "publicadoEm": "2026-11-26T12:47:35+00:00",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU1JxQzF5U2NGYkxpeUVxWE1XaXdEak1tdndVdHBKV3NXRWZ3bzRXXzFCczN6V3hfdlhPdDU4UC01OVRvUVI0WVUxUVAwUkpmQ0VWSzNEUzVELXFpZjRsUmtJSWxqWkhyYTB2akVkYXZCcFlTSm5uVUhUd1lkNllmVEJQUHNWTmU4MHNqelljQmlFdEJONnNmU251ZE53Vl82WHJoeC1Eak4zeFl1bEVRbXp2X1prT1lMR2g5SkthVmtKUXc4UzRrbURsVTVKZw?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "BARRETOS",
-    "uf": "SP",
-    "valor": 86,
-    "seta": "↓",
+    "cidade": "CASCAVEL",
+    "uf": "PR",
+    "valor": 80,
+    "seta": "↑",
     "status": "ALERTA CHUVA"
   }
 }
