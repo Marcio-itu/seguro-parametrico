@@ -1,28 +1,28 @@
 {
-  "atualizado_em": "2026-11-27T03:20:52.100393+00:00",
+  "atualizado_em": "2026-11-27T18:32:51.979997+00:00",
   "noticias": [
     {
-      "titulo": "Por que está tão quente no ES? Meteorologista explica calor e sensação de abafamento",
+      "titulo": "Costa Rica inaugura usina solar San Antonio em La Uruca antes da estação seca e de um El Niño mais forte",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "A GAZETA",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-11-25T22:47:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT2VaS2RJNmtrSGhhZ3VPYkpUS1dKbUMzV2Z6c3N0QzM0b3Q4QjVLUmlsMDkyNGZiWFBDamRzOHpGSktRX2VtaUg1RmpNVFphZjNrSG1wdVFBU0lPMDNsYng4VGt6N0szYTI3LVUxZkdfcHhTaGtpYTl3dlFjY2Rod09meHR2cm83MTFpTVVUM2pxZGd6ZVpXRE8xLURpckY2cXlCZFdwSnZrQmZrWTRYRFpYeXQyOFpLbzE0dHJR?oc=5"
+      "fonte": "BNAMERICAS",
+      "rotuloData": "HOJE",
+      "publicadoEm": "2026-11-27T17:44:52+00:00",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZHJzaHFEcnJkYmQtUDBPbzFtUnVrSXZlWkEwam5iYThQblNTcVIyX3pqMWh3cHlTTmc3NTVyVHB5T1l1TUFfaXVoQTZkcXFGOUtYbGthc0FJMHJVbnkxNVl6aF9RYlh0aGhOajBOZVhsOEZKM0diNTVmcjFtTFhHOUFiaTRvQjRtRy1zVkxtRVFZYVYyUXpwVHlvRkc2WGF4YmlSdFhXd05LRWQxOXZCVnhSZV9xMGxWY0Q3OHBrVGt1Z0dLTk9ndjdsUlBKTlp3ZEd1RnMxYmRjeEU?oc=5"
     },
     {
-      "titulo": "CENOURA/CEPEA: Efeitos do El Niño pressionam produtividade da campanha de inverno em Caxias do Sul",
+      "titulo": "Super El Niño abre série de eventos extremos, diz pesquisador",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "HF BRASIL",
+      "fonte": "DIÁRIO DO SUDOESTE",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-26T12:47:35+00:00",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU1JxQzF5U2NGYkxpeUVxWE1XaXdEak1tdndVdHBKV3NXRWZ3bzRXXzFCczN6V3hfdlhPdDU4UC01OVRvUVI0WVUxUVAwUkpmQ0VWSzNEUzVELXFpZjRsUmtJSWxqWkhyYTB2akVkYXZCcFlTSm5uVUhUd1lkNllmVEJQUHNWTmU4MHNqelljQmlFdEJONnNmU251ZE53Vl82WHJoeC1Eak4zeFl1bEVRbXp2X1prT1lMR2g5SkthVmtKUXc4UzRrbURsVTVKZw?oc=5"
+      "publicadoEm": "2026-11-27T12:26:33+00:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGZkd3ZHN1JfanF2NC1vY1Bta1BOd0U0aEh6dW16T3RQZDI2N0tUSDNid2YtMlhraHpFMWtMcFQxRWJkdExlbmhsaXRYRkd4aEQ1YVE1RjNBR0YtMlBJT1BPSFVvUndwaFJoM3F4dC1mcUMwdEJIeTF4Y29jYmdxSk9ELU45SWItblkzaGd1YjZ5aTNDMV9uVg?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "CASCAVEL",
-    "uf": "PR",
-    "valor": 80,
-    "seta": "↑",
+    "cidade": "UBERLÂNDIA",
+    "uf": "MG",
+    "valor": 99,
+    "seta": "↓",
     "status": "ALERTA CHUVA"
   }
 }
