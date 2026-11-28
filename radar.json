@@ -1,26 +1,9 @@
 {
-  "atualizado_em": "2026-11-28T02:59:10.065140+00:00",
-  "noticias": [
-    {
-      "titulo": "Super El Niño pode inaugurar série de eventos extremos",
-      "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "JORNAL GGN",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-27T22:04:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX2RzSlpTbm5xSTZieks1SGxkVnBoWEJmVDVHVGdCakJPZk9FcXdRU2ZaakNWWWFpNmJRRk1fc0RZdXJoXzYzS2ZJbWxReVNSSjRkN18xcURVTFhFVWxCT0ZyLTV2NE1YcEdESUt0VFpnY3RzT0JoWDUzOHdjZFVQMEdycmY3eWVUZVQ0Tw?oc=5"
-    },
-    {
-      "titulo": "Perto do verão: El Niño divide o Brasil entre chuva e seca",
-      "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "IG ÚLTIMO SEGUNDO",
-      "rotuloData": "ONTEM",
-      "publicadoEm": "2026-11-26T15:57:00+00:00",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSnJxX3hOZGhQWkFPMGlIbEd0RzA5bG9NcmkyMVRLVWRKSG00bjloZnBNSGp6b3ZUcEhVRUVOalZPRlRJNEYzTVZSNDJhb0dScW1nWlRPVXdONDdmVmVoekNFU19CZGdQNjZhbVZOLTIzZ2hSRXR1SFpldHBzdUM5UThrU005WUtFUzRMQ25xZ3RSUThlMVBxU0RBeVVaaXJjS2hzcHA2SWQyZUpkemVDMGVB0gG3AUFVX3lxTE1PcTEwWDIxZVBkTm9mVEtWSjA0STZ6b1lneHFvcE50M3dwZElOLXVHbmdhVU45ZlEzeG5sY3Y2cGlFSEVLVTAxeHpkYnpLcHlYS2FmTVk1djZoaGxiaFdKYWJjQ3dmaHg3X0FzRG9UUVFsbDRvOVZ6ZjhNelA4N2ZQM2E3OGJSZXN1QjN4R0Y5cmlLOXV4Zy1Zc3R1QWhkX3FDUXJZdWR0SDFCZ3FoRTkzRGtDdFFHWQ?oc=5"
-    }
-  ],
+  "atualizado_em": "2026-11-28T17:14:39.882737+00:00",
+  "noticias": [],
   "chuva": {
-    "cidade": "PALOTINA",
-    "uf": "PR",
+    "cidade": "UBERLÂNDIA",
+    "uf": "MG",
     "valor": 100,
     "seta": "↓",
     "status": "ALERTA CHUVA"
