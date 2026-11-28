@@ -1,27 +1,27 @@
 {
-  "atualizado_em": "2026-11-27T18:32:51.979997+00:00",
+  "atualizado_em": "2026-11-28T02:59:10.065140+00:00",
   "noticias": [
     {
-      "titulo": "Costa Rica inaugura usina solar San Antonio em La Uruca antes da estação seca e de um El Niño mais forte",
+      "titulo": "Super El Niño pode inaugurar série de eventos extremos",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "BNAMERICAS",
+      "fonte": "JORNAL GGN",
       "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-27T17:44:52+00:00",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZHJzaHFEcnJkYmQtUDBPbzFtUnVrSXZlWkEwam5iYThQblNTcVIyX3pqMWh3cHlTTmc3NTVyVHB5T1l1TUFfaXVoQTZkcXFGOUtYbGthc0FJMHJVbnkxNVl6aF9RYlh0aGhOajBOZVhsOEZKM0diNTVmcjFtTFhHOUFiaTRvQjRtRy1zVkxtRVFZYVYyUXpwVHlvRkc2WGF4YmlSdFhXd05LRWQxOXZCVnhSZV9xMGxWY0Q3OHBrVGt1Z0dLTk9ndjdsUlBKTlp3ZEd1RnMxYmRjeEU?oc=5"
+      "publicadoEm": "2026-11-27T22:04:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX2RzSlpTbm5xSTZieks1SGxkVnBoWEJmVDVHVGdCakJPZk9FcXdRU2ZaakNWWWFpNmJRRk1fc0RZdXJoXzYzS2ZJbWxReVNSSjRkN18xcURVTFhFVWxCT0ZyLTV2NE1YcEdESUt0VFpnY3RzT0JoWDUzOHdjZFVQMEdycmY3eWVUZVQ0Tw?oc=5"
     },
     {
-      "titulo": "Super El Niño abre série de eventos extremos, diz pesquisador",
+      "titulo": "Perto do verão: El Niño divide o Brasil entre chuva e seca",
       "resumo": "Leia a matéria completa na fonte original.",
-      "fonte": "DIÁRIO DO SUDOESTE",
-      "rotuloData": "HOJE",
-      "publicadoEm": "2026-11-27T12:26:33+00:00",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGZkd3ZHN1JfanF2NC1vY1Bta1BOd0U0aEh6dW16T3RQZDI2N0tUSDNid2YtMlhraHpFMWtMcFQxRWJkdExlbmhsaXRYRkd4aEQ1YVE1RjNBR0YtMlBJT1BPSFVvUndwaFJoM3F4dC1mcUMwdEJIeTF4Y29jYmdxSk9ELU45SWItblkzaGd1YjZ5aTNDMV9uVg?oc=5"
+      "fonte": "IG ÚLTIMO SEGUNDO",
+      "rotuloData": "ONTEM",
+      "publicadoEm": "2026-11-26T15:57:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSnJxX3hOZGhQWkFPMGlIbEd0RzA5bG9NcmkyMVRLVWRKSG00bjloZnBNSGp6b3ZUcEhVRUVOalZPRlRJNEYzTVZSNDJhb0dScW1nWlRPVXdONDdmVmVoekNFU19CZGdQNjZhbVZOLTIzZ2hSRXR1SFpldHBzdUM5UThrU005WUtFUzRMQ25xZ3RSUThlMVBxU0RBeVVaaXJjS2hzcHA2SWQyZUpkemVDMGVB0gG3AUFVX3lxTE1PcTEwWDIxZVBkTm9mVEtWSjA0STZ6b1lneHFvcE50M3dwZElOLXVHbmdhVU45ZlEzeG5sY3Y2cGlFSEVLVTAxeHpkYnpLcHlYS2FmTVk1djZoaGxiaFdKYWJjQ3dmaHg3X0FzRG9UUVFsbDRvOVZ6ZjhNelA4N2ZQM2E3OGJSZXN1QjN4R0Y5cmlLOXV4Zy1Zc3R1QWhkX3FDUXJZdWR0SDFCZ3FoRTkzRGtDdFFHWQ?oc=5"
     }
   ],
   "chuva": {
-    "cidade": "UBERLÂNDIA",
-    "uf": "MG",
-    "valor": 99,
+    "cidade": "PALOTINA",
+    "uf": "PR",
+    "valor": 100,
     "seta": "↓",
     "status": "ALERTA CHUVA"
   }
